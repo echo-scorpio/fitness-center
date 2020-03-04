@@ -1,0 +1,21 @@
+[ 2019-06-29T10:33:40+08:00 ] /xxx/xxx/ | ERR: (ThinkException) Access denied for user 'root'@'localhost' (using password: YES)
+[ 2019-06-29T11:06:31+08:00 ] /xxx/index.php | INFO: Tag[ app_begin ] --START--
+[ 2019-06-29T11:06:31+08:00 ] /xxx/index.php | INFO: Run ReadHtmlCache Behavior [ RunTime:0.042345s ]
+[ 2019-06-29T11:06:31+08:00 ] /xxx/index.php | INFO: Tag[ app_begin ] --END-- [ RunTime:0.042669s ]
+[ 2019-06-29T11:06:31+08:00 ] /xxx/index.php | SQL: SHOW COLUMNS FROM `think_article` [ RunTime:0.011324s ]
+[ 2019-06-29T11:06:31+08:00 ] /xxx/index.php | SQL: SELECT `id`,`subject`,`message`,`createtime` FROM `think_article` ORDER BY id desc  [ RunTime:0.000971s ]
+[ 2019-06-29T11:06:31+08:00 ] /xxx/index.php | INFO: Tag[ view_template ] --START--
+[ 2019-06-29T11:06:31+08:00 ] /xxx/index.php | INFO: Run LocationTemplate Behavior [ RunTime:0.015002s ]
+[ 2019-06-29T11:06:31+08:00 ] /xxx/index.php | INFO: Tag[ view_template ] --END-- [ RunTime:0.015301s ]
+[ 2019-06-29T11:06:31+08:00 ] /xxx/index.php | INFO: Tag[ view_parse ] --START--
+[ 2019-06-29T11:06:32+08:00 ] /xxx/index.php | INFO: Run ParseTemplate Behavior [ RunTime:0.100783s ]
+[ 2019-06-29T11:06:32+08:00 ] /xxx/index.php | INFO: Tag[ view_parse ] --END-- [ RunTime:0.101130s ]
+[ 2019-06-29T11:06:32+08:00 ] /xxx/index.php | INFO: Tag[ view_filter ] --START--
+[ 2019-06-29T11:06:32+08:00 ] /xxx/index.php | INFO: Run ContentReplace Behavior [ RunTime:0.018559s ]
+[ 2019-06-29T11:06:32+08:00 ] /xxx/index.php | INFO: Run TokenBuild Behavior [ RunTime:0.022649s ]
+[ 2019-06-29T11:06:32+08:00 ] /xxx/index.php | INFO: Run WriteHtmlCache Behavior [ RunTime:0.001294s ]
+[ 2019-06-29T11:06:32+08:00 ] /xxx/index.php | INFO: Run ShowRuntime Behavior [ RunTime:0.042730s ]
+[ 2019-06-29T11:06:32+08:00 ] /xxx/index.php | INFO: Tag[ view_filter ] --END-- [ RunTime:0.085829s ]
+[ 2019-06-29T11:06:32+08:00 ] /xxx/index.php | INFO: Tag[ view_end ] --START--
+[ 2019-06-29T11:06:32+08:00 ] /xxx/index.php | INFO: Run ShowPageTrace Behavior [ RunTime:0.055194s ]
+[ 2019-06-29T11:06:32+08:00 ] /xxx/index.php | INFO: Tag[ view_end ] --END-- [ RunTime:0.055374s ]

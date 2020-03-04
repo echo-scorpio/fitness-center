@@ -1,0 +1,957 @@
+[ 2019-08-16T10:16:34+08:00 ] /abcTest/index.php/Login/index | INFO: Tag[ route_check ] --START--
+[ 2019-08-16T10:16:34+08:00 ] /abcTest/index.php/Login/index | INFO: Run CheckRoute Behavior [ RunTime:0.001732s ]
+[ 2019-08-16T10:16:34+08:00 ] /abcTest/index.php/Login/index | INFO: Tag[ route_check ] --END-- [ RunTime:0.001961s ]
+[ 2019-08-16T10:16:34+08:00 ] /abcTest/index.php/Login/index | INFO: Tag[ app_begin ] --START--
+[ 2019-08-16T10:16:34+08:00 ] /abcTest/index.php/Login/index | INFO: Run ReadHtmlCache Behavior [ RunTime:0.001450s ]
+[ 2019-08-16T10:16:34+08:00 ] /abcTest/index.php/Login/index | INFO: Tag[ app_begin ] --END-- [ RunTime:0.001679s ]
+[ 2019-08-16T10:16:34+08:00 ] /abcTest/index.php/Login/index | INFO: Tag[ view_template ] --START--
+[ 2019-08-16T10:16:34+08:00 ] /abcTest/index.php/Login/index | INFO: Run LocationTemplate Behavior [ RunTime:0.002000s ]
+[ 2019-08-16T10:16:34+08:00 ] /abcTest/index.php/Login/index | INFO: Tag[ view_template ] --END-- [ RunTime:0.002295s ]
+[ 2019-08-16T10:16:34+08:00 ] /abcTest/index.php/Login/index | INFO: Tag[ view_parse ] --START--
+[ 2019-08-16T10:16:34+08:00 ] /abcTest/index.php/Login/index | INFO: Run ParseTemplate Behavior [ RunTime:0.014762s ]
+[ 2019-08-16T10:16:34+08:00 ] /abcTest/index.php/Login/index | INFO: Tag[ view_parse ] --END-- [ RunTime:0.015000s ]
+[ 2019-08-16T10:16:34+08:00 ] /abcTest/index.php/Login/index | INFO: Tag[ view_filter ] --START--
+[ 2019-08-16T10:16:34+08:00 ] /abcTest/index.php/Login/index | INFO: Run ContentReplace Behavior [ RunTime:0.001001s ]
+[ 2019-08-16T10:16:34+08:00 ] /abcTest/index.php/Login/index | INFO: Run TokenBuild Behavior [ RunTime:0.001229s ]
+[ 2019-08-16T10:16:34+08:00 ] /abcTest/index.php/Login/index | INFO: Run WriteHtmlCache Behavior [ RunTime:0.000918s ]
+[ 2019-08-16T10:16:34+08:00 ] /abcTest/index.php/Login/index | INFO: Run ShowRuntime Behavior [ RunTime:0.001580s ]
+[ 2019-08-16T10:16:34+08:00 ] /abcTest/index.php/Login/index | INFO: Tag[ view_filter ] --END-- [ RunTime:0.005336s ]
+[ 2019-08-16T10:16:34+08:00 ] /abcTest/index.php/Login/index | INFO: Tag[ view_end ] --START--
+[ 2019-08-16T10:16:34+08:00 ] /abcTest/index.php/Login/index | INFO: Run ShowPageTrace Behavior [ RunTime:0.001156s ]
+[ 2019-08-16T10:16:34+08:00 ] /abcTest/index.php/Login/index | INFO: Tag[ view_end ] --END-- [ RunTime:0.001368s ]
+[ 2019-08-16T10:16:42+08:00 ] /abcTest/index.php/Login/checkLogin | INFO: Tag[ route_check ] --START--
+[ 2019-08-16T10:16:42+08:00 ] /abcTest/index.php/Login/checkLogin | INFO: Run CheckRoute Behavior [ RunTime:0.002795s ]
+[ 2019-08-16T10:16:42+08:00 ] /abcTest/index.php/Login/checkLogin | INFO: Tag[ route_check ] --END-- [ RunTime:0.003068s ]
+[ 2019-08-16T10:16:42+08:00 ] /abcTest/index.php/Login/checkLogin | INFO: Tag[ app_begin ] --START--
+[ 2019-08-16T10:16:42+08:00 ] /abcTest/index.php/Login/checkLogin | INFO: Run ReadHtmlCache Behavior [ RunTime:0.002120s ]
+[ 2019-08-16T10:16:42+08:00 ] /abcTest/index.php/Login/checkLogin | INFO: Tag[ app_begin ] --END-- [ RunTime:0.002348s ]
+[ 2019-08-16T10:16:42+08:00 ] /abcTest/index.php/Login/checkLogin | SQL: SHOW COLUMNS FROM `t_user` [ RunTime:0.008728s ]
+[ 2019-08-16T10:16:42+08:00 ] /abcTest/index.php/Login/checkLogin | SQL: SELECT * FROM `t_user` WHERE userId ='777' LIMIT 1   [ RunTime:0.000561s ]
+[ 2019-08-16T10:16:42+08:00 ] /abcTest/index.php/Login/checkLogin | SQL: SELECT `userRole` FROM `t_user` WHERE userId ='777' LIMIT 1   [ RunTime:0.000507s ]
+[ 2019-08-16T10:16:42+08:00 ] /abcTest/index.php/Login/checkLogin | INFO: Tag[ view_template ] --START--
+[ 2019-08-16T10:16:42+08:00 ] /abcTest/index.php/Login/checkLogin | INFO: Run LocationTemplate Behavior [ RunTime:0.001968s ]
+[ 2019-08-16T10:16:42+08:00 ] /abcTest/index.php/Login/checkLogin | INFO: Tag[ view_template ] --END-- [ RunTime:0.002144s ]
+[ 2019-08-16T10:16:42+08:00 ] /abcTest/index.php/Login/checkLogin | INFO: Tag[ view_parse ] --START--
+[ 2019-08-16T10:16:42+08:00 ] /abcTest/index.php/Login/checkLogin | INFO: Run ParseTemplate Behavior [ RunTime:0.043528s ]
+[ 2019-08-16T10:16:42+08:00 ] /abcTest/index.php/Login/checkLogin | INFO: Tag[ view_parse ] --END-- [ RunTime:0.043730s ]
+[ 2019-08-16T10:16:42+08:00 ] /abcTest/index.php/Login/checkLogin | INFO: Tag[ view_filter ] --START--
+[ 2019-08-16T10:16:42+08:00 ] /abcTest/index.php/Login/checkLogin | INFO: Run ContentReplace Behavior [ RunTime:0.001145s ]
+[ 2019-08-16T10:16:42+08:00 ] /abcTest/index.php/Login/checkLogin | INFO: Run TokenBuild Behavior [ RunTime:0.001184s ]
+[ 2019-08-16T10:16:42+08:00 ] /abcTest/index.php/Login/checkLogin | INFO: Run WriteHtmlCache Behavior [ RunTime:0.000851s ]
+[ 2019-08-16T10:16:42+08:00 ] /abcTest/index.php/Login/checkLogin | INFO: Run ShowRuntime Behavior [ RunTime:0.001319s ]
+[ 2019-08-16T10:16:42+08:00 ] /abcTest/index.php/Login/checkLogin | INFO: Tag[ view_filter ] --END-- [ RunTime:0.004975s ]
+[ 2019-08-16T10:16:42+08:00 ] /abcTest/index.php/Login/checkLogin | INFO: Tag[ view_end ] --START--
+[ 2019-08-16T10:16:42+08:00 ] /abcTest/index.php/Login/checkLogin | INFO: Run ShowPageTrace Behavior [ RunTime:0.001706s ]
+[ 2019-08-16T10:16:42+08:00 ] /abcTest/index.php/Login/checkLogin | INFO: Tag[ view_end ] --END-- [ RunTime:0.001887s ]
+[ 2019-08-16T10:16:42+08:00 ] /abcTest/index.php/Login/checkLogin | NOTIC: [8] Use of undefined constant adminName - assumed 'adminName' LoginAction.class.php 第 41 行.
+[ 2019-08-16T11:17:52+08:00 ] /abcTest/index.php/Login/index | INFO: Tag[ route_check ] --START--
+[ 2019-08-16T11:17:52+08:00 ] /abcTest/index.php/Login/index | INFO: Run CheckRoute Behavior [ RunTime:0.001547s ]
+[ 2019-08-16T11:17:52+08:00 ] /abcTest/index.php/Login/index | INFO: Tag[ route_check ] --END-- [ RunTime:0.001732s ]
+[ 2019-08-16T11:17:52+08:00 ] /abcTest/index.php/Login/index | INFO: Tag[ app_begin ] --START--
+[ 2019-08-16T11:17:52+08:00 ] /abcTest/index.php/Login/index | INFO: Run ReadHtmlCache Behavior [ RunTime:0.001411s ]
+[ 2019-08-16T11:17:52+08:00 ] /abcTest/index.php/Login/index | INFO: Tag[ app_begin ] --END-- [ RunTime:0.001567s ]
+[ 2019-08-16T11:17:52+08:00 ] /abcTest/index.php/Login/index | INFO: Tag[ view_template ] --START--
+[ 2019-08-16T11:17:52+08:00 ] /abcTest/index.php/Login/index | INFO: Run LocationTemplate Behavior [ RunTime:0.001710s ]
+[ 2019-08-16T11:17:52+08:00 ] /abcTest/index.php/Login/index | INFO: Tag[ view_template ] --END-- [ RunTime:0.001882s ]
+[ 2019-08-16T11:17:52+08:00 ] /abcTest/index.php/Login/index | INFO: Tag[ view_parse ] --START--
+[ 2019-08-16T11:17:52+08:00 ] /abcTest/index.php/Login/index | INFO: Run ParseTemplate Behavior [ RunTime:0.013662s ]
+[ 2019-08-16T11:17:52+08:00 ] /abcTest/index.php/Login/index | INFO: Tag[ view_parse ] --END-- [ RunTime:0.013885s ]
+[ 2019-08-16T11:17:52+08:00 ] /abcTest/index.php/Login/index | INFO: Tag[ view_filter ] --START--
+[ 2019-08-16T11:17:52+08:00 ] /abcTest/index.php/Login/index | INFO: Run ContentReplace Behavior [ RunTime:0.001408s ]
+[ 2019-08-16T11:17:52+08:00 ] /abcTest/index.php/Login/index | INFO: Run TokenBuild Behavior [ RunTime:0.001366s ]
+[ 2019-08-16T11:17:52+08:00 ] /abcTest/index.php/Login/index | INFO: Run WriteHtmlCache Behavior [ RunTime:0.000872s ]
+[ 2019-08-16T11:17:52+08:00 ] /abcTest/index.php/Login/index | INFO: Run ShowRuntime Behavior [ RunTime:0.001408s ]
+[ 2019-08-16T11:17:52+08:00 ] /abcTest/index.php/Login/index | INFO: Tag[ view_filter ] --END-- [ RunTime:0.005523s ]
+[ 2019-08-16T11:17:52+08:00 ] /abcTest/index.php/Login/index | INFO: Tag[ view_end ] --START--
+[ 2019-08-16T11:17:52+08:00 ] /abcTest/index.php/Login/index | INFO: Run ShowPageTrace Behavior [ RunTime:0.001126s ]
+[ 2019-08-16T11:17:52+08:00 ] /abcTest/index.php/Login/index | INFO: Tag[ view_end ] --END-- [ RunTime:0.001276s ]
+[ 2019-08-16T11:18:20+08:00 ] /abcTest/index.php/Login/checkLogin | INFO: Tag[ route_check ] --START--
+[ 2019-08-16T11:18:20+08:00 ] /abcTest/index.php/Login/checkLogin | INFO: Run CheckRoute Behavior [ RunTime:0.001943s ]
+[ 2019-08-16T11:18:20+08:00 ] /abcTest/index.php/Login/checkLogin | INFO: Tag[ route_check ] --END-- [ RunTime:0.002129s ]
+[ 2019-08-16T11:18:20+08:00 ] /abcTest/index.php/Login/checkLogin | INFO: Tag[ app_begin ] --START--
+[ 2019-08-16T11:18:20+08:00 ] /abcTest/index.php/Login/checkLogin | INFO: Run ReadHtmlCache Behavior [ RunTime:0.001724s ]
+[ 2019-08-16T11:18:20+08:00 ] /abcTest/index.php/Login/checkLogin | INFO: Tag[ app_begin ] --END-- [ RunTime:0.001906s ]
+[ 2019-08-16T11:18:21+08:00 ] /abcTest/index.php/Login/checkLogin | SQL: SHOW COLUMNS FROM `t_user` [ RunTime:0.007322s ]
+[ 2019-08-16T11:18:21+08:00 ] /abcTest/index.php/Login/checkLogin | SQL: SELECT * FROM `t_user` WHERE userId ='2000001' LIMIT 1   [ RunTime:0.000655s ]
+[ 2019-08-16T11:18:21+08:00 ] /abcTest/index.php/Login/checkLogin | SQL: SELECT `userRole` FROM `t_user` WHERE userId ='2000001' LIMIT 1   [ RunTime:0.000434s ]
+[ 2019-08-16T11:18:21+08:00 ] /abcTest/index.php/Login/checkLogin | INFO: Tag[ view_template ] --START--
+[ 2019-08-16T11:18:21+08:00 ] /abcTest/index.php/Login/checkLogin | INFO: Run LocationTemplate Behavior [ RunTime:0.009533s ]
+[ 2019-08-16T11:18:21+08:00 ] /abcTest/index.php/Login/checkLogin | INFO: Tag[ view_template ] --END-- [ RunTime:0.009714s ]
+[ 2019-08-16T11:18:21+08:00 ] /abcTest/index.php/Login/checkLogin | INFO: Tag[ view_parse ] --START--
+[ 2019-08-16T11:18:21+08:00 ] /abcTest/index.php/Login/checkLogin | INFO: Run ParseTemplate Behavior [ RunTime:0.017669s ]
+[ 2019-08-16T11:18:21+08:00 ] /abcTest/index.php/Login/checkLogin | INFO: Tag[ view_parse ] --END-- [ RunTime:0.017875s ]
+[ 2019-08-16T11:18:21+08:00 ] /abcTest/index.php/Login/checkLogin | INFO: Tag[ view_filter ] --START--
+[ 2019-08-16T11:18:21+08:00 ] /abcTest/index.php/Login/checkLogin | INFO: Run ContentReplace Behavior [ RunTime:0.001345s ]
+[ 2019-08-16T11:18:21+08:00 ] /abcTest/index.php/Login/checkLogin | INFO: Run TokenBuild Behavior [ RunTime:0.001283s ]
+[ 2019-08-16T11:18:21+08:00 ] /abcTest/index.php/Login/checkLogin | INFO: Run WriteHtmlCache Behavior [ RunTime:0.000958s ]
+[ 2019-08-16T11:18:21+08:00 ] /abcTest/index.php/Login/checkLogin | INFO: Run ShowRuntime Behavior [ RunTime:0.001458s ]
+[ 2019-08-16T11:18:21+08:00 ] /abcTest/index.php/Login/checkLogin | INFO: Tag[ view_filter ] --END-- [ RunTime:0.005524s ]
+[ 2019-08-16T11:18:21+08:00 ] /abcTest/index.php/Login/checkLogin | INFO: Tag[ view_end ] --START--
+[ 2019-08-16T11:18:21+08:00 ] /abcTest/index.php/Login/checkLogin | INFO: Run ShowPageTrace Behavior [ RunTime:0.001225s ]
+[ 2019-08-16T11:18:21+08:00 ] /abcTest/index.php/Login/checkLogin | INFO: Tag[ view_end ] --END-- [ RunTime:0.001392s ]
+[ 2019-08-16T11:18:21+08:00 ] /abcTest/index.php/Login/checkLogin | NOTIC: [8] Use of undefined constant coachName - assumed 'coachName' LoginAction.class.php 第 36 行.
+[ 2019-08-16T11:18:25+08:00 ] /abcTest/index.php/CoachIndex/index | INFO: Tag[ route_check ] --START--
+[ 2019-08-16T11:18:25+08:00 ] /abcTest/index.php/CoachIndex/index | INFO: Run CheckRoute Behavior [ RunTime:0.002000s ]
+[ 2019-08-16T11:18:25+08:00 ] /abcTest/index.php/CoachIndex/index | INFO: Tag[ route_check ] --END-- [ RunTime:0.002248s ]
+[ 2019-08-16T11:18:25+08:00 ] /abcTest/index.php/CoachIndex/index | INFO: Tag[ app_begin ] --START--
+[ 2019-08-16T11:18:25+08:00 ] /abcTest/index.php/CoachIndex/index | INFO: Run ReadHtmlCache Behavior [ RunTime:0.001861s ]
+[ 2019-08-16T11:18:25+08:00 ] /abcTest/index.php/CoachIndex/index | INFO: Tag[ app_begin ] --END-- [ RunTime:0.002091s ]
+[ 2019-08-16T11:18:25+08:00 ] /abcTest/index.php/CoachIndex/index | INFO: Tag[ view_template ] --START--
+[ 2019-08-16T11:18:25+08:00 ] /abcTest/index.php/CoachIndex/index | INFO: Run LocationTemplate Behavior [ RunTime:0.001932s ]
+[ 2019-08-16T11:18:25+08:00 ] /abcTest/index.php/CoachIndex/index | INFO: Tag[ view_template ] --END-- [ RunTime:0.002133s ]
+[ 2019-08-16T11:18:25+08:00 ] /abcTest/index.php/CoachIndex/index | INFO: Tag[ view_parse ] --START--
+[ 2019-08-16T11:18:25+08:00 ] /abcTest/index.php/CoachIndex/index | NOTIC: [8] Undefined variable: title 103b3d7692d4ccea9f73c1bbb56745e5.php 第 5 行.
+[ 2019-08-16T11:18:25+08:00 ] /abcTest/index.php/CoachIndex/index | INFO: Run ParseTemplate Behavior [ RunTime:0.022591s ]
+[ 2019-08-16T11:18:25+08:00 ] /abcTest/index.php/CoachIndex/index | INFO: Tag[ view_parse ] --END-- [ RunTime:0.022794s ]
+[ 2019-08-16T11:18:25+08:00 ] /abcTest/index.php/CoachIndex/index | INFO: Tag[ view_filter ] --START--
+[ 2019-08-16T11:18:25+08:00 ] /abcTest/index.php/CoachIndex/index | INFO: Run ContentReplace Behavior [ RunTime:0.001893s ]
+[ 2019-08-16T11:18:25+08:00 ] /abcTest/index.php/CoachIndex/index | INFO: Run TokenBuild Behavior [ RunTime:0.001749s ]
+[ 2019-08-16T11:18:25+08:00 ] /abcTest/index.php/CoachIndex/index | INFO: Run WriteHtmlCache Behavior [ RunTime:0.000956s ]
+[ 2019-08-16T11:18:25+08:00 ] /abcTest/index.php/CoachIndex/index | INFO: Run ShowRuntime Behavior [ RunTime:0.001552s ]
+[ 2019-08-16T11:18:25+08:00 ] /abcTest/index.php/CoachIndex/index | INFO: Tag[ view_filter ] --END-- [ RunTime:0.006697s ]
+[ 2019-08-16T11:18:25+08:00 ] /abcTest/index.php/CoachIndex/index | INFO: Tag[ view_end ] --START--
+[ 2019-08-16T11:18:25+08:00 ] /abcTest/index.php/CoachIndex/index | INFO: Run ShowPageTrace Behavior [ RunTime:0.001288s ]
+[ 2019-08-16T11:18:25+08:00 ] /abcTest/index.php/CoachIndex/index | INFO: Tag[ view_end ] --END-- [ RunTime:0.001458s ]
+[ 2019-08-16T11:18:30+08:00 ] /abcTest/index.php/ManageCourse/index | INFO: Tag[ route_check ] --START--
+[ 2019-08-16T11:18:30+08:00 ] /abcTest/index.php/ManageCourse/index | INFO: Run CheckRoute Behavior [ RunTime:0.001585s ]
+[ 2019-08-16T11:18:30+08:00 ] /abcTest/index.php/ManageCourse/index | INFO: Tag[ route_check ] --END-- [ RunTime:0.001794s ]
+[ 2019-08-16T11:18:30+08:00 ] /abcTest/index.php/ManageCourse/index | INFO: Tag[ app_begin ] --START--
+[ 2019-08-16T11:18:30+08:00 ] /abcTest/index.php/ManageCourse/index | INFO: Run ReadHtmlCache Behavior [ RunTime:0.001580s ]
+[ 2019-08-16T11:18:30+08:00 ] /abcTest/index.php/ManageCourse/index | INFO: Tag[ app_begin ] --END-- [ RunTime:0.001739s ]
+[ 2019-08-16T11:18:30+08:00 ] /abcTest/index.php/ManageCourse/index | NOTIC: [8] Use of undefined constant Course - assumed 'Course' ManageCourseAction.class.php 第 4 行.
+[ 2019-08-16T11:18:30+08:00 ] /abcTest/index.php/ManageCourse/index | SQL: SHOW COLUMNS FROM `t_course` [ RunTime:0.007348s ]
+[ 2019-08-16T11:18:30+08:00 ] /abcTest/index.php/ManageCourse/index | NOTIC: [8] Use of undefined constant Coach - assumed 'Coach' ManageCourseAction.class.php 第 5 行.
+[ 2019-08-16T11:18:30+08:00 ] /abcTest/index.php/ManageCourse/index | SQL: SHOW COLUMNS FROM `t_coach` [ RunTime:0.007327s ]
+[ 2019-08-16T11:18:30+08:00 ] /abcTest/index.php/ManageCourse/index | SQL: SELECT `coaName` FROM `t_coach` WHERE coaID='2000001' LIMIT 1   [ RunTime:0.000387s ]
+[ 2019-08-16T11:18:30+08:00 ] /abcTest/index.php/ManageCourse/index | SQL: SELECT `coaRemarks` FROM `t_coach` WHERE coaID='2000001' LIMIT 1   [ RunTime:0.000205s ]
+[ 2019-08-16T11:18:30+08:00 ] /abcTest/index.php/ManageCourse/index | SQL: SELECT `courseID`,`courseName`,`courseContent`,`courseTime`,`courseArea`,`courseTeacher`,`coursePrice` FROM `t_course` WHERE courseTeacher ='马东' ORDER BY courseID asc  [ RunTime:0.000303s ]
+[ 2019-08-16T11:18:30+08:00 ] /abcTest/index.php/ManageCourse/index | INFO: Tag[ view_template ] --START--
+[ 2019-08-16T11:18:30+08:00 ] /abcTest/index.php/ManageCourse/index | INFO: Run LocationTemplate Behavior [ RunTime:0.001885s ]
+[ 2019-08-16T11:18:30+08:00 ] /abcTest/index.php/ManageCourse/index | INFO: Tag[ view_template ] --END-- [ RunTime:0.002039s ]
+[ 2019-08-16T11:18:30+08:00 ] /abcTest/index.php/ManageCourse/index | INFO: Tag[ view_parse ] --START--
+[ 2019-08-16T11:18:30+08:00 ] /abcTest/index.php/ManageCourse/index | NOTIC: [8] Use of undefined constant courseID - assumed 'courseID' 2cb7eb7235bcf3d8841ed55bf4e1e846.php 第 60 行.
+[ 2019-08-16T11:18:30+08:00 ] /abcTest/index.php/ManageCourse/index | INFO: Run ParseTemplate Behavior [ RunTime:0.018747s ]
+[ 2019-08-16T11:18:30+08:00 ] /abcTest/index.php/ManageCourse/index | INFO: Tag[ view_parse ] --END-- [ RunTime:0.018938s ]
+[ 2019-08-16T11:18:30+08:00 ] /abcTest/index.php/ManageCourse/index | INFO: Tag[ view_filter ] --START--
+[ 2019-08-16T11:18:30+08:00 ] /abcTest/index.php/ManageCourse/index | INFO: Run ContentReplace Behavior [ RunTime:0.001232s ]
+[ 2019-08-16T11:18:30+08:00 ] /abcTest/index.php/ManageCourse/index | INFO: Run TokenBuild Behavior [ RunTime:0.001199s ]
+[ 2019-08-16T11:18:30+08:00 ] /abcTest/index.php/ManageCourse/index | INFO: Run WriteHtmlCache Behavior [ RunTime:0.000852s ]
+[ 2019-08-16T11:18:30+08:00 ] /abcTest/index.php/ManageCourse/index | INFO: Run ShowRuntime Behavior [ RunTime:0.001491s ]
+[ 2019-08-16T11:18:30+08:00 ] /abcTest/index.php/ManageCourse/index | INFO: Tag[ view_filter ] --END-- [ RunTime:0.005220s ]
+[ 2019-08-16T11:18:30+08:00 ] /abcTest/index.php/ManageCourse/index | INFO: Tag[ view_end ] --START--
+[ 2019-08-16T11:18:30+08:00 ] /abcTest/index.php/ManageCourse/index | INFO: Run ShowPageTrace Behavior [ RunTime:0.001103s ]
+[ 2019-08-16T11:18:30+08:00 ] /abcTest/index.php/ManageCourse/index | INFO: Tag[ view_end ] --END-- [ RunTime:0.001254s ]
+[ 2019-08-16T11:18:43+08:00 ] /abcTest/index.php/ManageCourse/editCourse | INFO: Tag[ route_check ] --START--
+[ 2019-08-16T11:18:43+08:00 ] /abcTest/index.php/ManageCourse/editCourse | INFO: Run CheckRoute Behavior [ RunTime:0.001501s ]
+[ 2019-08-16T11:18:43+08:00 ] /abcTest/index.php/ManageCourse/editCourse | INFO: Tag[ route_check ] --END-- [ RunTime:0.001715s ]
+[ 2019-08-16T11:18:43+08:00 ] /abcTest/index.php/ManageCourse/editCourse | INFO: Tag[ app_begin ] --START--
+[ 2019-08-16T11:18:43+08:00 ] /abcTest/index.php/ManageCourse/editCourse | INFO: Run ReadHtmlCache Behavior [ RunTime:0.001149s ]
+[ 2019-08-16T11:18:43+08:00 ] /abcTest/index.php/ManageCourse/editCourse | INFO: Tag[ app_begin ] --END-- [ RunTime:0.001328s ]
+[ 2019-08-16T11:18:43+08:00 ] /abcTest/index.php/ManageCourse/editCourse | NOTIC: [8] Use of undefined constant Course - assumed 'Course' ManageCourseAction.class.php 第 20 行.
+[ 2019-08-16T11:18:43+08:00 ] /abcTest/index.php/ManageCourse/editCourse | SQL: SHOW COLUMNS FROM `t_course` [ RunTime:0.008558s ]
+[ 2019-08-16T11:18:43+08:00 ] /abcTest/index.php/ManageCourse/editCourse | SQL: UPDATE `t_course` SET `courseName`='游泳',`courseContent`='教大家游泳的姿势',`courseTime`='周一第三节',`courseArea`='1001',`courseTeacher`='马东',`coursePrice`='650.00' WHERE courseID='300013' [ RunTime:0.099292s ]
+[ 2019-08-16T11:18:46+08:00 ] /abcTest/index.php/ManageCourse/index | INFO: Tag[ route_check ] --START--
+[ 2019-08-16T11:18:46+08:00 ] /abcTest/index.php/ManageCourse/index | INFO: Run CheckRoute Behavior [ RunTime:0.001530s ]
+[ 2019-08-16T11:18:46+08:00 ] /abcTest/index.php/ManageCourse/index | INFO: Tag[ route_check ] --END-- [ RunTime:0.001715s ]
+[ 2019-08-16T11:18:46+08:00 ] /abcTest/index.php/ManageCourse/index | INFO: Tag[ app_begin ] --START--
+[ 2019-08-16T11:18:46+08:00 ] /abcTest/index.php/ManageCourse/index | INFO: Run ReadHtmlCache Behavior [ RunTime:0.001311s ]
+[ 2019-08-16T11:18:46+08:00 ] /abcTest/index.php/ManageCourse/index | INFO: Tag[ app_begin ] --END-- [ RunTime:0.001465s ]
+[ 2019-08-16T11:18:46+08:00 ] /abcTest/index.php/ManageCourse/index | NOTIC: [8] Use of undefined constant Course - assumed 'Course' ManageCourseAction.class.php 第 4 行.
+[ 2019-08-16T11:18:46+08:00 ] /abcTest/index.php/ManageCourse/index | SQL: SHOW COLUMNS FROM `t_course` [ RunTime:0.007038s ]
+[ 2019-08-16T11:18:46+08:00 ] /abcTest/index.php/ManageCourse/index | NOTIC: [8] Use of undefined constant Coach - assumed 'Coach' ManageCourseAction.class.php 第 5 行.
+[ 2019-08-16T11:18:46+08:00 ] /abcTest/index.php/ManageCourse/index | SQL: SHOW COLUMNS FROM `t_coach` [ RunTime:0.007115s ]
+[ 2019-08-16T11:18:46+08:00 ] /abcTest/index.php/ManageCourse/index | SQL: SELECT `coaName` FROM `t_coach` WHERE coaID='2000001' LIMIT 1   [ RunTime:0.000400s ]
+[ 2019-08-16T11:18:46+08:00 ] /abcTest/index.php/ManageCourse/index | SQL: SELECT `coaRemarks` FROM `t_coach` WHERE coaID='2000001' LIMIT 1   [ RunTime:0.000213s ]
+[ 2019-08-16T11:18:46+08:00 ] /abcTest/index.php/ManageCourse/index | SQL: SELECT `courseID`,`courseName`,`courseContent`,`courseTime`,`courseArea`,`courseTeacher`,`coursePrice` FROM `t_course` WHERE courseTeacher ='马东' ORDER BY courseID asc  [ RunTime:0.000353s ]
+[ 2019-08-16T11:18:46+08:00 ] /abcTest/index.php/ManageCourse/index | INFO: Tag[ view_template ] --START--
+[ 2019-08-16T11:18:46+08:00 ] /abcTest/index.php/ManageCourse/index | INFO: Run LocationTemplate Behavior [ RunTime:0.001941s ]
+[ 2019-08-16T11:18:46+08:00 ] /abcTest/index.php/ManageCourse/index | INFO: Tag[ view_template ] --END-- [ RunTime:0.002102s ]
+[ 2019-08-16T11:18:46+08:00 ] /abcTest/index.php/ManageCourse/index | INFO: Tag[ view_parse ] --START--
+[ 2019-08-16T11:18:46+08:00 ] /abcTest/index.php/ManageCourse/index | NOTIC: [8] Use of undefined constant courseID - assumed 'courseID' 2cb7eb7235bcf3d8841ed55bf4e1e846.php 第 60 行.
+[ 2019-08-16T11:18:46+08:00 ] /abcTest/index.php/ManageCourse/index | INFO: Run ParseTemplate Behavior [ RunTime:0.019214s ]
+[ 2019-08-16T11:18:46+08:00 ] /abcTest/index.php/ManageCourse/index | INFO: Tag[ view_parse ] --END-- [ RunTime:0.019388s ]
+[ 2019-08-16T11:18:46+08:00 ] /abcTest/index.php/ManageCourse/index | INFO: Tag[ view_filter ] --START--
+[ 2019-08-16T11:18:46+08:00 ] /abcTest/index.php/ManageCourse/index | INFO: Run ContentReplace Behavior [ RunTime:0.001167s ]
+[ 2019-08-16T11:18:46+08:00 ] /abcTest/index.php/ManageCourse/index | INFO: Run TokenBuild Behavior [ RunTime:0.001222s ]
+[ 2019-08-16T11:18:46+08:00 ] /abcTest/index.php/ManageCourse/index | INFO: Run WriteHtmlCache Behavior [ RunTime:0.000885s ]
+[ 2019-08-16T11:18:46+08:00 ] /abcTest/index.php/ManageCourse/index | INFO: Run ShowRuntime Behavior [ RunTime:0.001369s ]
+[ 2019-08-16T11:18:46+08:00 ] /abcTest/index.php/ManageCourse/index | INFO: Tag[ view_filter ] --END-- [ RunTime:0.005065s ]
+[ 2019-08-16T11:18:46+08:00 ] /abcTest/index.php/ManageCourse/index | INFO: Tag[ view_end ] --START--
+[ 2019-08-16T11:18:46+08:00 ] /abcTest/index.php/ManageCourse/index | INFO: Run ShowPageTrace Behavior [ RunTime:0.001201s ]
+[ 2019-08-16T11:18:46+08:00 ] /abcTest/index.php/ManageCourse/index | INFO: Tag[ view_end ] --END-- [ RunTime:0.001359s ]
+[ 2019-08-16T11:20:28+08:00 ] /abcTest/index.php/CoachIndex/index | INFO: Tag[ route_check ] --START--
+[ 2019-08-16T11:20:28+08:00 ] /abcTest/index.php/CoachIndex/index | INFO: Run CheckRoute Behavior [ RunTime:0.001673s ]
+[ 2019-08-16T11:20:28+08:00 ] /abcTest/index.php/CoachIndex/index | INFO: Tag[ route_check ] --END-- [ RunTime:0.001866s ]
+[ 2019-08-16T11:20:28+08:00 ] /abcTest/index.php/CoachIndex/index | INFO: Tag[ app_begin ] --START--
+[ 2019-08-16T11:20:28+08:00 ] /abcTest/index.php/CoachIndex/index | INFO: Run ReadHtmlCache Behavior [ RunTime:0.001348s ]
+[ 2019-08-16T11:20:28+08:00 ] /abcTest/index.php/CoachIndex/index | INFO: Tag[ app_begin ] --END-- [ RunTime:0.001500s ]
+[ 2019-08-16T11:20:28+08:00 ] /abcTest/index.php/CoachIndex/index | INFO: Tag[ view_template ] --START--
+[ 2019-08-16T11:20:28+08:00 ] /abcTest/index.php/CoachIndex/index | INFO: Run LocationTemplate Behavior [ RunTime:0.001692s ]
+[ 2019-08-16T11:20:28+08:00 ] /abcTest/index.php/CoachIndex/index | INFO: Tag[ view_template ] --END-- [ RunTime:0.001854s ]
+[ 2019-08-16T11:20:28+08:00 ] /abcTest/index.php/CoachIndex/index | INFO: Tag[ view_parse ] --START--
+[ 2019-08-16T11:20:28+08:00 ] /abcTest/index.php/CoachIndex/index | NOTIC: [8] Undefined variable: title 103b3d7692d4ccea9f73c1bbb56745e5.php 第 5 行.
+[ 2019-08-16T11:20:28+08:00 ] /abcTest/index.php/CoachIndex/index | INFO: Run ParseTemplate Behavior [ RunTime:0.016181s ]
+[ 2019-08-16T11:20:28+08:00 ] /abcTest/index.php/CoachIndex/index | INFO: Tag[ view_parse ] --END-- [ RunTime:0.016360s ]
+[ 2019-08-16T11:20:28+08:00 ] /abcTest/index.php/CoachIndex/index | INFO: Tag[ view_filter ] --START--
+[ 2019-08-16T11:20:28+08:00 ] /abcTest/index.php/CoachIndex/index | INFO: Run ContentReplace Behavior [ RunTime:0.001336s ]
+[ 2019-08-16T11:20:28+08:00 ] /abcTest/index.php/CoachIndex/index | INFO: Run TokenBuild Behavior [ RunTime:0.001508s ]
+[ 2019-08-16T11:20:28+08:00 ] /abcTest/index.php/CoachIndex/index | INFO: Run WriteHtmlCache Behavior [ RunTime:0.000904s ]
+[ 2019-08-16T11:20:28+08:00 ] /abcTest/index.php/CoachIndex/index | INFO: Run ShowRuntime Behavior [ RunTime:0.001462s ]
+[ 2019-08-16T11:20:28+08:00 ] /abcTest/index.php/CoachIndex/index | INFO: Tag[ view_filter ] --END-- [ RunTime:0.005724s ]
+[ 2019-08-16T11:20:28+08:00 ] /abcTest/index.php/CoachIndex/index | INFO: Tag[ view_end ] --START--
+[ 2019-08-16T11:20:28+08:00 ] /abcTest/index.php/CoachIndex/index | INFO: Run ShowPageTrace Behavior [ RunTime:0.001422s ]
+[ 2019-08-16T11:20:28+08:00 ] /abcTest/index.php/CoachIndex/index | INFO: Tag[ view_end ] --END-- [ RunTime:0.001610s ]
+[ 2019-08-16T11:20:33+08:00 ] /abcTest/index.php/ManageCourse/index | INFO: Tag[ route_check ] --START--
+[ 2019-08-16T11:20:33+08:00 ] /abcTest/index.php/ManageCourse/index | INFO: Run CheckRoute Behavior [ RunTime:0.002041s ]
+[ 2019-08-16T11:20:33+08:00 ] /abcTest/index.php/ManageCourse/index | INFO: Tag[ route_check ] --END-- [ RunTime:0.002266s ]
+[ 2019-08-16T11:20:33+08:00 ] /abcTest/index.php/ManageCourse/index | INFO: Tag[ app_begin ] --START--
+[ 2019-08-16T11:20:33+08:00 ] /abcTest/index.php/ManageCourse/index | INFO: Run ReadHtmlCache Behavior [ RunTime:0.001936s ]
+[ 2019-08-16T11:20:33+08:00 ] /abcTest/index.php/ManageCourse/index | INFO: Tag[ app_begin ] --END-- [ RunTime:0.002104s ]
+[ 2019-08-16T11:20:33+08:00 ] /abcTest/index.php/ManageCourse/index | NOTIC: [8] Use of undefined constant Course - assumed 'Course' ManageCourseAction.class.php 第 4 行.
+[ 2019-08-16T11:20:33+08:00 ] /abcTest/index.php/ManageCourse/index | SQL: SHOW COLUMNS FROM `t_course` [ RunTime:0.006712s ]
+[ 2019-08-16T11:20:33+08:00 ] /abcTest/index.php/ManageCourse/index | NOTIC: [8] Use of undefined constant Coach - assumed 'Coach' ManageCourseAction.class.php 第 5 行.
+[ 2019-08-16T11:20:33+08:00 ] /abcTest/index.php/ManageCourse/index | SQL: SHOW COLUMNS FROM `t_coach` [ RunTime:0.006668s ]
+[ 2019-08-16T11:20:33+08:00 ] /abcTest/index.php/ManageCourse/index | SQL: SELECT `coaName` FROM `t_coach` WHERE coaID='2000001' LIMIT 1   [ RunTime:0.000369s ]
+[ 2019-08-16T11:20:33+08:00 ] /abcTest/index.php/ManageCourse/index | SQL: SELECT `coaRemarks` FROM `t_coach` WHERE coaID='2000001' LIMIT 1   [ RunTime:0.000184s ]
+[ 2019-08-16T11:20:33+08:00 ] /abcTest/index.php/ManageCourse/index | SQL: SELECT `courseID`,`courseName`,`courseContent`,`courseTime`,`courseArea`,`courseTeacher`,`coursePrice` FROM `t_course` WHERE courseTeacher ='马东' ORDER BY courseID asc  [ RunTime:0.000332s ]
+[ 2019-08-16T11:20:33+08:00 ] /abcTest/index.php/ManageCourse/index | INFO: Tag[ view_template ] --START--
+[ 2019-08-16T11:20:33+08:00 ] /abcTest/index.php/ManageCourse/index | INFO: Run LocationTemplate Behavior [ RunTime:0.006264s ]
+[ 2019-08-16T11:20:33+08:00 ] /abcTest/index.php/ManageCourse/index | INFO: Tag[ view_template ] --END-- [ RunTime:0.006433s ]
+[ 2019-08-16T11:20:33+08:00 ] /abcTest/index.php/ManageCourse/index | INFO: Tag[ view_parse ] --START--
+[ 2019-08-16T11:20:33+08:00 ] /abcTest/index.php/ManageCourse/index | NOTIC: [8] Use of undefined constant courseID - assumed 'courseID' 2cb7eb7235bcf3d8841ed55bf4e1e846.php 第 60 行.
+[ 2019-08-16T11:20:33+08:00 ] /abcTest/index.php/ManageCourse/index | INFO: Run ParseTemplate Behavior [ RunTime:0.019138s ]
+[ 2019-08-16T11:20:33+08:00 ] /abcTest/index.php/ManageCourse/index | INFO: Tag[ view_parse ] --END-- [ RunTime:0.019305s ]
+[ 2019-08-16T11:20:33+08:00 ] /abcTest/index.php/ManageCourse/index | INFO: Tag[ view_filter ] --START--
+[ 2019-08-16T11:20:33+08:00 ] /abcTest/index.php/ManageCourse/index | INFO: Run ContentReplace Behavior [ RunTime:0.001205s ]
+[ 2019-08-16T11:20:33+08:00 ] /abcTest/index.php/ManageCourse/index | INFO: Run TokenBuild Behavior [ RunTime:0.001194s ]
+[ 2019-08-16T11:20:33+08:00 ] /abcTest/index.php/ManageCourse/index | INFO: Run WriteHtmlCache Behavior [ RunTime:0.000891s ]
+[ 2019-08-16T11:20:33+08:00 ] /abcTest/index.php/ManageCourse/index | INFO: Run ShowRuntime Behavior [ RunTime:0.001325s ]
+[ 2019-08-16T11:20:33+08:00 ] /abcTest/index.php/ManageCourse/index | INFO: Tag[ view_filter ] --END-- [ RunTime:0.005040s ]
+[ 2019-08-16T11:20:33+08:00 ] /abcTest/index.php/ManageCourse/index | INFO: Tag[ view_end ] --START--
+[ 2019-08-16T11:20:33+08:00 ] /abcTest/index.php/ManageCourse/index | INFO: Run ShowPageTrace Behavior [ RunTime:0.001131s ]
+[ 2019-08-16T11:20:33+08:00 ] /abcTest/index.php/ManageCourse/index | INFO: Tag[ view_end ] --END-- [ RunTime:0.001281s ]
+[ 2019-08-16T11:23:49+08:00 ] /abcTest/index.php/Login/index | INFO: Tag[ route_check ] --START--
+[ 2019-08-16T11:23:49+08:00 ] /abcTest/index.php/Login/index | INFO: Run CheckRoute Behavior [ RunTime:0.001549s ]
+[ 2019-08-16T11:23:49+08:00 ] /abcTest/index.php/Login/index | INFO: Tag[ route_check ] --END-- [ RunTime:0.001741s ]
+[ 2019-08-16T11:23:49+08:00 ] /abcTest/index.php/Login/index | INFO: Tag[ app_begin ] --START--
+[ 2019-08-16T11:23:49+08:00 ] /abcTest/index.php/Login/index | INFO: Run ReadHtmlCache Behavior [ RunTime:0.002060s ]
+[ 2019-08-16T11:23:49+08:00 ] /abcTest/index.php/Login/index | INFO: Tag[ app_begin ] --END-- [ RunTime:0.002251s ]
+[ 2019-08-16T11:23:49+08:00 ] /abcTest/index.php/Login/index | INFO: Tag[ view_template ] --START--
+[ 2019-08-16T11:23:49+08:00 ] /abcTest/index.php/Login/index | INFO: Run LocationTemplate Behavior [ RunTime:0.001750s ]
+[ 2019-08-16T11:23:49+08:00 ] /abcTest/index.php/Login/index | INFO: Tag[ view_template ] --END-- [ RunTime:0.001926s ]
+[ 2019-08-16T11:23:49+08:00 ] /abcTest/index.php/Login/index | INFO: Tag[ view_parse ] --START--
+[ 2019-08-16T11:23:49+08:00 ] /abcTest/index.php/Login/index | INFO: Run ParseTemplate Behavior [ RunTime:0.014902s ]
+[ 2019-08-16T11:23:49+08:00 ] /abcTest/index.php/Login/index | INFO: Tag[ view_parse ] --END-- [ RunTime:0.015101s ]
+[ 2019-08-16T11:23:49+08:00 ] /abcTest/index.php/Login/index | INFO: Tag[ view_filter ] --START--
+[ 2019-08-16T11:23:49+08:00 ] /abcTest/index.php/Login/index | INFO: Run ContentReplace Behavior [ RunTime:0.001206s ]
+[ 2019-08-16T11:23:49+08:00 ] /abcTest/index.php/Login/index | INFO: Run TokenBuild Behavior [ RunTime:0.001315s ]
+[ 2019-08-16T11:23:49+08:00 ] /abcTest/index.php/Login/index | INFO: Run WriteHtmlCache Behavior [ RunTime:0.000883s ]
+[ 2019-08-16T11:23:49+08:00 ] /abcTest/index.php/Login/index | INFO: Run ShowRuntime Behavior [ RunTime:0.001537s ]
+[ 2019-08-16T11:23:49+08:00 ] /abcTest/index.php/Login/index | INFO: Tag[ view_filter ] --END-- [ RunTime:0.005412s ]
+[ 2019-08-16T11:23:49+08:00 ] /abcTest/index.php/Login/index | INFO: Tag[ view_end ] --START--
+[ 2019-08-16T11:23:49+08:00 ] /abcTest/index.php/Login/index | INFO: Run ShowPageTrace Behavior [ RunTime:0.001268s ]
+[ 2019-08-16T11:23:49+08:00 ] /abcTest/index.php/Login/index | INFO: Tag[ view_end ] --END-- [ RunTime:0.001438s ]
+[ 2019-08-16T11:25:23+08:00 ] /abcTest/index.php/Login/checkLogin | INFO: Tag[ route_check ] --START--
+[ 2019-08-16T11:25:23+08:00 ] /abcTest/index.php/Login/checkLogin | INFO: Run CheckRoute Behavior [ RunTime:0.001796s ]
+[ 2019-08-16T11:25:23+08:00 ] /abcTest/index.php/Login/checkLogin | INFO: Tag[ route_check ] --END-- [ RunTime:0.001991s ]
+[ 2019-08-16T11:25:23+08:00 ] /abcTest/index.php/Login/checkLogin | INFO: Tag[ app_begin ] --START--
+[ 2019-08-16T11:25:23+08:00 ] /abcTest/index.php/Login/checkLogin | INFO: Run ReadHtmlCache Behavior [ RunTime:0.001417s ]
+[ 2019-08-16T11:25:23+08:00 ] /abcTest/index.php/Login/checkLogin | INFO: Tag[ app_begin ] --END-- [ RunTime:0.001575s ]
+[ 2019-08-16T11:25:23+08:00 ] /abcTest/index.php/Login/checkLogin | SQL: SHOW COLUMNS FROM `t_user` [ RunTime:0.007468s ]
+[ 2019-08-16T11:25:23+08:00 ] /abcTest/index.php/Login/checkLogin | SQL: SELECT * FROM `t_user` WHERE userId ='2000003' LIMIT 1   [ RunTime:0.000538s ]
+[ 2019-08-16T11:25:23+08:00 ] /abcTest/index.php/Login/checkLogin | SQL: SELECT `userRole` FROM `t_user` WHERE userId ='2000003' LIMIT 1   [ RunTime:0.000200s ]
+[ 2019-08-16T11:25:23+08:00 ] /abcTest/index.php/Login/checkLogin | INFO: Tag[ view_template ] --START--
+[ 2019-08-16T11:25:23+08:00 ] /abcTest/index.php/Login/checkLogin | INFO: Run LocationTemplate Behavior [ RunTime:0.002042s ]
+[ 2019-08-16T11:25:23+08:00 ] /abcTest/index.php/Login/checkLogin | INFO: Tag[ view_template ] --END-- [ RunTime:0.002216s ]
+[ 2019-08-16T11:25:23+08:00 ] /abcTest/index.php/Login/checkLogin | INFO: Tag[ view_parse ] --START--
+[ 2019-08-16T11:25:23+08:00 ] /abcTest/index.php/Login/checkLogin | INFO: Run ParseTemplate Behavior [ RunTime:0.015798s ]
+[ 2019-08-16T11:25:23+08:00 ] /abcTest/index.php/Login/checkLogin | INFO: Tag[ view_parse ] --END-- [ RunTime:0.016000s ]
+[ 2019-08-16T11:25:23+08:00 ] /abcTest/index.php/Login/checkLogin | INFO: Tag[ view_filter ] --START--
+[ 2019-08-16T11:25:23+08:00 ] /abcTest/index.php/Login/checkLogin | INFO: Run ContentReplace Behavior [ RunTime:0.001200s ]
+[ 2019-08-16T11:25:23+08:00 ] /abcTest/index.php/Login/checkLogin | INFO: Run TokenBuild Behavior [ RunTime:0.001148s ]
+[ 2019-08-16T11:25:23+08:00 ] /abcTest/index.php/Login/checkLogin | INFO: Run WriteHtmlCache Behavior [ RunTime:0.000852s ]
+[ 2019-08-16T11:25:23+08:00 ] /abcTest/index.php/Login/checkLogin | INFO: Run ShowRuntime Behavior [ RunTime:0.001319s ]
+[ 2019-08-16T11:25:23+08:00 ] /abcTest/index.php/Login/checkLogin | INFO: Tag[ view_filter ] --END-- [ RunTime:0.004945s ]
+[ 2019-08-16T11:25:23+08:00 ] /abcTest/index.php/Login/checkLogin | INFO: Tag[ view_end ] --START--
+[ 2019-08-16T11:25:23+08:00 ] /abcTest/index.php/Login/checkLogin | INFO: Run ShowPageTrace Behavior [ RunTime:0.001104s ]
+[ 2019-08-16T11:25:23+08:00 ] /abcTest/index.php/Login/checkLogin | INFO: Tag[ view_end ] --END-- [ RunTime:0.001252s ]
+[ 2019-08-16T11:25:23+08:00 ] /abcTest/index.php/Login/checkLogin | NOTIC: [8] Use of undefined constant coachName - assumed 'coachName' LoginAction.class.php 第 36 行.
+[ 2019-08-16T11:25:27+08:00 ] /abcTest/index.php/CoachIndex/index | INFO: Tag[ route_check ] --START--
+[ 2019-08-16T11:25:27+08:00 ] /abcTest/index.php/CoachIndex/index | INFO: Run CheckRoute Behavior [ RunTime:0.001935s ]
+[ 2019-08-16T11:25:27+08:00 ] /abcTest/index.php/CoachIndex/index | INFO: Tag[ route_check ] --END-- [ RunTime:0.002171s ]
+[ 2019-08-16T11:25:27+08:00 ] /abcTest/index.php/CoachIndex/index | INFO: Tag[ app_begin ] --START--
+[ 2019-08-16T11:25:27+08:00 ] /abcTest/index.php/CoachIndex/index | INFO: Run ReadHtmlCache Behavior [ RunTime:0.001998s ]
+[ 2019-08-16T11:25:27+08:00 ] /abcTest/index.php/CoachIndex/index | INFO: Tag[ app_begin ] --END-- [ RunTime:0.002220s ]
+[ 2019-08-16T11:25:27+08:00 ] /abcTest/index.php/CoachIndex/index | INFO: Tag[ view_template ] --START--
+[ 2019-08-16T11:25:27+08:00 ] /abcTest/index.php/CoachIndex/index | INFO: Run LocationTemplate Behavior [ RunTime:0.002251s ]
+[ 2019-08-16T11:25:27+08:00 ] /abcTest/index.php/CoachIndex/index | INFO: Tag[ view_template ] --END-- [ RunTime:0.002515s ]
+[ 2019-08-16T11:25:27+08:00 ] /abcTest/index.php/CoachIndex/index | INFO: Tag[ view_parse ] --START--
+[ 2019-08-16T11:25:27+08:00 ] /abcTest/index.php/CoachIndex/index | NOTIC: [8] Undefined variable: title 103b3d7692d4ccea9f73c1bbb56745e5.php 第 5 行.
+[ 2019-08-16T11:25:27+08:00 ] /abcTest/index.php/CoachIndex/index | INFO: Run ParseTemplate Behavior [ RunTime:0.018345s ]
+[ 2019-08-16T11:25:27+08:00 ] /abcTest/index.php/CoachIndex/index | INFO: Tag[ view_parse ] --END-- [ RunTime:0.018555s ]
+[ 2019-08-16T11:25:27+08:00 ] /abcTest/index.php/CoachIndex/index | INFO: Tag[ view_filter ] --START--
+[ 2019-08-16T11:25:27+08:00 ] /abcTest/index.php/CoachIndex/index | INFO: Run ContentReplace Behavior [ RunTime:0.001482s ]
+[ 2019-08-16T11:25:27+08:00 ] /abcTest/index.php/CoachIndex/index | INFO: Run TokenBuild Behavior [ RunTime:0.001565s ]
+[ 2019-08-16T11:25:27+08:00 ] /abcTest/index.php/CoachIndex/index | INFO: Run WriteHtmlCache Behavior [ RunTime:0.001066s ]
+[ 2019-08-16T11:25:27+08:00 ] /abcTest/index.php/CoachIndex/index | INFO: Run ShowRuntime Behavior [ RunTime:0.002171s ]
+[ 2019-08-16T11:25:27+08:00 ] /abcTest/index.php/CoachIndex/index | INFO: Tag[ view_filter ] --END-- [ RunTime:0.006838s ]
+[ 2019-08-16T11:25:27+08:00 ] /abcTest/index.php/CoachIndex/index | INFO: Tag[ view_end ] --START--
+[ 2019-08-16T11:25:27+08:00 ] /abcTest/index.php/CoachIndex/index | INFO: Run ShowPageTrace Behavior [ RunTime:0.001372s ]
+[ 2019-08-16T11:25:27+08:00 ] /abcTest/index.php/CoachIndex/index | INFO: Tag[ view_end ] --END-- [ RunTime:0.001568s ]
+[ 2019-08-16T11:25:31+08:00 ] /abcTest/index.php/ManageCourse/index | INFO: Tag[ route_check ] --START--
+[ 2019-08-16T11:25:31+08:00 ] /abcTest/index.php/ManageCourse/index | INFO: Run CheckRoute Behavior [ RunTime:0.001535s ]
+[ 2019-08-16T11:25:31+08:00 ] /abcTest/index.php/ManageCourse/index | INFO: Tag[ route_check ] --END-- [ RunTime:0.001720s ]
+[ 2019-08-16T11:25:31+08:00 ] /abcTest/index.php/ManageCourse/index | INFO: Tag[ app_begin ] --START--
+[ 2019-08-16T11:25:31+08:00 ] /abcTest/index.php/ManageCourse/index | INFO: Run ReadHtmlCache Behavior [ RunTime:0.001338s ]
+[ 2019-08-16T11:25:31+08:00 ] /abcTest/index.php/ManageCourse/index | INFO: Tag[ app_begin ] --END-- [ RunTime:0.001485s ]
+[ 2019-08-16T11:25:31+08:00 ] /abcTest/index.php/ManageCourse/index | NOTIC: [8] Use of undefined constant Course - assumed 'Course' ManageCourseAction.class.php 第 4 行.
+[ 2019-08-16T11:25:31+08:00 ] /abcTest/index.php/ManageCourse/index | SQL: SHOW COLUMNS FROM `t_course` [ RunTime:0.006656s ]
+[ 2019-08-16T11:25:31+08:00 ] /abcTest/index.php/ManageCourse/index | NOTIC: [8] Use of undefined constant Coach - assumed 'Coach' ManageCourseAction.class.php 第 5 行.
+[ 2019-08-16T11:25:31+08:00 ] /abcTest/index.php/ManageCourse/index | SQL: SHOW COLUMNS FROM `t_coach` [ RunTime:0.007671s ]
+[ 2019-08-16T11:25:31+08:00 ] /abcTest/index.php/ManageCourse/index | SQL: SELECT `coaName` FROM `t_coach` WHERE coaID='2000003' LIMIT 1   [ RunTime:0.000356s ]
+[ 2019-08-16T11:25:31+08:00 ] /abcTest/index.php/ManageCourse/index | SQL: SELECT `coaRemarks` FROM `t_coach` WHERE coaID='2000003' LIMIT 1   [ RunTime:0.000180s ]
+[ 2019-08-16T11:25:31+08:00 ] /abcTest/index.php/ManageCourse/index | SQL: SELECT `courseID`,`courseName`,`courseContent`,`courseTime`,`courseArea`,`courseTeacher`,`coursePrice` FROM `t_course` WHERE courseTeacher ='马冬梅' ORDER BY courseID asc  [ RunTime:0.000306s ]
+[ 2019-08-16T11:25:31+08:00 ] /abcTest/index.php/ManageCourse/index | INFO: Tag[ view_template ] --START--
+[ 2019-08-16T11:25:31+08:00 ] /abcTest/index.php/ManageCourse/index | INFO: Run LocationTemplate Behavior [ RunTime:0.002065s ]
+[ 2019-08-16T11:25:31+08:00 ] /abcTest/index.php/ManageCourse/index | INFO: Tag[ view_template ] --END-- [ RunTime:0.002239s ]
+[ 2019-08-16T11:25:31+08:00 ] /abcTest/index.php/ManageCourse/index | INFO: Tag[ view_parse ] --START--
+[ 2019-08-16T11:25:31+08:00 ] /abcTest/index.php/ManageCourse/index | NOTIC: [8] Use of undefined constant courseID - assumed 'courseID' 2cb7eb7235bcf3d8841ed55bf4e1e846.php 第 60 行.
+[ 2019-08-16T11:25:31+08:00 ] /abcTest/index.php/ManageCourse/index | INFO: Run ParseTemplate Behavior [ RunTime:0.018133s ]
+[ 2019-08-16T11:25:31+08:00 ] /abcTest/index.php/ManageCourse/index | INFO: Tag[ view_parse ] --END-- [ RunTime:0.018308s ]
+[ 2019-08-16T11:25:31+08:00 ] /abcTest/index.php/ManageCourse/index | INFO: Tag[ view_filter ] --START--
+[ 2019-08-16T11:25:31+08:00 ] /abcTest/index.php/ManageCourse/index | INFO: Run ContentReplace Behavior [ RunTime:0.001186s ]
+[ 2019-08-16T11:25:31+08:00 ] /abcTest/index.php/ManageCourse/index | INFO: Run TokenBuild Behavior [ RunTime:0.001268s ]
+[ 2019-08-16T11:25:31+08:00 ] /abcTest/index.php/ManageCourse/index | INFO: Run WriteHtmlCache Behavior [ RunTime:0.000872s ]
+[ 2019-08-16T11:25:31+08:00 ] /abcTest/index.php/ManageCourse/index | INFO: Run ShowRuntime Behavior [ RunTime:0.001340s ]
+[ 2019-08-16T11:25:31+08:00 ] /abcTest/index.php/ManageCourse/index | INFO: Tag[ view_filter ] --END-- [ RunTime:0.005115s ]
+[ 2019-08-16T11:25:31+08:00 ] /abcTest/index.php/ManageCourse/index | INFO: Tag[ view_end ] --START--
+[ 2019-08-16T11:25:31+08:00 ] /abcTest/index.php/ManageCourse/index | INFO: Run ShowPageTrace Behavior [ RunTime:0.001320s ]
+[ 2019-08-16T11:25:31+08:00 ] /abcTest/index.php/ManageCourse/index | INFO: Tag[ view_end ] --END-- [ RunTime:0.001483s ]
+[ 2019-08-16T11:25:36+08:00 ] /abcTest/index.php/ShowStudentInfo/index | INFO: Tag[ route_check ] --START--
+[ 2019-08-16T11:25:36+08:00 ] /abcTest/index.php/ShowStudentInfo/index | INFO: Run CheckRoute Behavior [ RunTime:0.001933s ]
+[ 2019-08-16T11:25:36+08:00 ] /abcTest/index.php/ShowStudentInfo/index | INFO: Tag[ route_check ] --END-- [ RunTime:0.002153s ]
+[ 2019-08-16T11:25:36+08:00 ] /abcTest/index.php/ShowStudentInfo/index | INFO: Tag[ app_begin ] --START--
+[ 2019-08-16T11:25:36+08:00 ] /abcTest/index.php/ShowStudentInfo/index | INFO: Run ReadHtmlCache Behavior [ RunTime:0.001528s ]
+[ 2019-08-16T11:25:36+08:00 ] /abcTest/index.php/ShowStudentInfo/index | INFO: Tag[ app_begin ] --END-- [ RunTime:0.001683s ]
+[ 2019-08-16T11:25:36+08:00 ] /abcTest/index.php/ShowStudentInfo/index | NOTIC: [8] Use of undefined constant Member - assumed 'Member' ShowStudentInfoAction.class.php 第 6 行.
+[ 2019-08-16T11:25:36+08:00 ] /abcTest/index.php/ShowStudentInfo/index | SQL: SHOW COLUMNS FROM `t_member` [ RunTime:0.008196s ]
+[ 2019-08-16T11:25:36+08:00 ] /abcTest/index.php/ShowStudentInfo/index | NOTIC: [8] Use of undefined constant Coach - assumed 'Coach' ShowStudentInfoAction.class.php 第 7 行.
+[ 2019-08-16T11:25:37+08:00 ] /abcTest/index.php/ShowStudentInfo/index | SQL: SHOW COLUMNS FROM `t_coach` [ RunTime:0.006940s ]
+[ 2019-08-16T11:25:37+08:00 ] /abcTest/index.php/ShowStudentInfo/index | SQL: SELECT `coaName` FROM `t_coach` WHERE coaID='2000003' LIMIT 1   [ RunTime:0.000363s ]
+[ 2019-08-16T11:25:37+08:00 ] /abcTest/index.php/ShowStudentInfo/index | SQL: select memName,memSex,memAddr,memHealth,memIdCard,memTel,
+        memRegisteDate,memRemarks from t_member,t_consume,t_course,t_coach where 
+        t_member.memId=t_consume.userID and t_consume.courseID=t_course.courseID
+         and t_course.courseTeacher=t_coach.coaName and t_coach.coaName='马冬梅' [ RunTime:0.000468s ]
+[ 2019-08-16T11:25:37+08:00 ] /abcTest/index.php/ShowStudentInfo/index | INFO: Tag[ view_template ] --START--
+[ 2019-08-16T11:25:37+08:00 ] /abcTest/index.php/ShowStudentInfo/index | INFO: Run LocationTemplate Behavior [ RunTime:0.002136s ]
+[ 2019-08-16T11:25:37+08:00 ] /abcTest/index.php/ShowStudentInfo/index | INFO: Tag[ view_template ] --END-- [ RunTime:0.002307s ]
+[ 2019-08-16T11:25:37+08:00 ] /abcTest/index.php/ShowStudentInfo/index | INFO: Tag[ view_parse ] --START--
+[ 2019-08-16T11:25:37+08:00 ] /abcTest/index.php/ShowStudentInfo/index | INFO: Run ParseTemplate Behavior [ RunTime:0.042255s ]
+[ 2019-08-16T11:25:37+08:00 ] /abcTest/index.php/ShowStudentInfo/index | INFO: Tag[ view_parse ] --END-- [ RunTime:0.042451s ]
+[ 2019-08-16T11:25:37+08:00 ] /abcTest/index.php/ShowStudentInfo/index | INFO: Tag[ view_filter ] --START--
+[ 2019-08-16T11:25:37+08:00 ] /abcTest/index.php/ShowStudentInfo/index | INFO: Run ContentReplace Behavior [ RunTime:0.001259s ]
+[ 2019-08-16T11:25:37+08:00 ] /abcTest/index.php/ShowStudentInfo/index | INFO: Run TokenBuild Behavior [ RunTime:0.001264s ]
+[ 2019-08-16T11:25:37+08:00 ] /abcTest/index.php/ShowStudentInfo/index | INFO: Run WriteHtmlCache Behavior [ RunTime:0.001029s ]
+[ 2019-08-16T11:25:37+08:00 ] /abcTest/index.php/ShowStudentInfo/index | INFO: Run ShowRuntime Behavior [ RunTime:0.001545s ]
+[ 2019-08-16T11:25:37+08:00 ] /abcTest/index.php/ShowStudentInfo/index | INFO: Tag[ view_filter ] --END-- [ RunTime:0.005567s ]
+[ 2019-08-16T11:25:37+08:00 ] /abcTest/index.php/ShowStudentInfo/index | INFO: Tag[ view_end ] --START--
+[ 2019-08-16T11:25:37+08:00 ] /abcTest/index.php/ShowStudentInfo/index | INFO: Run ShowPageTrace Behavior [ RunTime:0.001251s ]
+[ 2019-08-16T11:25:37+08:00 ] /abcTest/index.php/ShowStudentInfo/index | INFO: Tag[ view_end ] --END-- [ RunTime:0.001408s ]
+[ 2019-08-16T11:26:10+08:00 ] /abcTest/index.php/ManageCourse/index | INFO: Tag[ route_check ] --START--
+[ 2019-08-16T11:26:10+08:00 ] /abcTest/index.php/ManageCourse/index | INFO: Run CheckRoute Behavior [ RunTime:0.001420s ]
+[ 2019-08-16T11:26:10+08:00 ] /abcTest/index.php/ManageCourse/index | INFO: Tag[ route_check ] --END-- [ RunTime:0.001605s ]
+[ 2019-08-16T11:26:10+08:00 ] /abcTest/index.php/ManageCourse/index | INFO: Tag[ app_begin ] --START--
+[ 2019-08-16T11:26:10+08:00 ] /abcTest/index.php/ManageCourse/index | INFO: Run ReadHtmlCache Behavior [ RunTime:0.001117s ]
+[ 2019-08-16T11:26:10+08:00 ] /abcTest/index.php/ManageCourse/index | INFO: Tag[ app_begin ] --END-- [ RunTime:0.001268s ]
+[ 2019-08-16T11:26:10+08:00 ] /abcTest/index.php/ManageCourse/index | NOTIC: [8] Use of undefined constant Course - assumed 'Course' ManageCourseAction.class.php 第 4 行.
+[ 2019-08-16T11:26:10+08:00 ] /abcTest/index.php/ManageCourse/index | SQL: SHOW COLUMNS FROM `t_course` [ RunTime:0.006929s ]
+[ 2019-08-16T11:26:10+08:00 ] /abcTest/index.php/ManageCourse/index | NOTIC: [8] Use of undefined constant Coach - assumed 'Coach' ManageCourseAction.class.php 第 5 行.
+[ 2019-08-16T11:26:10+08:00 ] /abcTest/index.php/ManageCourse/index | SQL: SHOW COLUMNS FROM `t_coach` [ RunTime:0.007206s ]
+[ 2019-08-16T11:26:10+08:00 ] /abcTest/index.php/ManageCourse/index | SQL: SELECT `coaName` FROM `t_coach` WHERE coaID='2000003' LIMIT 1   [ RunTime:0.000364s ]
+[ 2019-08-16T11:26:10+08:00 ] /abcTest/index.php/ManageCourse/index | SQL: SELECT `coaRemarks` FROM `t_coach` WHERE coaID='2000003' LIMIT 1   [ RunTime:0.000183s ]
+[ 2019-08-16T11:26:10+08:00 ] /abcTest/index.php/ManageCourse/index | SQL: SELECT `courseID`,`courseName`,`courseContent`,`courseTime`,`courseArea`,`courseTeacher`,`coursePrice` FROM `t_course` WHERE courseTeacher ='马冬梅' ORDER BY courseID asc  [ RunTime:0.000302s ]
+[ 2019-08-16T11:26:10+08:00 ] /abcTest/index.php/ManageCourse/index | INFO: Tag[ view_template ] --START--
+[ 2019-08-16T11:26:10+08:00 ] /abcTest/index.php/ManageCourse/index | INFO: Run LocationTemplate Behavior [ RunTime:0.001522s ]
+[ 2019-08-16T11:26:10+08:00 ] /abcTest/index.php/ManageCourse/index | INFO: Tag[ view_template ] --END-- [ RunTime:0.001670s ]
+[ 2019-08-16T11:26:10+08:00 ] /abcTest/index.php/ManageCourse/index | INFO: Tag[ view_parse ] --START--
+[ 2019-08-16T11:26:10+08:00 ] /abcTest/index.php/ManageCourse/index | NOTIC: [8] Use of undefined constant courseID - assumed 'courseID' 2cb7eb7235bcf3d8841ed55bf4e1e846.php 第 60 行.
+[ 2019-08-16T11:26:10+08:00 ] /abcTest/index.php/ManageCourse/index | INFO: Run ParseTemplate Behavior [ RunTime:0.018120s ]
+[ 2019-08-16T11:26:10+08:00 ] /abcTest/index.php/ManageCourse/index | INFO: Tag[ view_parse ] --END-- [ RunTime:0.018277s ]
+[ 2019-08-16T11:26:10+08:00 ] /abcTest/index.php/ManageCourse/index | INFO: Tag[ view_filter ] --START--
+[ 2019-08-16T11:26:10+08:00 ] /abcTest/index.php/ManageCourse/index | INFO: Run ContentReplace Behavior [ RunTime:0.001017s ]
+[ 2019-08-16T11:26:10+08:00 ] /abcTest/index.php/ManageCourse/index | INFO: Run TokenBuild Behavior [ RunTime:0.000997s ]
+[ 2019-08-16T11:26:10+08:00 ] /abcTest/index.php/ManageCourse/index | INFO: Run WriteHtmlCache Behavior [ RunTime:0.001097s ]
+[ 2019-08-16T11:26:10+08:00 ] /abcTest/index.php/ManageCourse/index | INFO: Run ShowRuntime Behavior [ RunTime:0.001209s ]
+[ 2019-08-16T11:26:10+08:00 ] /abcTest/index.php/ManageCourse/index | INFO: Tag[ view_filter ] --END-- [ RunTime:0.004927s ]
+[ 2019-08-16T11:26:10+08:00 ] /abcTest/index.php/ManageCourse/index | INFO: Tag[ view_end ] --START--
+[ 2019-08-16T11:26:10+08:00 ] /abcTest/index.php/ManageCourse/index | INFO: Run ShowPageTrace Behavior [ RunTime:0.000965s ]
+[ 2019-08-16T11:26:10+08:00 ] /abcTest/index.php/ManageCourse/index | INFO: Tag[ view_end ] --END-- [ RunTime:0.001116s ]
+[ 2019-08-16T11:27:07+08:00 ] /abcTest/index.php/ManageCourse/editCourse | INFO: Tag[ route_check ] --START--
+[ 2019-08-16T11:27:07+08:00 ] /abcTest/index.php/ManageCourse/editCourse | INFO: Run CheckRoute Behavior [ RunTime:0.001544s ]
+[ 2019-08-16T11:27:07+08:00 ] /abcTest/index.php/ManageCourse/editCourse | INFO: Tag[ route_check ] --END-- [ RunTime:0.001727s ]
+[ 2019-08-16T11:27:07+08:00 ] /abcTest/index.php/ManageCourse/editCourse | INFO: Tag[ app_begin ] --START--
+[ 2019-08-16T11:27:07+08:00 ] /abcTest/index.php/ManageCourse/editCourse | INFO: Run ReadHtmlCache Behavior [ RunTime:0.001249s ]
+[ 2019-08-16T11:27:07+08:00 ] /abcTest/index.php/ManageCourse/editCourse | INFO: Tag[ app_begin ] --END-- [ RunTime:0.001402s ]
+[ 2019-08-16T11:27:07+08:00 ] /abcTest/index.php/ManageCourse/editCourse | NOTIC: [8] Use of undefined constant Course - assumed 'Course' ManageCourseAction.class.php 第 20 行.
+[ 2019-08-16T11:27:07+08:00 ] /abcTest/index.php/ManageCourse/editCourse | SQL: SHOW COLUMNS FROM `t_course` [ RunTime:0.007181s ]
+[ 2019-08-16T11:27:07+08:00 ] /abcTest/index.php/ManageCourse/editCourse | SQL: UPDATE `t_course` SET `courseName`='普拉提基础',`courseContent`='普拉提首先是一种运动。它主要是锻炼人体深层的小肌肉群，维持和改善外观正常活动姿势、达到身体平衡、创展躯干和肢体的活动范围和活动能力、强调对核心肌群的控制、加强人脑对肢体及骨骼肌肉组织的神经感应及支配，再配合正确的呼吸方法所进行的一项全身协调运动。',`courseTime`='周二上午第一节  ',`courseArea`='104',`courseTeacher`='马冬梅',`coursePrice`='150.00' WHERE courseID='300003' [ RunTime:0.056289s ]
+[ 2019-08-16T11:27:10+08:00 ] /abcTest/index.php/ManageCourse/index | INFO: Tag[ route_check ] --START--
+[ 2019-08-16T11:27:10+08:00 ] /abcTest/index.php/ManageCourse/index | INFO: Run CheckRoute Behavior [ RunTime:0.001172s ]
+[ 2019-08-16T11:27:10+08:00 ] /abcTest/index.php/ManageCourse/index | INFO: Tag[ route_check ] --END-- [ RunTime:0.001333s ]
+[ 2019-08-16T11:27:10+08:00 ] /abcTest/index.php/ManageCourse/index | INFO: Tag[ app_begin ] --START--
+[ 2019-08-16T11:27:10+08:00 ] /abcTest/index.php/ManageCourse/index | INFO: Run ReadHtmlCache Behavior [ RunTime:0.001157s ]
+[ 2019-08-16T11:27:10+08:00 ] /abcTest/index.php/ManageCourse/index | INFO: Tag[ app_begin ] --END-- [ RunTime:0.001297s ]
+[ 2019-08-16T11:27:10+08:00 ] /abcTest/index.php/ManageCourse/index | NOTIC: [8] Use of undefined constant Course - assumed 'Course' ManageCourseAction.class.php 第 4 行.
+[ 2019-08-16T11:27:10+08:00 ] /abcTest/index.php/ManageCourse/index | SQL: SHOW COLUMNS FROM `t_course` [ RunTime:0.007071s ]
+[ 2019-08-16T11:27:10+08:00 ] /abcTest/index.php/ManageCourse/index | NOTIC: [8] Use of undefined constant Coach - assumed 'Coach' ManageCourseAction.class.php 第 5 行.
+[ 2019-08-16T11:27:10+08:00 ] /abcTest/index.php/ManageCourse/index | SQL: SHOW COLUMNS FROM `t_coach` [ RunTime:0.007115s ]
+[ 2019-08-16T11:27:10+08:00 ] /abcTest/index.php/ManageCourse/index | SQL: SELECT `coaName` FROM `t_coach` WHERE coaID='2000003' LIMIT 1   [ RunTime:0.000539s ]
+[ 2019-08-16T11:27:10+08:00 ] /abcTest/index.php/ManageCourse/index | SQL: SELECT `coaRemarks` FROM `t_coach` WHERE coaID='2000003' LIMIT 1   [ RunTime:0.000392s ]
+[ 2019-08-16T11:27:10+08:00 ] /abcTest/index.php/ManageCourse/index | SQL: SELECT `courseID`,`courseName`,`courseContent`,`courseTime`,`courseArea`,`courseTeacher`,`coursePrice` FROM `t_course` WHERE courseTeacher ='马冬梅' ORDER BY courseID asc  [ RunTime:0.000408s ]
+[ 2019-08-16T11:27:10+08:00 ] /abcTest/index.php/ManageCourse/index | INFO: Tag[ view_template ] --START--
+[ 2019-08-16T11:27:10+08:00 ] /abcTest/index.php/ManageCourse/index | INFO: Run LocationTemplate Behavior [ RunTime:0.008399s ]
+[ 2019-08-16T11:27:10+08:00 ] /abcTest/index.php/ManageCourse/index | INFO: Tag[ view_template ] --END-- [ RunTime:0.008564s ]
+[ 2019-08-16T11:27:10+08:00 ] /abcTest/index.php/ManageCourse/index | INFO: Tag[ view_parse ] --START--
+[ 2019-08-16T11:27:10+08:00 ] /abcTest/index.php/ManageCourse/index | NOTIC: [8] Use of undefined constant courseID - assumed 'courseID' 2cb7eb7235bcf3d8841ed55bf4e1e846.php 第 60 行.
+[ 2019-08-16T11:27:10+08:00 ] /abcTest/index.php/ManageCourse/index | INFO: Run ParseTemplate Behavior [ RunTime:0.018304s ]
+[ 2019-08-16T11:27:10+08:00 ] /abcTest/index.php/ManageCourse/index | INFO: Tag[ view_parse ] --END-- [ RunTime:0.018465s ]
+[ 2019-08-16T11:27:10+08:00 ] /abcTest/index.php/ManageCourse/index | INFO: Tag[ view_filter ] --START--
+[ 2019-08-16T11:27:10+08:00 ] /abcTest/index.php/ManageCourse/index | INFO: Run ContentReplace Behavior [ RunTime:0.001012s ]
+[ 2019-08-16T11:27:10+08:00 ] /abcTest/index.php/ManageCourse/index | INFO: Run TokenBuild Behavior [ RunTime:0.000905s ]
+[ 2019-08-16T11:27:10+08:00 ] /abcTest/index.php/ManageCourse/index | INFO: Run WriteHtmlCache Behavior [ RunTime:0.000799s ]
+[ 2019-08-16T11:27:10+08:00 ] /abcTest/index.php/ManageCourse/index | INFO: Run ShowRuntime Behavior [ RunTime:0.001044s ]
+[ 2019-08-16T11:27:10+08:00 ] /abcTest/index.php/ManageCourse/index | INFO: Tag[ view_filter ] --END-- [ RunTime:0.004155s ]
+[ 2019-08-16T11:27:10+08:00 ] /abcTest/index.php/ManageCourse/index | INFO: Tag[ view_end ] --START--
+[ 2019-08-16T11:27:10+08:00 ] /abcTest/index.php/ManageCourse/index | INFO: Run ShowPageTrace Behavior [ RunTime:0.000791s ]
+[ 2019-08-16T11:27:10+08:00 ] /abcTest/index.php/ManageCourse/index | INFO: Tag[ view_end ] --END-- [ RunTime:0.000968s ]
+[ 2019-08-16T11:27:17+08:00 ] /abcTest/index.php/ManageCourse/delCourse | INFO: Tag[ route_check ] --START--
+[ 2019-08-16T11:27:17+08:00 ] /abcTest/index.php/ManageCourse/delCourse | INFO: Run CheckRoute Behavior [ RunTime:0.001644s ]
+[ 2019-08-16T11:27:17+08:00 ] /abcTest/index.php/ManageCourse/delCourse | INFO: Tag[ route_check ] --END-- [ RunTime:0.001826s ]
+[ 2019-08-16T11:27:17+08:00 ] /abcTest/index.php/ManageCourse/delCourse | INFO: Tag[ app_begin ] --START--
+[ 2019-08-16T11:27:17+08:00 ] /abcTest/index.php/ManageCourse/delCourse | INFO: Run ReadHtmlCache Behavior [ RunTime:0.001591s ]
+[ 2019-08-16T11:27:17+08:00 ] /abcTest/index.php/ManageCourse/delCourse | INFO: Tag[ app_begin ] --END-- [ RunTime:0.001748s ]
+[ 2019-08-16T11:27:17+08:00 ] /abcTest/index.php/ManageCourse/delCourse | NOTIC: [8] Use of undefined constant Course - assumed 'Course' ManageCourseAction.class.php 第 38 行.
+[ 2019-08-16T11:27:17+08:00 ] /abcTest/index.php/ManageCourse/delCourse | SQL: SHOW COLUMNS FROM `t_course` [ RunTime:0.007376s ]
+[ 2019-08-16T11:27:17+08:00 ] /abcTest/index.php/ManageCourse/delCourse | NOTIC: [8] Use of undefined constant Consume - assumed 'Consume' ManageCourseAction.class.php 第 39 行.
+[ 2019-08-16T11:27:17+08:00 ] /abcTest/index.php/ManageCourse/delCourse | SQL: SHOW COLUMNS FROM `t_consume` [ RunTime:0.007744s ]
+[ 2019-08-16T11:27:17+08:00 ] /abcTest/index.php/ManageCourse/delCourse | SQL: SELECT `userID` FROM `t_consume` WHERE courseID='300003' LIMIT 1   [ RunTime:0.000371s ]
+[ 2019-08-16T11:27:42+08:00 ] /abcTest/index.php/Login/index | INFO: Tag[ route_check ] --START--
+[ 2019-08-16T11:27:42+08:00 ] /abcTest/index.php/Login/index | INFO: Run CheckRoute Behavior [ RunTime:0.002128s ]
+[ 2019-08-16T11:27:42+08:00 ] /abcTest/index.php/Login/index | INFO: Tag[ route_check ] --END-- [ RunTime:0.002331s ]
+[ 2019-08-16T11:27:42+08:00 ] /abcTest/index.php/Login/index | INFO: Tag[ app_begin ] --START--
+[ 2019-08-16T11:27:42+08:00 ] /abcTest/index.php/Login/index | INFO: Run ReadHtmlCache Behavior [ RunTime:0.002213s ]
+[ 2019-08-16T11:27:42+08:00 ] /abcTest/index.php/Login/index | INFO: Tag[ app_begin ] --END-- [ RunTime:0.002419s ]
+[ 2019-08-16T11:27:42+08:00 ] /abcTest/index.php/Login/index | INFO: Tag[ view_template ] --START--
+[ 2019-08-16T11:27:42+08:00 ] /abcTest/index.php/Login/index | INFO: Run LocationTemplate Behavior [ RunTime:0.001463s ]
+[ 2019-08-16T11:27:42+08:00 ] /abcTest/index.php/Login/index | INFO: Tag[ view_template ] --END-- [ RunTime:0.001608s ]
+[ 2019-08-16T11:27:42+08:00 ] /abcTest/index.php/Login/index | INFO: Tag[ view_parse ] --START--
+[ 2019-08-16T11:27:42+08:00 ] /abcTest/index.php/Login/index | INFO: Run ParseTemplate Behavior [ RunTime:0.014043s ]
+[ 2019-08-16T11:27:42+08:00 ] /abcTest/index.php/Login/index | INFO: Tag[ view_parse ] --END-- [ RunTime:0.014303s ]
+[ 2019-08-16T11:27:42+08:00 ] /abcTest/index.php/Login/index | INFO: Tag[ view_filter ] --START--
+[ 2019-08-16T11:27:42+08:00 ] /abcTest/index.php/Login/index | INFO: Run ContentReplace Behavior [ RunTime:0.001487s ]
+[ 2019-08-16T11:27:42+08:00 ] /abcTest/index.php/Login/index | INFO: Run TokenBuild Behavior [ RunTime:0.002258s ]
+[ 2019-08-16T11:27:42+08:00 ] /abcTest/index.php/Login/index | INFO: Run WriteHtmlCache Behavior [ RunTime:0.001155s ]
+[ 2019-08-16T11:27:42+08:00 ] /abcTest/index.php/Login/index | INFO: Run ShowRuntime Behavior [ RunTime:0.001795s ]
+[ 2019-08-16T11:27:42+08:00 ] /abcTest/index.php/Login/index | INFO: Tag[ view_filter ] --END-- [ RunTime:0.007339s ]
+[ 2019-08-16T11:27:42+08:00 ] /abcTest/index.php/Login/index | INFO: Tag[ view_end ] --START--
+[ 2019-08-16T11:27:42+08:00 ] /abcTest/index.php/Login/index | INFO: Run ShowPageTrace Behavior [ RunTime:0.001278s ]
+[ 2019-08-16T11:27:42+08:00 ] /abcTest/index.php/Login/index | INFO: Tag[ view_end ] --END-- [ RunTime:0.001449s ]
+[ 2019-08-16T11:27:50+08:00 ] /abcTest/index.php/Login/checkLogin | INFO: Tag[ route_check ] --START--
+[ 2019-08-16T11:27:50+08:00 ] /abcTest/index.php/Login/checkLogin | INFO: Run CheckRoute Behavior [ RunTime:0.002376s ]
+[ 2019-08-16T11:27:50+08:00 ] /abcTest/index.php/Login/checkLogin | INFO: Tag[ route_check ] --END-- [ RunTime:0.002655s ]
+[ 2019-08-16T11:27:50+08:00 ] /abcTest/index.php/Login/checkLogin | INFO: Tag[ app_begin ] --START--
+[ 2019-08-16T11:27:50+08:00 ] /abcTest/index.php/Login/checkLogin | INFO: Run ReadHtmlCache Behavior [ RunTime:0.001699s ]
+[ 2019-08-16T11:27:50+08:00 ] /abcTest/index.php/Login/checkLogin | INFO: Tag[ app_begin ] --END-- [ RunTime:0.001927s ]
+[ 2019-08-16T11:27:50+08:00 ] /abcTest/index.php/Login/checkLogin | SQL: SHOW COLUMNS FROM `t_user` [ RunTime:0.010126s ]
+[ 2019-08-16T11:27:50+08:00 ] /abcTest/index.php/Login/checkLogin | SQL: SELECT * FROM `t_user` WHERE userId ='2000001' LIMIT 1   [ RunTime:0.000607s ]
+[ 2019-08-16T11:27:50+08:00 ] /abcTest/index.php/Login/checkLogin | SQL: SELECT `userRole` FROM `t_user` WHERE userId ='2000001' LIMIT 1   [ RunTime:0.000356s ]
+[ 2019-08-16T11:27:50+08:00 ] /abcTest/index.php/Login/checkLogin | INFO: Tag[ view_template ] --START--
+[ 2019-08-16T11:27:50+08:00 ] /abcTest/index.php/Login/checkLogin | INFO: Run LocationTemplate Behavior [ RunTime:0.002075s ]
+[ 2019-08-16T11:27:50+08:00 ] /abcTest/index.php/Login/checkLogin | INFO: Tag[ view_template ] --END-- [ RunTime:0.002319s ]
+[ 2019-08-16T11:27:50+08:00 ] /abcTest/index.php/Login/checkLogin | INFO: Tag[ view_parse ] --START--
+[ 2019-08-16T11:27:50+08:00 ] /abcTest/index.php/Login/checkLogin | INFO: Run ParseTemplate Behavior [ RunTime:0.024106s ]
+[ 2019-08-16T11:27:50+08:00 ] /abcTest/index.php/Login/checkLogin | INFO: Tag[ view_parse ] --END-- [ RunTime:0.024354s ]
+[ 2019-08-16T11:27:50+08:00 ] /abcTest/index.php/Login/checkLogin | INFO: Tag[ view_filter ] --START--
+[ 2019-08-16T11:27:50+08:00 ] /abcTest/index.php/Login/checkLogin | INFO: Run ContentReplace Behavior [ RunTime:0.001089s ]
+[ 2019-08-16T11:27:50+08:00 ] /abcTest/index.php/Login/checkLogin | INFO: Run TokenBuild Behavior [ RunTime:0.001077s ]
+[ 2019-08-16T11:27:50+08:00 ] /abcTest/index.php/Login/checkLogin | INFO: Run WriteHtmlCache Behavior [ RunTime:0.000714s ]
+[ 2019-08-16T11:27:50+08:00 ] /abcTest/index.php/Login/checkLogin | INFO: Run ShowRuntime Behavior [ RunTime:0.001160s ]
+[ 2019-08-16T11:27:50+08:00 ] /abcTest/index.php/Login/checkLogin | INFO: Tag[ view_filter ] --END-- [ RunTime:0.004499s ]
+[ 2019-08-16T11:27:50+08:00 ] /abcTest/index.php/Login/checkLogin | INFO: Tag[ view_end ] --START--
+[ 2019-08-16T11:27:50+08:00 ] /abcTest/index.php/Login/checkLogin | INFO: Run ShowPageTrace Behavior [ RunTime:0.000941s ]
+[ 2019-08-16T11:27:50+08:00 ] /abcTest/index.php/Login/checkLogin | INFO: Tag[ view_end ] --END-- [ RunTime:0.001121s ]
+[ 2019-08-16T11:27:50+08:00 ] /abcTest/index.php/Login/checkLogin | NOTIC: [8] Use of undefined constant coachName - assumed 'coachName' LoginAction.class.php 第 36 行.
+[ 2019-08-16T11:27:55+08:00 ] /abcTest/index.php/CoachIndex/index | INFO: Tag[ route_check ] --START--
+[ 2019-08-16T11:27:55+08:00 ] /abcTest/index.php/CoachIndex/index | INFO: Run CheckRoute Behavior [ RunTime:0.001407s ]
+[ 2019-08-16T11:27:55+08:00 ] /abcTest/index.php/CoachIndex/index | INFO: Tag[ route_check ] --END-- [ RunTime:0.001616s ]
+[ 2019-08-16T11:27:55+08:00 ] /abcTest/index.php/CoachIndex/index | INFO: Tag[ app_begin ] --START--
+[ 2019-08-16T11:27:55+08:00 ] /abcTest/index.php/CoachIndex/index | INFO: Run ReadHtmlCache Behavior [ RunTime:0.001439s ]
+[ 2019-08-16T11:27:55+08:00 ] /abcTest/index.php/CoachIndex/index | INFO: Tag[ app_begin ] --END-- [ RunTime:0.001621s ]
+[ 2019-08-16T11:27:55+08:00 ] /abcTest/index.php/CoachIndex/index | INFO: Tag[ view_template ] --START--
+[ 2019-08-16T11:27:55+08:00 ] /abcTest/index.php/CoachIndex/index | INFO: Run LocationTemplate Behavior [ RunTime:0.001535s ]
+[ 2019-08-16T11:27:55+08:00 ] /abcTest/index.php/CoachIndex/index | INFO: Tag[ view_template ] --END-- [ RunTime:0.001697s ]
+[ 2019-08-16T11:27:55+08:00 ] /abcTest/index.php/CoachIndex/index | INFO: Tag[ view_parse ] --START--
+[ 2019-08-16T11:27:55+08:00 ] /abcTest/index.php/CoachIndex/index | NOTIC: [8] Undefined variable: title 103b3d7692d4ccea9f73c1bbb56745e5.php 第 5 行.
+[ 2019-08-16T11:27:55+08:00 ] /abcTest/index.php/CoachIndex/index | INFO: Run ParseTemplate Behavior [ RunTime:0.015890s ]
+[ 2019-08-16T11:27:55+08:00 ] /abcTest/index.php/CoachIndex/index | INFO: Tag[ view_parse ] --END-- [ RunTime:0.016075s ]
+[ 2019-08-16T11:27:55+08:00 ] /abcTest/index.php/CoachIndex/index | INFO: Tag[ view_filter ] --START--
+[ 2019-08-16T11:27:55+08:00 ] /abcTest/index.php/CoachIndex/index | INFO: Run ContentReplace Behavior [ RunTime:0.000995s ]
+[ 2019-08-16T11:27:55+08:00 ] /abcTest/index.php/CoachIndex/index | INFO: Run TokenBuild Behavior [ RunTime:0.000992s ]
+[ 2019-08-16T11:27:55+08:00 ] /abcTest/index.php/CoachIndex/index | INFO: Run WriteHtmlCache Behavior [ RunTime:0.000592s ]
+[ 2019-08-16T11:27:55+08:00 ] /abcTest/index.php/CoachIndex/index | INFO: Run ShowRuntime Behavior [ RunTime:0.001114s ]
+[ 2019-08-16T11:27:55+08:00 ] /abcTest/index.php/CoachIndex/index | INFO: Tag[ view_filter ] --END-- [ RunTime:0.004087s ]
+[ 2019-08-16T11:27:55+08:00 ] /abcTest/index.php/CoachIndex/index | INFO: Tag[ view_end ] --START--
+[ 2019-08-16T11:27:55+08:00 ] /abcTest/index.php/CoachIndex/index | INFO: Run ShowPageTrace Behavior [ RunTime:0.000789s ]
+[ 2019-08-16T11:27:55+08:00 ] /abcTest/index.php/CoachIndex/index | INFO: Tag[ view_end ] --END-- [ RunTime:0.000945s ]
+[ 2019-08-16T11:27:59+08:00 ] /abcTest/index.php/ManageCourse/index | INFO: Tag[ route_check ] --START--
+[ 2019-08-16T11:27:59+08:00 ] /abcTest/index.php/ManageCourse/index | INFO: Run CheckRoute Behavior [ RunTime:0.001267s ]
+[ 2019-08-16T11:27:59+08:00 ] /abcTest/index.php/ManageCourse/index | INFO: Tag[ route_check ] --END-- [ RunTime:0.001423s ]
+[ 2019-08-16T11:27:59+08:00 ] /abcTest/index.php/ManageCourse/index | INFO: Tag[ app_begin ] --START--
+[ 2019-08-16T11:27:59+08:00 ] /abcTest/index.php/ManageCourse/index | INFO: Run ReadHtmlCache Behavior [ RunTime:0.001412s ]
+[ 2019-08-16T11:27:59+08:00 ] /abcTest/index.php/ManageCourse/index | INFO: Tag[ app_begin ] --END-- [ RunTime:0.001566s ]
+[ 2019-08-16T11:27:59+08:00 ] /abcTest/index.php/ManageCourse/index | NOTIC: [8] Use of undefined constant Course - assumed 'Course' ManageCourseAction.class.php 第 4 行.
+[ 2019-08-16T11:27:59+08:00 ] /abcTest/index.php/ManageCourse/index | SQL: SHOW COLUMNS FROM `t_course` [ RunTime:0.008401s ]
+[ 2019-08-16T11:27:59+08:00 ] /abcTest/index.php/ManageCourse/index | NOTIC: [8] Use of undefined constant Coach - assumed 'Coach' ManageCourseAction.class.php 第 5 行.
+[ 2019-08-16T11:27:59+08:00 ] /abcTest/index.php/ManageCourse/index | SQL: SHOW COLUMNS FROM `t_coach` [ RunTime:0.010044s ]
+[ 2019-08-16T11:27:59+08:00 ] /abcTest/index.php/ManageCourse/index | SQL: SELECT `coaName` FROM `t_coach` WHERE coaID='2000001' LIMIT 1   [ RunTime:0.000560s ]
+[ 2019-08-16T11:27:59+08:00 ] /abcTest/index.php/ManageCourse/index | SQL: SELECT `coaRemarks` FROM `t_coach` WHERE coaID='2000001' LIMIT 1   [ RunTime:0.000251s ]
+[ 2019-08-16T11:27:59+08:00 ] /abcTest/index.php/ManageCourse/index | SQL: SELECT `courseID`,`courseName`,`courseContent`,`courseTime`,`courseArea`,`courseTeacher`,`coursePrice` FROM `t_course` WHERE courseTeacher ='马东' ORDER BY courseID asc  [ RunTime:0.000342s ]
+[ 2019-08-16T11:27:59+08:00 ] /abcTest/index.php/ManageCourse/index | INFO: Tag[ view_template ] --START--
+[ 2019-08-16T11:27:59+08:00 ] /abcTest/index.php/ManageCourse/index | INFO: Run LocationTemplate Behavior [ RunTime:0.002477s ]
+[ 2019-08-16T11:27:59+08:00 ] /abcTest/index.php/ManageCourse/index | INFO: Tag[ view_template ] --END-- [ RunTime:0.002677s ]
+[ 2019-08-16T11:27:59+08:00 ] /abcTest/index.php/ManageCourse/index | INFO: Tag[ view_parse ] --START--
+[ 2019-08-16T11:27:59+08:00 ] /abcTest/index.php/ManageCourse/index | NOTIC: [8] Use of undefined constant courseID - assumed 'courseID' 2cb7eb7235bcf3d8841ed55bf4e1e846.php 第 60 行.
+[ 2019-08-16T11:27:59+08:00 ] /abcTest/index.php/ManageCourse/index | INFO: Run ParseTemplate Behavior [ RunTime:0.023146s ]
+[ 2019-08-16T11:27:59+08:00 ] /abcTest/index.php/ManageCourse/index | INFO: Tag[ view_parse ] --END-- [ RunTime:0.023332s ]
+[ 2019-08-16T11:27:59+08:00 ] /abcTest/index.php/ManageCourse/index | INFO: Tag[ view_filter ] --START--
+[ 2019-08-16T11:27:59+08:00 ] /abcTest/index.php/ManageCourse/index | INFO: Run ContentReplace Behavior [ RunTime:0.001251s ]
+[ 2019-08-16T11:27:59+08:00 ] /abcTest/index.php/ManageCourse/index | INFO: Run TokenBuild Behavior [ RunTime:0.001234s ]
+[ 2019-08-16T11:27:59+08:00 ] /abcTest/index.php/ManageCourse/index | INFO: Run WriteHtmlCache Behavior [ RunTime:0.000884s ]
+[ 2019-08-16T11:27:59+08:00 ] /abcTest/index.php/ManageCourse/index | INFO: Run ShowRuntime Behavior [ RunTime:0.001431s ]
+[ 2019-08-16T11:27:59+08:00 ] /abcTest/index.php/ManageCourse/index | INFO: Tag[ view_filter ] --END-- [ RunTime:0.005251s ]
+[ 2019-08-16T11:27:59+08:00 ] /abcTest/index.php/ManageCourse/index | INFO: Tag[ view_end ] --START--
+[ 2019-08-16T11:27:59+08:00 ] /abcTest/index.php/ManageCourse/index | INFO: Run ShowPageTrace Behavior [ RunTime:0.001119s ]
+[ 2019-08-16T11:27:59+08:00 ] /abcTest/index.php/ManageCourse/index | INFO: Tag[ view_end ] --END-- [ RunTime:0.001269s ]
+[ 2019-08-16T11:43:52+08:00 ] /abcTest/index.php/CoachIndex/index | INFO: Tag[ route_check ] --START--
+[ 2019-08-16T11:43:52+08:00 ] /abcTest/index.php/CoachIndex/index | INFO: Run CheckRoute Behavior [ RunTime:0.001502s ]
+[ 2019-08-16T11:43:52+08:00 ] /abcTest/index.php/CoachIndex/index | INFO: Tag[ route_check ] --END-- [ RunTime:0.001693s ]
+[ 2019-08-16T11:43:52+08:00 ] /abcTest/index.php/CoachIndex/index | INFO: Tag[ app_begin ] --START--
+[ 2019-08-16T11:43:52+08:00 ] /abcTest/index.php/CoachIndex/index | INFO: Run ReadHtmlCache Behavior [ RunTime:0.001961s ]
+[ 2019-08-16T11:43:52+08:00 ] /abcTest/index.php/CoachIndex/index | INFO: Tag[ app_begin ] --END-- [ RunTime:0.002135s ]
+[ 2019-08-16T11:43:52+08:00 ] /abcTest/index.php/CoachIndex/index | INFO: Tag[ view_template ] --START--
+[ 2019-08-16T11:43:52+08:00 ] /abcTest/index.php/CoachIndex/index | INFO: Run LocationTemplate Behavior [ RunTime:0.001956s ]
+[ 2019-08-16T11:43:52+08:00 ] /abcTest/index.php/CoachIndex/index | INFO: Tag[ view_template ] --END-- [ RunTime:0.002140s ]
+[ 2019-08-16T11:43:52+08:00 ] /abcTest/index.php/CoachIndex/index | INFO: Tag[ view_parse ] --START--
+[ 2019-08-16T11:43:52+08:00 ] /abcTest/index.php/CoachIndex/index | NOTIC: [8] Undefined variable: title 103b3d7692d4ccea9f73c1bbb56745e5.php 第 5 行.
+[ 2019-08-16T11:43:52+08:00 ] /abcTest/index.php/CoachIndex/index | INFO: Run ParseTemplate Behavior [ RunTime:0.015251s ]
+[ 2019-08-16T11:43:52+08:00 ] /abcTest/index.php/CoachIndex/index | INFO: Tag[ view_parse ] --END-- [ RunTime:0.015429s ]
+[ 2019-08-16T11:43:52+08:00 ] /abcTest/index.php/CoachIndex/index | INFO: Tag[ view_filter ] --START--
+[ 2019-08-16T11:43:52+08:00 ] /abcTest/index.php/CoachIndex/index | INFO: Run ContentReplace Behavior [ RunTime:0.001185s ]
+[ 2019-08-16T11:43:52+08:00 ] /abcTest/index.php/CoachIndex/index | INFO: Run TokenBuild Behavior [ RunTime:0.001296s ]
+[ 2019-08-16T11:43:52+08:00 ] /abcTest/index.php/CoachIndex/index | INFO: Run WriteHtmlCache Behavior [ RunTime:0.000879s ]
+[ 2019-08-16T11:43:52+08:00 ] /abcTest/index.php/CoachIndex/index | INFO: Run ShowRuntime Behavior [ RunTime:0.001326s ]
+[ 2019-08-16T11:43:52+08:00 ] /abcTest/index.php/CoachIndex/index | INFO: Tag[ view_filter ] --END-- [ RunTime:0.005114s ]
+[ 2019-08-16T11:43:52+08:00 ] /abcTest/index.php/CoachIndex/index | INFO: Tag[ view_end ] --START--
+[ 2019-08-16T11:43:52+08:00 ] /abcTest/index.php/CoachIndex/index | INFO: Run ShowPageTrace Behavior [ RunTime:0.001094s ]
+[ 2019-08-16T11:43:52+08:00 ] /abcTest/index.php/CoachIndex/index | INFO: Tag[ view_end ] --END-- [ RunTime:0.001242s ]
+[ 2019-08-16T11:43:56+08:00 ] /abcTest/index.php/ManageCourse/index | INFO: Tag[ route_check ] --START--
+[ 2019-08-16T11:43:56+08:00 ] /abcTest/index.php/ManageCourse/index | INFO: Run CheckRoute Behavior [ RunTime:0.001471s ]
+[ 2019-08-16T11:43:56+08:00 ] /abcTest/index.php/ManageCourse/index | INFO: Tag[ route_check ] --END-- [ RunTime:0.001641s ]
+[ 2019-08-16T11:43:56+08:00 ] /abcTest/index.php/ManageCourse/index | INFO: Tag[ app_begin ] --START--
+[ 2019-08-16T11:43:56+08:00 ] /abcTest/index.php/ManageCourse/index | INFO: Run ReadHtmlCache Behavior [ RunTime:0.001326s ]
+[ 2019-08-16T11:43:56+08:00 ] /abcTest/index.php/ManageCourse/index | INFO: Tag[ app_begin ] --END-- [ RunTime:0.001499s ]
+[ 2019-08-16T11:43:56+08:00 ] /abcTest/index.php/ManageCourse/index | NOTIC: [8] Use of undefined constant Course - assumed 'Course' ManageCourseAction.class.php 第 4 行.
+[ 2019-08-16T11:43:56+08:00 ] /abcTest/index.php/ManageCourse/index | SQL: SHOW COLUMNS FROM `t_course` [ RunTime:0.007224s ]
+[ 2019-08-16T11:43:56+08:00 ] /abcTest/index.php/ManageCourse/index | NOTIC: [8] Use of undefined constant Coach - assumed 'Coach' ManageCourseAction.class.php 第 5 行.
+[ 2019-08-16T11:43:56+08:00 ] /abcTest/index.php/ManageCourse/index | SQL: SHOW COLUMNS FROM `t_coach` [ RunTime:0.007350s ]
+[ 2019-08-16T11:43:56+08:00 ] /abcTest/index.php/ManageCourse/index | SQL: SELECT `coaName` FROM `t_coach` WHERE coaID='2000001' LIMIT 1   [ RunTime:0.000386s ]
+[ 2019-08-16T11:43:56+08:00 ] /abcTest/index.php/ManageCourse/index | SQL: SELECT `coaRemarks` FROM `t_coach` WHERE coaID='2000001' LIMIT 1   [ RunTime:0.000192s ]
+[ 2019-08-16T11:43:56+08:00 ] /abcTest/index.php/ManageCourse/index | SQL: SELECT `courseID`,`courseName`,`courseContent`,`courseTime`,`courseArea`,`courseTeacher`,`coursePrice` FROM `t_course` WHERE courseTeacher ='马东' ORDER BY courseID asc  [ RunTime:0.000301s ]
+[ 2019-08-16T11:43:56+08:00 ] /abcTest/index.php/ManageCourse/index | INFO: Tag[ view_template ] --START--
+[ 2019-08-16T11:43:56+08:00 ] /abcTest/index.php/ManageCourse/index | INFO: Run LocationTemplate Behavior [ RunTime:0.007446s ]
+[ 2019-08-16T11:43:56+08:00 ] /abcTest/index.php/ManageCourse/index | INFO: Tag[ view_template ] --END-- [ RunTime:0.007618s ]
+[ 2019-08-16T11:43:56+08:00 ] /abcTest/index.php/ManageCourse/index | INFO: Tag[ view_parse ] --START--
+[ 2019-08-16T11:43:56+08:00 ] /abcTest/index.php/ManageCourse/index | NOTIC: [8] Use of undefined constant courseID - assumed 'courseID' 2cb7eb7235bcf3d8841ed55bf4e1e846.php 第 60 行.
+[ 2019-08-16T11:43:56+08:00 ] /abcTest/index.php/ManageCourse/index | INFO: Run ParseTemplate Behavior [ RunTime:0.017840s ]
+[ 2019-08-16T11:43:56+08:00 ] /abcTest/index.php/ManageCourse/index | INFO: Tag[ view_parse ] --END-- [ RunTime:0.018008s ]
+[ 2019-08-16T11:43:56+08:00 ] /abcTest/index.php/ManageCourse/index | INFO: Tag[ view_filter ] --START--
+[ 2019-08-16T11:43:56+08:00 ] /abcTest/index.php/ManageCourse/index | INFO: Run ContentReplace Behavior [ RunTime:0.001114s ]
+[ 2019-08-16T11:43:56+08:00 ] /abcTest/index.php/ManageCourse/index | INFO: Run TokenBuild Behavior [ RunTime:0.000975s ]
+[ 2019-08-16T11:43:56+08:00 ] /abcTest/index.php/ManageCourse/index | INFO: Run WriteHtmlCache Behavior [ RunTime:0.001297s ]
+[ 2019-08-16T11:43:56+08:00 ] /abcTest/index.php/ManageCourse/index | INFO: Run ShowRuntime Behavior [ RunTime:0.001548s ]
+[ 2019-08-16T11:43:56+08:00 ] /abcTest/index.php/ManageCourse/index | INFO: Tag[ view_filter ] --END-- [ RunTime:0.005377s ]
+[ 2019-08-16T11:43:56+08:00 ] /abcTest/index.php/ManageCourse/index | INFO: Tag[ view_end ] --START--
+[ 2019-08-16T11:43:56+08:00 ] /abcTest/index.php/ManageCourse/index | INFO: Run ShowPageTrace Behavior [ RunTime:0.001227s ]
+[ 2019-08-16T11:43:56+08:00 ] /abcTest/index.php/ManageCourse/index | INFO: Tag[ view_end ] --END-- [ RunTime:0.001382s ]
+[ 2019-08-16T11:44:05+08:00 ] /abcTest/index.php/ManageCourse/editCourse | INFO: Tag[ route_check ] --START--
+[ 2019-08-16T11:44:05+08:00 ] /abcTest/index.php/ManageCourse/editCourse | INFO: Run CheckRoute Behavior [ RunTime:0.001491s ]
+[ 2019-08-16T11:44:05+08:00 ] /abcTest/index.php/ManageCourse/editCourse | INFO: Tag[ route_check ] --END-- [ RunTime:0.001674s ]
+[ 2019-08-16T11:44:05+08:00 ] /abcTest/index.php/ManageCourse/editCourse | INFO: Tag[ app_begin ] --START--
+[ 2019-08-16T11:44:05+08:00 ] /abcTest/index.php/ManageCourse/editCourse | INFO: Run ReadHtmlCache Behavior [ RunTime:0.001308s ]
+[ 2019-08-16T11:44:05+08:00 ] /abcTest/index.php/ManageCourse/editCourse | INFO: Tag[ app_begin ] --END-- [ RunTime:0.001449s ]
+[ 2019-08-16T11:44:05+08:00 ] /abcTest/index.php/ManageCourse/editCourse | NOTIC: [8] Use of undefined constant Course - assumed 'Course' ManageCourseAction.class.php 第 20 行.
+[ 2019-08-16T11:44:05+08:00 ] /abcTest/index.php/ManageCourse/editCourse | SQL: SHOW COLUMNS FROM `t_course` [ RunTime:0.007386s ]
+[ 2019-08-16T11:44:05+08:00 ] /abcTest/index.php/ManageCourse/editCourse | SQL: UPDATE `t_course` SET `courseName`='游泳',`courseContent`='教大家游泳的姿势',`courseTime`='周一第三节',`courseArea`='1001',`courseTeacher`='马东',`coursePrice`='650.00' WHERE courseID='300013' [ RunTime:0.063439s ]
+[ 2019-08-16T11:44:08+08:00 ] /abcTest/index.php/ManageCourse/index | INFO: Tag[ route_check ] --START--
+[ 2019-08-16T11:44:08+08:00 ] /abcTest/index.php/ManageCourse/index | INFO: Run CheckRoute Behavior [ RunTime:0.001494s ]
+[ 2019-08-16T11:44:08+08:00 ] /abcTest/index.php/ManageCourse/index | INFO: Tag[ route_check ] --END-- [ RunTime:0.001681s ]
+[ 2019-08-16T11:44:08+08:00 ] /abcTest/index.php/ManageCourse/index | INFO: Tag[ app_begin ] --START--
+[ 2019-08-16T11:44:08+08:00 ] /abcTest/index.php/ManageCourse/index | INFO: Run ReadHtmlCache Behavior [ RunTime:0.001348s ]
+[ 2019-08-16T11:44:08+08:00 ] /abcTest/index.php/ManageCourse/index | INFO: Tag[ app_begin ] --END-- [ RunTime:0.001485s ]
+[ 2019-08-16T11:44:08+08:00 ] /abcTest/index.php/ManageCourse/index | NOTIC: [8] Use of undefined constant Course - assumed 'Course' ManageCourseAction.class.php 第 4 行.
+[ 2019-08-16T11:44:08+08:00 ] /abcTest/index.php/ManageCourse/index | SQL: SHOW COLUMNS FROM `t_course` [ RunTime:0.007320s ]
+[ 2019-08-16T11:44:08+08:00 ] /abcTest/index.php/ManageCourse/index | NOTIC: [8] Use of undefined constant Coach - assumed 'Coach' ManageCourseAction.class.php 第 5 行.
+[ 2019-08-16T11:44:08+08:00 ] /abcTest/index.php/ManageCourse/index | SQL: SHOW COLUMNS FROM `t_coach` [ RunTime:0.009656s ]
+[ 2019-08-16T11:44:08+08:00 ] /abcTest/index.php/ManageCourse/index | SQL: SELECT `coaName` FROM `t_coach` WHERE coaID='2000001' LIMIT 1   [ RunTime:0.000344s ]
+[ 2019-08-16T11:44:08+08:00 ] /abcTest/index.php/ManageCourse/index | SQL: SELECT `coaRemarks` FROM `t_coach` WHERE coaID='2000001' LIMIT 1   [ RunTime:0.000154s ]
+[ 2019-08-16T11:44:08+08:00 ] /abcTest/index.php/ManageCourse/index | SQL: SELECT `courseID`,`courseName`,`courseContent`,`courseTime`,`courseArea`,`courseTeacher`,`coursePrice` FROM `t_course` WHERE courseTeacher ='马东' ORDER BY courseID asc  [ RunTime:0.000259s ]
+[ 2019-08-16T11:44:08+08:00 ] /abcTest/index.php/ManageCourse/index | INFO: Tag[ view_template ] --START--
+[ 2019-08-16T11:44:08+08:00 ] /abcTest/index.php/ManageCourse/index | INFO: Run LocationTemplate Behavior [ RunTime:0.001783s ]
+[ 2019-08-16T11:44:08+08:00 ] /abcTest/index.php/ManageCourse/index | INFO: Tag[ view_template ] --END-- [ RunTime:0.001921s ]
+[ 2019-08-16T11:44:08+08:00 ] /abcTest/index.php/ManageCourse/index | INFO: Tag[ view_parse ] --START--
+[ 2019-08-16T11:44:08+08:00 ] /abcTest/index.php/ManageCourse/index | NOTIC: [8] Use of undefined constant courseID - assumed 'courseID' 2cb7eb7235bcf3d8841ed55bf4e1e846.php 第 60 行.
+[ 2019-08-16T11:44:08+08:00 ] /abcTest/index.php/ManageCourse/index | INFO: Run ParseTemplate Behavior [ RunTime:0.019979s ]
+[ 2019-08-16T11:44:08+08:00 ] /abcTest/index.php/ManageCourse/index | INFO: Tag[ view_parse ] --END-- [ RunTime:0.020138s ]
+[ 2019-08-16T11:44:08+08:00 ] /abcTest/index.php/ManageCourse/index | INFO: Tag[ view_filter ] --START--
+[ 2019-08-16T11:44:08+08:00 ] /abcTest/index.php/ManageCourse/index | INFO: Run ContentReplace Behavior [ RunTime:0.001213s ]
+[ 2019-08-16T11:44:08+08:00 ] /abcTest/index.php/ManageCourse/index | INFO: Run TokenBuild Behavior [ RunTime:0.001618s ]
+[ 2019-08-16T11:44:08+08:00 ] /abcTest/index.php/ManageCourse/index | INFO: Run WriteHtmlCache Behavior [ RunTime:0.001067s ]
+[ 2019-08-16T11:44:08+08:00 ] /abcTest/index.php/ManageCourse/index | INFO: Run ShowRuntime Behavior [ RunTime:0.001396s ]
+[ 2019-08-16T11:44:08+08:00 ] /abcTest/index.php/ManageCourse/index | INFO: Tag[ view_filter ] --END-- [ RunTime:0.005741s ]
+[ 2019-08-16T11:44:08+08:00 ] /abcTest/index.php/ManageCourse/index | INFO: Tag[ view_end ] --START--
+[ 2019-08-16T11:44:08+08:00 ] /abcTest/index.php/ManageCourse/index | INFO: Run ShowPageTrace Behavior [ RunTime:0.001105s ]
+[ 2019-08-16T11:44:08+08:00 ] /abcTest/index.php/ManageCourse/index | INFO: Tag[ view_end ] --END-- [ RunTime:0.001241s ]
+[ 2019-08-16T11:44:28+08:00 ] /abcTest/index.php/CoachIndex/index | INFO: Tag[ route_check ] --START--
+[ 2019-08-16T11:44:28+08:00 ] /abcTest/index.php/CoachIndex/index | INFO: Run CheckRoute Behavior [ RunTime:0.001516s ]
+[ 2019-08-16T11:44:28+08:00 ] /abcTest/index.php/CoachIndex/index | INFO: Tag[ route_check ] --END-- [ RunTime:0.001702s ]
+[ 2019-08-16T11:44:28+08:00 ] /abcTest/index.php/CoachIndex/index | INFO: Tag[ app_begin ] --START--
+[ 2019-08-16T11:44:28+08:00 ] /abcTest/index.php/CoachIndex/index | INFO: Run ReadHtmlCache Behavior [ RunTime:0.001413s ]
+[ 2019-08-16T11:44:28+08:00 ] /abcTest/index.php/CoachIndex/index | INFO: Tag[ app_begin ] --END-- [ RunTime:0.001573s ]
+[ 2019-08-16T11:44:28+08:00 ] /abcTest/index.php/CoachIndex/index | INFO: Tag[ view_template ] --START--
+[ 2019-08-16T11:44:28+08:00 ] /abcTest/index.php/CoachIndex/index | INFO: Run LocationTemplate Behavior [ RunTime:0.001908s ]
+[ 2019-08-16T11:44:28+08:00 ] /abcTest/index.php/CoachIndex/index | INFO: Tag[ view_template ] --END-- [ RunTime:0.002078s ]
+[ 2019-08-16T11:44:28+08:00 ] /abcTest/index.php/CoachIndex/index | INFO: Tag[ view_parse ] --START--
+[ 2019-08-16T11:44:28+08:00 ] /abcTest/index.php/CoachIndex/index | NOTIC: [8] Undefined variable: title 103b3d7692d4ccea9f73c1bbb56745e5.php 第 5 行.
+[ 2019-08-16T11:44:28+08:00 ] /abcTest/index.php/CoachIndex/index | INFO: Run ParseTemplate Behavior [ RunTime:0.015653s ]
+[ 2019-08-16T11:44:28+08:00 ] /abcTest/index.php/CoachIndex/index | INFO: Tag[ view_parse ] --END-- [ RunTime:0.015831s ]
+[ 2019-08-16T11:44:28+08:00 ] /abcTest/index.php/CoachIndex/index | INFO: Tag[ view_filter ] --START--
+[ 2019-08-16T11:44:28+08:00 ] /abcTest/index.php/CoachIndex/index | INFO: Run ContentReplace Behavior [ RunTime:0.001384s ]
+[ 2019-08-16T11:44:28+08:00 ] /abcTest/index.php/CoachIndex/index | INFO: Run TokenBuild Behavior [ RunTime:0.002171s ]
+[ 2019-08-16T11:44:28+08:00 ] /abcTest/index.php/CoachIndex/index | INFO: Run WriteHtmlCache Behavior [ RunTime:0.001036s ]
+[ 2019-08-16T11:44:28+08:00 ] /abcTest/index.php/CoachIndex/index | INFO: Run ShowRuntime Behavior [ RunTime:0.001558s ]
+[ 2019-08-16T11:44:28+08:00 ] /abcTest/index.php/CoachIndex/index | INFO: Tag[ view_filter ] --END-- [ RunTime:0.006653s ]
+[ 2019-08-16T11:44:28+08:00 ] /abcTest/index.php/CoachIndex/index | INFO: Tag[ view_end ] --START--
+[ 2019-08-16T11:44:28+08:00 ] /abcTest/index.php/CoachIndex/index | INFO: Run ShowPageTrace Behavior [ RunTime:0.001222s ]
+[ 2019-08-16T11:44:28+08:00 ] /abcTest/index.php/CoachIndex/index | INFO: Tag[ view_end ] --END-- [ RunTime:0.001379s ]
+[ 2019-08-16T11:44:32+08:00 ] /abcTest/index.php/ManageCourse/index | INFO: Tag[ route_check ] --START--
+[ 2019-08-16T11:44:32+08:00 ] /abcTest/index.php/ManageCourse/index | INFO: Run CheckRoute Behavior [ RunTime:0.002024s ]
+[ 2019-08-16T11:44:32+08:00 ] /abcTest/index.php/ManageCourse/index | INFO: Tag[ route_check ] --END-- [ RunTime:0.002291s ]
+[ 2019-08-16T11:44:32+08:00 ] /abcTest/index.php/ManageCourse/index | INFO: Tag[ app_begin ] --START--
+[ 2019-08-16T11:44:32+08:00 ] /abcTest/index.php/ManageCourse/index | INFO: Run ReadHtmlCache Behavior [ RunTime:0.002709s ]
+[ 2019-08-16T11:44:32+08:00 ] /abcTest/index.php/ManageCourse/index | INFO: Tag[ app_begin ] --END-- [ RunTime:0.002971s ]
+[ 2019-08-16T11:44:32+08:00 ] /abcTest/index.php/ManageCourse/index | NOTIC: [8] Use of undefined constant Course - assumed 'Course' ManageCourseAction.class.php 第 4 行.
+[ 2019-08-16T11:44:32+08:00 ] /abcTest/index.php/ManageCourse/index | SQL: SHOW COLUMNS FROM `t_course` [ RunTime:0.008459s ]
+[ 2019-08-16T11:44:32+08:00 ] /abcTest/index.php/ManageCourse/index | NOTIC: [8] Use of undefined constant Coach - assumed 'Coach' ManageCourseAction.class.php 第 5 行.
+[ 2019-08-16T11:44:32+08:00 ] /abcTest/index.php/ManageCourse/index | SQL: SHOW COLUMNS FROM `t_coach` [ RunTime:0.009680s ]
+[ 2019-08-16T11:44:32+08:00 ] /abcTest/index.php/ManageCourse/index | SQL: SELECT `coaName` FROM `t_coach` WHERE coaID='2000001' LIMIT 1   [ RunTime:0.000576s ]
+[ 2019-08-16T11:44:32+08:00 ] /abcTest/index.php/ManageCourse/index | SQL: SELECT `coaRemarks` FROM `t_coach` WHERE coaID='2000001' LIMIT 1   [ RunTime:0.000625s ]
+[ 2019-08-16T11:44:32+08:00 ] /abcTest/index.php/ManageCourse/index | SQL: SELECT `courseID`,`courseName`,`courseContent`,`courseTime`,`courseArea`,`courseTeacher`,`coursePrice` FROM `t_course` WHERE courseTeacher ='马东' ORDER BY courseID asc  [ RunTime:0.000675s ]
+[ 2019-08-16T11:44:32+08:00 ] /abcTest/index.php/ManageCourse/index | INFO: Tag[ view_template ] --START--
+[ 2019-08-16T11:44:32+08:00 ] /abcTest/index.php/ManageCourse/index | INFO: Run LocationTemplate Behavior [ RunTime:0.003069s ]
+[ 2019-08-16T11:44:32+08:00 ] /abcTest/index.php/ManageCourse/index | INFO: Tag[ view_template ] --END-- [ RunTime:0.003355s ]
+[ 2019-08-16T11:44:32+08:00 ] /abcTest/index.php/ManageCourse/index | INFO: Tag[ view_parse ] --START--
+[ 2019-08-16T11:44:32+08:00 ] /abcTest/index.php/ManageCourse/index | NOTIC: [8] Use of undefined constant courseID - assumed 'courseID' 2cb7eb7235bcf3d8841ed55bf4e1e846.php 第 60 行.
+[ 2019-08-16T11:44:32+08:00 ] /abcTest/index.php/ManageCourse/index | INFO: Run ParseTemplate Behavior [ RunTime:0.026458s ]
+[ 2019-08-16T11:44:32+08:00 ] /abcTest/index.php/ManageCourse/index | INFO: Tag[ view_parse ] --END-- [ RunTime:0.026693s ]
+[ 2019-08-16T11:44:32+08:00 ] /abcTest/index.php/ManageCourse/index | INFO: Tag[ view_filter ] --START--
+[ 2019-08-16T11:44:32+08:00 ] /abcTest/index.php/ManageCourse/index | INFO: Run ContentReplace Behavior [ RunTime:0.001670s ]
+[ 2019-08-16T11:44:32+08:00 ] /abcTest/index.php/ManageCourse/index | INFO: Run TokenBuild Behavior [ RunTime:0.002288s ]
+[ 2019-08-16T11:44:32+08:00 ] /abcTest/index.php/ManageCourse/index | INFO: Run WriteHtmlCache Behavior [ RunTime:0.001738s ]
+[ 2019-08-16T11:44:32+08:00 ] /abcTest/index.php/ManageCourse/index | INFO: Run ShowRuntime Behavior [ RunTime:0.001920s ]
+[ 2019-08-16T11:44:32+08:00 ] /abcTest/index.php/ManageCourse/index | INFO: Tag[ view_filter ] --END-- [ RunTime:0.008227s ]
+[ 2019-08-16T11:44:32+08:00 ] /abcTest/index.php/ManageCourse/index | INFO: Tag[ view_end ] --START--
+[ 2019-08-16T11:44:32+08:00 ] /abcTest/index.php/ManageCourse/index | INFO: Run ShowPageTrace Behavior [ RunTime:0.001470s ]
+[ 2019-08-16T11:44:32+08:00 ] /abcTest/index.php/ManageCourse/index | INFO: Tag[ view_end ] --END-- [ RunTime:0.001725s ]
+[ 2019-08-16T13:52:50+08:00 ] /abcTest/index.php/Login/index | INFO: Tag[ route_check ] --START--
+[ 2019-08-16T13:52:50+08:00 ] /abcTest/index.php/Login/index | INFO: Run CheckRoute Behavior [ RunTime:0.001727s ]
+[ 2019-08-16T13:52:50+08:00 ] /abcTest/index.php/Login/index | INFO: Tag[ route_check ] --END-- [ RunTime:0.001947s ]
+[ 2019-08-16T13:52:50+08:00 ] /abcTest/index.php/Login/index | INFO: Tag[ app_begin ] --START--
+[ 2019-08-16T13:52:50+08:00 ] /abcTest/index.php/Login/index | INFO: Run ReadHtmlCache Behavior [ RunTime:0.001218s ]
+[ 2019-08-16T13:52:50+08:00 ] /abcTest/index.php/Login/index | INFO: Tag[ app_begin ] --END-- [ RunTime:0.001376s ]
+[ 2019-08-16T13:52:50+08:00 ] /abcTest/index.php/Login/index | INFO: Tag[ view_template ] --START--
+[ 2019-08-16T13:52:50+08:00 ] /abcTest/index.php/Login/index | INFO: Run LocationTemplate Behavior [ RunTime:0.001523s ]
+[ 2019-08-16T13:52:50+08:00 ] /abcTest/index.php/Login/index | INFO: Tag[ view_template ] --END-- [ RunTime:0.001694s ]
+[ 2019-08-16T13:52:50+08:00 ] /abcTest/index.php/Login/index | INFO: Tag[ view_parse ] --START--
+[ 2019-08-16T13:52:50+08:00 ] /abcTest/index.php/Login/index | INFO: Run ParseTemplate Behavior [ RunTime:0.014705s ]
+[ 2019-08-16T13:52:50+08:00 ] /abcTest/index.php/Login/index | INFO: Tag[ view_parse ] --END-- [ RunTime:0.014953s ]
+[ 2019-08-16T13:52:50+08:00 ] /abcTest/index.php/Login/index | INFO: Tag[ view_filter ] --START--
+[ 2019-08-16T13:52:50+08:00 ] /abcTest/index.php/Login/index | INFO: Run ContentReplace Behavior [ RunTime:0.001446s ]
+[ 2019-08-16T13:52:50+08:00 ] /abcTest/index.php/Login/index | INFO: Run TokenBuild Behavior [ RunTime:0.001305s ]
+[ 2019-08-16T13:52:50+08:00 ] /abcTest/index.php/Login/index | INFO: Run WriteHtmlCache Behavior [ RunTime:0.000813s ]
+[ 2019-08-16T13:52:50+08:00 ] /abcTest/index.php/Login/index | INFO: Run ShowRuntime Behavior [ RunTime:0.001562s ]
+[ 2019-08-16T13:52:50+08:00 ] /abcTest/index.php/Login/index | INFO: Tag[ view_filter ] --END-- [ RunTime:0.005662s ]
+[ 2019-08-16T13:52:50+08:00 ] /abcTest/index.php/Login/index | INFO: Tag[ view_end ] --START--
+[ 2019-08-16T13:52:50+08:00 ] /abcTest/index.php/Login/index | INFO: Run ShowPageTrace Behavior [ RunTime:0.001436s ]
+[ 2019-08-16T13:52:50+08:00 ] /abcTest/index.php/Login/index | INFO: Tag[ view_end ] --END-- [ RunTime:0.001624s ]
+[ 2019-08-16T13:53:43+08:00 ] /abcTest/index.php/Login/index | INFO: Tag[ route_check ] --START--
+[ 2019-08-16T13:53:43+08:00 ] /abcTest/index.php/Login/index | INFO: Run CheckRoute Behavior [ RunTime:0.001984s ]
+[ 2019-08-16T13:53:43+08:00 ] /abcTest/index.php/Login/index | INFO: Tag[ route_check ] --END-- [ RunTime:0.002193s ]
+[ 2019-08-16T13:53:43+08:00 ] /abcTest/index.php/Login/index | INFO: Tag[ app_begin ] --START--
+[ 2019-08-16T13:53:43+08:00 ] /abcTest/index.php/Login/index | INFO: Run ReadHtmlCache Behavior [ RunTime:0.002463s ]
+[ 2019-08-16T13:53:43+08:00 ] /abcTest/index.php/Login/index | INFO: Tag[ app_begin ] --END-- [ RunTime:0.002687s ]
+[ 2019-08-16T13:53:43+08:00 ] /abcTest/index.php/Login/index | INFO: Tag[ view_template ] --START--
+[ 2019-08-16T13:53:43+08:00 ] /abcTest/index.php/Login/index | INFO: Run LocationTemplate Behavior [ RunTime:0.002071s ]
+[ 2019-08-16T13:53:43+08:00 ] /abcTest/index.php/Login/index | INFO: Tag[ view_template ] --END-- [ RunTime:0.002259s ]
+[ 2019-08-16T13:53:43+08:00 ] /abcTest/index.php/Login/index | INFO: Tag[ view_parse ] --START--
+[ 2019-08-16T13:53:44+08:00 ] /abcTest/index.php/Login/index | INFO: Run ParseTemplate Behavior [ RunTime:0.015717s ]
+[ 2019-08-16T13:53:44+08:00 ] /abcTest/index.php/Login/index | INFO: Tag[ view_parse ] --END-- [ RunTime:0.015923s ]
+[ 2019-08-16T13:53:44+08:00 ] /abcTest/index.php/Login/index | INFO: Tag[ view_filter ] --START--
+[ 2019-08-16T13:53:44+08:00 ] /abcTest/index.php/Login/index | INFO: Run ContentReplace Behavior [ RunTime:0.001365s ]
+[ 2019-08-16T13:53:44+08:00 ] /abcTest/index.php/Login/index | INFO: Run TokenBuild Behavior [ RunTime:0.001409s ]
+[ 2019-08-16T13:53:44+08:00 ] /abcTest/index.php/Login/index | INFO: Run WriteHtmlCache Behavior [ RunTime:0.000948s ]
+[ 2019-08-16T13:53:44+08:00 ] /abcTest/index.php/Login/index | INFO: Run ShowRuntime Behavior [ RunTime:0.001400s ]
+[ 2019-08-16T13:53:44+08:00 ] /abcTest/index.php/Login/index | INFO: Tag[ view_filter ] --END-- [ RunTime:0.005576s ]
+[ 2019-08-16T13:53:44+08:00 ] /abcTest/index.php/Login/index | INFO: Tag[ view_end ] --START--
+[ 2019-08-16T13:53:44+08:00 ] /abcTest/index.php/Login/index | INFO: Run ShowPageTrace Behavior [ RunTime:0.001249s ]
+[ 2019-08-16T13:53:44+08:00 ] /abcTest/index.php/Login/index | INFO: Tag[ view_end ] --END-- [ RunTime:0.001413s ]
+[ 2019-08-16T13:54:06+08:00 ] /abcTest/index.php/Login/checkLogin | INFO: Tag[ route_check ] --START--
+[ 2019-08-16T13:54:06+08:00 ] /abcTest/index.php/Login/checkLogin | INFO: Run CheckRoute Behavior [ RunTime:0.002892s ]
+[ 2019-08-16T13:54:06+08:00 ] /abcTest/index.php/Login/checkLogin | INFO: Tag[ route_check ] --END-- [ RunTime:0.003181s ]
+[ 2019-08-16T13:54:06+08:00 ] /abcTest/index.php/Login/checkLogin | INFO: Tag[ app_begin ] --START--
+[ 2019-08-16T13:54:06+08:00 ] /abcTest/index.php/Login/checkLogin | INFO: Run ReadHtmlCache Behavior [ RunTime:0.002406s ]
+[ 2019-08-16T13:54:06+08:00 ] /abcTest/index.php/Login/checkLogin | INFO: Tag[ app_begin ] --END-- [ RunTime:0.002827s ]
+[ 2019-08-16T13:54:06+08:00 ] /abcTest/index.php/Login/checkLogin | SQL: SHOW COLUMNS FROM `t_user` [ RunTime:0.011098s ]
+[ 2019-08-16T13:54:06+08:00 ] /abcTest/index.php/Login/checkLogin | SQL: SELECT * FROM `t_user` WHERE userId ='100002' LIMIT 1   [ RunTime:0.000795s ]
+[ 2019-08-16T13:54:06+08:00 ] /abcTest/index.php/Login/checkLogin | SQL: SELECT `userRole` FROM `t_user` WHERE userId ='100002' LIMIT 1   [ RunTime:0.000620s ]
+[ 2019-08-16T13:54:06+08:00 ] /abcTest/index.php/Login/checkLogin | INFO: Tag[ view_template ] --START--
+[ 2019-08-16T13:54:06+08:00 ] /abcTest/index.php/Login/checkLogin | INFO: Run LocationTemplate Behavior [ RunTime:0.008597s ]
+[ 2019-08-16T13:54:06+08:00 ] /abcTest/index.php/Login/checkLogin | INFO: Tag[ view_template ] --END-- [ RunTime:0.008914s ]
+[ 2019-08-16T13:54:06+08:00 ] /abcTest/index.php/Login/checkLogin | INFO: Tag[ view_parse ] --START--
+[ 2019-08-16T13:54:06+08:00 ] /abcTest/index.php/Login/checkLogin | INFO: Run ParseTemplate Behavior [ RunTime:0.026309s ]
+[ 2019-08-16T13:54:06+08:00 ] /abcTest/index.php/Login/checkLogin | INFO: Tag[ view_parse ] --END-- [ RunTime:0.026596s ]
+[ 2019-08-16T13:54:06+08:00 ] /abcTest/index.php/Login/checkLogin | INFO: Tag[ view_filter ] --START--
+[ 2019-08-16T13:54:06+08:00 ] /abcTest/index.php/Login/checkLogin | INFO: Run ContentReplace Behavior [ RunTime:0.001980s ]
+[ 2019-08-16T13:54:06+08:00 ] /abcTest/index.php/Login/checkLogin | INFO: Run TokenBuild Behavior [ RunTime:0.003888s ]
+[ 2019-08-16T13:54:06+08:00 ] /abcTest/index.php/Login/checkLogin | INFO: Run WriteHtmlCache Behavior [ RunTime:0.001651s ]
+[ 2019-08-16T13:54:06+08:00 ] /abcTest/index.php/Login/checkLogin | INFO: Run ShowRuntime Behavior [ RunTime:0.001886s ]
+[ 2019-08-16T13:54:06+08:00 ] /abcTest/index.php/Login/checkLogin | INFO: Tag[ view_filter ] --END-- [ RunTime:0.010148s ]
+[ 2019-08-16T13:54:06+08:00 ] /abcTest/index.php/Login/checkLogin | INFO: Tag[ view_end ] --START--
+[ 2019-08-16T13:54:06+08:00 ] /abcTest/index.php/Login/checkLogin | INFO: Run ShowPageTrace Behavior [ RunTime:0.001676s ]
+[ 2019-08-16T13:54:06+08:00 ] /abcTest/index.php/Login/checkLogin | INFO: Tag[ view_end ] --END-- [ RunTime:0.001863s ]
+[ 2019-08-16T13:54:06+08:00 ] /abcTest/index.php/Login/checkLogin | NOTIC: [8] Use of undefined constant username - assumed 'username' LoginAction.class.php 第 32 行.
+[ 2019-08-16T13:54:10+08:00 ] /abcTest/index.php/UserIndex/index | INFO: Tag[ route_check ] --START--
+[ 2019-08-16T13:54:10+08:00 ] /abcTest/index.php/UserIndex/index | INFO: Run CheckRoute Behavior [ RunTime:0.001834s ]
+[ 2019-08-16T13:54:10+08:00 ] /abcTest/index.php/UserIndex/index | INFO: Tag[ route_check ] --END-- [ RunTime:0.002045s ]
+[ 2019-08-16T13:54:10+08:00 ] /abcTest/index.php/UserIndex/index | INFO: Tag[ app_begin ] --START--
+[ 2019-08-16T13:54:10+08:00 ] /abcTest/index.php/UserIndex/index | INFO: Run ReadHtmlCache Behavior [ RunTime:0.001576s ]
+[ 2019-08-16T13:54:10+08:00 ] /abcTest/index.php/UserIndex/index | INFO: Tag[ app_begin ] --END-- [ RunTime:0.001737s ]
+[ 2019-08-16T13:54:10+08:00 ] /abcTest/index.php/UserIndex/index | NOTIC: [8] Use of undefined constant Course - assumed 'Course' UserIndexAction.class.php 第 6 行.
+[ 2019-08-16T13:54:10+08:00 ] /abcTest/index.php/UserIndex/index | SQL: SHOW COLUMNS FROM `t_course` [ RunTime:0.007311s ]
+[ 2019-08-16T13:54:10+08:00 ] /abcTest/index.php/UserIndex/index | NOTIC: [8] Use of undefined constant Member - assumed 'Member' UserIndexAction.class.php 第 7 行.
+[ 2019-08-16T13:54:10+08:00 ] /abcTest/index.php/UserIndex/index | SQL: SHOW COLUMNS FROM `t_member` [ RunTime:0.009209s ]
+[ 2019-08-16T13:54:10+08:00 ] /abcTest/index.php/UserIndex/index | SQL: select t_consume.courseID,courseName,courseTime,courseArea,courseTeacher,coursePrice,memRemarks,cardDiscount,t_card.cardID from t_course,t_member,t_consume,t_card where t_member.memId=t_consume.userID and t_consume.courseID=t_course.courseID and t_member.vipCardId=t_card.cardID and t_consume.userID='100002' [ RunTime:0.000910s ]
+[ 2019-08-16T13:54:10+08:00 ] /abcTest/index.php/UserIndex/index | SQL: select courseID,courseName,courseTime,courseArea,courseTeacher,coursePrice from t_course [ RunTime:0.000382s ]
+[ 2019-08-16T13:54:10+08:00 ] /abcTest/index.php/UserIndex/index | SQL: select memName,memTel from t_member where memId='100002' [ RunTime:0.000394s ]
+[ 2019-08-16T13:54:10+08:00 ] /abcTest/index.php/UserIndex/index | INFO: Tag[ view_template ] --START--
+[ 2019-08-16T13:54:10+08:00 ] /abcTest/index.php/UserIndex/index | INFO: Run LocationTemplate Behavior [ RunTime:0.002252s ]
+[ 2019-08-16T13:54:10+08:00 ] /abcTest/index.php/UserIndex/index | INFO: Tag[ view_template ] --END-- [ RunTime:0.002433s ]
+[ 2019-08-16T13:54:10+08:00 ] /abcTest/index.php/UserIndex/index | INFO: Tag[ view_parse ] --START--
+[ 2019-08-16T13:54:10+08:00 ] /abcTest/index.php/UserIndex/index | INFO: Run ParseTemplate Behavior [ RunTime:0.033350s ]
+[ 2019-08-16T13:54:10+08:00 ] /abcTest/index.php/UserIndex/index | INFO: Tag[ view_parse ] --END-- [ RunTime:0.033556s ]
+[ 2019-08-16T13:54:10+08:00 ] /abcTest/index.php/UserIndex/index | INFO: Tag[ view_filter ] --START--
+[ 2019-08-16T13:54:10+08:00 ] /abcTest/index.php/UserIndex/index | INFO: Run ContentReplace Behavior [ RunTime:0.001639s ]
+[ 2019-08-16T13:54:10+08:00 ] /abcTest/index.php/UserIndex/index | INFO: Run TokenBuild Behavior [ RunTime:0.001735s ]
+[ 2019-08-16T13:54:10+08:00 ] /abcTest/index.php/UserIndex/index | INFO: Run WriteHtmlCache Behavior [ RunTime:0.001307s ]
+[ 2019-08-16T13:54:10+08:00 ] /abcTest/index.php/UserIndex/index | INFO: Run ShowRuntime Behavior [ RunTime:0.001525s ]
+[ 2019-08-16T13:54:10+08:00 ] /abcTest/index.php/UserIndex/index | INFO: Tag[ view_filter ] --END-- [ RunTime:0.006686s ]
+[ 2019-08-16T13:54:10+08:00 ] /abcTest/index.php/UserIndex/index | INFO: Tag[ view_end ] --START--
+[ 2019-08-16T13:54:10+08:00 ] /abcTest/index.php/UserIndex/index | INFO: Run ShowPageTrace Behavior [ RunTime:0.001165s ]
+[ 2019-08-16T13:54:10+08:00 ] /abcTest/index.php/UserIndex/index | INFO: Tag[ view_end ] --END-- [ RunTime:0.001314s ]
+[ 2019-08-16T13:54:14+08:00 ] /abcTest/index.php/js/app.js | ERR: (ThinkException) 无法加载模块js
+[ 2019-08-16T13:54:15+08:00 ] /abcTest/index.php/js/index.js | ERR: (ThinkException) 无法加载模块js
+[ 2019-08-16T13:54:49+08:00 ] /abcTest/index.php/UserIndex/show | INFO: Tag[ route_check ] --START--
+[ 2019-08-16T13:54:49+08:00 ] /abcTest/index.php/UserIndex/show | INFO: Run CheckRoute Behavior [ RunTime:0.002064s ]
+[ 2019-08-16T13:54:49+08:00 ] /abcTest/index.php/UserIndex/show | INFO: Tag[ route_check ] --END-- [ RunTime:0.002289s ]
+[ 2019-08-16T13:54:49+08:00 ] /abcTest/index.php/UserIndex/show | INFO: Tag[ app_begin ] --START--
+[ 2019-08-16T13:54:49+08:00 ] /abcTest/index.php/UserIndex/show | INFO: Run ReadHtmlCache Behavior [ RunTime:0.001568s ]
+[ 2019-08-16T13:54:49+08:00 ] /abcTest/index.php/UserIndex/show | INFO: Tag[ app_begin ] --END-- [ RunTime:0.001726s ]
+[ 2019-08-16T13:54:49+08:00 ] /abcTest/index.php/UserIndex/show | NOTIC: [8] Use of undefined constant Consume - assumed 'Consume' UserIndexAction.class.php 第 114 行.
+[ 2019-08-16T13:54:49+08:00 ] /abcTest/index.php/UserIndex/show | SQL: SHOW COLUMNS FROM `t_consume` [ RunTime:0.009906s ]
+[ 2019-08-16T13:54:49+08:00 ] /abcTest/index.php/UserIndex/show | SQL: SELECT DATE_FORMAT( consumeTime,  '%Y-%m' ) AS TIME, SUM( price ) 
+        FROM t_consume, t_course
+        WHERE t_course.courseID = t_consume.courseID
+        AND userID =  '100002'
+        GROUP BY TIME [ RunTime:0.001277s ]
+[ 2019-08-16T13:54:55+08:00 ] /abcTest/index.php/UserIndex/showDetail | INFO: Tag[ route_check ] --START--
+[ 2019-08-16T13:54:55+08:00 ] /abcTest/index.php/UserIndex/showDetail | INFO: Run CheckRoute Behavior [ RunTime:0.001940s ]
+[ 2019-08-16T13:54:55+08:00 ] /abcTest/index.php/UserIndex/showDetail | INFO: Tag[ route_check ] --END-- [ RunTime:0.002150s ]
+[ 2019-08-16T13:54:55+08:00 ] /abcTest/index.php/UserIndex/showDetail | INFO: Tag[ app_begin ] --START--
+[ 2019-08-16T13:54:55+08:00 ] /abcTest/index.php/UserIndex/showDetail | INFO: Run ReadHtmlCache Behavior [ RunTime:0.001398s ]
+[ 2019-08-16T13:54:55+08:00 ] /abcTest/index.php/UserIndex/showDetail | INFO: Tag[ app_begin ] --END-- [ RunTime:0.001548s ]
+[ 2019-08-16T13:54:55+08:00 ] /abcTest/index.php/UserIndex/showDetail | NOTIC: [8] Use of undefined constant Consume - assumed 'Consume' UserIndexAction.class.php 第 125 行.
+[ 2019-08-16T13:54:55+08:00 ] /abcTest/index.php/UserIndex/showDetail | SQL: SHOW COLUMNS FROM `t_consume` [ RunTime:0.007062s ]
+[ 2019-08-16T13:54:55+08:00 ] /abcTest/index.php/UserIndex/showDetail | SQL: SELECT courseName, price, DATE_FORMAT( consumeTime,  '%Y-%m-%d' ) as cTime
+        FROM t_consume, t_course
+        WHERE t_consume.courseID = t_course.courseID
+        AND DATE_FORMAT( consumeTime,  '%Y-%m' ) =  '2019-08'
+        AND userID =  '100002' [ RunTime:0.000587s ]
+[ 2019-08-16T17:57:03+08:00 ] /abcTest/index.php/UserIndex/index | INFO: Tag[ route_check ] --START--
+[ 2019-08-16T17:57:03+08:00 ] /abcTest/index.php/UserIndex/index | INFO: Run CheckRoute Behavior [ RunTime:0.001700s ]
+[ 2019-08-16T17:57:03+08:00 ] /abcTest/index.php/UserIndex/index | INFO: Tag[ route_check ] --END-- [ RunTime:0.001904s ]
+[ 2019-08-16T17:57:03+08:00 ] /abcTest/index.php/UserIndex/index | INFO: Tag[ app_begin ] --START--
+[ 2019-08-16T17:57:03+08:00 ] /abcTest/index.php/UserIndex/index | INFO: Run ReadHtmlCache Behavior [ RunTime:0.001218s ]
+[ 2019-08-16T17:57:03+08:00 ] /abcTest/index.php/UserIndex/index | INFO: Tag[ app_begin ] --END-- [ RunTime:0.001377s ]
+[ 2019-08-16T17:57:03+08:00 ] /abcTest/index.php/UserIndex/index | NOTIC: [8] Use of undefined constant Course - assumed 'Course' UserIndexAction.class.php 第 6 行.
+[ 2019-08-16T17:57:03+08:00 ] /abcTest/index.php/UserIndex/index | SQL: SHOW COLUMNS FROM `t_course` [ RunTime:0.008130s ]
+[ 2019-08-16T17:57:03+08:00 ] /abcTest/index.php/UserIndex/index | NOTIC: [8] Use of undefined constant Member - assumed 'Member' UserIndexAction.class.php 第 7 行.
+[ 2019-08-16T17:57:03+08:00 ] /abcTest/index.php/UserIndex/index | SQL: SHOW COLUMNS FROM `t_member` [ RunTime:0.009506s ]
+[ 2019-08-16T17:57:03+08:00 ] /abcTest/index.php/UserIndex/index | SQL: select t_consume.courseID,courseName,courseTime,courseArea,courseTeacher,coursePrice,memRemarks,cardDiscount,t_card.cardID from t_course,t_member,t_consume,t_card where t_member.memId=t_consume.userID and t_consume.courseID=t_course.courseID and t_member.vipCardId=t_card.cardID and t_consume.userID='100002' [ RunTime:0.001244s ]
+[ 2019-08-16T17:57:03+08:00 ] /abcTest/index.php/UserIndex/index | SQL: select courseID,courseName,courseTime,courseArea,courseTeacher,coursePrice from t_course [ RunTime:0.000620s ]
+[ 2019-08-16T17:57:03+08:00 ] /abcTest/index.php/UserIndex/index | SQL: select memName,memTel from t_member where memId='100002' [ RunTime:0.000246s ]
+[ 2019-08-16T17:57:03+08:00 ] /abcTest/index.php/UserIndex/index | INFO: Tag[ view_template ] --START--
+[ 2019-08-16T17:57:03+08:00 ] /abcTest/index.php/UserIndex/index | INFO: Run LocationTemplate Behavior [ RunTime:0.002065s ]
+[ 2019-08-16T17:57:03+08:00 ] /abcTest/index.php/UserIndex/index | INFO: Tag[ view_template ] --END-- [ RunTime:0.002251s ]
+[ 2019-08-16T17:57:03+08:00 ] /abcTest/index.php/UserIndex/index | INFO: Tag[ view_parse ] --START--
+[ 2019-08-16T17:57:03+08:00 ] /abcTest/index.php/UserIndex/index | INFO: Run ParseTemplate Behavior [ RunTime:0.029121s ]
+[ 2019-08-16T17:57:03+08:00 ] /abcTest/index.php/UserIndex/index | INFO: Tag[ view_parse ] --END-- [ RunTime:0.029357s ]
+[ 2019-08-16T17:57:03+08:00 ] /abcTest/index.php/UserIndex/index | INFO: Tag[ view_filter ] --START--
+[ 2019-08-16T17:57:03+08:00 ] /abcTest/index.php/UserIndex/index | INFO: Run ContentReplace Behavior [ RunTime:0.001432s ]
+[ 2019-08-16T17:57:03+08:00 ] /abcTest/index.php/UserIndex/index | INFO: Run TokenBuild Behavior [ RunTime:0.001412s ]
+[ 2019-08-16T17:57:03+08:00 ] /abcTest/index.php/UserIndex/index | INFO: Run WriteHtmlCache Behavior [ RunTime:0.000833s ]
+[ 2019-08-16T17:57:03+08:00 ] /abcTest/index.php/UserIndex/index | INFO: Run ShowRuntime Behavior [ RunTime:0.001436s ]
+[ 2019-08-16T17:57:03+08:00 ] /abcTest/index.php/UserIndex/index | INFO: Tag[ view_filter ] --END-- [ RunTime:0.005625s ]
+[ 2019-08-16T17:57:03+08:00 ] /abcTest/index.php/UserIndex/index | INFO: Tag[ view_end ] --START--
+[ 2019-08-16T17:57:03+08:00 ] /abcTest/index.php/UserIndex/index | INFO: Run ShowPageTrace Behavior [ RunTime:0.001800s ]
+[ 2019-08-16T17:57:03+08:00 ] /abcTest/index.php/UserIndex/index | INFO: Tag[ view_end ] --END-- [ RunTime:0.001991s ]
+[ 2019-08-16T17:57:08+08:00 ] /abcTest/index.php/js/index.js | ERR: (ThinkException) 无法加载模块js
+[ 2019-08-16T17:57:09+08:00 ] /abcTest/index.php/js/app.js | ERR: (ThinkException) 无法加载模块js
+[ 2019-08-16T17:57:30+08:00 ] /abcTest/index.php/Login/index | INFO: Tag[ route_check ] --START--
+[ 2019-08-16T17:57:30+08:00 ] /abcTest/index.php/Login/index | INFO: Run CheckRoute Behavior [ RunTime:0.001605s ]
+[ 2019-08-16T17:57:30+08:00 ] /abcTest/index.php/Login/index | INFO: Tag[ route_check ] --END-- [ RunTime:0.001925s ]
+[ 2019-08-16T17:57:30+08:00 ] /abcTest/index.php/Login/index | INFO: Tag[ app_begin ] --START--
+[ 2019-08-16T17:57:30+08:00 ] /abcTest/index.php/Login/index | INFO: Run ReadHtmlCache Behavior [ RunTime:0.001860s ]
+[ 2019-08-16T17:57:30+08:00 ] /abcTest/index.php/Login/index | INFO: Tag[ app_begin ] --END-- [ RunTime:0.002078s ]
+[ 2019-08-16T17:57:30+08:00 ] /abcTest/index.php/Login/index | INFO: Tag[ view_template ] --START--
+[ 2019-08-16T17:57:30+08:00 ] /abcTest/index.php/Login/index | INFO: Run LocationTemplate Behavior [ RunTime:0.001727s ]
+[ 2019-08-16T17:57:30+08:00 ] /abcTest/index.php/Login/index | INFO: Tag[ view_template ] --END-- [ RunTime:0.001929s ]
+[ 2019-08-16T17:57:30+08:00 ] /abcTest/index.php/Login/index | INFO: Tag[ view_parse ] --START--
+[ 2019-08-16T17:57:30+08:00 ] /abcTest/index.php/Login/index | INFO: Run ParseTemplate Behavior [ RunTime:0.015295s ]
+[ 2019-08-16T17:57:30+08:00 ] /abcTest/index.php/Login/index | INFO: Tag[ view_parse ] --END-- [ RunTime:0.015537s ]
+[ 2019-08-16T17:57:30+08:00 ] /abcTest/index.php/Login/index | INFO: Tag[ view_filter ] --START--
+[ 2019-08-16T17:57:30+08:00 ] /abcTest/index.php/Login/index | INFO: Run ContentReplace Behavior [ RunTime:0.001209s ]
+[ 2019-08-16T17:57:30+08:00 ] /abcTest/index.php/Login/index | INFO: Run TokenBuild Behavior [ RunTime:0.002037s ]
+[ 2019-08-16T17:57:30+08:00 ] /abcTest/index.php/Login/index | INFO: Run WriteHtmlCache Behavior [ RunTime:0.000957s ]
+[ 2019-08-16T17:57:30+08:00 ] /abcTest/index.php/Login/index | INFO: Run ShowRuntime Behavior [ RunTime:0.001539s ]
+[ 2019-08-16T17:57:30+08:00 ] /abcTest/index.php/Login/index | INFO: Tag[ view_filter ] --END-- [ RunTime:0.006447s ]
+[ 2019-08-16T17:57:30+08:00 ] /abcTest/index.php/Login/index | INFO: Tag[ view_end ] --START--
+[ 2019-08-16T17:57:30+08:00 ] /abcTest/index.php/Login/index | INFO: Run ShowPageTrace Behavior [ RunTime:0.001551s ]
+[ 2019-08-16T17:57:30+08:00 ] /abcTest/index.php/Login/index | INFO: Tag[ view_end ] --END-- [ RunTime:0.001724s ]
+[ 2019-08-16T17:57:44+08:00 ] /abcTest/index.php/Login/index | INFO: Tag[ route_check ] --START--
+[ 2019-08-16T17:57:44+08:00 ] /abcTest/index.php/Login/index | INFO: Run CheckRoute Behavior [ RunTime:0.001322s ]
+[ 2019-08-16T17:57:44+08:00 ] /abcTest/index.php/Login/index | INFO: Tag[ route_check ] --END-- [ RunTime:0.001603s ]
+[ 2019-08-16T17:57:44+08:00 ] /abcTest/index.php/Login/index | INFO: Tag[ app_begin ] --START--
+[ 2019-08-16T17:57:44+08:00 ] /abcTest/index.php/Login/index | INFO: Run ReadHtmlCache Behavior [ RunTime:0.001055s ]
+[ 2019-08-16T17:57:44+08:00 ] /abcTest/index.php/Login/index | INFO: Tag[ app_begin ] --END-- [ RunTime:0.001224s ]
+[ 2019-08-16T17:57:44+08:00 ] /abcTest/index.php/Login/index | INFO: Tag[ view_template ] --START--
+[ 2019-08-16T17:57:44+08:00 ] /abcTest/index.php/Login/index | INFO: Run LocationTemplate Behavior [ RunTime:0.001334s ]
+[ 2019-08-16T17:57:44+08:00 ] /abcTest/index.php/Login/index | INFO: Tag[ view_template ] --END-- [ RunTime:0.001504s ]
+[ 2019-08-16T17:57:44+08:00 ] /abcTest/index.php/Login/index | INFO: Tag[ view_parse ] --START--
+[ 2019-08-16T17:57:44+08:00 ] /abcTest/index.php/Login/index | INFO: Run ParseTemplate Behavior [ RunTime:0.011554s ]
+[ 2019-08-16T17:57:44+08:00 ] /abcTest/index.php/Login/index | INFO: Tag[ view_parse ] --END-- [ RunTime:0.011752s ]
+[ 2019-08-16T17:57:44+08:00 ] /abcTest/index.php/Login/index | INFO: Tag[ view_filter ] --START--
+[ 2019-08-16T17:57:44+08:00 ] /abcTest/index.php/Login/index | INFO: Run ContentReplace Behavior [ RunTime:0.000663s ]
+[ 2019-08-16T17:57:44+08:00 ] /abcTest/index.php/Login/index | INFO: Run TokenBuild Behavior [ RunTime:0.000800s ]
+[ 2019-08-16T17:57:44+08:00 ] /abcTest/index.php/Login/index | INFO: Run WriteHtmlCache Behavior [ RunTime:0.000471s ]
+[ 2019-08-16T17:57:44+08:00 ] /abcTest/index.php/Login/index | INFO: Run ShowRuntime Behavior [ RunTime:0.000974s ]
+[ 2019-08-16T17:57:44+08:00 ] /abcTest/index.php/Login/index | INFO: Tag[ view_filter ] --END-- [ RunTime:0.003387s ]
+[ 2019-08-16T17:57:44+08:00 ] /abcTest/index.php/Login/index | INFO: Tag[ view_end ] --START--
+[ 2019-08-16T17:57:44+08:00 ] /abcTest/index.php/Login/index | INFO: Run ShowPageTrace Behavior [ RunTime:0.000966s ]
+[ 2019-08-16T17:57:44+08:00 ] /abcTest/index.php/Login/index | INFO: Tag[ view_end ] --END-- [ RunTime:0.001132s ]
+[ 2019-08-16T18:35:46+08:00 ] /abcTest/index.php/Login/index | INFO: Tag[ route_check ] --START--
+[ 2019-08-16T18:35:46+08:00 ] /abcTest/index.php/Login/index | INFO: Run CheckRoute Behavior [ RunTime:0.002309s ]
+[ 2019-08-16T18:35:46+08:00 ] /abcTest/index.php/Login/index | INFO: Tag[ route_check ] --END-- [ RunTime:0.002518s ]
+[ 2019-08-16T18:35:46+08:00 ] /abcTest/index.php/Login/index | INFO: Tag[ app_begin ] --START--
+[ 2019-08-16T18:35:46+08:00 ] /abcTest/index.php/Login/index | INFO: Run ReadHtmlCache Behavior [ RunTime:0.003242s ]
+[ 2019-08-16T18:35:46+08:00 ] /abcTest/index.php/Login/index | INFO: Tag[ app_begin ] --END-- [ RunTime:0.003507s ]
+[ 2019-08-16T18:35:46+08:00 ] /abcTest/index.php/Login/index | INFO: Tag[ view_template ] --START--
+[ 2019-08-16T18:35:46+08:00 ] /abcTest/index.php/Login/index | INFO: Run LocationTemplate Behavior [ RunTime:0.003236s ]
+[ 2019-08-16T18:35:46+08:00 ] /abcTest/index.php/Login/index | INFO: Tag[ view_template ] --END-- [ RunTime:0.003548s ]
+[ 2019-08-16T18:35:46+08:00 ] /abcTest/index.php/Login/index | INFO: Tag[ view_parse ] --START--
+[ 2019-08-16T18:35:46+08:00 ] /abcTest/index.php/Login/index | INFO: Run ParseTemplate Behavior [ RunTime:0.019403s ]
+[ 2019-08-16T18:35:46+08:00 ] /abcTest/index.php/Login/index | INFO: Tag[ view_parse ] --END-- [ RunTime:0.019628s ]
+[ 2019-08-16T18:35:46+08:00 ] /abcTest/index.php/Login/index | INFO: Tag[ view_filter ] --START--
+[ 2019-08-16T18:35:46+08:00 ] /abcTest/index.php/Login/index | INFO: Run ContentReplace Behavior [ RunTime:0.001632s ]
+[ 2019-08-16T18:35:46+08:00 ] /abcTest/index.php/Login/index | INFO: Run TokenBuild Behavior [ RunTime:0.002759s ]
+[ 2019-08-16T18:35:46+08:00 ] /abcTest/index.php/Login/index | INFO: Run WriteHtmlCache Behavior [ RunTime:0.002327s ]
+[ 2019-08-16T18:35:46+08:00 ] /abcTest/index.php/Login/index | INFO: Run ShowRuntime Behavior [ RunTime:0.002084s ]
+[ 2019-08-16T18:35:46+08:00 ] /abcTest/index.php/Login/index | INFO: Tag[ view_filter ] --END-- [ RunTime:0.009482s ]
+[ 2019-08-16T18:35:46+08:00 ] /abcTest/index.php/Login/index | INFO: Tag[ view_end ] --START--
+[ 2019-08-16T18:35:47+08:00 ] /abcTest/index.php/Login/index | INFO: Run ShowPageTrace Behavior [ RunTime:0.001559s ]
+[ 2019-08-16T18:35:47+08:00 ] /abcTest/index.php/Login/index | INFO: Tag[ view_end ] --END-- [ RunTime:0.001730s ]
+[ 2019-08-16T18:35:55+08:00 ] /abcTest/index.php/Login/checkLogin | INFO: Tag[ route_check ] --START--
+[ 2019-08-16T18:35:55+08:00 ] /abcTest/index.php/Login/checkLogin | INFO: Run CheckRoute Behavior [ RunTime:0.002489s ]
+[ 2019-08-16T18:35:55+08:00 ] /abcTest/index.php/Login/checkLogin | INFO: Tag[ route_check ] --END-- [ RunTime:0.002751s ]
+[ 2019-08-16T18:35:55+08:00 ] /abcTest/index.php/Login/checkLogin | INFO: Tag[ app_begin ] --START--
+[ 2019-08-16T18:35:55+08:00 ] /abcTest/index.php/Login/checkLogin | INFO: Run ReadHtmlCache Behavior [ RunTime:0.002106s ]
+[ 2019-08-16T18:35:55+08:00 ] /abcTest/index.php/Login/checkLogin | INFO: Tag[ app_begin ] --END-- [ RunTime:0.002319s ]
+[ 2019-08-16T18:35:55+08:00 ] /abcTest/index.php/Login/checkLogin | SQL: SHOW COLUMNS FROM `t_user` [ RunTime:0.006370s ]
+[ 2019-08-16T18:35:55+08:00 ] /abcTest/index.php/Login/checkLogin | SQL: SELECT * FROM `t_user` WHERE userId ='777' LIMIT 1   [ RunTime:0.000765s ]
+[ 2019-08-16T18:35:55+08:00 ] /abcTest/index.php/Login/checkLogin | SQL: SELECT `userRole` FROM `t_user` WHERE userId ='777' LIMIT 1   [ RunTime:0.000574s ]
+[ 2019-08-16T18:35:55+08:00 ] /abcTest/index.php/Login/checkLogin | INFO: Tag[ view_template ] --START--
+[ 2019-08-16T18:35:55+08:00 ] /abcTest/index.php/Login/checkLogin | INFO: Run LocationTemplate Behavior [ RunTime:0.009671s ]
+[ 2019-08-16T18:35:55+08:00 ] /abcTest/index.php/Login/checkLogin | INFO: Tag[ view_template ] --END-- [ RunTime:0.009891s ]
+[ 2019-08-16T18:35:55+08:00 ] /abcTest/index.php/Login/checkLogin | INFO: Tag[ view_parse ] --START--
+[ 2019-08-16T18:35:55+08:00 ] /abcTest/index.php/Login/checkLogin | INFO: Run ParseTemplate Behavior [ RunTime:0.022696s ]
+[ 2019-08-16T18:35:55+08:00 ] /abcTest/index.php/Login/checkLogin | INFO: Tag[ view_parse ] --END-- [ RunTime:0.022916s ]
+[ 2019-08-16T18:35:55+08:00 ] /abcTest/index.php/Login/checkLogin | INFO: Tag[ view_filter ] --START--
+[ 2019-08-16T18:35:55+08:00 ] /abcTest/index.php/Login/checkLogin | INFO: Run ContentReplace Behavior [ RunTime:0.001616s ]
+[ 2019-08-16T18:35:55+08:00 ] /abcTest/index.php/Login/checkLogin | INFO: Run TokenBuild Behavior [ RunTime:0.001411s ]
+[ 2019-08-16T18:35:55+08:00 ] /abcTest/index.php/Login/checkLogin | INFO: Run WriteHtmlCache Behavior [ RunTime:0.001592s ]
+[ 2019-08-16T18:35:55+08:00 ] /abcTest/index.php/Login/checkLogin | INFO: Run ShowRuntime Behavior [ RunTime:0.001919s ]
+[ 2019-08-16T18:35:55+08:00 ] /abcTest/index.php/Login/checkLogin | INFO: Tag[ view_filter ] --END-- [ RunTime:0.007039s ]
+[ 2019-08-16T18:35:55+08:00 ] /abcTest/index.php/Login/checkLogin | INFO: Tag[ view_end ] --START--
+[ 2019-08-16T18:35:55+08:00 ] /abcTest/index.php/Login/checkLogin | INFO: Run ShowPageTrace Behavior [ RunTime:0.001543s ]
+[ 2019-08-16T18:35:55+08:00 ] /abcTest/index.php/Login/checkLogin | INFO: Tag[ view_end ] --END-- [ RunTime:0.001720s ]
+[ 2019-08-16T18:35:55+08:00 ] /abcTest/index.php/Login/checkLogin | NOTIC: [8] Use of undefined constant adminName - assumed 'adminName' LoginAction.class.php 第 41 行.
+[ 2019-08-16T18:47:48+08:00 ] /abcTest/index.php/Login/index | INFO: Tag[ route_check ] --START--
+[ 2019-08-16T18:47:48+08:00 ] /abcTest/index.php/Login/index | INFO: Run CheckRoute Behavior [ RunTime:0.002379s ]
+[ 2019-08-16T18:47:48+08:00 ] /abcTest/index.php/Login/index | INFO: Tag[ route_check ] --END-- [ RunTime:0.002653s ]
+[ 2019-08-16T18:47:48+08:00 ] /abcTest/index.php/Login/index | INFO: Tag[ app_begin ] --START--
+[ 2019-08-16T18:47:48+08:00 ] /abcTest/index.php/Login/index | INFO: Run ReadHtmlCache Behavior [ RunTime:0.002415s ]
+[ 2019-08-16T18:47:48+08:00 ] /abcTest/index.php/Login/index | INFO: Tag[ app_begin ] --END-- [ RunTime:0.002707s ]
+[ 2019-08-16T18:47:49+08:00 ] /abcTest/index.php/Login/index | INFO: Tag[ view_template ] --START--
+[ 2019-08-16T18:47:49+08:00 ] /abcTest/index.php/Login/index | INFO: Run LocationTemplate Behavior [ RunTime:0.001743s ]
+[ 2019-08-16T18:47:49+08:00 ] /abcTest/index.php/Login/index | INFO: Tag[ view_template ] --END-- [ RunTime:0.002003s ]
+[ 2019-08-16T18:47:49+08:00 ] /abcTest/index.php/Login/index | INFO: Tag[ view_parse ] --START--
+[ 2019-08-16T18:47:49+08:00 ] /abcTest/index.php/Login/index | INFO: Run ParseTemplate Behavior [ RunTime:0.022358s ]
+[ 2019-08-16T18:47:49+08:00 ] /abcTest/index.php/Login/index | INFO: Tag[ view_parse ] --END-- [ RunTime:0.022639s ]
+[ 2019-08-16T18:47:49+08:00 ] /abcTest/index.php/Login/index | INFO: Tag[ view_filter ] --START--
+[ 2019-08-16T18:47:49+08:00 ] /abcTest/index.php/Login/index | INFO: Run ContentReplace Behavior [ RunTime:0.002520s ]
+[ 2019-08-16T18:47:49+08:00 ] /abcTest/index.php/Login/index | INFO: Run TokenBuild Behavior [ RunTime:0.002239s ]
+[ 2019-08-16T18:47:49+08:00 ] /abcTest/index.php/Login/index | INFO: Run WriteHtmlCache Behavior [ RunTime:0.001374s ]
+[ 2019-08-16T18:47:49+08:00 ] /abcTest/index.php/Login/index | INFO: Run ShowRuntime Behavior [ RunTime:0.002045s ]
+[ 2019-08-16T18:47:49+08:00 ] /abcTest/index.php/Login/index | INFO: Tag[ view_filter ] --END-- [ RunTime:0.009225s ]
+[ 2019-08-16T18:47:49+08:00 ] /abcTest/index.php/Login/index | INFO: Tag[ view_end ] --START--
+[ 2019-08-16T18:47:49+08:00 ] /abcTest/index.php/Login/index | INFO: Run ShowPageTrace Behavior [ RunTime:0.003064s ]
+[ 2019-08-16T18:47:49+08:00 ] /abcTest/index.php/Login/index | INFO: Tag[ view_end ] --END-- [ RunTime:0.003364s ]
+[ 2019-08-16T19:06:21+08:00 ] /abcTest/index.php/Login/index | INFO: Tag[ route_check ] --START--
+[ 2019-08-16T19:06:21+08:00 ] /abcTest/index.php/Login/index | INFO: Run CheckRoute Behavior [ RunTime:0.001600s ]
+[ 2019-08-16T19:06:21+08:00 ] /abcTest/index.php/Login/index | INFO: Tag[ route_check ] --END-- [ RunTime:0.001861s ]
+[ 2019-08-16T19:06:21+08:00 ] /abcTest/index.php/Login/index | INFO: Tag[ app_begin ] --START--
+[ 2019-08-16T19:06:21+08:00 ] /abcTest/index.php/Login/index | INFO: Run ReadHtmlCache Behavior [ RunTime:0.001023s ]
+[ 2019-08-16T19:06:21+08:00 ] /abcTest/index.php/Login/index | INFO: Tag[ app_begin ] --END-- [ RunTime:0.001193s ]
+[ 2019-08-16T19:06:21+08:00 ] /abcTest/index.php/Login/index | INFO: Tag[ view_template ] --START--
+[ 2019-08-16T19:06:21+08:00 ] /abcTest/index.php/Login/index | INFO: Run LocationTemplate Behavior [ RunTime:0.001313s ]
+[ 2019-08-16T19:06:21+08:00 ] /abcTest/index.php/Login/index | INFO: Tag[ view_template ] --END-- [ RunTime:0.001490s ]
+[ 2019-08-16T19:06:21+08:00 ] /abcTest/index.php/Login/index | INFO: Tag[ view_parse ] --START--
+[ 2019-08-16T19:06:21+08:00 ] /abcTest/index.php/Login/index | INFO: Run ParseTemplate Behavior [ RunTime:0.015228s ]
+[ 2019-08-16T19:06:21+08:00 ] /abcTest/index.php/Login/index | INFO: Tag[ view_parse ] --END-- [ RunTime:0.015463s ]
+[ 2019-08-16T19:06:21+08:00 ] /abcTest/index.php/Login/index | INFO: Tag[ view_filter ] --START--
+[ 2019-08-16T19:06:21+08:00 ] /abcTest/index.php/Login/index | INFO: Run ContentReplace Behavior [ RunTime:0.001913s ]
+[ 2019-08-16T19:06:21+08:00 ] /abcTest/index.php/Login/index | INFO: Run TokenBuild Behavior [ RunTime:0.001449s ]
+[ 2019-08-16T19:06:21+08:00 ] /abcTest/index.php/Login/index | INFO: Run WriteHtmlCache Behavior [ RunTime:0.000694s ]
+[ 2019-08-16T19:06:21+08:00 ] /abcTest/index.php/Login/index | INFO: Run ShowRuntime Behavior [ RunTime:0.001203s ]
+[ 2019-08-16T19:06:21+08:00 ] /abcTest/index.php/Login/index | INFO: Tag[ view_filter ] --END-- [ RunTime:0.005843s ]
+[ 2019-08-16T19:06:21+08:00 ] /abcTest/index.php/Login/index | INFO: Tag[ view_end ] --START--
+[ 2019-08-16T19:06:21+08:00 ] /abcTest/index.php/Login/index | INFO: Run ShowPageTrace Behavior [ RunTime:0.001010s ]
+[ 2019-08-16T19:06:21+08:00 ] /abcTest/index.php/Login/index | INFO: Tag[ view_end ] --END-- [ RunTime:0.001197s ]
