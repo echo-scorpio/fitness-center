@@ -1,0 +1,419 @@
+[ 2019-06-29T10:54:02+08:00 ] /xxx/admin.php/Login/index/ | INFO: Tag[ route_check ] --START--
+[ 2019-06-29T10:54:02+08:00 ] /xxx/admin.php/Login/index/ | INFO: Run CheckRoute Behavior [ RunTime:0.003499s ]
+[ 2019-06-29T10:54:02+08:00 ] /xxx/admin.php/Login/index/ | INFO: Tag[ route_check ] --END-- [ RunTime:0.003746s ]
+[ 2019-06-29T10:54:02+08:00 ] /xxx/admin.php/Login/index/ | INFO: Tag[ app_begin ] --START--
+[ 2019-06-29T10:54:02+08:00 ] /xxx/admin.php/Login/index/ | INFO: Run ReadHtmlCache Behavior [ RunTime:0.001029s ]
+[ 2019-06-29T10:54:02+08:00 ] /xxx/admin.php/Login/index/ | INFO: Tag[ app_begin ] --END-- [ RunTime:0.001183s ]
+[ 2019-06-29T10:54:02+08:00 ] /xxx/admin.php/Login/index/ | INFO: Tag[ view_template ] --START--
+[ 2019-06-29T10:54:02+08:00 ] /xxx/admin.php/Login/index/ | INFO: Run LocationTemplate Behavior [ RunTime:0.001084s ]
+[ 2019-06-29T10:54:02+08:00 ] /xxx/admin.php/Login/index/ | INFO: Tag[ view_template ] --END-- [ RunTime:0.001245s ]
+[ 2019-06-29T10:54:02+08:00 ] /xxx/admin.php/Login/index/ | INFO: Tag[ view_parse ] --START--
+[ 2019-06-29T10:54:02+08:00 ] /xxx/admin.php/Login/index/ | INFO: Run ParseTemplate Behavior [ RunTime:0.011950s ]
+[ 2019-06-29T10:54:02+08:00 ] /xxx/admin.php/Login/index/ | INFO: Tag[ view_parse ] --END-- [ RunTime:0.012146s ]
+[ 2019-06-29T10:54:02+08:00 ] /xxx/admin.php/Login/index/ | INFO: Tag[ view_filter ] --START--
+[ 2019-06-29T10:54:02+08:00 ] /xxx/admin.php/Login/index/ | INFO: Run ContentReplace Behavior [ RunTime:0.000790s ]
+[ 2019-06-29T10:54:02+08:00 ] /xxx/admin.php/Login/index/ | INFO: Run TokenBuild Behavior [ RunTime:0.000701s ]
+[ 2019-06-29T10:54:02+08:00 ] /xxx/admin.php/Login/index/ | INFO: Run WriteHtmlCache Behavior [ RunTime:0.000351s ]
+[ 2019-06-29T10:54:02+08:00 ] /xxx/admin.php/Login/index/ | INFO: Run ShowRuntime Behavior [ RunTime:0.000818s ]
+[ 2019-06-29T10:54:02+08:00 ] /xxx/admin.php/Login/index/ | INFO: Tag[ view_filter ] --END-- [ RunTime:0.003042s ]
+[ 2019-06-29T10:54:02+08:00 ] /xxx/admin.php/Login/index/ | INFO: Tag[ view_end ] --START--
+[ 2019-06-29T10:54:02+08:00 ] /xxx/admin.php/Login/index/ | INFO: Run ShowPageTrace Behavior [ RunTime:0.000632s ]
+[ 2019-06-29T10:54:02+08:00 ] /xxx/admin.php/Login/index/ | INFO: Tag[ view_end ] --END-- [ RunTime:0.000770s ]
+[ 2019-06-29T10:54:02+08:00 ] /xxx/admin.php/Common/verify | INFO: Tag[ route_check ] --START--
+[ 2019-06-29T10:54:02+08:00 ] /xxx/admin.php/Common/verify | INFO: Run CheckRoute Behavior [ RunTime:0.002047s ]
+[ 2019-06-29T10:54:02+08:00 ] /xxx/admin.php/Common/verify | INFO: Tag[ route_check ] --END-- [ RunTime:0.002378s ]
+[ 2019-06-29T10:54:02+08:00 ] /xxx/admin.php/Common/verify | INFO: Tag[ app_begin ] --START--
+[ 2019-06-29T10:54:02+08:00 ] /xxx/admin.php/Common/verify | INFO: Run ReadHtmlCache Behavior [ RunTime:0.001735s ]
+[ 2019-06-29T10:54:02+08:00 ] /xxx/admin.php/Common/verify | INFO: Tag[ app_begin ] --END-- [ RunTime:0.002023s ]
+[ 2019-06-29T10:54:52+08:00 ] /xxx/admin.php/Index/index/username/ruby97 | INFO: Tag[ route_check ] --START--
+[ 2019-06-29T10:54:52+08:00 ] /xxx/admin.php/Index/index/username/ruby97 | INFO: Run CheckRoute Behavior [ RunTime:0.004556s ]
+[ 2019-06-29T10:54:52+08:00 ] /xxx/admin.php/Index/index/username/ruby97 | INFO: Tag[ route_check ] --END-- [ RunTime:0.004808s ]
+[ 2019-06-29T10:54:52+08:00 ] /xxx/admin.php/Index/index/username/ruby97 | INFO: Tag[ app_begin ] --START--
+[ 2019-06-29T10:54:52+08:00 ] /xxx/admin.php/Index/index/username/ruby97 | INFO: Run ReadHtmlCache Behavior [ RunTime:0.003432s ]
+[ 2019-06-29T10:54:52+08:00 ] /xxx/admin.php/Index/index/username/ruby97 | INFO: Tag[ app_begin ] --END-- [ RunTime:0.003624s ]
+[ 2019-06-29T10:54:52+08:00 ] /xxx/admin.php/Index/index/username/ruby97 | SQL: SHOW COLUMNS FROM `think_article` [ RunTime:0.006785s ]
+[ 2019-06-29T10:54:52+08:00 ] /xxx/admin.php/Index/index/username/ruby97 | SQL: SELECT COUNT(*) AS tp_count FROM `think_article` LIMIT 1   [ RunTime:0.000541s ]
+[ 2019-06-29T10:54:52+08:00 ] /xxx/admin.php/Index/index/username/ruby97 | SQL: SELECT `id`,`subject`,`author`,`createtime` FROM `think_article` ORDER BY id desc LIMIT 0,8   [ RunTime:0.000816s ]
+[ 2019-06-29T10:54:52+08:00 ] /xxx/admin.php/Index/index/username/ruby97 | NOTIC: [8] Undefined index: lastmodifytime IndexAction.class.php 第 112 行.
+[ 2019-06-29T10:54:52+08:00 ] /xxx/admin.php/Index/index/username/ruby97 | NOTIC: [8] Undefined index: lastmodifytime IndexAction.class.php 第 112 行.
+[ 2019-06-29T10:54:52+08:00 ] /xxx/admin.php/Index/index/username/ruby97 | NOTIC: [8] Undefined index: lastmodifytime IndexAction.class.php 第 112 行.
+[ 2019-06-29T10:54:52+08:00 ] /xxx/admin.php/Index/index/username/ruby97 | INFO: Tag[ view_template ] --START--
+[ 2019-06-29T10:54:52+08:00 ] /xxx/admin.php/Index/index/username/ruby97 | INFO: Run LocationTemplate Behavior [ RunTime:0.005583s ]
+[ 2019-06-29T10:54:52+08:00 ] /xxx/admin.php/Index/index/username/ruby97 | INFO: Tag[ view_template ] --END-- [ RunTime:0.005810s ]
+[ 2019-06-29T10:54:52+08:00 ] /xxx/admin.php/Index/index/username/ruby97 | INFO: Tag[ view_parse ] --START--
+[ 2019-06-29T10:54:52+08:00 ] /xxx/admin.php/Index/index/username/ruby97 | NOTIC: [8] Undefined index: lastmodifytime 4c18d5952d0dbf1eedb8a1ec796fa788.php 第 179 行.
+[ 2019-06-29T10:54:52+08:00 ] /xxx/admin.php/Index/index/username/ruby97 | NOTIC: [8] Undefined index: lastmodifytime 4c18d5952d0dbf1eedb8a1ec796fa788.php 第 179 行.
+[ 2019-06-29T10:54:52+08:00 ] /xxx/admin.php/Index/index/username/ruby97 | NOTIC: [8] Undefined index: lastmodifytime 4c18d5952d0dbf1eedb8a1ec796fa788.php 第 179 行.
+[ 2019-06-29T10:54:52+08:00 ] /xxx/admin.php/Index/index/username/ruby97 | INFO: Run ParseTemplate Behavior [ RunTime:0.033431s ]
+[ 2019-06-29T10:54:52+08:00 ] /xxx/admin.php/Index/index/username/ruby97 | INFO: Tag[ view_parse ] --END-- [ RunTime:0.033605s ]
+[ 2019-06-29T10:54:52+08:00 ] /xxx/admin.php/Index/index/username/ruby97 | INFO: Tag[ view_filter ] --START--
+[ 2019-06-29T10:54:52+08:00 ] /xxx/admin.php/Index/index/username/ruby97 | INFO: Run ContentReplace Behavior [ RunTime:0.003940s ]
+[ 2019-06-29T10:54:52+08:00 ] /xxx/admin.php/Index/index/username/ruby97 | INFO: Run TokenBuild Behavior [ RunTime:0.003749s ]
+[ 2019-06-29T10:54:52+08:00 ] /xxx/admin.php/Index/index/username/ruby97 | INFO: Run WriteHtmlCache Behavior [ RunTime:0.003140s ]
+[ 2019-06-29T10:54:52+08:00 ] /xxx/admin.php/Index/index/username/ruby97 | INFO: Run ShowRuntime Behavior [ RunTime:0.003419s ]
+[ 2019-06-29T10:54:52+08:00 ] /xxx/admin.php/Index/index/username/ruby97 | INFO: Tag[ view_filter ] --END-- [ RunTime:0.014801s ]
+[ 2019-06-29T10:54:52+08:00 ] /xxx/admin.php/Index/index/username/ruby97 | INFO: Tag[ view_end ] --START--
+[ 2019-06-29T10:54:52+08:00 ] /xxx/admin.php/Index/index/username/ruby97 | INFO: Run ShowPageTrace Behavior [ RunTime:0.003159s ]
+[ 2019-06-29T10:54:52+08:00 ] /xxx/admin.php/Index/index/username/ruby97 | INFO: Tag[ view_end ] --END-- [ RunTime:0.003327s ]
+[ 2019-06-29T10:55:45+08:00 ] /xxx/admin.php/Article/index | INFO: Tag[ route_check ] --START--
+[ 2019-06-29T10:55:45+08:00 ] /xxx/admin.php/Article/index | INFO: Run CheckRoute Behavior [ RunTime:0.003507s ]
+[ 2019-06-29T10:55:45+08:00 ] /xxx/admin.php/Article/index | INFO: Tag[ route_check ] --END-- [ RunTime:0.003736s ]
+[ 2019-06-29T10:55:45+08:00 ] /xxx/admin.php/Article/index | INFO: Tag[ app_begin ] --START--
+[ 2019-06-29T10:55:45+08:00 ] /xxx/admin.php/Article/index | INFO: Run ReadHtmlCache Behavior [ RunTime:0.003562s ]
+[ 2019-06-29T10:55:45+08:00 ] /xxx/admin.php/Article/index | INFO: Tag[ app_begin ] --END-- [ RunTime:0.003728s ]
+[ 2019-06-29T10:55:45+08:00 ] /xxx/admin.php/Article/index | NOTIC: [8] Undefined index: id ArticleAction.class.php 第 13 行.
+[ 2019-06-29T10:55:45+08:00 ] /xxx/admin.php/Article/index | INFO: Tag[ view_template ] --START--
+[ 2019-06-29T10:55:45+08:00 ] /xxx/admin.php/Article/index | INFO: Run LocationTemplate Behavior [ RunTime:0.005417s ]
+[ 2019-06-29T10:55:45+08:00 ] /xxx/admin.php/Article/index | INFO: Tag[ view_template ] --END-- [ RunTime:0.005622s ]
+[ 2019-06-29T10:55:45+08:00 ] /xxx/admin.php/Article/index | INFO: Tag[ view_parse ] --START--
+[ 2019-06-29T10:55:45+08:00 ] /xxx/admin.php/Article/index | NOTIC: [8] Undefined variable: username 6a0fa1355e20b485f823227ab394fc93.php 第 34 行.
+[ 2019-06-29T10:55:45+08:00 ] /xxx/admin.php/Article/index | NOTIC: [8] Undefined variable: username 6a0fa1355e20b485f823227ab394fc93.php 第 34 行.
+[ 2019-06-29T10:55:45+08:00 ] /xxx/admin.php/Article/index | NOTIC: [8] Undefined variable: article_item 6a0fa1355e20b485f823227ab394fc93.php 第 101 行.
+[ 2019-06-29T10:55:45+08:00 ] /xxx/admin.php/Article/index | NOTIC: [8] Undefined variable: article_item 6a0fa1355e20b485f823227ab394fc93.php 第 108 行.
+[ 2019-06-29T10:55:45+08:00 ] /xxx/admin.php/Article/index | NOTIC: [8] Undefined variable: article_item 6a0fa1355e20b485f823227ab394fc93.php 第 114 行.
+[ 2019-06-29T10:55:45+08:00 ] /xxx/admin.php/Article/index | INFO: Run ParseTemplate Behavior [ RunTime:0.027425s ]
+[ 2019-06-29T10:55:45+08:00 ] /xxx/admin.php/Article/index | INFO: Tag[ view_parse ] --END-- [ RunTime:0.027639s ]
+[ 2019-06-29T10:55:45+08:00 ] /xxx/admin.php/Article/index | INFO: Tag[ view_filter ] --START--
+[ 2019-06-29T10:55:45+08:00 ] /xxx/admin.php/Article/index | INFO: Run ContentReplace Behavior [ RunTime:0.003942s ]
+[ 2019-06-29T10:55:45+08:00 ] /xxx/admin.php/Article/index | INFO: Run TokenBuild Behavior [ RunTime:0.003448s ]
+[ 2019-06-29T10:55:45+08:00 ] /xxx/admin.php/Article/index | INFO: Run WriteHtmlCache Behavior [ RunTime:0.003240s ]
+[ 2019-06-29T10:55:45+08:00 ] /xxx/admin.php/Article/index | INFO: Run ShowRuntime Behavior [ RunTime:0.003467s ]
+[ 2019-06-29T10:55:45+08:00 ] /xxx/admin.php/Article/index | INFO: Tag[ view_filter ] --END-- [ RunTime:0.014610s ]
+[ 2019-06-29T10:55:45+08:00 ] /xxx/admin.php/Article/index | INFO: Tag[ view_end ] --START--
+[ 2019-06-29T10:55:45+08:00 ] /xxx/admin.php/Article/index | INFO: Run ShowPageTrace Behavior [ RunTime:0.003820s ]
+[ 2019-06-29T10:55:45+08:00 ] /xxx/admin.php/Article/index | INFO: Tag[ view_end ] --END-- [ RunTime:0.004007s ]
+[ 2019-06-29T10:56:29+08:00 ] /xxx/admin.php/Article/add | INFO: Tag[ route_check ] --START--
+[ 2019-06-29T10:56:29+08:00 ] /xxx/admin.php/Article/add | INFO: Run CheckRoute Behavior [ RunTime:0.001790s ]
+[ 2019-06-29T10:56:29+08:00 ] /xxx/admin.php/Article/add | INFO: Tag[ route_check ] --END-- [ RunTime:0.001994s ]
+[ 2019-06-29T10:56:29+08:00 ] /xxx/admin.php/Article/add | INFO: Tag[ app_begin ] --START--
+[ 2019-06-29T10:56:29+08:00 ] /xxx/admin.php/Article/add | INFO: Run ReadHtmlCache Behavior [ RunTime:0.001181s ]
+[ 2019-06-29T10:56:29+08:00 ] /xxx/admin.php/Article/add | INFO: Tag[ app_begin ] --END-- [ RunTime:0.001355s ]
+[ 2019-06-29T10:56:29+08:00 ] /xxx/admin.php/Article/add | SQL: SHOW COLUMNS FROM `think_article` [ RunTime:0.039898s ]
+[ 2019-06-29T10:56:29+08:00 ] /xxx/admin.php/Article/add | NOTIC: [8] Use of undefined constant MAGIC_QUOTES_GPC - assumed 'MAGIC_QUOTES_GPC' Model.class.php 第 867 行.
+[ 2019-06-29T10:56:29+08:00 ] /xxx/admin.php/Article/add | NOTIC: [8] Use of undefined constant MAGIC_QUOTES_GPC - assumed 'MAGIC_QUOTES_GPC' Model.class.php 第 867 行.
+[ 2019-06-29T10:56:29+08:00 ] /xxx/admin.php/Article/add | SQL: INSERT INTO `think_article` (`id`,`subject`,`createtime`,`message`,`author`) VALUES ('','今天是2019年6月29日',1561776989,'<p>今天我很开心</p>','ruby97') [ RunTime:0.001140s ]
+[ 2019-06-29T10:56:29+08:00 ] /xxx/admin.php/Article/add | INFO: Tag[ view_template ] --START--
+[ 2019-06-29T10:56:29+08:00 ] /xxx/admin.php/Article/add | INFO: Run LocationTemplate Behavior [ RunTime:0.001547s ]
+[ 2019-06-29T10:56:29+08:00 ] /xxx/admin.php/Article/add | INFO: Tag[ view_template ] --END-- [ RunTime:0.001749s ]
+[ 2019-06-29T10:56:29+08:00 ] /xxx/admin.php/Article/add | INFO: Tag[ view_parse ] --START--
+[ 2019-06-29T10:56:29+08:00 ] /xxx/admin.php/Article/add | INFO: Run ParseTemplate Behavior [ RunTime:0.016225s ]
+[ 2019-06-29T10:56:29+08:00 ] /xxx/admin.php/Article/add | INFO: Tag[ view_parse ] --END-- [ RunTime:0.016421s ]
+[ 2019-06-29T10:56:29+08:00 ] /xxx/admin.php/Article/add | INFO: Tag[ view_filter ] --START--
+[ 2019-06-29T10:56:29+08:00 ] /xxx/admin.php/Article/add | INFO: Run ContentReplace Behavior [ RunTime:0.000901s ]
+[ 2019-06-29T10:56:29+08:00 ] /xxx/admin.php/Article/add | INFO: Run TokenBuild Behavior [ RunTime:0.000958s ]
+[ 2019-06-29T10:56:29+08:00 ] /xxx/admin.php/Article/add | INFO: Run WriteHtmlCache Behavior [ RunTime:0.000924s ]
+[ 2019-06-29T10:56:29+08:00 ] /xxx/admin.php/Article/add | INFO: Run ShowRuntime Behavior [ RunTime:0.001513s ]
+[ 2019-06-29T10:56:29+08:00 ] /xxx/admin.php/Article/add | INFO: Tag[ view_filter ] --END-- [ RunTime:0.004854s ]
+[ 2019-06-29T10:56:29+08:00 ] /xxx/admin.php/Article/add | INFO: Tag[ view_end ] --START--
+[ 2019-06-29T10:56:29+08:00 ] /xxx/admin.php/Article/add | INFO: Run ShowPageTrace Behavior [ RunTime:0.000965s ]
+[ 2019-06-29T10:56:29+08:00 ] /xxx/admin.php/Article/add | INFO: Tag[ view_end ] --END-- [ RunTime:0.001134s ]
+[ 2019-06-29T10:56:30+08:00 ] /xxx/admin.php/Index/index | INFO: Tag[ route_check ] --START--
+[ 2019-06-29T10:56:30+08:00 ] /xxx/admin.php/Index/index | INFO: Run CheckRoute Behavior [ RunTime:0.001141s ]
+[ 2019-06-29T10:56:30+08:00 ] /xxx/admin.php/Index/index | INFO: Tag[ route_check ] --END-- [ RunTime:0.001335s ]
+[ 2019-06-29T10:56:30+08:00 ] /xxx/admin.php/Index/index | INFO: Tag[ app_begin ] --START--
+[ 2019-06-29T10:56:30+08:00 ] /xxx/admin.php/Index/index | INFO: Run ReadHtmlCache Behavior [ RunTime:0.000908s ]
+[ 2019-06-29T10:56:30+08:00 ] /xxx/admin.php/Index/index | INFO: Tag[ app_begin ] --END-- [ RunTime:0.001062s ]
+[ 2019-06-29T10:56:30+08:00 ] /xxx/admin.php/Index/index | SQL: SHOW COLUMNS FROM `think_article` [ RunTime:0.006866s ]
+[ 2019-06-29T10:56:30+08:00 ] /xxx/admin.php/Index/index | SQL: SELECT COUNT(*) AS tp_count FROM `think_article` LIMIT 1   [ RunTime:0.000370s ]
+[ 2019-06-29T10:56:30+08:00 ] /xxx/admin.php/Index/index | SQL: SELECT `id`,`subject`,`author`,`createtime` FROM `think_article` ORDER BY id desc LIMIT 0,8   [ RunTime:0.000690s ]
+[ 2019-06-29T10:56:30+08:00 ] /xxx/admin.php/Index/index | NOTIC: [8] Undefined index: lastmodifytime IndexAction.class.php 第 112 行.
+[ 2019-06-29T10:56:30+08:00 ] /xxx/admin.php/Index/index | NOTIC: [8] Undefined index: lastmodifytime IndexAction.class.php 第 112 行.
+[ 2019-06-29T10:56:30+08:00 ] /xxx/admin.php/Index/index | NOTIC: [8] Undefined index: lastmodifytime IndexAction.class.php 第 112 行.
+[ 2019-06-29T10:56:30+08:00 ] /xxx/admin.php/Index/index | NOTIC: [8] Undefined index: lastmodifytime IndexAction.class.php 第 112 行.
+[ 2019-06-29T10:56:30+08:00 ] /xxx/admin.php/Index/index | INFO: Tag[ view_template ] --START--
+[ 2019-06-29T10:56:30+08:00 ] /xxx/admin.php/Index/index | INFO: Run LocationTemplate Behavior [ RunTime:0.001568s ]
+[ 2019-06-29T10:56:30+08:00 ] /xxx/admin.php/Index/index | INFO: Tag[ view_template ] --END-- [ RunTime:0.001751s ]
+[ 2019-06-29T10:56:30+08:00 ] /xxx/admin.php/Index/index | INFO: Tag[ view_parse ] --START--
+[ 2019-06-29T10:56:30+08:00 ] /xxx/admin.php/Index/index | NOTIC: [8] Undefined index: lastmodifytime 4c18d5952d0dbf1eedb8a1ec796fa788.php 第 179 行.
+[ 2019-06-29T10:56:30+08:00 ] /xxx/admin.php/Index/index | NOTIC: [8] Undefined index: lastmodifytime 4c18d5952d0dbf1eedb8a1ec796fa788.php 第 179 行.
+[ 2019-06-29T10:56:30+08:00 ] /xxx/admin.php/Index/index | NOTIC: [8] Undefined index: lastmodifytime 4c18d5952d0dbf1eedb8a1ec796fa788.php 第 179 行.
+[ 2019-06-29T10:56:30+08:00 ] /xxx/admin.php/Index/index | NOTIC: [8] Undefined index: lastmodifytime 4c18d5952d0dbf1eedb8a1ec796fa788.php 第 179 行.
+[ 2019-06-29T10:56:30+08:00 ] /xxx/admin.php/Index/index | INFO: Run ParseTemplate Behavior [ RunTime:0.019953s ]
+[ 2019-06-29T10:56:30+08:00 ] /xxx/admin.php/Index/index | INFO: Tag[ view_parse ] --END-- [ RunTime:0.020130s ]
+[ 2019-06-29T10:56:30+08:00 ] /xxx/admin.php/Index/index | INFO: Tag[ view_filter ] --START--
+[ 2019-06-29T10:56:30+08:00 ] /xxx/admin.php/Index/index | INFO: Run ContentReplace Behavior [ RunTime:0.000891s ]
+[ 2019-06-29T10:56:30+08:00 ] /xxx/admin.php/Index/index | INFO: Run TokenBuild Behavior [ RunTime:0.001026s ]
+[ 2019-06-29T10:56:30+08:00 ] /xxx/admin.php/Index/index | INFO: Run WriteHtmlCache Behavior [ RunTime:0.000424s ]
+[ 2019-06-29T10:56:30+08:00 ] /xxx/admin.php/Index/index | INFO: Run ShowRuntime Behavior [ RunTime:0.000967s ]
+[ 2019-06-29T10:56:30+08:00 ] /xxx/admin.php/Index/index | INFO: Tag[ view_filter ] --END-- [ RunTime:0.003762s ]
+[ 2019-06-29T10:56:30+08:00 ] /xxx/admin.php/Index/index | INFO: Tag[ view_end ] --START--
+[ 2019-06-29T10:56:30+08:00 ] /xxx/admin.php/Index/index | INFO: Run ShowPageTrace Behavior [ RunTime:0.000738s ]
+[ 2019-06-29T10:56:30+08:00 ] /xxx/admin.php/Index/index | INFO: Tag[ view_end ] --END-- [ RunTime:0.000911s ]
+[ 2019-06-29T10:57:09+08:00 ] /xxx/admin.php/Article/index/id/20 | INFO: Tag[ route_check ] --START--
+[ 2019-06-29T10:57:09+08:00 ] /xxx/admin.php/Article/index/id/20 | INFO: Run CheckRoute Behavior [ RunTime:0.001347s ]
+[ 2019-06-29T10:57:09+08:00 ] /xxx/admin.php/Article/index/id/20 | INFO: Tag[ route_check ] --END-- [ RunTime:0.001610s ]
+[ 2019-06-29T10:57:09+08:00 ] /xxx/admin.php/Article/index/id/20 | INFO: Tag[ app_begin ] --START--
+[ 2019-06-29T10:57:09+08:00 ] /xxx/admin.php/Article/index/id/20 | INFO: Run ReadHtmlCache Behavior [ RunTime:0.001186s ]
+[ 2019-06-29T10:57:09+08:00 ] /xxx/admin.php/Article/index/id/20 | INFO: Tag[ app_begin ] --END-- [ RunTime:0.001379s ]
+[ 2019-06-29T10:57:09+08:00 ] /xxx/admin.php/Article/index/id/20 | SQL: SHOW COLUMNS FROM `think_article` [ RunTime:0.007123s ]
+[ 2019-06-29T10:57:09+08:00 ] /xxx/admin.php/Article/index/id/20 | SQL: SELECT * FROM `think_article` WHERE id=20 LIMIT 1   [ RunTime:0.000556s ]
+[ 2019-06-29T10:57:09+08:00 ] /xxx/admin.php/Article/index/id/20 | INFO: Tag[ view_template ] --START--
+[ 2019-06-29T10:57:09+08:00 ] /xxx/admin.php/Article/index/id/20 | INFO: Run LocationTemplate Behavior [ RunTime:0.001688s ]
+[ 2019-06-29T10:57:09+08:00 ] /xxx/admin.php/Article/index/id/20 | INFO: Tag[ view_template ] --END-- [ RunTime:0.001883s ]
+[ 2019-06-29T10:57:09+08:00 ] /xxx/admin.php/Article/index/id/20 | INFO: Tag[ view_parse ] --START--
+[ 2019-06-29T10:57:09+08:00 ] /xxx/admin.php/Article/index/id/20 | NOTIC: [8] Undefined variable: username 6a0fa1355e20b485f823227ab394fc93.php 第 34 行.
+[ 2019-06-29T10:57:09+08:00 ] /xxx/admin.php/Article/index/id/20 | NOTIC: [8] Undefined variable: username 6a0fa1355e20b485f823227ab394fc93.php 第 34 行.
+[ 2019-06-29T10:57:09+08:00 ] /xxx/admin.php/Article/index/id/20 | INFO: Run ParseTemplate Behavior [ RunTime:0.016251s ]
+[ 2019-06-29T10:57:09+08:00 ] /xxx/admin.php/Article/index/id/20 | INFO: Tag[ view_parse ] --END-- [ RunTime:0.016468s ]
+[ 2019-06-29T10:57:09+08:00 ] /xxx/admin.php/Article/index/id/20 | INFO: Tag[ view_filter ] --START--
+[ 2019-06-29T10:57:09+08:00 ] /xxx/admin.php/Article/index/id/20 | INFO: Run ContentReplace Behavior [ RunTime:0.001048s ]
+[ 2019-06-29T10:57:09+08:00 ] /xxx/admin.php/Article/index/id/20 | INFO: Run TokenBuild Behavior [ RunTime:0.001438s ]
+[ 2019-06-29T10:57:09+08:00 ] /xxx/admin.php/Article/index/id/20 | INFO: Run WriteHtmlCache Behavior [ RunTime:0.001164s ]
+[ 2019-06-29T10:57:09+08:00 ] /xxx/admin.php/Article/index/id/20 | INFO: Run ShowRuntime Behavior [ RunTime:0.001580s ]
+[ 2019-06-29T10:57:09+08:00 ] /xxx/admin.php/Article/index/id/20 | INFO: Tag[ view_filter ] --END-- [ RunTime:0.005832s ]
+[ 2019-06-29T10:57:09+08:00 ] /xxx/admin.php/Article/index/id/20 | INFO: Tag[ view_end ] --START--
+[ 2019-06-29T10:57:09+08:00 ] /xxx/admin.php/Article/index/id/20 | INFO: Run ShowPageTrace Behavior [ RunTime:0.000961s ]
+[ 2019-06-29T10:57:09+08:00 ] /xxx/admin.php/Article/index/id/20 | INFO: Tag[ view_end ] --END-- [ RunTime:0.001147s ]
+[ 2019-06-29T10:57:17+08:00 ] /xxx/admin.php/Article/update | INFO: Tag[ route_check ] --START--
+[ 2019-06-29T10:57:17+08:00 ] /xxx/admin.php/Article/update | INFO: Run CheckRoute Behavior [ RunTime:0.001466s ]
+[ 2019-06-29T10:57:17+08:00 ] /xxx/admin.php/Article/update | INFO: Tag[ route_check ] --END-- [ RunTime:0.001759s ]
+[ 2019-06-29T10:57:17+08:00 ] /xxx/admin.php/Article/update | INFO: Tag[ app_begin ] --START--
+[ 2019-06-29T10:57:17+08:00 ] /xxx/admin.php/Article/update | INFO: Run ReadHtmlCache Behavior [ RunTime:0.000999s ]
+[ 2019-06-29T10:57:17+08:00 ] /xxx/admin.php/Article/update | INFO: Tag[ app_begin ] --END-- [ RunTime:0.001182s ]
+[ 2019-06-29T10:57:17+08:00 ] /xxx/admin.php/Article/update | SQL: SHOW COLUMNS FROM `think_article` [ RunTime:0.007833s ]
+[ 2019-06-29T10:57:17+08:00 ] /xxx/admin.php/Article/update | SQL: UPDATE `think_article` SET `subject`='今天是2019年6月29日',`message`='<p>今天我很开心</p>',`lastmodifytime`=1561777037 WHERE id=20 [ RunTime:0.001657s ]
+[ 2019-06-29T10:57:30+08:00 ] /xxx/admin.php/Article/update | INFO: Tag[ route_check ] --START--
+[ 2019-06-29T10:57:30+08:00 ] /xxx/admin.php/Article/update | INFO: Run CheckRoute Behavior [ RunTime:0.001111s ]
+[ 2019-06-29T10:57:30+08:00 ] /xxx/admin.php/Article/update | INFO: Tag[ route_check ] --END-- [ RunTime:0.001302s ]
+[ 2019-06-29T10:57:30+08:00 ] /xxx/admin.php/Article/update | INFO: Tag[ app_begin ] --START--
+[ 2019-06-29T10:57:30+08:00 ] /xxx/admin.php/Article/update | INFO: Run ReadHtmlCache Behavior [ RunTime:0.000903s ]
+[ 2019-06-29T10:57:30+08:00 ] /xxx/admin.php/Article/update | INFO: Tag[ app_begin ] --END-- [ RunTime:0.001058s ]
+[ 2019-06-29T10:57:30+08:00 ] /xxx/admin.php/Article/update | SQL: SHOW COLUMNS FROM `think_article` [ RunTime:0.036725s ]
+[ 2019-06-29T10:57:30+08:00 ] /xxx/admin.php/Article/update | SQL: UPDATE `think_article` SET `subject`='今天是2019年6月29日',`message`='<p>今天我很开心2222333</p>',`lastmodifytime`=1561777050 WHERE id=20 [ RunTime:0.000832s ]
+[ 2019-06-29T10:57:36+08:00 ] /xxx/admin.php/Article/update | INFO: Tag[ route_check ] --START--
+[ 2019-06-29T10:57:36+08:00 ] /xxx/admin.php/Article/update | INFO: Run CheckRoute Behavior [ RunTime:0.001676s ]
+[ 2019-06-29T10:57:36+08:00 ] /xxx/admin.php/Article/update | INFO: Tag[ route_check ] --END-- [ RunTime:0.001938s ]
+[ 2019-06-29T10:57:36+08:00 ] /xxx/admin.php/Article/update | INFO: Tag[ app_begin ] --START--
+[ 2019-06-29T10:57:36+08:00 ] /xxx/admin.php/Article/update | INFO: Run ReadHtmlCache Behavior [ RunTime:0.001049s ]
+[ 2019-06-29T10:57:36+08:00 ] /xxx/admin.php/Article/update | INFO: Tag[ app_begin ] --END-- [ RunTime:0.001221s ]
+[ 2019-06-29T10:57:36+08:00 ] /xxx/admin.php/Article/update | SQL: SHOW COLUMNS FROM `think_article` [ RunTime:0.007383s ]
+[ 2019-06-29T10:57:36+08:00 ] /xxx/admin.php/Article/update | SQL: UPDATE `think_article` SET `subject`='今天是2019年6月29日',`message`='<p>今天我很开心2222333</p>',`lastmodifytime`=1561777056 WHERE id=20 [ RunTime:0.000887s ]
+[ 2019-06-29T11:01:29+08:00 ] /xxx/admin.php/Article/index | INFO: Tag[ route_check ] --START--
+[ 2019-06-29T11:01:29+08:00 ] /xxx/admin.php/Article/index | INFO: Run CheckRoute Behavior [ RunTime:0.003249s ]
+[ 2019-06-29T11:01:29+08:00 ] /xxx/admin.php/Article/index | INFO: Tag[ route_check ] --END-- [ RunTime:0.003520s ]
+[ 2019-06-29T11:01:29+08:00 ] /xxx/admin.php/Article/index | INFO: Tag[ app_begin ] --START--
+[ 2019-06-29T11:01:29+08:00 ] /xxx/admin.php/Article/index | INFO: Run ReadHtmlCache Behavior [ RunTime:0.002384s ]
+[ 2019-06-29T11:01:29+08:00 ] /xxx/admin.php/Article/index | INFO: Tag[ app_begin ] --END-- [ RunTime:0.002633s ]
+[ 2019-06-29T11:01:29+08:00 ] /xxx/admin.php/Article/index | NOTIC: [8] Undefined index: id ArticleAction.class.php 第 13 行.
+[ 2019-06-29T11:01:29+08:00 ] /xxx/admin.php/Article/index | INFO: Tag[ view_template ] --START--
+[ 2019-06-29T11:01:29+08:00 ] /xxx/admin.php/Article/index | INFO: Run LocationTemplate Behavior [ RunTime:0.003518s ]
+[ 2019-06-29T11:01:29+08:00 ] /xxx/admin.php/Article/index | INFO: Tag[ view_template ] --END-- [ RunTime:0.003764s ]
+[ 2019-06-29T11:01:29+08:00 ] /xxx/admin.php/Article/index | INFO: Tag[ view_parse ] --START--
+[ 2019-06-29T11:01:29+08:00 ] /xxx/admin.php/Article/index | NOTIC: [8] Undefined variable: username 6a0fa1355e20b485f823227ab394fc93.php 第 34 行.
+[ 2019-06-29T11:01:29+08:00 ] /xxx/admin.php/Article/index | NOTIC: [8] Undefined variable: username 6a0fa1355e20b485f823227ab394fc93.php 第 34 行.
+[ 2019-06-29T11:01:29+08:00 ] /xxx/admin.php/Article/index | NOTIC: [8] Undefined variable: article_item 6a0fa1355e20b485f823227ab394fc93.php 第 101 行.
+[ 2019-06-29T11:01:29+08:00 ] /xxx/admin.php/Article/index | NOTIC: [8] Undefined variable: article_item 6a0fa1355e20b485f823227ab394fc93.php 第 108 行.
+[ 2019-06-29T11:01:29+08:00 ] /xxx/admin.php/Article/index | NOTIC: [8] Undefined variable: article_item 6a0fa1355e20b485f823227ab394fc93.php 第 114 行.
+[ 2019-06-29T11:01:29+08:00 ] /xxx/admin.php/Article/index | INFO: Run ParseTemplate Behavior [ RunTime:0.019794s ]
+[ 2019-06-29T11:01:29+08:00 ] /xxx/admin.php/Article/index | INFO: Tag[ view_parse ] --END-- [ RunTime:0.020059s ]
+[ 2019-06-29T11:01:29+08:00 ] /xxx/admin.php/Article/index | INFO: Tag[ view_filter ] --START--
+[ 2019-06-29T11:01:29+08:00 ] /xxx/admin.php/Article/index | INFO: Run ContentReplace Behavior [ RunTime:0.001679s ]
+[ 2019-06-29T11:01:29+08:00 ] /xxx/admin.php/Article/index | INFO: Run TokenBuild Behavior [ RunTime:0.001356s ]
+[ 2019-06-29T11:01:29+08:00 ] /xxx/admin.php/Article/index | INFO: Run WriteHtmlCache Behavior [ RunTime:0.000786s ]
+[ 2019-06-29T11:01:29+08:00 ] /xxx/admin.php/Article/index | INFO: Run ShowRuntime Behavior [ RunTime:0.001324s ]
+[ 2019-06-29T11:01:29+08:00 ] /xxx/admin.php/Article/index | INFO: Tag[ view_filter ] --END-- [ RunTime:0.005652s ]
+[ 2019-06-29T11:01:29+08:00 ] /xxx/admin.php/Article/index | INFO: Tag[ view_end ] --START--
+[ 2019-06-29T11:01:29+08:00 ] /xxx/admin.php/Article/index | INFO: Run ShowPageTrace Behavior [ RunTime:0.001061s ]
+[ 2019-06-29T11:01:29+08:00 ] /xxx/admin.php/Article/index | INFO: Tag[ view_end ] --END-- [ RunTime:0.001231s ]
+[ 2019-06-29T11:02:16+08:00 ] /xxx/admin.php/Article/add | INFO: Tag[ route_check ] --START--
+[ 2019-06-29T11:02:16+08:00 ] /xxx/admin.php/Article/add | INFO: Run CheckRoute Behavior [ RunTime:0.003365s ]
+[ 2019-06-29T11:02:16+08:00 ] /xxx/admin.php/Article/add | INFO: Tag[ route_check ] --END-- [ RunTime:0.003649s ]
+[ 2019-06-29T11:02:16+08:00 ] /xxx/admin.php/Article/add | INFO: Tag[ app_begin ] --START--
+[ 2019-06-29T11:02:16+08:00 ] /xxx/admin.php/Article/add | INFO: Run ReadHtmlCache Behavior [ RunTime:0.002091s ]
+[ 2019-06-29T11:02:16+08:00 ] /xxx/admin.php/Article/add | INFO: Tag[ app_begin ] --END-- [ RunTime:0.002317s ]
+[ 2019-06-29T11:02:16+08:00 ] /xxx/admin.php/Article/add | SQL: SHOW COLUMNS FROM `think_article` [ RunTime:0.043831s ]
+[ 2019-06-29T11:02:16+08:00 ] /xxx/admin.php/Article/add | NOTIC: [8] Use of undefined constant MAGIC_QUOTES_GPC - assumed 'MAGIC_QUOTES_GPC' Model.class.php 第 867 行.
+[ 2019-06-29T11:02:16+08:00 ] /xxx/admin.php/Article/add | NOTIC: [8] Use of undefined constant MAGIC_QUOTES_GPC - assumed 'MAGIC_QUOTES_GPC' Model.class.php 第 867 行.
+[ 2019-06-29T11:02:16+08:00 ] /xxx/admin.php/Article/add | SQL: INSERT INTO `think_article` (`id`,`subject`,`createtime`,`message`,`author`) VALUES ('','213456',1561777336,'<p><strong><span style=\"text-decoration:underline;\">哈哈哈哈</span></strong></p>','ruby97') [ RunTime:0.000821s ]
+[ 2019-06-29T11:02:16+08:00 ] /xxx/admin.php/Article/add | INFO: Tag[ view_template ] --START--
+[ 2019-06-29T11:02:16+08:00 ] /xxx/admin.php/Article/add | INFO: Run LocationTemplate Behavior [ RunTime:0.002547s ]
+[ 2019-06-29T11:02:16+08:00 ] /xxx/admin.php/Article/add | INFO: Tag[ view_template ] --END-- [ RunTime:0.002776s ]
+[ 2019-06-29T11:02:16+08:00 ] /xxx/admin.php/Article/add | INFO: Tag[ view_parse ] --START--
+[ 2019-06-29T11:02:16+08:00 ] /xxx/admin.php/Article/add | INFO: Run ParseTemplate Behavior [ RunTime:0.044805s ]
+[ 2019-06-29T11:02:16+08:00 ] /xxx/admin.php/Article/add | INFO: Tag[ view_parse ] --END-- [ RunTime:0.045056s ]
+[ 2019-06-29T11:02:16+08:00 ] /xxx/admin.php/Article/add | INFO: Tag[ view_filter ] --START--
+[ 2019-06-29T11:02:16+08:00 ] /xxx/admin.php/Article/add | INFO: Run ContentReplace Behavior [ RunTime:0.001853s ]
+[ 2019-06-29T11:02:16+08:00 ] /xxx/admin.php/Article/add | INFO: Run TokenBuild Behavior [ RunTime:0.001510s ]
+[ 2019-06-29T11:02:16+08:00 ] /xxx/admin.php/Article/add | INFO: Run WriteHtmlCache Behavior [ RunTime:0.001020s ]
+[ 2019-06-29T11:02:16+08:00 ] /xxx/admin.php/Article/add | INFO: Run ShowRuntime Behavior [ RunTime:0.001722s ]
+[ 2019-06-29T11:02:16+08:00 ] /xxx/admin.php/Article/add | INFO: Tag[ view_filter ] --END-- [ RunTime:0.006949s ]
+[ 2019-06-29T11:02:16+08:00 ] /xxx/admin.php/Article/add | INFO: Tag[ view_end ] --START--
+[ 2019-06-29T11:02:16+08:00 ] /xxx/admin.php/Article/add | INFO: Run ShowPageTrace Behavior [ RunTime:0.001382s ]
+[ 2019-06-29T11:02:16+08:00 ] /xxx/admin.php/Article/add | INFO: Tag[ view_end ] --END-- [ RunTime:0.001601s ]
+[ 2019-06-29T11:02:17+08:00 ] /xxx/admin.php/Index/index | INFO: Tag[ route_check ] --START--
+[ 2019-06-29T11:02:17+08:00 ] /xxx/admin.php/Index/index | INFO: Run CheckRoute Behavior [ RunTime:0.001832s ]
+[ 2019-06-29T11:02:17+08:00 ] /xxx/admin.php/Index/index | INFO: Tag[ route_check ] --END-- [ RunTime:0.002103s ]
+[ 2019-06-29T11:02:17+08:00 ] /xxx/admin.php/Index/index | INFO: Tag[ app_begin ] --START--
+[ 2019-06-29T11:02:17+08:00 ] /xxx/admin.php/Index/index | INFO: Run ReadHtmlCache Behavior [ RunTime:0.002084s ]
+[ 2019-06-29T11:02:17+08:00 ] /xxx/admin.php/Index/index | INFO: Tag[ app_begin ] --END-- [ RunTime:0.002343s ]
+[ 2019-06-29T11:02:17+08:00 ] /xxx/admin.php/Index/index | SQL: SHOW COLUMNS FROM `think_article` [ RunTime:0.009064s ]
+[ 2019-06-29T11:02:17+08:00 ] /xxx/admin.php/Index/index | SQL: SELECT COUNT(*) AS tp_count FROM `think_article` LIMIT 1   [ RunTime:0.000586s ]
+[ 2019-06-29T11:02:18+08:00 ] /xxx/admin.php/Index/index | SQL: SELECT `id`,`subject`,`author`,`createtime` FROM `think_article` ORDER BY id desc LIMIT 0,8   [ RunTime:0.000712s ]
+[ 2019-06-29T11:02:18+08:00 ] /xxx/admin.php/Index/index | NOTIC: [8] Undefined index: lastmodifytime IndexAction.class.php 第 112 行.
+[ 2019-06-29T11:02:18+08:00 ] /xxx/admin.php/Index/index | NOTIC: [8] Undefined index: lastmodifytime IndexAction.class.php 第 112 行.
+[ 2019-06-29T11:02:18+08:00 ] /xxx/admin.php/Index/index | NOTIC: [8] Undefined index: lastmodifytime IndexAction.class.php 第 112 行.
+[ 2019-06-29T11:02:18+08:00 ] /xxx/admin.php/Index/index | NOTIC: [8] Undefined index: lastmodifytime IndexAction.class.php 第 112 行.
+[ 2019-06-29T11:02:18+08:00 ] /xxx/admin.php/Index/index | NOTIC: [8] Undefined index: lastmodifytime IndexAction.class.php 第 112 行.
+[ 2019-06-29T11:02:18+08:00 ] /xxx/admin.php/Index/index | INFO: Tag[ view_template ] --START--
+[ 2019-06-29T11:02:18+08:00 ] /xxx/admin.php/Index/index | INFO: Run LocationTemplate Behavior [ RunTime:0.002357s ]
+[ 2019-06-29T11:02:18+08:00 ] /xxx/admin.php/Index/index | INFO: Tag[ view_template ] --END-- [ RunTime:0.002553s ]
+[ 2019-06-29T11:02:18+08:00 ] /xxx/admin.php/Index/index | INFO: Tag[ view_parse ] --START--
+[ 2019-06-29T11:02:18+08:00 ] /xxx/admin.php/Index/index | NOTIC: [8] Undefined index: lastmodifytime 4c18d5952d0dbf1eedb8a1ec796fa788.php 第 179 行.
+[ 2019-06-29T11:02:18+08:00 ] /xxx/admin.php/Index/index | NOTIC: [8] Undefined index: lastmodifytime 4c18d5952d0dbf1eedb8a1ec796fa788.php 第 179 行.
+[ 2019-06-29T11:02:18+08:00 ] /xxx/admin.php/Index/index | NOTIC: [8] Undefined index: lastmodifytime 4c18d5952d0dbf1eedb8a1ec796fa788.php 第 179 行.
+[ 2019-06-29T11:02:18+08:00 ] /xxx/admin.php/Index/index | NOTIC: [8] Undefined index: lastmodifytime 4c18d5952d0dbf1eedb8a1ec796fa788.php 第 179 行.
+[ 2019-06-29T11:02:18+08:00 ] /xxx/admin.php/Index/index | NOTIC: [8] Undefined index: lastmodifytime 4c18d5952d0dbf1eedb8a1ec796fa788.php 第 179 行.
+[ 2019-06-29T11:02:18+08:00 ] /xxx/admin.php/Index/index | INFO: Run ParseTemplate Behavior [ RunTime:0.038328s ]
+[ 2019-06-29T11:02:18+08:00 ] /xxx/admin.php/Index/index | INFO: Tag[ view_parse ] --END-- [ RunTime:0.038574s ]
+[ 2019-06-29T11:02:18+08:00 ] /xxx/admin.php/Index/index | INFO: Tag[ view_filter ] --START--
+[ 2019-06-29T11:02:18+08:00 ] /xxx/admin.php/Index/index | INFO: Run ContentReplace Behavior [ RunTime:0.001655s ]
+[ 2019-06-29T11:02:18+08:00 ] /xxx/admin.php/Index/index | INFO: Run TokenBuild Behavior [ RunTime:0.001893s ]
+[ 2019-06-29T11:02:18+08:00 ] /xxx/admin.php/Index/index | INFO: Run WriteHtmlCache Behavior [ RunTime:0.001238s ]
+[ 2019-06-29T11:02:18+08:00 ] /xxx/admin.php/Index/index | INFO: Run ShowRuntime Behavior [ RunTime:0.002286s ]
+[ 2019-06-29T11:02:18+08:00 ] /xxx/admin.php/Index/index | INFO: Tag[ view_filter ] --END-- [ RunTime:0.007940s ]
+[ 2019-06-29T11:02:18+08:00 ] /xxx/admin.php/Index/index | INFO: Tag[ view_end ] --START--
+[ 2019-06-29T11:02:18+08:00 ] /xxx/admin.php/Index/index | INFO: Run ShowPageTrace Behavior [ RunTime:0.001426s ]
+[ 2019-06-29T11:02:18+08:00 ] /xxx/admin.php/Index/index | INFO: Tag[ view_end ] --END-- [ RunTime:0.001658s ]
+[ 2019-06-29T11:37:26+08:00 ] /xxx/admin.php/Article/index | INFO: Tag[ route_check ] --START--
+[ 2019-06-29T11:37:26+08:00 ] /xxx/admin.php/Article/index | INFO: Run CheckRoute Behavior [ RunTime:0.001563s ]
+[ 2019-06-29T11:37:26+08:00 ] /xxx/admin.php/Article/index | INFO: Tag[ route_check ] --END-- [ RunTime:0.001828s ]
+[ 2019-06-29T11:37:26+08:00 ] /xxx/admin.php/Article/index | INFO: Tag[ app_begin ] --START--
+[ 2019-06-29T11:37:26+08:00 ] /xxx/admin.php/Article/index | INFO: Run ReadHtmlCache Behavior [ RunTime:0.002582s ]
+[ 2019-06-29T11:37:26+08:00 ] /xxx/admin.php/Article/index | INFO: Tag[ app_begin ] --END-- [ RunTime:0.003061s ]
+[ 2019-06-29T11:37:26+08:00 ] /xxx/admin.php/Article/index | NOTIC: [8] Undefined index: id ArticleAction.class.php 第 13 行.
+[ 2019-06-29T11:37:26+08:00 ] /xxx/admin.php/Article/index | INFO: Tag[ view_template ] --START--
+[ 2019-06-29T11:37:26+08:00 ] /xxx/admin.php/Article/index | INFO: Run LocationTemplate Behavior [ RunTime:0.001872s ]
+[ 2019-06-29T11:37:26+08:00 ] /xxx/admin.php/Article/index | INFO: Tag[ view_template ] --END-- [ RunTime:0.002066s ]
+[ 2019-06-29T11:37:26+08:00 ] /xxx/admin.php/Article/index | INFO: Tag[ view_parse ] --START--
+[ 2019-06-29T11:37:26+08:00 ] /xxx/admin.php/Article/index | NOTIC: [8] Undefined variable: username 6a0fa1355e20b485f823227ab394fc93.php 第 34 行.
+[ 2019-06-29T11:37:26+08:00 ] /xxx/admin.php/Article/index | NOTIC: [8] Undefined variable: username 6a0fa1355e20b485f823227ab394fc93.php 第 34 行.
+[ 2019-06-29T11:37:26+08:00 ] /xxx/admin.php/Article/index | NOTIC: [8] Undefined variable: article_item 6a0fa1355e20b485f823227ab394fc93.php 第 101 行.
+[ 2019-06-29T11:37:26+08:00 ] /xxx/admin.php/Article/index | NOTIC: [8] Undefined variable: article_item 6a0fa1355e20b485f823227ab394fc93.php 第 108 行.
+[ 2019-06-29T11:37:26+08:00 ] /xxx/admin.php/Article/index | NOTIC: [8] Undefined variable: article_item 6a0fa1355e20b485f823227ab394fc93.php 第 114 行.
+[ 2019-06-29T11:37:26+08:00 ] /xxx/admin.php/Article/index | INFO: Run ParseTemplate Behavior [ RunTime:0.034281s ]
+[ 2019-06-29T11:37:26+08:00 ] /xxx/admin.php/Article/index | INFO: Tag[ view_parse ] --END-- [ RunTime:0.034512s ]
+[ 2019-06-29T11:37:26+08:00 ] /xxx/admin.php/Article/index | INFO: Tag[ view_filter ] --START--
+[ 2019-06-29T11:37:26+08:00 ] /xxx/admin.php/Article/index | INFO: Run ContentReplace Behavior [ RunTime:0.001927s ]
+[ 2019-06-29T11:37:26+08:00 ] /xxx/admin.php/Article/index | INFO: Run TokenBuild Behavior [ RunTime:0.002320s ]
+[ 2019-06-29T11:37:26+08:00 ] /xxx/admin.php/Article/index | INFO: Run WriteHtmlCache Behavior [ RunTime:0.001383s ]
+[ 2019-06-29T11:37:26+08:00 ] /xxx/admin.php/Article/index | INFO: Run ShowRuntime Behavior [ RunTime:0.002036s ]
+[ 2019-06-29T11:37:26+08:00 ] /xxx/admin.php/Article/index | INFO: Tag[ view_filter ] --END-- [ RunTime:0.008400s ]
+[ 2019-06-29T11:37:26+08:00 ] /xxx/admin.php/Article/index | INFO: Tag[ view_end ] --START--
+[ 2019-06-29T11:37:26+08:00 ] /xxx/admin.php/Article/index | INFO: Run ShowPageTrace Behavior [ RunTime:0.001671s ]
+[ 2019-06-29T11:37:26+08:00 ] /xxx/admin.php/Article/index | INFO: Tag[ view_end ] --END-- [ RunTime:0.001910s ]
+[ 2019-06-29T20:41:54+08:00 ] /xxx/admin.php/Login/index/ | INFO: Tag[ route_check ] --START--
+[ 2019-06-29T20:41:54+08:00 ] /xxx/admin.php/Login/index/ | INFO: Run CheckRoute Behavior [ RunTime:0.051129s ]
+[ 2019-06-29T20:41:54+08:00 ] /xxx/admin.php/Login/index/ | INFO: Tag[ route_check ] --END-- [ RunTime:0.051350s ]
+[ 2019-06-29T20:41:54+08:00 ] /xxx/admin.php/Login/index/ | INFO: Tag[ app_begin ] --START--
+[ 2019-06-29T20:41:54+08:00 ] /xxx/admin.php/Login/index/ | INFO: Run ReadHtmlCache Behavior [ RunTime:0.001581s ]
+[ 2019-06-29T20:41:54+08:00 ] /xxx/admin.php/Login/index/ | INFO: Tag[ app_begin ] --END-- [ RunTime:0.001772s ]
+[ 2019-06-29T20:41:54+08:00 ] /xxx/admin.php/Login/index/ | INFO: Tag[ view_template ] --START--
+[ 2019-06-29T20:41:54+08:00 ] /xxx/admin.php/Login/index/ | INFO: Run LocationTemplate Behavior [ RunTime:0.001261s ]
+[ 2019-06-29T20:41:54+08:00 ] /xxx/admin.php/Login/index/ | INFO: Tag[ view_template ] --END-- [ RunTime:0.001428s ]
+[ 2019-06-29T20:41:54+08:00 ] /xxx/admin.php/Login/index/ | INFO: Tag[ view_parse ] --START--
+[ 2019-06-29T20:41:54+08:00 ] /xxx/admin.php/Login/index/ | INFO: Run ParseTemplate Behavior [ RunTime:0.019901s ]
+[ 2019-06-29T20:41:54+08:00 ] /xxx/admin.php/Login/index/ | INFO: Tag[ view_parse ] --END-- [ RunTime:0.020099s ]
+[ 2019-06-29T20:41:54+08:00 ] /xxx/admin.php/Login/index/ | INFO: Tag[ view_filter ] --START--
+[ 2019-06-29T20:41:54+08:00 ] /xxx/admin.php/Login/index/ | INFO: Run ContentReplace Behavior [ RunTime:0.000798s ]
+[ 2019-06-29T20:41:54+08:00 ] /xxx/admin.php/Login/index/ | INFO: Run TokenBuild Behavior [ RunTime:0.000981s ]
+[ 2019-06-29T20:41:54+08:00 ] /xxx/admin.php/Login/index/ | INFO: Run WriteHtmlCache Behavior [ RunTime:0.000457s ]
+[ 2019-06-29T20:41:54+08:00 ] /xxx/admin.php/Login/index/ | INFO: Run ShowRuntime Behavior [ RunTime:0.000976s ]
+[ 2019-06-29T20:41:54+08:00 ] /xxx/admin.php/Login/index/ | INFO: Tag[ view_filter ] --END-- [ RunTime:0.003751s ]
+[ 2019-06-29T20:41:54+08:00 ] /xxx/admin.php/Login/index/ | INFO: Tag[ view_end ] --START--
+[ 2019-06-29T20:41:54+08:00 ] /xxx/admin.php/Login/index/ | INFO: Run ShowPageTrace Behavior [ RunTime:0.001409s ]
+[ 2019-06-29T20:41:54+08:00 ] /xxx/admin.php/Login/index/ | INFO: Tag[ view_end ] --END-- [ RunTime:0.001617s ]
+[ 2019-06-29T20:41:54+08:00 ] /xxx/admin.php/Common/verify | INFO: Tag[ route_check ] --START--
+[ 2019-06-29T20:41:54+08:00 ] /xxx/admin.php/Common/verify | INFO: Run CheckRoute Behavior [ RunTime:0.001523s ]
+[ 2019-06-29T20:41:54+08:00 ] /xxx/admin.php/Common/verify | INFO: Tag[ route_check ] --END-- [ RunTime:0.001740s ]
+[ 2019-06-29T20:41:54+08:00 ] /xxx/admin.php/Common/verify | INFO: Tag[ app_begin ] --START--
+[ 2019-06-29T20:41:54+08:00 ] /xxx/admin.php/Common/verify | INFO: Run ReadHtmlCache Behavior [ RunTime:0.001084s ]
+[ 2019-06-29T20:41:54+08:00 ] /xxx/admin.php/Common/verify | INFO: Tag[ app_begin ] --END-- [ RunTime:0.001310s ]
+[ 2019-06-29T20:59:36+08:00 ] /xxx/admin.php/Index/index/username/ruby97 | INFO: Tag[ route_check ] --START--
+[ 2019-06-29T20:59:36+08:00 ] /xxx/admin.php/Index/index/username/ruby97 | INFO: Run CheckRoute Behavior [ RunTime:0.001613s ]
+[ 2019-06-29T20:59:36+08:00 ] /xxx/admin.php/Index/index/username/ruby97 | INFO: Tag[ route_check ] --END-- [ RunTime:0.001832s ]
+[ 2019-06-29T20:59:36+08:00 ] /xxx/admin.php/Index/index/username/ruby97 | INFO: Tag[ app_begin ] --START--
+[ 2019-06-29T20:59:36+08:00 ] /xxx/admin.php/Index/index/username/ruby97 | INFO: Run ReadHtmlCache Behavior [ RunTime:0.002235s ]
+[ 2019-06-29T20:59:36+08:00 ] /xxx/admin.php/Index/index/username/ruby97 | INFO: Tag[ app_begin ] --END-- [ RunTime:0.002419s ]
+[ 2019-06-29T20:59:36+08:00 ] /xxx/admin.php/Index/index/username/ruby97 | SQL: SHOW COLUMNS FROM `think_article` [ RunTime:0.022821s ]
+[ 2019-06-29T20:59:36+08:00 ] /xxx/admin.php/Index/index/username/ruby97 | SQL: SELECT COUNT(*) AS tp_count FROM `think_article` LIMIT 1   [ RunTime:0.000577s ]
+[ 2019-06-29T20:59:36+08:00 ] /xxx/admin.php/Index/index/username/ruby97 | SQL: SELECT `id`,`subject`,`author`,`createtime` FROM `think_article` ORDER BY id desc LIMIT 0,8   [ RunTime:0.001271s ]
+[ 2019-06-29T20:59:36+08:00 ] /xxx/admin.php/Index/index/username/ruby97 | NOTIC: [8] Undefined index: lastmodifytime IndexAction.class.php 第 112 行.
+[ 2019-06-29T20:59:36+08:00 ] /xxx/admin.php/Index/index/username/ruby97 | NOTIC: [8] Undefined index: lastmodifytime IndexAction.class.php 第 112 行.
+[ 2019-06-29T20:59:36+08:00 ] /xxx/admin.php/Index/index/username/ruby97 | NOTIC: [8] Undefined index: lastmodifytime IndexAction.class.php 第 112 行.
+[ 2019-06-29T20:59:36+08:00 ] /xxx/admin.php/Index/index/username/ruby97 | NOTIC: [8] Undefined index: lastmodifytime IndexAction.class.php 第 112 行.
+[ 2019-06-29T20:59:36+08:00 ] /xxx/admin.php/Index/index/username/ruby97 | NOTIC: [8] Undefined index: lastmodifytime IndexAction.class.php 第 112 行.
+[ 2019-06-29T20:59:36+08:00 ] /xxx/admin.php/Index/index/username/ruby97 | INFO: Tag[ view_template ] --START--
+[ 2019-06-29T20:59:36+08:00 ] /xxx/admin.php/Index/index/username/ruby97 | INFO: Run LocationTemplate Behavior [ RunTime:0.003392s ]
+[ 2019-06-29T20:59:36+08:00 ] /xxx/admin.php/Index/index/username/ruby97 | INFO: Tag[ view_template ] --END-- [ RunTime:0.003576s ]
+[ 2019-06-29T20:59:36+08:00 ] /xxx/admin.php/Index/index/username/ruby97 | INFO: Tag[ view_parse ] --START--
+[ 2019-06-29T20:59:36+08:00 ] /xxx/admin.php/Index/index/username/ruby97 | NOTIC: [8] Undefined index: lastmodifytime 4c18d5952d0dbf1eedb8a1ec796fa788.php 第 179 行.
+[ 2019-06-29T20:59:36+08:00 ] /xxx/admin.php/Index/index/username/ruby97 | NOTIC: [8] Undefined index: lastmodifytime 4c18d5952d0dbf1eedb8a1ec796fa788.php 第 179 行.
+[ 2019-06-29T20:59:36+08:00 ] /xxx/admin.php/Index/index/username/ruby97 | NOTIC: [8] Undefined index: lastmodifytime 4c18d5952d0dbf1eedb8a1ec796fa788.php 第 179 行.
+[ 2019-06-29T20:59:36+08:00 ] /xxx/admin.php/Index/index/username/ruby97 | NOTIC: [8] Undefined index: lastmodifytime 4c18d5952d0dbf1eedb8a1ec796fa788.php 第 179 行.
+[ 2019-06-29T20:59:36+08:00 ] /xxx/admin.php/Index/index/username/ruby97 | NOTIC: [8] Undefined index: lastmodifytime 4c18d5952d0dbf1eedb8a1ec796fa788.php 第 179 行.
+[ 2019-06-29T20:59:36+08:00 ] /xxx/admin.php/Index/index/username/ruby97 | INFO: Run ParseTemplate Behavior [ RunTime:0.031639s ]
+[ 2019-06-29T20:59:36+08:00 ] /xxx/admin.php/Index/index/username/ruby97 | INFO: Tag[ view_parse ] --END-- [ RunTime:0.031830s ]
+[ 2019-06-29T20:59:36+08:00 ] /xxx/admin.php/Index/index/username/ruby97 | INFO: Tag[ view_filter ] --START--
+[ 2019-06-29T20:59:36+08:00 ] /xxx/admin.php/Index/index/username/ruby97 | INFO: Run ContentReplace Behavior [ RunTime:0.001520s ]
+[ 2019-06-29T20:59:36+08:00 ] /xxx/admin.php/Index/index/username/ruby97 | INFO: Run TokenBuild Behavior [ RunTime:0.002411s ]
+[ 2019-06-29T20:59:36+08:00 ] /xxx/admin.php/Index/index/username/ruby97 | INFO: Run WriteHtmlCache Behavior [ RunTime:0.001859s ]
+[ 2019-06-29T20:59:36+08:00 ] /xxx/admin.php/Index/index/username/ruby97 | INFO: Run ShowRuntime Behavior [ RunTime:0.002546s ]
+[ 2019-06-29T20:59:36+08:00 ] /xxx/admin.php/Index/index/username/ruby97 | INFO: Tag[ view_filter ] --END-- [ RunTime:0.008979s ]
+[ 2019-06-29T20:59:36+08:00 ] /xxx/admin.php/Index/index/username/ruby97 | INFO: Tag[ view_end ] --START--
+[ 2019-06-29T20:59:36+08:00 ] /xxx/admin.php/Index/index/username/ruby97 | INFO: Run ShowPageTrace Behavior [ RunTime:0.002264s ]
+[ 2019-06-29T20:59:36+08:00 ] /xxx/admin.php/Index/index/username/ruby97 | INFO: Tag[ view_end ] --END-- [ RunTime:0.002534s ]
+[ 2019-06-29T20:59:57+08:00 ] /xxx/admin.php/Article/index | INFO: Tag[ route_check ] --START--
+[ 2019-06-29T20:59:57+08:00 ] /xxx/admin.php/Article/index | INFO: Run CheckRoute Behavior [ RunTime:0.001760s ]
+[ 2019-06-29T20:59:57+08:00 ] /xxx/admin.php/Article/index | INFO: Tag[ route_check ] --END-- [ RunTime:0.002021s ]
+[ 2019-06-29T20:59:57+08:00 ] /xxx/admin.php/Article/index | INFO: Tag[ app_begin ] --START--
+[ 2019-06-29T20:59:57+08:00 ] /xxx/admin.php/Article/index | INFO: Run ReadHtmlCache Behavior [ RunTime:0.001485s ]
+[ 2019-06-29T20:59:57+08:00 ] /xxx/admin.php/Article/index | INFO: Tag[ app_begin ] --END-- [ RunTime:0.001803s ]
+[ 2019-06-29T20:59:57+08:00 ] /xxx/admin.php/Article/index | NOTIC: [8] Undefined index: id ArticleAction.class.php 第 13 行.
+[ 2019-06-29T20:59:57+08:00 ] /xxx/admin.php/Article/index | INFO: Tag[ view_template ] --START--
+[ 2019-06-29T20:59:57+08:00 ] /xxx/admin.php/Article/index | INFO: Run LocationTemplate Behavior [ RunTime:0.001748s ]
+[ 2019-06-29T20:59:57+08:00 ] /xxx/admin.php/Article/index | INFO: Tag[ view_template ] --END-- [ RunTime:0.001946s ]
+[ 2019-06-29T20:59:57+08:00 ] /xxx/admin.php/Article/index | INFO: Tag[ view_parse ] --START--
+[ 2019-06-29T20:59:57+08:00 ] /xxx/admin.php/Article/index | NOTIC: [8] Undefined variable: username 6a0fa1355e20b485f823227ab394fc93.php 第 34 行.
+[ 2019-06-29T20:59:57+08:00 ] /xxx/admin.php/Article/index | NOTIC: [8] Undefined variable: username 6a0fa1355e20b485f823227ab394fc93.php 第 34 行.
+[ 2019-06-29T20:59:57+08:00 ] /xxx/admin.php/Article/index | NOTIC: [8] Undefined variable: article_item 6a0fa1355e20b485f823227ab394fc93.php 第 101 行.
+[ 2019-06-29T20:59:57+08:00 ] /xxx/admin.php/Article/index | NOTIC: [8] Undefined variable: article_item 6a0fa1355e20b485f823227ab394fc93.php 第 108 行.
+[ 2019-06-29T20:59:57+08:00 ] /xxx/admin.php/Article/index | NOTIC: [8] Undefined variable: article_item 6a0fa1355e20b485f823227ab394fc93.php 第 114 行.
+[ 2019-06-29T20:59:57+08:00 ] /xxx/admin.php/Article/index | INFO: Run ParseTemplate Behavior [ RunTime:0.055090s ]
+[ 2019-06-29T20:59:57+08:00 ] /xxx/admin.php/Article/index | INFO: Tag[ view_parse ] --END-- [ RunTime:0.055287s ]
+[ 2019-06-29T20:59:57+08:00 ] /xxx/admin.php/Article/index | INFO: Tag[ view_filter ] --START--
+[ 2019-06-29T20:59:57+08:00 ] /xxx/admin.php/Article/index | INFO: Run ContentReplace Behavior [ RunTime:0.001024s ]
+[ 2019-06-29T20:59:57+08:00 ] /xxx/admin.php/Article/index | INFO: Run TokenBuild Behavior [ RunTime:0.001794s ]
+[ 2019-06-29T20:59:57+08:00 ] /xxx/admin.php/Article/index | INFO: Run WriteHtmlCache Behavior [ RunTime:0.000761s ]
+[ 2019-06-29T20:59:57+08:00 ] /xxx/admin.php/Article/index | INFO: Run ShowRuntime Behavior [ RunTime:0.001147s ]
+[ 2019-06-29T20:59:57+08:00 ] /xxx/admin.php/Article/index | INFO: Tag[ view_filter ] --END-- [ RunTime:0.005286s ]
+[ 2019-06-29T20:59:57+08:00 ] /xxx/admin.php/Article/index | INFO: Tag[ view_end ] --START--
+[ 2019-06-29T20:59:57+08:00 ] /xxx/admin.php/Article/index | INFO: Run ShowPageTrace Behavior [ RunTime:0.001762s ]
+[ 2019-06-29T20:59:57+08:00 ] /xxx/admin.php/Article/index | INFO: Tag[ view_end ] --END-- [ RunTime:0.001955s ]
+[ 2019-06-29T21:02:39+08:00 ] /xxx/admin.php/Article/quit | ERR: (ThinkException) 非法操作quit
+[ 2019-06-29T21:02:50+08:00 ] /xxx/admin.php/Article/index | INFO: Tag[ route_check ] --START--
+[ 2019-06-29T21:02:50+08:00 ] /xxx/admin.php/Article/index | INFO: Run CheckRoute Behavior [ RunTime:0.002492s ]
+[ 2019-06-29T21:02:50+08:00 ] /xxx/admin.php/Article/index | INFO: Tag[ route_check ] --END-- [ RunTime:0.002965s ]
+[ 2019-06-29T21:02:50+08:00 ] /xxx/admin.php/Article/index | INFO: Tag[ app_begin ] --START--
+[ 2019-06-29T21:02:50+08:00 ] /xxx/admin.php/Article/index | INFO: Run ReadHtmlCache Behavior [ RunTime:0.005954s ]
+[ 2019-06-29T21:02:50+08:00 ] /xxx/admin.php/Article/index | INFO: Tag[ app_begin ] --END-- [ RunTime:0.006591s ]
+[ 2019-06-29T21:02:50+08:00 ] /xxx/admin.php/Article/index | NOTIC: [8] Undefined index: id ArticleAction.class.php 第 13 行.
+[ 2019-06-29T21:02:50+08:00 ] /xxx/admin.php/Article/index | INFO: Tag[ view_template ] --START--
+[ 2019-06-29T21:02:50+08:00 ] /xxx/admin.php/Article/index | INFO: Run LocationTemplate Behavior [ RunTime:0.002853s ]
+[ 2019-06-29T21:02:50+08:00 ] /xxx/admin.php/Article/index | INFO: Tag[ view_template ] --END-- [ RunTime:0.003277s ]
+[ 2019-06-29T21:02:50+08:00 ] /xxx/admin.php/Article/index | INFO: Tag[ view_parse ] --START--
+[ 2019-06-29T21:02:50+08:00 ] /xxx/admin.php/Article/index | NOTIC: [8] Undefined variable: username 6a0fa1355e20b485f823227ab394fc93.php 第 34 行.
+[ 2019-06-29T21:02:50+08:00 ] /xxx/admin.php/Article/index | NOTIC: [8] Undefined variable: username 6a0fa1355e20b485f823227ab394fc93.php 第 34 行.
+[ 2019-06-29T21:02:50+08:00 ] /xxx/admin.php/Article/index | NOTIC: [8] Undefined variable: article_item 6a0fa1355e20b485f823227ab394fc93.php 第 101 行.
+[ 2019-06-29T21:02:50+08:00 ] /xxx/admin.php/Article/index | NOTIC: [8] Undefined variable: article_item 6a0fa1355e20b485f823227ab394fc93.php 第 108 行.
+[ 2019-06-29T21:02:50+08:00 ] /xxx/admin.php/Article/index | NOTIC: [8] Undefined variable: article_item 6a0fa1355e20b485f823227ab394fc93.php 第 114 行.
+[ 2019-06-29T21:02:50+08:00 ] /xxx/admin.php/Article/index | INFO: Run ParseTemplate Behavior [ RunTime:0.030641s ]
+[ 2019-06-29T21:02:50+08:00 ] /xxx/admin.php/Article/index | INFO: Tag[ view_parse ] --END-- [ RunTime:0.030938s ]
+[ 2019-06-29T21:02:50+08:00 ] /xxx/admin.php/Article/index | INFO: Tag[ view_filter ] --START--
+[ 2019-06-29T21:02:50+08:00 ] /xxx/admin.php/Article/index | INFO: Run ContentReplace Behavior [ RunTime:0.001515s ]
+[ 2019-06-29T21:02:50+08:00 ] /xxx/admin.php/Article/index | INFO: Run TokenBuild Behavior [ RunTime:0.002559s ]
+[ 2019-06-29T21:02:50+08:00 ] /xxx/admin.php/Article/index | INFO: Run WriteHtmlCache Behavior [ RunTime:0.001570s ]
+[ 2019-06-29T21:02:50+08:00 ] /xxx/admin.php/Article/index | INFO: Run ShowRuntime Behavior [ RunTime:0.002100s ]
+[ 2019-06-29T21:02:50+08:00 ] /xxx/admin.php/Article/index | INFO: Tag[ view_filter ] --END-- [ RunTime:0.008861s ]
+[ 2019-06-29T21:02:50+08:00 ] /xxx/admin.php/Article/index | INFO: Tag[ view_end ] --START--
+[ 2019-06-29T21:02:50+08:00 ] /xxx/admin.php/Article/index | INFO: Run ShowPageTrace Behavior [ RunTime:0.001715s ]
+[ 2019-06-29T21:02:50+08:00 ] /xxx/admin.php/Article/index | INFO: Tag[ view_end ] --END-- [ RunTime:0.002051s ]

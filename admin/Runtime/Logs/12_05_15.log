@@ -1,0 +1,188 @@
+[ 2012-05-15T09:39:47+08:00 ] /SiaWeb/admin.php/Login/index/ | INFO: Tag[ route_check ] --START--
+[ 2012-05-15T09:39:47+08:00 ] /SiaWeb/admin.php/Login/index/ | INFO: Run CheckRoute Behavior [ RunTime:0.000729s ]
+[ 2012-05-15T09:39:47+08:00 ] /SiaWeb/admin.php/Login/index/ | INFO: Tag[ route_check ] --END-- [ RunTime:0.000841s ]
+[ 2012-05-15T09:39:47+08:00 ] /SiaWeb/admin.php/Login/index/ | INFO: Tag[ app_begin ] --START--
+[ 2012-05-15T09:39:47+08:00 ] /SiaWeb/admin.php/Login/index/ | INFO: Run ReadHtmlCache Behavior [ RunTime:0.000508s ]
+[ 2012-05-15T09:39:47+08:00 ] /SiaWeb/admin.php/Login/index/ | INFO: Tag[ app_begin ] --END-- [ RunTime:0.000583s ]
+[ 2012-05-15T09:39:47+08:00 ] /SiaWeb/admin.php/Login/index/ | INFO: Tag[ view_template ] --START--
+[ 2012-05-15T09:39:47+08:00 ] /SiaWeb/admin.php/Login/index/ | INFO: Run LocationTemplate Behavior [ RunTime:0.000726s ]
+[ 2012-05-15T09:39:47+08:00 ] /SiaWeb/admin.php/Login/index/ | INFO: Tag[ view_template ] --END-- [ RunTime:0.000822s ]
+[ 2012-05-15T09:39:47+08:00 ] /SiaWeb/admin.php/Login/index/ | INFO: Tag[ view_parse ] --START--
+[ 2012-05-15T09:39:47+08:00 ] /SiaWeb/admin.php/Login/index/ | INFO: Run ParseTemplate Behavior [ RunTime:0.014595s ]
+[ 2012-05-15T09:39:47+08:00 ] /SiaWeb/admin.php/Login/index/ | INFO: Tag[ view_parse ] --END-- [ RunTime:0.014693s ]
+[ 2012-05-15T09:39:47+08:00 ] /SiaWeb/admin.php/Login/index/ | INFO: Tag[ view_filter ] --START--
+[ 2012-05-15T09:39:47+08:00 ] /SiaWeb/admin.php/Login/index/ | INFO: Run ContentReplace Behavior [ RunTime:0.000379s ]
+[ 2012-05-15T09:39:47+08:00 ] /SiaWeb/admin.php/Login/index/ | INFO: Run TokenBuild Behavior [ RunTime:0.000461s ]
+[ 2012-05-15T09:39:47+08:00 ] /SiaWeb/admin.php/Login/index/ | INFO: Run WriteHtmlCache Behavior [ RunTime:0.000240s ]
+[ 2012-05-15T09:39:47+08:00 ] /SiaWeb/admin.php/Login/index/ | INFO: Run ShowRuntime Behavior [ RunTime:0.000500s ]
+[ 2012-05-15T09:39:47+08:00 ] /SiaWeb/admin.php/Login/index/ | INFO: Tag[ view_filter ] --END-- [ RunTime:0.001784s ]
+[ 2012-05-15T09:39:47+08:00 ] /SiaWeb/admin.php/Login/index/ | INFO: Tag[ view_end ] --START--
+[ 2012-05-15T09:39:47+08:00 ] /SiaWeb/admin.php/Login/index/ | INFO: Run ShowPageTrace Behavior [ RunTime:0.000409s ]
+[ 2012-05-15T09:39:47+08:00 ] /SiaWeb/admin.php/Login/index/ | INFO: Tag[ view_end ] --END-- [ RunTime:0.000480s ]
+[ 2012-05-15T09:39:48+08:00 ] /SiaWeb/admin.php/Common/verify | INFO: Tag[ route_check ] --START--
+[ 2012-05-15T09:39:48+08:00 ] /SiaWeb/admin.php/Common/verify | INFO: Run CheckRoute Behavior [ RunTime:0.000780s ]
+[ 2012-05-15T09:39:48+08:00 ] /SiaWeb/admin.php/Common/verify | INFO: Tag[ route_check ] --END-- [ RunTime:0.000901s ]
+[ 2012-05-15T09:39:48+08:00 ] /SiaWeb/admin.php/Common/verify | INFO: Tag[ app_begin ] --START--
+[ 2012-05-15T09:39:48+08:00 ] /SiaWeb/admin.php/Common/verify | INFO: Run ReadHtmlCache Behavior [ RunTime:0.000535s ]
+[ 2012-05-15T09:39:48+08:00 ] /SiaWeb/admin.php/Common/verify | INFO: Tag[ app_begin ] --END-- [ RunTime:0.000608s ]
+[ 2012-05-15T09:39:48+08:00 ] /SiaWeb/admin.php/Login/index/resources/images/closelabel.gif | INFO: Tag[ route_check ] --START--
+[ 2012-05-15T09:39:48+08:00 ] /SiaWeb/admin.php/Login/index/resources/images/closelabel.gif | INFO: Run CheckRoute Behavior [ RunTime:0.001492s ]
+[ 2012-05-15T09:39:48+08:00 ] /SiaWeb/admin.php/Login/index/resources/images/closelabel.gif | INFO: Tag[ route_check ] --END-- [ RunTime:0.001673s ]
+[ 2012-05-15T09:39:48+08:00 ] /SiaWeb/admin.php/Login/index/resources/images/closelabel.gif | INFO: Tag[ app_begin ] --START--
+[ 2012-05-15T09:39:48+08:00 ] /SiaWeb/admin.php/Login/index/resources/images/closelabel.gif | INFO: Run ReadHtmlCache Behavior [ RunTime:0.000709s ]
+[ 2012-05-15T09:39:48+08:00 ] /SiaWeb/admin.php/Login/index/resources/images/closelabel.gif | INFO: Tag[ app_begin ] --END-- [ RunTime:0.000793s ]
+[ 2012-05-15T09:39:48+08:00 ] /SiaWeb/admin.php/Login/index/resources/images/closelabel.gif | INFO: Tag[ view_template ] --START--
+[ 2012-05-15T09:39:48+08:00 ] /SiaWeb/admin.php/Login/index/resources/images/closelabel.gif | INFO: Run LocationTemplate Behavior [ RunTime:0.002203s ]
+[ 2012-05-15T09:39:48+08:00 ] /SiaWeb/admin.php/Login/index/resources/images/closelabel.gif | INFO: Tag[ view_template ] --END-- [ RunTime:0.002374s ]
+[ 2012-05-15T09:39:48+08:00 ] /SiaWeb/admin.php/Login/index/resources/images/closelabel.gif | INFO: Tag[ view_parse ] --START--
+[ 2012-05-15T09:39:48+08:00 ] /SiaWeb/admin.php/Login/index/resources/images/closelabel.gif | INFO: Run ParseTemplate Behavior [ RunTime:0.008531s ]
+[ 2012-05-15T09:39:48+08:00 ] /SiaWeb/admin.php/Login/index/resources/images/closelabel.gif | INFO: Tag[ view_parse ] --END-- [ RunTime:0.008695s ]
+[ 2012-05-15T09:39:48+08:00 ] /SiaWeb/admin.php/Login/index/resources/images/closelabel.gif | INFO: Tag[ view_filter ] --START--
+[ 2012-05-15T09:39:48+08:00 ] /SiaWeb/admin.php/Login/index/resources/images/closelabel.gif | INFO: Run ContentReplace Behavior [ RunTime:0.000615s ]
+[ 2012-05-15T09:39:48+08:00 ] /SiaWeb/admin.php/Login/index/resources/images/closelabel.gif | INFO: Run TokenBuild Behavior [ RunTime:0.000911s ]
+[ 2012-05-15T09:39:48+08:00 ] /SiaWeb/admin.php/Login/index/resources/images/closelabel.gif | INFO: Run WriteHtmlCache Behavior [ RunTime:0.000522s ]
+[ 2012-05-15T09:39:48+08:00 ] /SiaWeb/admin.php/Login/index/resources/images/closelabel.gif | INFO: Run ShowRuntime Behavior [ RunTime:0.000908s ]
+[ 2012-05-15T09:39:48+08:00 ] /SiaWeb/admin.php/Login/index/resources/images/closelabel.gif | INFO: Tag[ view_filter ] --END-- [ RunTime:0.003304s ]
+[ 2012-05-15T09:39:48+08:00 ] /SiaWeb/admin.php/Login/index/resources/images/closelabel.gif | INFO: Tag[ view_end ] --START--
+[ 2012-05-15T09:39:48+08:00 ] /SiaWeb/admin.php/Login/index/resources/images/closelabel.gif | INFO: Run ShowPageTrace Behavior [ RunTime:0.000816s ]
+[ 2012-05-15T09:39:48+08:00 ] /SiaWeb/admin.php/Login/index/resources/images/closelabel.gif | INFO: Tag[ view_end ] --END-- [ RunTime:0.000944s ]
+[ 2012-05-15T09:39:50+08:00 ] /SiaWeb/admin.php/Common/verify/random/0.9187217839062214 | INFO: Tag[ route_check ] --START--
+[ 2012-05-15T09:39:50+08:00 ] /SiaWeb/admin.php/Common/verify/random/0.9187217839062214 | INFO: Run CheckRoute Behavior [ RunTime:0.000755s ]
+[ 2012-05-15T09:39:50+08:00 ] /SiaWeb/admin.php/Common/verify/random/0.9187217839062214 | INFO: Tag[ route_check ] --END-- [ RunTime:0.000865s ]
+[ 2012-05-15T09:39:50+08:00 ] /SiaWeb/admin.php/Common/verify/random/0.9187217839062214 | INFO: Tag[ app_begin ] --START--
+[ 2012-05-15T09:39:50+08:00 ] /SiaWeb/admin.php/Common/verify/random/0.9187217839062214 | INFO: Run ReadHtmlCache Behavior [ RunTime:0.000527s ]
+[ 2012-05-15T09:39:50+08:00 ] /SiaWeb/admin.php/Common/verify/random/0.9187217839062214 | INFO: Tag[ app_begin ] --END-- [ RunTime:0.000602s ]
+[ 2012-05-15T09:39:50+08:00 ] /SiaWeb/admin.php/Common/verify/random/0.9861883434932679 | INFO: Tag[ route_check ] --START--
+[ 2012-05-15T09:39:50+08:00 ] /SiaWeb/admin.php/Common/verify/random/0.9861883434932679 | INFO: Run CheckRoute Behavior [ RunTime:0.000755s ]
+[ 2012-05-15T09:39:50+08:00 ] /SiaWeb/admin.php/Common/verify/random/0.9861883434932679 | INFO: Tag[ route_check ] --END-- [ RunTime:0.000865s ]
+[ 2012-05-15T09:39:50+08:00 ] /SiaWeb/admin.php/Common/verify/random/0.9861883434932679 | INFO: Tag[ app_begin ] --START--
+[ 2012-05-15T09:39:50+08:00 ] /SiaWeb/admin.php/Common/verify/random/0.9861883434932679 | INFO: Run ReadHtmlCache Behavior [ RunTime:0.000516s ]
+[ 2012-05-15T09:39:50+08:00 ] /SiaWeb/admin.php/Common/verify/random/0.9861883434932679 | INFO: Tag[ app_begin ] --END-- [ RunTime:0.000594s ]
+[ 2012-05-15T09:39:54+08:00 ] /SiaWeb/admin.php/Index/index/username/siaweb | INFO: Tag[ route_check ] --START--
+[ 2012-05-15T09:39:54+08:00 ] /SiaWeb/admin.php/Index/index/username/siaweb | INFO: Run CheckRoute Behavior [ RunTime:0.001196s ]
+[ 2012-05-15T09:39:54+08:00 ] /SiaWeb/admin.php/Index/index/username/siaweb | INFO: Tag[ route_check ] --END-- [ RunTime:0.001388s ]
+[ 2012-05-15T09:39:54+08:00 ] /SiaWeb/admin.php/Index/index/username/siaweb | INFO: Tag[ app_begin ] --START--
+[ 2012-05-15T09:39:54+08:00 ] /SiaWeb/admin.php/Index/index/username/siaweb | INFO: Run ReadHtmlCache Behavior [ RunTime:0.000839s ]
+[ 2012-05-15T09:39:54+08:00 ] /SiaWeb/admin.php/Index/index/username/siaweb | INFO: Tag[ app_begin ] --END-- [ RunTime:0.000977s ]
+[ 2012-05-15T09:39:54+08:00 ] /SiaWeb/admin.php/Index/index/username/siaweb | NOTIC: [8192] Call-time pass-by-reference has been deprecated IndexAction.class.php 第 54 行.
+[ 2012-05-15T09:39:54+08:00 ] /SiaWeb/admin.php/Index/index/username/siaweb | SQL: SHOW COLUMNS FROM `think_article` [ RunTime:0.047115s ]
+[ 2012-05-15T09:39:54+08:00 ] /SiaWeb/admin.php/Index/index/username/siaweb | SQL: SELECT COUNT(*) AS tp_count FROM `think_article` LIMIT 1   [ RunTime:0.000188s ]
+[ 2012-05-15T09:39:54+08:00 ] /SiaWeb/admin.php/Index/index/username/siaweb | SQL: SELECT `id`,`subject`,`author`,`createtime` FROM `think_article` ORDER BY id desc LIMIT 0,8   [ RunTime:0.000325s ]
+[ 2012-05-15T09:39:54+08:00 ] /SiaWeb/admin.php/Index/index/username/siaweb | NOTIC: [8] Undefined index: lastmodifytime IndexAction.class.php 第 130 行.
+[ 2012-05-15T09:39:54+08:00 ] /SiaWeb/admin.php/Index/index/username/siaweb | NOTIC: [8] Undefined index: lastmodifytime IndexAction.class.php 第 130 行.
+[ 2012-05-15T09:39:54+08:00 ] /SiaWeb/admin.php/Index/index/username/siaweb | NOTIC: [8] Undefined index: lastmodifytime IndexAction.class.php 第 130 行.
+[ 2012-05-15T09:39:54+08:00 ] /SiaWeb/admin.php/Index/index/username/siaweb | NOTIC: [8] Undefined index: lastmodifytime IndexAction.class.php 第 130 行.
+[ 2012-05-15T09:39:54+08:00 ] /SiaWeb/admin.php/Index/index/username/siaweb | NOTIC: [8] Undefined index: lastmodifytime IndexAction.class.php 第 130 行.
+[ 2012-05-15T09:39:54+08:00 ] /SiaWeb/admin.php/Index/index/username/siaweb | NOTIC: [8] Undefined index: lastmodifytime IndexAction.class.php 第 130 行.
+[ 2012-05-15T09:39:54+08:00 ] /SiaWeb/admin.php/Index/index/username/siaweb | NOTIC: [8] Undefined index: lastmodifytime IndexAction.class.php 第 130 行.
+[ 2012-05-15T09:39:54+08:00 ] /SiaWeb/admin.php/Index/index/username/siaweb | NOTIC: [8] Undefined index: lastmodifytime IndexAction.class.php 第 130 行.
+[ 2012-05-15T09:39:54+08:00 ] /SiaWeb/admin.php/Index/index/username/siaweb | INFO: Tag[ view_template ] --START--
+[ 2012-05-15T09:39:54+08:00 ] /SiaWeb/admin.php/Index/index/username/siaweb | INFO: Run LocationTemplate Behavior [ RunTime:0.000716s ]
+[ 2012-05-15T09:39:54+08:00 ] /SiaWeb/admin.php/Index/index/username/siaweb | INFO: Tag[ view_template ] --END-- [ RunTime:0.000820s ]
+[ 2012-05-15T09:39:54+08:00 ] /SiaWeb/admin.php/Index/index/username/siaweb | INFO: Tag[ view_parse ] --START--
+[ 2012-05-15T09:39:54+08:00 ] /SiaWeb/admin.php/Index/index/username/siaweb | INFO: Run ParseTemplate Behavior [ RunTime:0.014136s ]
+[ 2012-05-15T09:39:54+08:00 ] /SiaWeb/admin.php/Index/index/username/siaweb | INFO: Tag[ view_parse ] --END-- [ RunTime:0.014251s ]
+[ 2012-05-15T09:39:54+08:00 ] /SiaWeb/admin.php/Index/index/username/siaweb | INFO: Tag[ view_filter ] --START--
+[ 2012-05-15T09:39:54+08:00 ] /SiaWeb/admin.php/Index/index/username/siaweb | INFO: Run ContentReplace Behavior [ RunTime:0.000544s ]
+[ 2012-05-15T09:39:54+08:00 ] /SiaWeb/admin.php/Index/index/username/siaweb | INFO: Run TokenBuild Behavior [ RunTime:0.000563s ]
+[ 2012-05-15T09:39:54+08:00 ] /SiaWeb/admin.php/Index/index/username/siaweb | INFO: Run WriteHtmlCache Behavior [ RunTime:0.000301s ]
+[ 2012-05-15T09:39:54+08:00 ] /SiaWeb/admin.php/Index/index/username/siaweb | INFO: Run ShowRuntime Behavior [ RunTime:0.000508s ]
+[ 2012-05-15T09:39:54+08:00 ] /SiaWeb/admin.php/Index/index/username/siaweb | INFO: Tag[ view_filter ] --END-- [ RunTime:0.002164s ]
+[ 2012-05-15T09:39:54+08:00 ] /SiaWeb/admin.php/Index/index/username/siaweb | INFO: Tag[ view_end ] --START--
+[ 2012-05-15T09:39:54+08:00 ] /SiaWeb/admin.php/Index/index/username/siaweb | INFO: Run ShowPageTrace Behavior [ RunTime:0.000408s ]
+[ 2012-05-15T09:39:54+08:00 ] /SiaWeb/admin.php/Index/index/username/siaweb | INFO: Tag[ view_end ] --END-- [ RunTime:0.000482s ]
+[ 2012-05-15T09:39:54+08:00 ] /SiaWeb/admin.php/Index/index/username/resources/images/closelabel.gif | INFO: Tag[ route_check ] --START--
+[ 2012-05-15T09:39:54+08:00 ] /SiaWeb/admin.php/Index/index/username/resources/images/closelabel.gif | INFO: Run CheckRoute Behavior [ RunTime:0.001417s ]
+[ 2012-05-15T09:39:54+08:00 ] /SiaWeb/admin.php/Index/index/username/resources/images/closelabel.gif | INFO: Tag[ route_check ] --END-- [ RunTime:0.001625s ]
+[ 2012-05-15T09:39:54+08:00 ] /SiaWeb/admin.php/Index/index/username/resources/images/closelabel.gif | INFO: Tag[ app_begin ] --START--
+[ 2012-05-15T09:39:54+08:00 ] /SiaWeb/admin.php/Index/index/username/resources/images/closelabel.gif | INFO: Run ReadHtmlCache Behavior [ RunTime:0.000988s ]
+[ 2012-05-15T09:39:54+08:00 ] /SiaWeb/admin.php/Index/index/username/resources/images/closelabel.gif | INFO: Tag[ app_begin ] --END-- [ RunTime:0.001122s ]
+[ 2012-05-15T09:39:54+08:00 ] /SiaWeb/admin.php/Index/index/username/resources/images/closelabel.gif | NOTIC: [8192] Call-time pass-by-reference has been deprecated IndexAction.class.php 第 54 行.
+[ 2012-05-15T09:39:54+08:00 ] /SiaWeb/admin.php/Index/index/username/resources/images/closelabel.gif | SQL: SHOW COLUMNS FROM `think_article` [ RunTime:0.005122s ]
+[ 2012-05-15T09:39:54+08:00 ] /SiaWeb/admin.php/Index/index/username/resources/images/closelabel.gif | SQL: SELECT COUNT(*) AS tp_count FROM `think_article` LIMIT 1   [ RunTime:0.000224s ]
+[ 2012-05-15T09:39:54+08:00 ] /SiaWeb/admin.php/Index/index/username/resources/images/closelabel.gif | SQL: SELECT `id`,`subject`,`author`,`createtime` FROM `think_article` ORDER BY id desc LIMIT 0,8   [ RunTime:0.000394s ]
+[ 2012-05-15T09:39:54+08:00 ] /SiaWeb/admin.php/Index/index/username/resources/images/closelabel.gif | NOTIC: [8] Undefined index: lastmodifytime IndexAction.class.php 第 130 行.
+[ 2012-05-15T09:39:54+08:00 ] /SiaWeb/admin.php/Index/index/username/resources/images/closelabel.gif | NOTIC: [8] Undefined index: lastmodifytime IndexAction.class.php 第 130 行.
+[ 2012-05-15T09:39:54+08:00 ] /SiaWeb/admin.php/Index/index/username/resources/images/closelabel.gif | NOTIC: [8] Undefined index: lastmodifytime IndexAction.class.php 第 130 行.
+[ 2012-05-15T09:39:54+08:00 ] /SiaWeb/admin.php/Index/index/username/resources/images/closelabel.gif | NOTIC: [8] Undefined index: lastmodifytime IndexAction.class.php 第 130 行.
+[ 2012-05-15T09:39:54+08:00 ] /SiaWeb/admin.php/Index/index/username/resources/images/closelabel.gif | NOTIC: [8] Undefined index: lastmodifytime IndexAction.class.php 第 130 行.
+[ 2012-05-15T09:39:54+08:00 ] /SiaWeb/admin.php/Index/index/username/resources/images/closelabel.gif | NOTIC: [8] Undefined index: lastmodifytime IndexAction.class.php 第 130 行.
+[ 2012-05-15T09:39:54+08:00 ] /SiaWeb/admin.php/Index/index/username/resources/images/closelabel.gif | NOTIC: [8] Undefined index: lastmodifytime IndexAction.class.php 第 130 行.
+[ 2012-05-15T09:39:54+08:00 ] /SiaWeb/admin.php/Index/index/username/resources/images/closelabel.gif | NOTIC: [8] Undefined index: lastmodifytime IndexAction.class.php 第 130 行.
+[ 2012-05-15T09:39:54+08:00 ] /SiaWeb/admin.php/Index/index/username/resources/images/closelabel.gif | INFO: Tag[ view_template ] --START--
+[ 2012-05-15T09:39:54+08:00 ] /SiaWeb/admin.php/Index/index/username/resources/images/closelabel.gif | INFO: Run LocationTemplate Behavior [ RunTime:0.000710s ]
+[ 2012-05-15T09:39:54+08:00 ] /SiaWeb/admin.php/Index/index/username/resources/images/closelabel.gif | INFO: Tag[ view_template ] --END-- [ RunTime:0.000846s ]
+[ 2012-05-15T09:39:54+08:00 ] /SiaWeb/admin.php/Index/index/username/resources/images/closelabel.gif | INFO: Tag[ view_parse ] --START--
+[ 2012-05-15T09:39:54+08:00 ] /SiaWeb/admin.php/Index/index/username/resources/images/closelabel.gif | INFO: Run ParseTemplate Behavior [ RunTime:0.034137s ]
+[ 2012-05-15T09:39:54+08:00 ] /SiaWeb/admin.php/Index/index/username/resources/images/closelabel.gif | INFO: Tag[ view_parse ] --END-- [ RunTime:0.034295s ]
+[ 2012-05-15T09:39:54+08:00 ] /SiaWeb/admin.php/Index/index/username/resources/images/closelabel.gif | INFO: Tag[ view_filter ] --START--
+[ 2012-05-15T09:39:54+08:00 ] /SiaWeb/admin.php/Index/index/username/resources/images/closelabel.gif | INFO: Run ContentReplace Behavior [ RunTime:0.000848s ]
+[ 2012-05-15T09:39:54+08:00 ] /SiaWeb/admin.php/Index/index/username/resources/images/closelabel.gif | INFO: Run TokenBuild Behavior [ RunTime:0.000881s ]
+[ 2012-05-15T09:39:54+08:00 ] /SiaWeb/admin.php/Index/index/username/resources/images/closelabel.gif | INFO: Run WriteHtmlCache Behavior [ RunTime:0.000370s ]
+[ 2012-05-15T09:39:54+08:00 ] /SiaWeb/admin.php/Index/index/username/resources/images/closelabel.gif | INFO: Run ShowRuntime Behavior [ RunTime:0.000787s ]
+[ 2012-05-15T09:39:54+08:00 ] /SiaWeb/admin.php/Index/index/username/resources/images/closelabel.gif | INFO: Tag[ view_filter ] --END-- [ RunTime:0.003243s ]
+[ 2012-05-15T09:39:54+08:00 ] /SiaWeb/admin.php/Index/index/username/resources/images/closelabel.gif | INFO: Tag[ view_end ] --START--
+[ 2012-05-15T09:39:54+08:00 ] /SiaWeb/admin.php/Index/index/username/resources/images/closelabel.gif | INFO: Run ShowPageTrace Behavior [ RunTime:0.000639s ]
+[ 2012-05-15T09:39:54+08:00 ] /SiaWeb/admin.php/Index/index/username/resources/images/closelabel.gif | INFO: Tag[ view_end ] --END-- [ RunTime:0.000769s ]
+[ 2012-05-15T09:39:57+08:00 ] /SiaWeb/admin.php/Article/index | INFO: Tag[ route_check ] --START--
+[ 2012-05-15T09:39:57+08:00 ] /SiaWeb/admin.php/Article/index | INFO: Run CheckRoute Behavior [ RunTime:0.000728s ]
+[ 2012-05-15T09:39:57+08:00 ] /SiaWeb/admin.php/Article/index | INFO: Tag[ route_check ] --END-- [ RunTime:0.000842s ]
+[ 2012-05-15T09:39:57+08:00 ] /SiaWeb/admin.php/Article/index | INFO: Tag[ app_begin ] --START--
+[ 2012-05-15T09:39:57+08:00 ] /SiaWeb/admin.php/Article/index | INFO: Run ReadHtmlCache Behavior [ RunTime:0.000518s ]
+[ 2012-05-15T09:39:57+08:00 ] /SiaWeb/admin.php/Article/index | INFO: Tag[ app_begin ] --END-- [ RunTime:0.000610s ]
+[ 2012-05-15T09:39:57+08:00 ] /SiaWeb/admin.php/Article/index | NOTIC: [8] Undefined index: id ArticleAction.class.php 第 13 行.
+[ 2012-05-15T09:39:57+08:00 ] /SiaWeb/admin.php/Article/index | INFO: Tag[ view_template ] --START--
+[ 2012-05-15T09:39:57+08:00 ] /SiaWeb/admin.php/Article/index | INFO: Run LocationTemplate Behavior [ RunTime:0.000692s ]
+[ 2012-05-15T09:39:57+08:00 ] /SiaWeb/admin.php/Article/index | INFO: Tag[ view_template ] --END-- [ RunTime:0.000796s ]
+[ 2012-05-15T09:39:57+08:00 ] /SiaWeb/admin.php/Article/index | INFO: Tag[ view_parse ] --START--
+[ 2012-05-15T09:39:57+08:00 ] /SiaWeb/admin.php/Article/index | NOTIC: [8] Undefined variable: username 6a0fa1355e20b485f823227ab394fc93.php 第 34 行.
+[ 2012-05-15T09:39:57+08:00 ] /SiaWeb/admin.php/Article/index | NOTIC: [8] Undefined variable: username 6a0fa1355e20b485f823227ab394fc93.php 第 34 行.
+[ 2012-05-15T09:39:57+08:00 ] /SiaWeb/admin.php/Article/index | NOTIC: [8] Undefined variable: article_item 6a0fa1355e20b485f823227ab394fc93.php 第 101 行.
+[ 2012-05-15T09:39:57+08:00 ] /SiaWeb/admin.php/Article/index | NOTIC: [8] Undefined variable: article_item 6a0fa1355e20b485f823227ab394fc93.php 第 108 行.
+[ 2012-05-15T09:39:57+08:00 ] /SiaWeb/admin.php/Article/index | NOTIC: [8] Undefined variable: article_item 6a0fa1355e20b485f823227ab394fc93.php 第 114 行.
+[ 2012-05-15T09:39:57+08:00 ] /SiaWeb/admin.php/Article/index | INFO: Run ParseTemplate Behavior [ RunTime:0.009462s ]
+[ 2012-05-15T09:39:57+08:00 ] /SiaWeb/admin.php/Article/index | INFO: Tag[ view_parse ] --END-- [ RunTime:0.009542s ]
+[ 2012-05-15T09:39:57+08:00 ] /SiaWeb/admin.php/Article/index | INFO: Tag[ view_filter ] --START--
+[ 2012-05-15T09:39:57+08:00 ] /SiaWeb/admin.php/Article/index | INFO: Run ContentReplace Behavior [ RunTime:0.000399s ]
+[ 2012-05-15T09:39:57+08:00 ] /SiaWeb/admin.php/Article/index | INFO: Run TokenBuild Behavior [ RunTime:0.000504s ]
+[ 2012-05-15T09:39:57+08:00 ] /SiaWeb/admin.php/Article/index | INFO: Run WriteHtmlCache Behavior [ RunTime:0.000244s ]
+[ 2012-05-15T09:39:57+08:00 ] /SiaWeb/admin.php/Article/index | INFO: Run ShowRuntime Behavior [ RunTime:0.000498s ]
+[ 2012-05-15T09:39:57+08:00 ] /SiaWeb/admin.php/Article/index | INFO: Tag[ view_filter ] --END-- [ RunTime:0.001867s ]
+[ 2012-05-15T09:39:57+08:00 ] /SiaWeb/admin.php/Article/index | INFO: Tag[ view_end ] --START--
+[ 2012-05-15T09:39:57+08:00 ] /SiaWeb/admin.php/Article/index | INFO: Run ShowPageTrace Behavior [ RunTime:0.000413s ]
+[ 2012-05-15T09:39:57+08:00 ] /SiaWeb/admin.php/Article/index | INFO: Tag[ view_end ] --END-- [ RunTime:0.000486s ]
+[ 2012-05-15T09:39:57+08:00 ] /SiaWeb/admin.php/Article/resources/images/closelabel.gif | ERR: (ThinkException) 非法操作resources
+[ 2012-05-15T10:43:17+08:00 ] /SiaWeb/admin.php/ | INFO: Tag[ route_check ] --START--
+[ 2012-05-15T10:43:17+08:00 ] /SiaWeb/admin.php/ | INFO: Run CheckRoute Behavior [ RunTime:0.001065s ]
+[ 2012-05-15T10:43:17+08:00 ] /SiaWeb/admin.php/ | INFO: Tag[ route_check ] --END-- [ RunTime:0.001195s ]
+[ 2012-05-15T10:43:17+08:00 ] /SiaWeb/admin.php/ | INFO: Tag[ app_begin ] --START--
+[ 2012-05-15T10:43:17+08:00 ] /SiaWeb/admin.php/ | INFO: Run ReadHtmlCache Behavior [ RunTime:0.000645s ]
+[ 2012-05-15T10:43:17+08:00 ] /SiaWeb/admin.php/ | INFO: Tag[ app_begin ] --END-- [ RunTime:0.000731s ]
+[ 2012-05-15T10:43:17+08:00 ] /SiaWeb/admin.php/ | NOTIC: [8192] Call-time pass-by-reference has been deprecated IndexAction.class.php 第 54 行.
+[ 2012-05-15T10:43:17+08:00 ] /SiaWeb/admin.php/ | SQL: SHOW COLUMNS FROM `think_article` [ RunTime:0.005228s ]
+[ 2012-05-15T10:43:17+08:00 ] /SiaWeb/admin.php/ | SQL: SELECT COUNT(*) AS tp_count FROM `think_article` LIMIT 1   [ RunTime:0.000183s ]
+[ 2012-05-15T10:43:17+08:00 ] /SiaWeb/admin.php/ | SQL: SELECT `id`,`subject`,`author`,`createtime` FROM `think_article` ORDER BY id desc LIMIT 0,8   [ RunTime:0.000386s ]
+[ 2012-05-15T10:43:17+08:00 ] /SiaWeb/admin.php/ | NOTIC: [8] Undefined index: lastmodifytime IndexAction.class.php 第 130 行.
+[ 2012-05-15T10:43:17+08:00 ] /SiaWeb/admin.php/ | NOTIC: [8] Undefined index: lastmodifytime IndexAction.class.php 第 130 行.
+[ 2012-05-15T10:43:17+08:00 ] /SiaWeb/admin.php/ | NOTIC: [8] Undefined index: lastmodifytime IndexAction.class.php 第 130 行.
+[ 2012-05-15T10:43:17+08:00 ] /SiaWeb/admin.php/ | NOTIC: [8] Undefined index: lastmodifytime IndexAction.class.php 第 130 行.
+[ 2012-05-15T10:43:17+08:00 ] /SiaWeb/admin.php/ | NOTIC: [8] Undefined index: lastmodifytime IndexAction.class.php 第 130 行.
+[ 2012-05-15T10:43:17+08:00 ] /SiaWeb/admin.php/ | NOTIC: [8] Undefined index: lastmodifytime IndexAction.class.php 第 130 行.
+[ 2012-05-15T10:43:17+08:00 ] /SiaWeb/admin.php/ | NOTIC: [8] Undefined index: lastmodifytime IndexAction.class.php 第 130 行.
+[ 2012-05-15T10:43:17+08:00 ] /SiaWeb/admin.php/ | NOTIC: [8] Undefined index: lastmodifytime IndexAction.class.php 第 130 行.
+[ 2012-05-15T10:43:17+08:00 ] /SiaWeb/admin.php/ | INFO: Tag[ view_template ] --START--
+[ 2012-05-15T10:43:17+08:00 ] /SiaWeb/admin.php/ | INFO: Run LocationTemplate Behavior [ RunTime:0.000758s ]
+[ 2012-05-15T10:43:17+08:00 ] /SiaWeb/admin.php/ | INFO: Tag[ view_template ] --END-- [ RunTime:0.000840s ]
+[ 2012-05-15T10:43:17+08:00 ] /SiaWeb/admin.php/ | INFO: Tag[ view_parse ] --START--
+[ 2012-05-15T10:43:17+08:00 ] /SiaWeb/admin.php/ | INFO: Run ParseTemplate Behavior [ RunTime:0.016385s ]
+[ 2012-05-15T10:43:17+08:00 ] /SiaWeb/admin.php/ | INFO: Tag[ view_parse ] --END-- [ RunTime:0.016514s ]
+[ 2012-05-15T10:43:17+08:00 ] /SiaWeb/admin.php/ | INFO: Tag[ view_filter ] --START--
+[ 2012-05-15T10:43:17+08:00 ] /SiaWeb/admin.php/ | INFO: Run ContentReplace Behavior [ RunTime:0.000880s ]
+[ 2012-05-15T10:43:17+08:00 ] /SiaWeb/admin.php/ | INFO: Run TokenBuild Behavior [ RunTime:0.000941s ]
+[ 2012-05-15T10:43:17+08:00 ] /SiaWeb/admin.php/ | INFO: Run WriteHtmlCache Behavior [ RunTime:0.000454s ]
+[ 2012-05-15T10:43:17+08:00 ] /SiaWeb/admin.php/ | INFO: Run ShowRuntime Behavior [ RunTime:0.000897s ]
+[ 2012-05-15T10:43:17+08:00 ] /SiaWeb/admin.php/ | INFO: Tag[ view_filter ] --END-- [ RunTime:0.003531s ]
+[ 2012-05-15T10:43:17+08:00 ] /SiaWeb/admin.php/ | INFO: Tag[ view_end ] --START--
+[ 2012-05-15T10:43:17+08:00 ] /SiaWeb/admin.php/ | INFO: Run ShowPageTrace Behavior [ RunTime:0.000716s ]
+[ 2012-05-15T10:43:17+08:00 ] /SiaWeb/admin.php/ | INFO: Tag[ view_end ] --END-- [ RunTime:0.000842s ]
+[ 2012-05-15T10:43:17+08:00 ] /SiaWeb/admin.php/resources/images/closelabel.gif | ERR: (ThinkException) 无法加载模块resources

@@ -1,0 +1,1499 @@
+[ 2012-05-11T19:15:18+08:00 ] /SiaWeb/admin.php/person | ERR: (ThinkException) 无法加载模块person
+[ 2012-05-11T19:16:22+08:00 ] /SiaWeb/admin.php/person | ERR: (ThinkException) 无法加载模块person
+[ 2012-05-11T19:16:25+08:00 ] /SiaWeb/admin.php/person | ERR: (ThinkException) 无法加载模块person
+[ 2012-05-11T19:16:31+08:00 ] /SiaWeb/admin.php/Person | ERR: (ThinkException) 无法加载模块Person
+[ 2012-05-11T19:16:43+08:00 ] /SiaWeb/admin.php/Person | ERR: (ThinkException) 无法加载模块Person
+[ 2012-05-11T19:16:45+08:00 ] /SiaWeb/admin.php/Person | ERR: (ThinkException) 无法加载模块Person
+[ 2012-05-11T19:19:28+08:00 ] /SiaWeb/admin.php/ | INFO: Tag[ route_check ] --START--
+[ 2012-05-11T19:19:28+08:00 ] /SiaWeb/admin.php/ | INFO: Run CheckRoute Behavior [ RunTime:0.001181s ]
+[ 2012-05-11T19:19:28+08:00 ] /SiaWeb/admin.php/ | INFO: Tag[ route_check ] --END-- [ RunTime:0.001305s ]
+[ 2012-05-11T19:19:28+08:00 ] /SiaWeb/admin.php/ | INFO: Tag[ app_begin ] --START--
+[ 2012-05-11T19:19:28+08:00 ] /SiaWeb/admin.php/ | INFO: Run ReadHtmlCache Behavior [ RunTime:0.000645s ]
+[ 2012-05-11T19:19:28+08:00 ] /SiaWeb/admin.php/ | INFO: Tag[ app_begin ] --END-- [ RunTime:0.000729s ]
+[ 2012-05-11T19:19:28+08:00 ] /SiaWeb/admin.php/ | NOTIC: [8] Use of undefined constant APP_PUBLIC_PATH - assumed 'APP_PUBLIC_PATH' IndexAction.class.php 第 16 行.
+[ 2012-05-11T19:19:28+08:00 ] /SiaWeb/admin.php/ | NOTIC: [8] Use of undefined constant CONFIG_PATH - assumed 'CONFIG_PATH' IndexAction.class.php 第 18 行.
+[ 2012-05-11T19:19:28+08:00 ] /SiaWeb/admin.php/ | NOTIC: [8] Use of undefined constant GROUP_NAME - assumed 'GROUP_NAME' IndexAction.class.php 第 21 行.
+[ 2012-05-11T19:19:28+08:00 ] /SiaWeb/admin.php/ | NOTIC: [8] Use of undefined constant IS_APACHE - assumed 'IS_APACHE' IndexAction.class.php 第 23 行.
+[ 2012-05-11T19:19:28+08:00 ] /SiaWeb/admin.php/ | NOTIC: [8] Use of undefined constant IS_IIS - assumed 'IS_IIS' IndexAction.class.php 第 25 行.
+[ 2012-05-11T19:19:28+08:00 ] /SiaWeb/admin.php/ | NOTIC: [8] Use of undefined constant LANG_SET - assumed 'LANG_SET' IndexAction.class.php 第 27 行.
+[ 2012-05-11T19:19:28+08:00 ] /SiaWeb/admin.php/ | NOTIC: [8] Use of undefined constant MODEL_NAME - assumed 'MODEL_NAME' IndexAction.class.php 第 31 行.
+[ 2012-05-11T19:19:28+08:00 ] /SiaWeb/admin.php/ | NOTIC: [8] Use of undefined constant TEMPLATE_NAME - assumed 'TEMPLATE_NAME' IndexAction.class.php 第 38 行.
+[ 2012-05-11T19:19:28+08:00 ] /SiaWeb/admin.php/ | NOTIC: [8] Use of undefined constant TEMPLATE_PATH - assumed 'TEMPLATE_PATH' IndexAction.class.php 第 39 行.
+[ 2012-05-11T19:19:28+08:00 ] /SiaWeb/admin.php/ | NOTIC: [8] Use of undefined constant WEB_PUBLIC_PATH - assumed 'WEB_PUBLIC_PATH' IndexAction.class.php 第 41 行.
+[ 2012-05-11T19:19:28+08:00 ] /SiaWeb/admin.php/ | NOTIC: [8] Constant PHP_FILE already defined Dispatcher.class.php 第 53 行.
+[ 2012-05-11T19:19:28+08:00 ] /SiaWeb/admin.php/ | INFO: Tag[ route_check ] --START--
+[ 2012-05-11T19:19:28+08:00 ] /SiaWeb/admin.php/ | INFO: Run CheckRoute Behavior [ RunTime:0.000062s ]
+[ 2012-05-11T19:19:28+08:00 ] /SiaWeb/admin.php/ | INFO: Tag[ route_check ] --END-- [ RunTime:-0.003239s ]
+[ 2012-05-11T19:19:28+08:00 ] /SiaWeb/admin.php/ | NOTIC: [8] Constant __INFO__ already defined Dispatcher.class.php 第 128 行.
+[ 2012-05-11T19:19:28+08:00 ] /SiaWeb/admin.php/ | NOTIC: [8] Constant MODULE_NAME already defined Dispatcher.class.php 第 135 行.
+[ 2012-05-11T19:19:28+08:00 ] /SiaWeb/admin.php/ | NOTIC: [8] Constant P_ACTION_NAME already defined Dispatcher.class.php 第 206 行.
+[ 2012-05-11T19:19:28+08:00 ] /SiaWeb/admin.php/ | NOTIC: [8] Constant ACTION_NAME already defined Dispatcher.class.php 第 136 行.
+[ 2012-05-11T19:19:28+08:00 ] /SiaWeb/admin.php/ | NOTIC: [8] Constant __SELF__ already defined Dispatcher.class.php 第 138 行.
+[ 2012-05-11T19:19:28+08:00 ] /SiaWeb/admin.php/ | NOTIC: [8] Constant __APP__ already defined Dispatcher.class.php 第 140 行.
+[ 2012-05-11T19:19:28+08:00 ] /SiaWeb/admin.php/ | NOTIC: [8] Constant __URL__ already defined Dispatcher.class.php 第 147 行.
+[ 2012-05-11T19:19:28+08:00 ] /SiaWeb/admin.php/ | NOTIC: [8] Constant __ACTION__ already defined Dispatcher.class.php 第 150 行.
+[ 2012-05-11T19:19:28+08:00 ] /SiaWeb/admin.php/ | NOTIC: [8] Constant THEME_NAME already defined App.class.php 第 69 行.
+[ 2012-05-11T19:19:28+08:00 ] /SiaWeb/admin.php/ | NOTIC: [8] Constant THEME_PATH already defined App.class.php 第 71 行.
+[ 2012-05-11T19:19:28+08:00 ] /SiaWeb/admin.php/ | NOTIC: [8] Constant APP_TMPL_PATH already defined App.class.php 第 72 行.
+[ 2012-05-11T19:19:28+08:00 ] /SiaWeb/admin.php/ | INFO: Tag[ app_begin ] --START--
+[ 2012-05-11T19:19:28+08:00 ] /SiaWeb/admin.php/ | INFO: Run ReadHtmlCache Behavior [ RunTime:0.000099s ]
+[ 2012-05-11T19:19:28+08:00 ] /SiaWeb/admin.php/ | INFO: Tag[ app_begin ] --END-- [ RunTime:-0.003023s ]
+[ 2012-05-11T19:19:28+08:00 ] /SiaWeb/admin.php/ | NOTIC: [8] A session had already been started - ignoring session_start() functions.php 第 411 行.
+[ 2012-05-11T19:19:28+08:00 ] /SiaWeb/admin.php/ | NOTIC: [8] Use of undefined constant APP_PUBLIC_PATH - assumed 'APP_PUBLIC_PATH' IndexAction.class.php 第 16 行.
+[ 2012-05-11T19:19:28+08:00 ] /SiaWeb/admin.php/ | NOTIC: [8] Use of undefined constant CONFIG_PATH - assumed 'CONFIG_PATH' IndexAction.class.php 第 18 行.
+[ 2012-05-11T19:19:28+08:00 ] /SiaWeb/admin.php/ | NOTIC: [8] Use of undefined constant GROUP_NAME - assumed 'GROUP_NAME' IndexAction.class.php 第 21 行.
+[ 2012-05-11T19:19:28+08:00 ] /SiaWeb/admin.php/ | NOTIC: [8] Use of undefined constant IS_APACHE - assumed 'IS_APACHE' IndexAction.class.php 第 23 行.
+[ 2012-05-11T19:19:28+08:00 ] /SiaWeb/admin.php/ | NOTIC: [8] Use of undefined constant IS_IIS - assumed 'IS_IIS' IndexAction.class.php 第 25 行.
+[ 2012-05-11T19:19:28+08:00 ] /SiaWeb/admin.php/ | NOTIC: [8] Use of undefined constant LANG_SET - assumed 'LANG_SET' IndexAction.class.php 第 27 行.
+[ 2012-05-11T19:19:28+08:00 ] /SiaWeb/admin.php/ | NOTIC: [8] Use of undefined constant MODEL_NAME - assumed 'MODEL_NAME' IndexAction.class.php 第 31 行.
+[ 2012-05-11T19:19:28+08:00 ] /SiaWeb/admin.php/ | NOTIC: [8] Use of undefined constant TEMPLATE_NAME - assumed 'TEMPLATE_NAME' IndexAction.class.php 第 38 行.
+[ 2012-05-11T19:19:28+08:00 ] /SiaWeb/admin.php/ | NOTIC: [8] Use of undefined constant TEMPLATE_PATH - assumed 'TEMPLATE_PATH' IndexAction.class.php 第 39 行.
+[ 2012-05-11T19:19:28+08:00 ] /SiaWeb/admin.php/ | NOTIC: [8] Use of undefined constant WEB_PUBLIC_PATH - assumed 'WEB_PUBLIC_PATH' IndexAction.class.php 第 41 行.
+[ 2012-05-11T19:19:57+08:00 ] /SiaWeb/admin.php/person | ERR: (ThinkException) 无法加载模块person
+[ 2012-05-11T19:21:29+08:00 ] /SiaWeb/admin.php/person | ERR: (ThinkException) 无法加载模块person
+[ 2012-05-11T19:21:32+08:00 ] /SiaWeb/admin.php/person | ERR: (ThinkException) 无法加载模块person
+[ 2012-05-11T19:22:15+08:00 ] /SiaWeb/admin.php/person | ERR: (ThinkException) 无法加载模块person
+[ 2012-05-11T19:22:18+08:00 ] /SiaWeb/admin.php/person | ERR: (ThinkException) 无法加载模块person
+[ 2012-05-11T19:22:18+08:00 ] /SiaWeb/admin.php/person | ERR: (ThinkException) 无法加载模块person
+[ 2012-05-11T19:22:18+08:00 ] /SiaWeb/admin.php/person | ERR: (ThinkException) 无法加载模块person
+[ 2012-05-11T19:22:19+08:00 ] /SiaWeb/admin.php/person | ERR: (ThinkException) 无法加载模块person
+[ 2012-05-11T19:22:21+08:00 ] /SiaWeb/admin.php/ | INFO: Tag[ route_check ] --START--
+[ 2012-05-11T19:22:21+08:00 ] /SiaWeb/admin.php/ | INFO: Run CheckRoute Behavior [ RunTime:0.001071s ]
+[ 2012-05-11T19:22:21+08:00 ] /SiaWeb/admin.php/ | INFO: Tag[ route_check ] --END-- [ RunTime:0.001189s ]
+[ 2012-05-11T19:22:21+08:00 ] /SiaWeb/admin.php/ | INFO: Tag[ app_begin ] --START--
+[ 2012-05-11T19:22:21+08:00 ] /SiaWeb/admin.php/ | INFO: Run ReadHtmlCache Behavior [ RunTime:0.000826s ]
+[ 2012-05-11T19:22:21+08:00 ] /SiaWeb/admin.php/ | INFO: Tag[ app_begin ] --END-- [ RunTime:0.000905s ]
+[ 2012-05-11T19:22:21+08:00 ] /SiaWeb/admin.php/ | NOTIC: [8] Use of undefined constant APP_PUBLIC_PATH - assumed 'APP_PUBLIC_PATH' IndexAction.class.php 第 16 行.
+[ 2012-05-11T19:22:21+08:00 ] /SiaWeb/admin.php/ | NOTIC: [8] Use of undefined constant CONFIG_PATH - assumed 'CONFIG_PATH' IndexAction.class.php 第 18 行.
+[ 2012-05-11T19:22:21+08:00 ] /SiaWeb/admin.php/ | NOTIC: [8] Use of undefined constant GROUP_NAME - assumed 'GROUP_NAME' IndexAction.class.php 第 21 行.
+[ 2012-05-11T19:22:21+08:00 ] /SiaWeb/admin.php/ | NOTIC: [8] Use of undefined constant IS_APACHE - assumed 'IS_APACHE' IndexAction.class.php 第 23 行.
+[ 2012-05-11T19:22:21+08:00 ] /SiaWeb/admin.php/ | NOTIC: [8] Use of undefined constant IS_IIS - assumed 'IS_IIS' IndexAction.class.php 第 25 行.
+[ 2012-05-11T19:22:21+08:00 ] /SiaWeb/admin.php/ | NOTIC: [8] Use of undefined constant LANG_SET - assumed 'LANG_SET' IndexAction.class.php 第 27 行.
+[ 2012-05-11T19:22:21+08:00 ] /SiaWeb/admin.php/ | NOTIC: [8] Use of undefined constant MODEL_NAME - assumed 'MODEL_NAME' IndexAction.class.php 第 31 行.
+[ 2012-05-11T19:22:21+08:00 ] /SiaWeb/admin.php/ | NOTIC: [8] Use of undefined constant TEMPLATE_NAME - assumed 'TEMPLATE_NAME' IndexAction.class.php 第 38 行.
+[ 2012-05-11T19:22:21+08:00 ] /SiaWeb/admin.php/ | NOTIC: [8] Use of undefined constant TEMPLATE_PATH - assumed 'TEMPLATE_PATH' IndexAction.class.php 第 39 行.
+[ 2012-05-11T19:22:21+08:00 ] /SiaWeb/admin.php/ | NOTIC: [8] Use of undefined constant WEB_PUBLIC_PATH - assumed 'WEB_PUBLIC_PATH' IndexAction.class.php 第 41 行.
+[ 2012-05-11T19:23:01+08:00 ] /SiaWeb/admin.php/person | ERR: (ThinkException) 无法加载模块person
+[ 2012-05-11T19:23:58+08:00 ] /SiaWeb/admin.php/person | ERR: (ThinkException) 无法加载模块person
+[ 2012-05-11T19:23:59+08:00 ] /SiaWeb/admin.php/person | ERR: (ThinkException) 无法加载模块person
+[ 2012-05-11T19:23:59+08:00 ] /SiaWeb/admin.php/person | ERR: (ThinkException) 无法加载模块person
+[ 2012-05-11T19:24:02+08:00 ] /SiaWeb/admin.php/ | INFO: Tag[ route_check ] --START--
+[ 2012-05-11T19:24:02+08:00 ] /SiaWeb/admin.php/ | INFO: Run CheckRoute Behavior [ RunTime:0.001050s ]
+[ 2012-05-11T19:24:02+08:00 ] /SiaWeb/admin.php/ | INFO: Tag[ route_check ] --END-- [ RunTime:0.001178s ]
+[ 2012-05-11T19:24:02+08:00 ] /SiaWeb/admin.php/ | INFO: Tag[ app_begin ] --START--
+[ 2012-05-11T19:24:02+08:00 ] /SiaWeb/admin.php/ | INFO: Run ReadHtmlCache Behavior [ RunTime:0.000864s ]
+[ 2012-05-11T19:24:02+08:00 ] /SiaWeb/admin.php/ | INFO: Tag[ app_begin ] --END-- [ RunTime:0.000947s ]
+[ 2012-05-11T19:24:02+08:00 ] /SiaWeb/admin.php/ | NOTIC: [8] Use of undefined constant APP_PUBLIC_PATH - assumed 'APP_PUBLIC_PATH' IndexAction.class.php 第 16 行.
+[ 2012-05-11T19:24:02+08:00 ] /SiaWeb/admin.php/ | NOTIC: [8] Use of undefined constant CONFIG_PATH - assumed 'CONFIG_PATH' IndexAction.class.php 第 18 行.
+[ 2012-05-11T19:24:02+08:00 ] /SiaWeb/admin.php/ | NOTIC: [8] Use of undefined constant GROUP_NAME - assumed 'GROUP_NAME' IndexAction.class.php 第 21 行.
+[ 2012-05-11T19:24:02+08:00 ] /SiaWeb/admin.php/ | NOTIC: [8] Use of undefined constant IS_APACHE - assumed 'IS_APACHE' IndexAction.class.php 第 23 行.
+[ 2012-05-11T19:24:02+08:00 ] /SiaWeb/admin.php/ | NOTIC: [8] Use of undefined constant IS_IIS - assumed 'IS_IIS' IndexAction.class.php 第 25 行.
+[ 2012-05-11T19:24:02+08:00 ] /SiaWeb/admin.php/ | NOTIC: [8] Use of undefined constant LANG_SET - assumed 'LANG_SET' IndexAction.class.php 第 27 行.
+[ 2012-05-11T19:24:02+08:00 ] /SiaWeb/admin.php/ | NOTIC: [8] Use of undefined constant MODEL_NAME - assumed 'MODEL_NAME' IndexAction.class.php 第 31 行.
+[ 2012-05-11T19:24:02+08:00 ] /SiaWeb/admin.php/ | NOTIC: [8] Use of undefined constant TEMPLATE_NAME - assumed 'TEMPLATE_NAME' IndexAction.class.php 第 38 行.
+[ 2012-05-11T19:24:02+08:00 ] /SiaWeb/admin.php/ | NOTIC: [8] Use of undefined constant TEMPLATE_PATH - assumed 'TEMPLATE_PATH' IndexAction.class.php 第 39 行.
+[ 2012-05-11T19:24:02+08:00 ] /SiaWeb/admin.php/ | NOTIC: [8] Use of undefined constant WEB_PUBLIC_PATH - assumed 'WEB_PUBLIC_PATH' IndexAction.class.php 第 41 行.
+[ 2012-05-11T19:24:28+08:00 ] /SiaWeb/admin.php/person | ERR: (ThinkException) 无法加载模块person
+[ 2012-05-11T19:25:34+08:00 ] /SiaWeb/admin.php/person | ERR: (ThinkException) 无法加载模块person
+[ 2012-05-11T19:25:36+08:00 ] /SiaWeb/admin.php/person | ERR: (ThinkException) 无法加载模块person
+[ 2012-05-11T19:25:50+08:00 ] /SiaWeb/admin.php | INFO: Tag[ app_begin ] --START--
+[ 2012-05-11T19:25:50+08:00 ] /SiaWeb/admin.php | INFO: Run ReadHtmlCache Behavior [ RunTime:0.000852s ]
+[ 2012-05-11T19:25:50+08:00 ] /SiaWeb/admin.php | INFO: Tag[ app_begin ] --END-- [ RunTime:0.000991s ]
+[ 2012-05-11T19:25:50+08:00 ] /SiaWeb/admin.php | NOTIC: [8] Use of undefined constant APP_PUBLIC_PATH - assumed 'APP_PUBLIC_PATH' IndexAction.class.php 第 16 行.
+[ 2012-05-11T19:25:50+08:00 ] /SiaWeb/admin.php | NOTIC: [8] Use of undefined constant CONFIG_PATH - assumed 'CONFIG_PATH' IndexAction.class.php 第 18 行.
+[ 2012-05-11T19:25:50+08:00 ] /SiaWeb/admin.php | NOTIC: [8] Use of undefined constant GROUP_NAME - assumed 'GROUP_NAME' IndexAction.class.php 第 21 行.
+[ 2012-05-11T19:25:50+08:00 ] /SiaWeb/admin.php | NOTIC: [8] Use of undefined constant IS_APACHE - assumed 'IS_APACHE' IndexAction.class.php 第 23 行.
+[ 2012-05-11T19:25:50+08:00 ] /SiaWeb/admin.php | NOTIC: [8] Use of undefined constant IS_IIS - assumed 'IS_IIS' IndexAction.class.php 第 25 行.
+[ 2012-05-11T19:25:50+08:00 ] /SiaWeb/admin.php | NOTIC: [8] Use of undefined constant LANG_SET - assumed 'LANG_SET' IndexAction.class.php 第 27 行.
+[ 2012-05-11T19:25:50+08:00 ] /SiaWeb/admin.php | NOTIC: [8] Use of undefined constant MODEL_NAME - assumed 'MODEL_NAME' IndexAction.class.php 第 31 行.
+[ 2012-05-11T19:25:50+08:00 ] /SiaWeb/admin.php | NOTIC: [8] Use of undefined constant TEMPLATE_NAME - assumed 'TEMPLATE_NAME' IndexAction.class.php 第 38 行.
+[ 2012-05-11T19:25:50+08:00 ] /SiaWeb/admin.php | NOTIC: [8] Use of undefined constant TEMPLATE_PATH - assumed 'TEMPLATE_PATH' IndexAction.class.php 第 39 行.
+[ 2012-05-11T19:25:50+08:00 ] /SiaWeb/admin.php | NOTIC: [8] Use of undefined constant WEB_PUBLIC_PATH - assumed 'WEB_PUBLIC_PATH' IndexAction.class.php 第 41 行.
+[ 2012-05-11T19:25:59+08:00 ] /SiaWeb/admin.php/person | ERR: (ThinkException) 无法加载模块person
+[ 2012-05-11T19:27:10+08:00 ] /SiaWeb/admin.php/person | ERR: (ThinkException) 无法加载模块person
+[ 2012-05-11T19:27:12+08:00 ] /SiaWeb/admin.php/person | ERR: (ThinkException) 无法加载模块person
+[ 2012-05-11T19:27:14+08:00 ] /SiaWeb/admin.php/person | ERR: (ThinkException) 无法加载模块person
+[ 2012-05-11T19:27:15+08:00 ] /SiaWeb/admin.php/person | ERR: (ThinkException) 无法加载模块person
+[ 2012-05-11T19:27:15+08:00 ] /SiaWeb/admin.php/person | ERR: (ThinkException) 无法加载模块person
+[ 2012-05-11T19:27:16+08:00 ] /SiaWeb/admin.php/person | ERR: (ThinkException) 无法加载模块person
+[ 2012-05-11T19:27:16+08:00 ] /SiaWeb/admin.php/person | ERR: (ThinkException) 无法加载模块person
+[ 2012-05-11T19:27:16+08:00 ] /SiaWeb/admin.php/person | ERR: (ThinkException) 无法加载模块person
+[ 2012-05-11T19:27:16+08:00 ] /SiaWeb/admin.php/person | ERR: (ThinkException) 无法加载模块person
+[ 2012-05-11T19:27:16+08:00 ] /SiaWeb/admin.php/person | ERR: (ThinkException) 无法加载模块person
+[ 2012-05-11T19:27:16+08:00 ] /SiaWeb/admin.php/person | ERR: (ThinkException) 无法加载模块person
+[ 2012-05-11T19:28:36+08:00 ] /SiaWeb/admin.php/person | ERR: (ThinkException) 无法加载模块person
+[ 2012-05-11T19:30:52+08:00 ] /SiaWeb/admin.php/index | ERR: (ThinkException) 无法加载模块index
+[ 2012-05-11T19:31:03+08:00 ] /SiaWeb/admin.php/ | INFO: Tag[ route_check ] --START--
+[ 2012-05-11T19:31:03+08:00 ] /SiaWeb/admin.php/ | INFO: Run CheckRoute Behavior [ RunTime:0.001046s ]
+[ 2012-05-11T19:31:03+08:00 ] /SiaWeb/admin.php/ | INFO: Tag[ route_check ] --END-- [ RunTime:0.001170s ]
+[ 2012-05-11T19:31:03+08:00 ] /SiaWeb/admin.php/ | INFO: Tag[ app_begin ] --START--
+[ 2012-05-11T19:31:03+08:00 ] /SiaWeb/admin.php/ | INFO: Run ReadHtmlCache Behavior [ RunTime:0.000821s ]
+[ 2012-05-11T19:31:03+08:00 ] /SiaWeb/admin.php/ | INFO: Tag[ app_begin ] --END-- [ RunTime:0.000905s ]
+[ 2012-05-11T19:31:03+08:00 ] /SiaWeb/admin.php/ | NOTIC: [8] Use of undefined constant APP_PUBLIC_PATH - assumed 'APP_PUBLIC_PATH' IndexAction.class.php 第 16 行.
+[ 2012-05-11T19:31:03+08:00 ] /SiaWeb/admin.php/ | NOTIC: [8] Use of undefined constant CONFIG_PATH - assumed 'CONFIG_PATH' IndexAction.class.php 第 18 行.
+[ 2012-05-11T19:31:03+08:00 ] /SiaWeb/admin.php/ | NOTIC: [8] Use of undefined constant GROUP_NAME - assumed 'GROUP_NAME' IndexAction.class.php 第 21 行.
+[ 2012-05-11T19:31:03+08:00 ] /SiaWeb/admin.php/ | NOTIC: [8] Use of undefined constant IS_APACHE - assumed 'IS_APACHE' IndexAction.class.php 第 23 行.
+[ 2012-05-11T19:31:03+08:00 ] /SiaWeb/admin.php/ | NOTIC: [8] Use of undefined constant IS_IIS - assumed 'IS_IIS' IndexAction.class.php 第 25 行.
+[ 2012-05-11T19:31:03+08:00 ] /SiaWeb/admin.php/ | NOTIC: [8] Use of undefined constant LANG_SET - assumed 'LANG_SET' IndexAction.class.php 第 27 行.
+[ 2012-05-11T19:31:03+08:00 ] /SiaWeb/admin.php/ | NOTIC: [8] Use of undefined constant MODEL_NAME - assumed 'MODEL_NAME' IndexAction.class.php 第 31 行.
+[ 2012-05-11T19:31:03+08:00 ] /SiaWeb/admin.php/ | NOTIC: [8] Use of undefined constant TEMPLATE_NAME - assumed 'TEMPLATE_NAME' IndexAction.class.php 第 38 行.
+[ 2012-05-11T19:31:03+08:00 ] /SiaWeb/admin.php/ | NOTIC: [8] Use of undefined constant TEMPLATE_PATH - assumed 'TEMPLATE_PATH' IndexAction.class.php 第 39 行.
+[ 2012-05-11T19:31:03+08:00 ] /SiaWeb/admin.php/ | NOTIC: [8] Use of undefined constant WEB_PUBLIC_PATH - assumed 'WEB_PUBLIC_PATH' IndexAction.class.php 第 41 行.
+[ 2012-05-11T19:33:09+08:00 ] /SiaWeb/admin.php/index | ERR: (ThinkException) 无法加载模块index
+[ 2012-05-11T19:38:36+08:00 ] /SiaWeb/admin.php/Person | INFO: Tag[ route_check ] --START--
+[ 2012-05-11T19:38:36+08:00 ] /SiaWeb/admin.php/Person | INFO: Run CheckRoute Behavior [ RunTime:0.000980s ]
+[ 2012-05-11T19:38:36+08:00 ] /SiaWeb/admin.php/Person | INFO: Tag[ route_check ] --END-- [ RunTime:0.001103s ]
+[ 2012-05-11T19:38:36+08:00 ] /SiaWeb/admin.php/Person | INFO: Tag[ app_begin ] --START--
+[ 2012-05-11T19:38:36+08:00 ] /SiaWeb/admin.php/Person | INFO: Run ReadHtmlCache Behavior [ RunTime:0.000614s ]
+[ 2012-05-11T19:38:36+08:00 ] /SiaWeb/admin.php/Person | INFO: Tag[ app_begin ] --END-- [ RunTime:0.000703s ]
+[ 2012-05-11T19:38:58+08:00 ] /SiaWeb/admin.php/Person | INFO: Tag[ route_check ] --START--
+[ 2012-05-11T19:38:58+08:00 ] /SiaWeb/admin.php/Person | INFO: Run CheckRoute Behavior [ RunTime:0.001664s ]
+[ 2012-05-11T19:38:58+08:00 ] /SiaWeb/admin.php/Person | INFO: Tag[ route_check ] --END-- [ RunTime:0.001795s ]
+[ 2012-05-11T19:38:58+08:00 ] /SiaWeb/admin.php/Person | INFO: Tag[ app_begin ] --START--
+[ 2012-05-11T19:38:58+08:00 ] /SiaWeb/admin.php/Person | INFO: Run ReadHtmlCache Behavior [ RunTime:0.000633s ]
+[ 2012-05-11T19:38:58+08:00 ] /SiaWeb/admin.php/Person | INFO: Tag[ app_begin ] --END-- [ RunTime:0.000719s ]
+[ 2012-05-11T19:38:58+08:00 ] /SiaWeb/admin.php/Person | INFO: Tag[ view_template ] --START--
+[ 2012-05-11T19:38:58+08:00 ] /SiaWeb/admin.php/Person | INFO: Run LocationTemplate Behavior [ RunTime:0.000780s ]
+[ 2012-05-11T19:38:58+08:00 ] /SiaWeb/admin.php/Person | INFO: Tag[ view_template ] --END-- [ RunTime:0.000867s ]
+[ 2012-05-11T19:38:58+08:00 ] /SiaWeb/admin.php/Person | INFO: Tag[ view_parse ] --START--
+[ 2012-05-11T19:38:58+08:00 ] /SiaWeb/admin.php/Person | INFO: Run ParseTemplate Behavior [ RunTime:0.040413s ]
+[ 2012-05-11T19:38:58+08:00 ] /SiaWeb/admin.php/Person | INFO: Tag[ view_parse ] --END-- [ RunTime:0.040516s ]
+[ 2012-05-11T19:38:58+08:00 ] /SiaWeb/admin.php/Person | INFO: Tag[ view_filter ] --START--
+[ 2012-05-11T19:38:58+08:00 ] /SiaWeb/admin.php/Person | INFO: Run ContentReplace Behavior [ RunTime:0.000506s ]
+[ 2012-05-11T19:38:58+08:00 ] /SiaWeb/admin.php/Person | INFO: Run TokenBuild Behavior [ RunTime:0.000662s ]
+[ 2012-05-11T19:38:58+08:00 ] /SiaWeb/admin.php/Person | INFO: Run WriteHtmlCache Behavior [ RunTime:0.000366s ]
+[ 2012-05-11T19:38:58+08:00 ] /SiaWeb/admin.php/Person | INFO: Run ShowRuntime Behavior [ RunTime:0.000678s ]
+[ 2012-05-11T19:38:58+08:00 ] /SiaWeb/admin.php/Person | INFO: Tag[ view_filter ] --END-- [ RunTime:0.003046s ]
+[ 2012-05-11T19:38:58+08:00 ] /SiaWeb/admin.php/Person | INFO: Tag[ view_end ] --START--
+[ 2012-05-11T19:38:58+08:00 ] /SiaWeb/admin.php/Person | INFO: Run ShowPageTrace Behavior [ RunTime:0.000509s ]
+[ 2012-05-11T19:38:58+08:00 ] /SiaWeb/admin.php/Person | INFO: Tag[ view_end ] --END-- [ RunTime:0.000589s ]
+[ 2012-05-11T19:39:32+08:00 ] /SiaWeb/admin.php/Person/add | INFO: Tag[ route_check ] --START--
+[ 2012-05-11T19:39:32+08:00 ] /SiaWeb/admin.php/Person/add | INFO: Run CheckRoute Behavior [ RunTime:0.001843s ]
+[ 2012-05-11T19:39:32+08:00 ] /SiaWeb/admin.php/Person/add | INFO: Tag[ route_check ] --END-- [ RunTime:0.002013s ]
+[ 2012-05-11T19:39:32+08:00 ] /SiaWeb/admin.php/Person/add | INFO: Tag[ app_begin ] --START--
+[ 2012-05-11T19:39:32+08:00 ] /SiaWeb/admin.php/Person/add | INFO: Run ReadHtmlCache Behavior [ RunTime:0.001095s ]
+[ 2012-05-11T19:39:32+08:00 ] /SiaWeb/admin.php/Person/add | INFO: Tag[ app_begin ] --END-- [ RunTime:0.001226s ]
+[ 2012-05-11T19:39:32+08:00 ] /SiaWeb/admin.php/Person/add | SQL: SHOW COLUMNS FROM `think_person` [ RunTime:0.004314s ]
+[ 2012-05-11T19:39:32+08:00 ] /SiaWeb/admin.php/Person/add | SQL: INSERT INTO `think_person` (`name`,`major`,`jobtitle`,`job`) VALUES ('吴文俊','数学','中国科学院院士','名誉主任') [ RunTime:0.103726s ]
+[ 2012-05-11T19:39:32+08:00 ] /SiaWeb/admin.php/Person/add | INFO: Tag[ view_template ] --START--
+[ 2012-05-11T19:39:32+08:00 ] /SiaWeb/admin.php/Person/add | INFO: Run LocationTemplate Behavior [ RunTime:0.000834s ]
+[ 2012-05-11T19:39:32+08:00 ] /SiaWeb/admin.php/Person/add | INFO: Tag[ view_template ] --END-- [ RunTime:0.000924s ]
+[ 2012-05-11T19:39:32+08:00 ] /SiaWeb/admin.php/Person/add | INFO: Tag[ view_parse ] --START--
+[ 2012-05-11T19:39:32+08:00 ] /SiaWeb/admin.php/Person/add | INFO: Run ParseTemplate Behavior [ RunTime:0.088126s ]
+[ 2012-05-11T19:39:32+08:00 ] /SiaWeb/admin.php/Person/add | INFO: Tag[ view_parse ] --END-- [ RunTime:0.088267s ]
+[ 2012-05-11T19:39:32+08:00 ] /SiaWeb/admin.php/Person/add | INFO: Tag[ view_filter ] --START--
+[ 2012-05-11T19:39:32+08:00 ] /SiaWeb/admin.php/Person/add | INFO: Run ContentReplace Behavior [ RunTime:0.000535s ]
+[ 2012-05-11T19:39:32+08:00 ] /SiaWeb/admin.php/Person/add | INFO: Run TokenBuild Behavior [ RunTime:0.000571s ]
+[ 2012-05-11T19:39:32+08:00 ] /SiaWeb/admin.php/Person/add | INFO: Run WriteHtmlCache Behavior [ RunTime:0.000374s ]
+[ 2012-05-11T19:39:32+08:00 ] /SiaWeb/admin.php/Person/add | INFO: Run ShowRuntime Behavior [ RunTime:0.001001s ]
+[ 2012-05-11T19:39:32+08:00 ] /SiaWeb/admin.php/Person/add | INFO: Tag[ view_filter ] --END-- [ RunTime:0.002746s ]
+[ 2012-05-11T19:39:32+08:00 ] /SiaWeb/admin.php/Person/add | INFO: Tag[ view_end ] --START--
+[ 2012-05-11T19:39:32+08:00 ] /SiaWeb/admin.php/Person/add | INFO: Run ShowPageTrace Behavior [ RunTime:0.000901s ]
+[ 2012-05-11T19:39:32+08:00 ] /SiaWeb/admin.php/Person/add | INFO: Tag[ view_end ] --END-- [ RunTime:0.001053s ]
+[ 2012-05-11T19:39:33+08:00 ] /SiaWeb/admin.php/Person | INFO: Tag[ route_check ] --START--
+[ 2012-05-11T19:39:33+08:00 ] /SiaWeb/admin.php/Person | INFO: Run CheckRoute Behavior [ RunTime:0.001312s ]
+[ 2012-05-11T19:39:33+08:00 ] /SiaWeb/admin.php/Person | INFO: Tag[ route_check ] --END-- [ RunTime:0.001498s ]
+[ 2012-05-11T19:39:33+08:00 ] /SiaWeb/admin.php/Person | INFO: Tag[ app_begin ] --START--
+[ 2012-05-11T19:39:33+08:00 ] /SiaWeb/admin.php/Person | INFO: Run ReadHtmlCache Behavior [ RunTime:0.001100s ]
+[ 2012-05-11T19:39:33+08:00 ] /SiaWeb/admin.php/Person | INFO: Tag[ app_begin ] --END-- [ RunTime:0.001241s ]
+[ 2012-05-11T19:39:33+08:00 ] /SiaWeb/admin.php/Person | INFO: Tag[ view_template ] --START--
+[ 2012-05-11T19:39:33+08:00 ] /SiaWeb/admin.php/Person | INFO: Run LocationTemplate Behavior [ RunTime:0.001366s ]
+[ 2012-05-11T19:39:33+08:00 ] /SiaWeb/admin.php/Person | INFO: Tag[ view_template ] --END-- [ RunTime:0.001514s ]
+[ 2012-05-11T19:39:33+08:00 ] /SiaWeb/admin.php/Person | INFO: Tag[ view_parse ] --START--
+[ 2012-05-11T19:39:33+08:00 ] /SiaWeb/admin.php/Person | INFO: Run ParseTemplate Behavior [ RunTime:0.013506s ]
+[ 2012-05-11T19:39:33+08:00 ] /SiaWeb/admin.php/Person | INFO: Tag[ view_parse ] --END-- [ RunTime:0.013636s ]
+[ 2012-05-11T19:39:33+08:00 ] /SiaWeb/admin.php/Person | INFO: Tag[ view_filter ] --START--
+[ 2012-05-11T19:39:33+08:00 ] /SiaWeb/admin.php/Person | INFO: Run ContentReplace Behavior [ RunTime:0.000565s ]
+[ 2012-05-11T19:39:33+08:00 ] /SiaWeb/admin.php/Person | INFO: Run TokenBuild Behavior [ RunTime:0.000601s ]
+[ 2012-05-11T19:39:33+08:00 ] /SiaWeb/admin.php/Person | INFO: Run WriteHtmlCache Behavior [ RunTime:0.000391s ]
+[ 2012-05-11T19:39:33+08:00 ] /SiaWeb/admin.php/Person | INFO: Run ShowRuntime Behavior [ RunTime:0.000751s ]
+[ 2012-05-11T19:39:33+08:00 ] /SiaWeb/admin.php/Person | INFO: Tag[ view_filter ] --END-- [ RunTime:0.002539s ]
+[ 2012-05-11T19:39:33+08:00 ] /SiaWeb/admin.php/Person | INFO: Tag[ view_end ] --START--
+[ 2012-05-11T19:39:33+08:00 ] /SiaWeb/admin.php/Person | INFO: Run ShowPageTrace Behavior [ RunTime:0.000579s ]
+[ 2012-05-11T19:39:33+08:00 ] /SiaWeb/admin.php/Person | INFO: Tag[ view_end ] --END-- [ RunTime:0.000653s ]
+[ 2012-05-11T19:41:02+08:00 ] /SiaWeb/admin.php/Person/add | INFO: Tag[ route_check ] --START--
+[ 2012-05-11T19:41:02+08:00 ] /SiaWeb/admin.php/Person/add | INFO: Run CheckRoute Behavior [ RunTime:0.000923s ]
+[ 2012-05-11T19:41:02+08:00 ] /SiaWeb/admin.php/Person/add | INFO: Tag[ route_check ] --END-- [ RunTime:0.001042s ]
+[ 2012-05-11T19:41:02+08:00 ] /SiaWeb/admin.php/Person/add | INFO: Tag[ app_begin ] --START--
+[ 2012-05-11T19:41:02+08:00 ] /SiaWeb/admin.php/Person/add | INFO: Run ReadHtmlCache Behavior [ RunTime:0.000604s ]
+[ 2012-05-11T19:41:02+08:00 ] /SiaWeb/admin.php/Person/add | INFO: Tag[ app_begin ] --END-- [ RunTime:0.000682s ]
+[ 2012-05-11T19:41:02+08:00 ] /SiaWeb/admin.php/Person/add | SQL: SHOW COLUMNS FROM `think_person` [ RunTime:0.004377s ]
+[ 2012-05-11T19:41:02+08:00 ] /SiaWeb/admin.php/Person/add | SQL: INSERT INTO `think_person` (`name`,`major`,`jobtitle`,`job`) VALUES ('李洪波','自动推理','研究员','主任') [ RunTime:0.044206s ]
+[ 2012-05-11T19:41:02+08:00 ] /SiaWeb/admin.php/Person/add | INFO: Tag[ view_template ] --START--
+[ 2012-05-11T19:41:02+08:00 ] /SiaWeb/admin.php/Person/add | INFO: Run LocationTemplate Behavior [ RunTime:0.000725s ]
+[ 2012-05-11T19:41:02+08:00 ] /SiaWeb/admin.php/Person/add | INFO: Tag[ view_template ] --END-- [ RunTime:0.000832s ]
+[ 2012-05-11T19:41:02+08:00 ] /SiaWeb/admin.php/Person/add | INFO: Tag[ view_parse ] --START--
+[ 2012-05-11T19:41:02+08:00 ] /SiaWeb/admin.php/Person/add | INFO: Run ParseTemplate Behavior [ RunTime:0.009347s ]
+[ 2012-05-11T19:41:02+08:00 ] /SiaWeb/admin.php/Person/add | INFO: Tag[ view_parse ] --END-- [ RunTime:0.009491s ]
+[ 2012-05-11T19:41:02+08:00 ] /SiaWeb/admin.php/Person/add | INFO: Tag[ view_filter ] --START--
+[ 2012-05-11T19:41:02+08:00 ] /SiaWeb/admin.php/Person/add | INFO: Run ContentReplace Behavior [ RunTime:0.000761s ]
+[ 2012-05-11T19:41:02+08:00 ] /SiaWeb/admin.php/Person/add | INFO: Run TokenBuild Behavior [ RunTime:0.000776s ]
+[ 2012-05-11T19:41:02+08:00 ] /SiaWeb/admin.php/Person/add | INFO: Run WriteHtmlCache Behavior [ RunTime:0.000496s ]
+[ 2012-05-11T19:41:02+08:00 ] /SiaWeb/admin.php/Person/add | INFO: Run ShowRuntime Behavior [ RunTime:0.000933s ]
+[ 2012-05-11T19:41:02+08:00 ] /SiaWeb/admin.php/Person/add | INFO: Tag[ view_filter ] --END-- [ RunTime:0.003375s ]
+[ 2012-05-11T19:41:02+08:00 ] /SiaWeb/admin.php/Person/add | INFO: Tag[ view_end ] --START--
+[ 2012-05-11T19:41:02+08:00 ] /SiaWeb/admin.php/Person/add | INFO: Run ShowPageTrace Behavior [ RunTime:0.000779s ]
+[ 2012-05-11T19:41:02+08:00 ] /SiaWeb/admin.php/Person/add | INFO: Tag[ view_end ] --END-- [ RunTime:0.000926s ]
+[ 2012-05-11T19:41:03+08:00 ] /SiaWeb/admin.php/Person | INFO: Tag[ route_check ] --START--
+[ 2012-05-11T19:41:03+08:00 ] /SiaWeb/admin.php/Person | INFO: Run CheckRoute Behavior [ RunTime:0.000740s ]
+[ 2012-05-11T19:41:03+08:00 ] /SiaWeb/admin.php/Person | INFO: Tag[ route_check ] --END-- [ RunTime:0.000855s ]
+[ 2012-05-11T19:41:03+08:00 ] /SiaWeb/admin.php/Person | INFO: Tag[ app_begin ] --START--
+[ 2012-05-11T19:41:03+08:00 ] /SiaWeb/admin.php/Person | INFO: Run ReadHtmlCache Behavior [ RunTime:0.000523s ]
+[ 2012-05-11T19:41:03+08:00 ] /SiaWeb/admin.php/Person | INFO: Tag[ app_begin ] --END-- [ RunTime:0.000600s ]
+[ 2012-05-11T19:41:03+08:00 ] /SiaWeb/admin.php/Person | INFO: Tag[ view_template ] --START--
+[ 2012-05-11T19:41:03+08:00 ] /SiaWeb/admin.php/Person | INFO: Run LocationTemplate Behavior [ RunTime:0.000547s ]
+[ 2012-05-11T19:41:03+08:00 ] /SiaWeb/admin.php/Person | INFO: Tag[ view_template ] --END-- [ RunTime:0.000630s ]
+[ 2012-05-11T19:41:03+08:00 ] /SiaWeb/admin.php/Person | INFO: Tag[ view_parse ] --START--
+[ 2012-05-11T19:41:03+08:00 ] /SiaWeb/admin.php/Person | INFO: Run ParseTemplate Behavior [ RunTime:0.006384s ]
+[ 2012-05-11T19:41:03+08:00 ] /SiaWeb/admin.php/Person | INFO: Tag[ view_parse ] --END-- [ RunTime:0.006512s ]
+[ 2012-05-11T19:41:03+08:00 ] /SiaWeb/admin.php/Person | INFO: Tag[ view_filter ] --START--
+[ 2012-05-11T19:41:03+08:00 ] /SiaWeb/admin.php/Person | INFO: Run ContentReplace Behavior [ RunTime:0.000602s ]
+[ 2012-05-11T19:41:03+08:00 ] /SiaWeb/admin.php/Person | INFO: Run TokenBuild Behavior [ RunTime:0.000706s ]
+[ 2012-05-11T19:41:03+08:00 ] /SiaWeb/admin.php/Person | INFO: Run WriteHtmlCache Behavior [ RunTime:0.000250s ]
+[ 2012-05-11T19:41:03+08:00 ] /SiaWeb/admin.php/Person | INFO: Run ShowRuntime Behavior [ RunTime:0.000496s ]
+[ 2012-05-11T19:41:03+08:00 ] /SiaWeb/admin.php/Person | INFO: Tag[ view_filter ] --END-- [ RunTime:0.002334s ]
+[ 2012-05-11T19:41:03+08:00 ] /SiaWeb/admin.php/Person | INFO: Tag[ view_end ] --START--
+[ 2012-05-11T19:41:03+08:00 ] /SiaWeb/admin.php/Person | INFO: Run ShowPageTrace Behavior [ RunTime:0.000422s ]
+[ 2012-05-11T19:41:03+08:00 ] /SiaWeb/admin.php/Person | INFO: Tag[ view_end ] --END-- [ RunTime:0.000494s ]
+[ 2012-05-11T19:41:25+08:00 ] /SiaWeb/admin.php/Person/add | INFO: Tag[ route_check ] --START--
+[ 2012-05-11T19:41:25+08:00 ] /SiaWeb/admin.php/Person/add | INFO: Run CheckRoute Behavior [ RunTime:0.000904s ]
+[ 2012-05-11T19:41:25+08:00 ] /SiaWeb/admin.php/Person/add | INFO: Tag[ route_check ] --END-- [ RunTime:0.001027s ]
+[ 2012-05-11T19:41:25+08:00 ] /SiaWeb/admin.php/Person/add | INFO: Tag[ app_begin ] --START--
+[ 2012-05-11T19:41:25+08:00 ] /SiaWeb/admin.php/Person/add | INFO: Run ReadHtmlCache Behavior [ RunTime:0.000640s ]
+[ 2012-05-11T19:41:25+08:00 ] /SiaWeb/admin.php/Person/add | INFO: Tag[ app_begin ] --END-- [ RunTime:0.000716s ]
+[ 2012-05-11T19:41:25+08:00 ] /SiaWeb/admin.php/Person/add | SQL: SHOW COLUMNS FROM `think_person` [ RunTime:0.003929s ]
+[ 2012-05-11T19:41:25+08:00 ] /SiaWeb/admin.php/Person/add | SQL: INSERT INTO `think_person` (`name`,`major`,`jobtitle`,`job`) VALUES ('李子明','符号计算','研究员','副主任') [ RunTime:0.000203s ]
+[ 2012-05-11T19:41:25+08:00 ] /SiaWeb/admin.php/Person/add | INFO: Tag[ view_template ] --START--
+[ 2012-05-11T19:41:25+08:00 ] /SiaWeb/admin.php/Person/add | INFO: Run LocationTemplate Behavior [ RunTime:0.000951s ]
+[ 2012-05-11T19:41:25+08:00 ] /SiaWeb/admin.php/Person/add | INFO: Tag[ view_template ] --END-- [ RunTime:0.001100s ]
+[ 2012-05-11T19:41:25+08:00 ] /SiaWeb/admin.php/Person/add | INFO: Tag[ view_parse ] --START--
+[ 2012-05-11T19:41:26+08:00 ] /SiaWeb/admin.php/Person/add | INFO: Run ParseTemplate Behavior [ RunTime:0.010956s ]
+[ 2012-05-11T19:41:26+08:00 ] /SiaWeb/admin.php/Person/add | INFO: Tag[ view_parse ] --END-- [ RunTime:0.011086s ]
+[ 2012-05-11T19:41:26+08:00 ] /SiaWeb/admin.php/Person/add | INFO: Tag[ view_filter ] --START--
+[ 2012-05-11T19:41:26+08:00 ] /SiaWeb/admin.php/Person/add | INFO: Run ContentReplace Behavior [ RunTime:0.000519s ]
+[ 2012-05-11T19:41:26+08:00 ] /SiaWeb/admin.php/Person/add | INFO: Run TokenBuild Behavior [ RunTime:0.000538s ]
+[ 2012-05-11T19:41:26+08:00 ] /SiaWeb/admin.php/Person/add | INFO: Run WriteHtmlCache Behavior [ RunTime:0.000384s ]
+[ 2012-05-11T19:41:26+08:00 ] /SiaWeb/admin.php/Person/add | INFO: Run ShowRuntime Behavior [ RunTime:0.000631s ]
+[ 2012-05-11T19:41:26+08:00 ] /SiaWeb/admin.php/Person/add | INFO: Tag[ view_filter ] --END-- [ RunTime:0.002313s ]
+[ 2012-05-11T19:41:26+08:00 ] /SiaWeb/admin.php/Person/add | INFO: Tag[ view_end ] --START--
+[ 2012-05-11T19:41:26+08:00 ] /SiaWeb/admin.php/Person/add | INFO: Run ShowPageTrace Behavior [ RunTime:0.000553s ]
+[ 2012-05-11T19:41:26+08:00 ] /SiaWeb/admin.php/Person/add | INFO: Tag[ view_end ] --END-- [ RunTime:0.000636s ]
+[ 2012-05-11T19:41:27+08:00 ] /SiaWeb/admin.php/Person | INFO: Tag[ route_check ] --START--
+[ 2012-05-11T19:41:27+08:00 ] /SiaWeb/admin.php/Person | INFO: Run CheckRoute Behavior [ RunTime:0.000894s ]
+[ 2012-05-11T19:41:27+08:00 ] /SiaWeb/admin.php/Person | INFO: Tag[ route_check ] --END-- [ RunTime:0.001014s ]
+[ 2012-05-11T19:41:27+08:00 ] /SiaWeb/admin.php/Person | INFO: Tag[ app_begin ] --START--
+[ 2012-05-11T19:41:27+08:00 ] /SiaWeb/admin.php/Person | INFO: Run ReadHtmlCache Behavior [ RunTime:0.000853s ]
+[ 2012-05-11T19:41:27+08:00 ] /SiaWeb/admin.php/Person | INFO: Tag[ app_begin ] --END-- [ RunTime:0.000935s ]
+[ 2012-05-11T19:41:27+08:00 ] /SiaWeb/admin.php/Person | INFO: Tag[ view_template ] --START--
+[ 2012-05-11T19:41:27+08:00 ] /SiaWeb/admin.php/Person | INFO: Run LocationTemplate Behavior [ RunTime:0.000756s ]
+[ 2012-05-11T19:41:27+08:00 ] /SiaWeb/admin.php/Person | INFO: Tag[ view_template ] --END-- [ RunTime:0.000843s ]
+[ 2012-05-11T19:41:27+08:00 ] /SiaWeb/admin.php/Person | INFO: Tag[ view_parse ] --START--
+[ 2012-05-11T19:41:27+08:00 ] /SiaWeb/admin.php/Person | INFO: Run ParseTemplate Behavior [ RunTime:0.008559s ]
+[ 2012-05-11T19:41:27+08:00 ] /SiaWeb/admin.php/Person | INFO: Tag[ view_parse ] --END-- [ RunTime:0.008656s ]
+[ 2012-05-11T19:41:27+08:00 ] /SiaWeb/admin.php/Person | INFO: Tag[ view_filter ] --START--
+[ 2012-05-11T19:41:27+08:00 ] /SiaWeb/admin.php/Person | INFO: Run ContentReplace Behavior [ RunTime:0.000506s ]
+[ 2012-05-11T19:41:27+08:00 ] /SiaWeb/admin.php/Person | INFO: Run TokenBuild Behavior [ RunTime:0.000618s ]
+[ 2012-05-11T19:41:27+08:00 ] /SiaWeb/admin.php/Person | INFO: Run WriteHtmlCache Behavior [ RunTime:0.000376s ]
+[ 2012-05-11T19:41:27+08:00 ] /SiaWeb/admin.php/Person | INFO: Run ShowRuntime Behavior [ RunTime:0.000640s ]
+[ 2012-05-11T19:41:27+08:00 ] /SiaWeb/admin.php/Person | INFO: Tag[ view_filter ] --END-- [ RunTime:0.002379s ]
+[ 2012-05-11T19:41:27+08:00 ] /SiaWeb/admin.php/Person | INFO: Tag[ view_end ] --START--
+[ 2012-05-11T19:41:27+08:00 ] /SiaWeb/admin.php/Person | INFO: Run ShowPageTrace Behavior [ RunTime:0.000616s ]
+[ 2012-05-11T19:41:27+08:00 ] /SiaWeb/admin.php/Person | INFO: Tag[ view_end ] --END-- [ RunTime:0.000789s ]
+[ 2012-05-11T19:49:49+08:00 ] /SiaWeb/admin.php/Person | ERR: (ThinkException) Model:filed您所请求的方法不存在！
+[ 2012-05-11T19:50:05+08:00 ] /SiaWeb/admin.php/Person | INFO: Tag[ route_check ] --START--
+[ 2012-05-11T19:50:05+08:00 ] /SiaWeb/admin.php/Person | INFO: Run CheckRoute Behavior [ RunTime:0.000973s ]
+[ 2012-05-11T19:50:05+08:00 ] /SiaWeb/admin.php/Person | INFO: Tag[ route_check ] --END-- [ RunTime:0.001091s ]
+[ 2012-05-11T19:50:05+08:00 ] /SiaWeb/admin.php/Person | INFO: Tag[ app_begin ] --START--
+[ 2012-05-11T19:50:05+08:00 ] /SiaWeb/admin.php/Person | INFO: Run ReadHtmlCache Behavior [ RunTime:0.000641s ]
+[ 2012-05-11T19:50:05+08:00 ] /SiaWeb/admin.php/Person | INFO: Tag[ app_begin ] --END-- [ RunTime:0.000722s ]
+[ 2012-05-11T19:50:05+08:00 ] /SiaWeb/admin.php/Person | SQL: SHOW COLUMNS FROM `think_person` [ RunTime:0.003225s ]
+[ 2012-05-11T19:50:05+08:00 ] /SiaWeb/admin.php/Person | SQL: SELECT `name`,`major` FROM `think_person`  [ RunTime:0.000208s ]
+[ 2012-05-11T19:50:05+08:00 ] /SiaWeb/admin.php/Person | INFO: Tag[ view_template ] --START--
+[ 2012-05-11T19:50:05+08:00 ] /SiaWeb/admin.php/Person | INFO: Run LocationTemplate Behavior [ RunTime:0.000951s ]
+[ 2012-05-11T19:50:05+08:00 ] /SiaWeb/admin.php/Person | INFO: Tag[ view_template ] --END-- [ RunTime:0.001067s ]
+[ 2012-05-11T19:50:05+08:00 ] /SiaWeb/admin.php/Person | INFO: Tag[ view_parse ] --START--
+[ 2012-05-11T19:50:05+08:00 ] /SiaWeb/admin.php/Person | NOTIC: [8] Undefined index: mojor e0a30f13b67ca08dcfd2020e5eee6f57.php 第 16 行.
+[ 2012-05-11T19:50:05+08:00 ] /SiaWeb/admin.php/Person | NOTIC: [8] Undefined index: mojor e0a30f13b67ca08dcfd2020e5eee6f57.php 第 16 行.
+[ 2012-05-11T19:50:05+08:00 ] /SiaWeb/admin.php/Person | NOTIC: [8] Undefined index: mojor e0a30f13b67ca08dcfd2020e5eee6f57.php 第 16 行.
+[ 2012-05-11T19:50:05+08:00 ] /SiaWeb/admin.php/Person | INFO: Run ParseTemplate Behavior [ RunTime:0.012277s ]
+[ 2012-05-11T19:50:05+08:00 ] /SiaWeb/admin.php/Person | INFO: Tag[ view_parse ] --END-- [ RunTime:0.012383s ]
+[ 2012-05-11T19:50:05+08:00 ] /SiaWeb/admin.php/Person | INFO: Tag[ view_filter ] --START--
+[ 2012-05-11T19:50:05+08:00 ] /SiaWeb/admin.php/Person | INFO: Run ContentReplace Behavior [ RunTime:0.000456s ]
+[ 2012-05-11T19:50:05+08:00 ] /SiaWeb/admin.php/Person | INFO: Run TokenBuild Behavior [ RunTime:0.000640s ]
+[ 2012-05-11T19:50:05+08:00 ] /SiaWeb/admin.php/Person | INFO: Run WriteHtmlCache Behavior [ RunTime:0.000319s ]
+[ 2012-05-11T19:50:05+08:00 ] /SiaWeb/admin.php/Person | INFO: Run ShowRuntime Behavior [ RunTime:0.000599s ]
+[ 2012-05-11T19:50:05+08:00 ] /SiaWeb/admin.php/Person | INFO: Tag[ view_filter ] --END-- [ RunTime:0.002248s ]
+[ 2012-05-11T19:50:05+08:00 ] /SiaWeb/admin.php/Person | INFO: Tag[ view_end ] --START--
+[ 2012-05-11T19:50:05+08:00 ] /SiaWeb/admin.php/Person | INFO: Run ShowPageTrace Behavior [ RunTime:0.000508s ]
+[ 2012-05-11T19:50:05+08:00 ] /SiaWeb/admin.php/Person | INFO: Tag[ view_end ] --END-- [ RunTime:0.000583s ]
+[ 2012-05-11T19:50:31+08:00 ] /SiaWeb/admin.php/Person | INFO: Tag[ route_check ] --START--
+[ 2012-05-11T19:50:31+08:00 ] /SiaWeb/admin.php/Person | INFO: Run CheckRoute Behavior [ RunTime:0.001149s ]
+[ 2012-05-11T19:50:31+08:00 ] /SiaWeb/admin.php/Person | INFO: Tag[ route_check ] --END-- [ RunTime:0.001326s ]
+[ 2012-05-11T19:50:31+08:00 ] /SiaWeb/admin.php/Person | INFO: Tag[ app_begin ] --START--
+[ 2012-05-11T19:50:31+08:00 ] /SiaWeb/admin.php/Person | INFO: Run ReadHtmlCache Behavior [ RunTime:0.000874s ]
+[ 2012-05-11T19:50:31+08:00 ] /SiaWeb/admin.php/Person | INFO: Tag[ app_begin ] --END-- [ RunTime:0.001005s ]
+[ 2012-05-11T19:50:31+08:00 ] /SiaWeb/admin.php/Person | SQL: SHOW COLUMNS FROM `think_person` [ RunTime:0.004716s ]
+[ 2012-05-11T19:50:31+08:00 ] /SiaWeb/admin.php/Person | SQL: SELECT `name`,`major` FROM `think_person`  [ RunTime:0.000219s ]
+[ 2012-05-11T19:50:31+08:00 ] /SiaWeb/admin.php/Person | INFO: Tag[ view_template ] --START--
+[ 2012-05-11T19:50:31+08:00 ] /SiaWeb/admin.php/Person | INFO: Run LocationTemplate Behavior [ RunTime:0.000484s ]
+[ 2012-05-11T19:50:31+08:00 ] /SiaWeb/admin.php/Person | INFO: Tag[ view_template ] --END-- [ RunTime:0.000573s ]
+[ 2012-05-11T19:50:31+08:00 ] /SiaWeb/admin.php/Person | INFO: Tag[ view_parse ] --START--
+[ 2012-05-11T19:50:31+08:00 ] /SiaWeb/admin.php/Person | INFO: Run ParseTemplate Behavior [ RunTime:0.007870s ]
+[ 2012-05-11T19:50:31+08:00 ] /SiaWeb/admin.php/Person | INFO: Tag[ view_parse ] --END-- [ RunTime:0.007970s ]
+[ 2012-05-11T19:50:31+08:00 ] /SiaWeb/admin.php/Person | INFO: Tag[ view_filter ] --START--
+[ 2012-05-11T19:50:31+08:00 ] /SiaWeb/admin.php/Person | INFO: Run ContentReplace Behavior [ RunTime:0.000413s ]
+[ 2012-05-11T19:50:31+08:00 ] /SiaWeb/admin.php/Person | INFO: Run TokenBuild Behavior [ RunTime:0.000470s ]
+[ 2012-05-11T19:50:31+08:00 ] /SiaWeb/admin.php/Person | INFO: Run WriteHtmlCache Behavior [ RunTime:0.000249s ]
+[ 2012-05-11T19:50:31+08:00 ] /SiaWeb/admin.php/Person | INFO: Run ShowRuntime Behavior [ RunTime:0.000518s ]
+[ 2012-05-11T19:50:31+08:00 ] /SiaWeb/admin.php/Person | INFO: Tag[ view_filter ] --END-- [ RunTime:0.001875s ]
+[ 2012-05-11T19:50:31+08:00 ] /SiaWeb/admin.php/Person | INFO: Tag[ view_end ] --START--
+[ 2012-05-11T19:50:31+08:00 ] /SiaWeb/admin.php/Person | INFO: Run ShowPageTrace Behavior [ RunTime:0.000426s ]
+[ 2012-05-11T19:50:31+08:00 ] /SiaWeb/admin.php/Person | INFO: Tag[ view_end ] --END-- [ RunTime:0.000502s ]
+[ 2012-05-11T19:53:32+08:00 ] /SiaWeb/admin.php/Person | INFO: Tag[ route_check ] --START--
+[ 2012-05-11T19:53:32+08:00 ] /SiaWeb/admin.php/Person | INFO: Run CheckRoute Behavior [ RunTime:0.000948s ]
+[ 2012-05-11T19:53:32+08:00 ] /SiaWeb/admin.php/Person | INFO: Tag[ route_check ] --END-- [ RunTime:0.001068s ]
+[ 2012-05-11T19:53:32+08:00 ] /SiaWeb/admin.php/Person | INFO: Tag[ app_begin ] --START--
+[ 2012-05-11T19:53:32+08:00 ] /SiaWeb/admin.php/Person | INFO: Run ReadHtmlCache Behavior [ RunTime:0.000635s ]
+[ 2012-05-11T19:53:32+08:00 ] /SiaWeb/admin.php/Person | INFO: Tag[ app_begin ] --END-- [ RunTime:0.000714s ]
+[ 2012-05-11T19:53:32+08:00 ] /SiaWeb/admin.php/Person | SQL: SHOW COLUMNS FROM `think_person` [ RunTime:0.003814s ]
+[ 2012-05-11T19:53:32+08:00 ] /SiaWeb/admin.php/Person | SQL: SELECT `name`,`major` FROM `think_person`  [ RunTime:0.000252s ]
+[ 2012-05-11T19:53:32+08:00 ] /SiaWeb/admin.php/Person | INFO: Tag[ view_template ] --START--
+[ 2012-05-11T19:53:32+08:00 ] /SiaWeb/admin.php/Person | INFO: Run LocationTemplate Behavior [ RunTime:0.000893s ]
+[ 2012-05-11T19:53:32+08:00 ] /SiaWeb/admin.php/Person | INFO: Tag[ view_template ] --END-- [ RunTime:0.000984s ]
+[ 2012-05-11T19:53:32+08:00 ] /SiaWeb/admin.php/Person | INFO: Tag[ view_parse ] --START--
+[ 2012-05-11T19:53:32+08:00 ] /SiaWeb/admin.php/Person | NOTIC: [8] Undefined index: id e0a30f13b67ca08dcfd2020e5eee6f57.php 第 19 行.
+[ 2012-05-11T19:53:32+08:00 ] /SiaWeb/admin.php/Person | NOTIC: [8] Undefined index: id e0a30f13b67ca08dcfd2020e5eee6f57.php 第 20 行.
+[ 2012-05-11T19:53:32+08:00 ] /SiaWeb/admin.php/Person | NOTIC: [8] Undefined index: id e0a30f13b67ca08dcfd2020e5eee6f57.php 第 19 行.
+[ 2012-05-11T19:53:32+08:00 ] /SiaWeb/admin.php/Person | NOTIC: [8] Undefined index: id e0a30f13b67ca08dcfd2020e5eee6f57.php 第 20 行.
+[ 2012-05-11T19:53:32+08:00 ] /SiaWeb/admin.php/Person | NOTIC: [8] Undefined index: id e0a30f13b67ca08dcfd2020e5eee6f57.php 第 19 行.
+[ 2012-05-11T19:53:32+08:00 ] /SiaWeb/admin.php/Person | NOTIC: [8] Undefined index: id e0a30f13b67ca08dcfd2020e5eee6f57.php 第 20 行.
+[ 2012-05-11T19:53:32+08:00 ] /SiaWeb/admin.php/Person | INFO: Run ParseTemplate Behavior [ RunTime:0.010064s ]
+[ 2012-05-11T19:53:32+08:00 ] /SiaWeb/admin.php/Person | INFO: Tag[ view_parse ] --END-- [ RunTime:0.010149s ]
+[ 2012-05-11T19:53:32+08:00 ] /SiaWeb/admin.php/Person | INFO: Tag[ view_filter ] --START--
+[ 2012-05-11T19:53:32+08:00 ] /SiaWeb/admin.php/Person | INFO: Run ContentReplace Behavior [ RunTime:0.000517s ]
+[ 2012-05-11T19:53:32+08:00 ] /SiaWeb/admin.php/Person | INFO: Run TokenBuild Behavior [ RunTime:0.000603s ]
+[ 2012-05-11T19:53:32+08:00 ] /SiaWeb/admin.php/Person | INFO: Run WriteHtmlCache Behavior [ RunTime:0.000359s ]
+[ 2012-05-11T19:53:32+08:00 ] /SiaWeb/admin.php/Person | INFO: Run ShowRuntime Behavior [ RunTime:0.000643s ]
+[ 2012-05-11T19:53:32+08:00 ] /SiaWeb/admin.php/Person | INFO: Tag[ view_filter ] --END-- [ RunTime:0.002345s ]
+[ 2012-05-11T19:53:32+08:00 ] /SiaWeb/admin.php/Person | INFO: Tag[ view_end ] --START--
+[ 2012-05-11T19:53:32+08:00 ] /SiaWeb/admin.php/Person | INFO: Run ShowPageTrace Behavior [ RunTime:0.000523s ]
+[ 2012-05-11T19:53:32+08:00 ] /SiaWeb/admin.php/Person | INFO: Tag[ view_end ] --END-- [ RunTime:0.000601s ]
+[ 2012-05-11T19:53:34+08:00 ] /SiaWeb/admin.php/Person/del/id/ | ERR: (ThinkException) 非法操作del
+[ 2012-05-11T19:53:37+08:00 ] /SiaWeb/admin.php/Person/edit/id/ | ERR: (ThinkException) 非法操作edit
+[ 2012-05-11T19:55:46+08:00 ] /SiaWeb/admin.php/Person | INFO: Tag[ route_check ] --START--
+[ 2012-05-11T19:55:46+08:00 ] /SiaWeb/admin.php/Person | INFO: Run CheckRoute Behavior [ RunTime:0.001150s ]
+[ 2012-05-11T19:55:46+08:00 ] /SiaWeb/admin.php/Person | INFO: Tag[ route_check ] --END-- [ RunTime:0.001282s ]
+[ 2012-05-11T19:55:46+08:00 ] /SiaWeb/admin.php/Person | INFO: Tag[ app_begin ] --START--
+[ 2012-05-11T19:55:46+08:00 ] /SiaWeb/admin.php/Person | INFO: Run ReadHtmlCache Behavior [ RunTime:0.000653s ]
+[ 2012-05-11T19:55:46+08:00 ] /SiaWeb/admin.php/Person | INFO: Tag[ app_begin ] --END-- [ RunTime:0.000732s ]
+[ 2012-05-11T19:55:46+08:00 ] /SiaWeb/admin.php/Person | SQL: SHOW COLUMNS FROM `think_person` [ RunTime:0.003635s ]
+[ 2012-05-11T19:55:46+08:00 ] /SiaWeb/admin.php/Person | SQL: SELECT `name`,`major` FROM `think_person`  [ RunTime:0.000198s ]
+[ 2012-05-11T19:55:46+08:00 ] /SiaWeb/admin.php/Person | INFO: Tag[ view_template ] --START--
+[ 2012-05-11T19:55:46+08:00 ] /SiaWeb/admin.php/Person | INFO: Run LocationTemplate Behavior [ RunTime:0.000769s ]
+[ 2012-05-11T19:55:46+08:00 ] /SiaWeb/admin.php/Person | INFO: Tag[ view_template ] --END-- [ RunTime:0.000863s ]
+[ 2012-05-11T19:55:46+08:00 ] /SiaWeb/admin.php/Person | INFO: Tag[ view_parse ] --START--
+[ 2012-05-11T19:55:46+08:00 ] /SiaWeb/admin.php/Person | NOTIC: [8] Undefined index: id e0a30f13b67ca08dcfd2020e5eee6f57.php 第 20 行.
+[ 2012-05-11T19:55:46+08:00 ] /SiaWeb/admin.php/Person | NOTIC: [8] Undefined index: id e0a30f13b67ca08dcfd2020e5eee6f57.php 第 21 行.
+[ 2012-05-11T19:55:46+08:00 ] /SiaWeb/admin.php/Person | NOTIC: [8] Undefined index: id e0a30f13b67ca08dcfd2020e5eee6f57.php 第 20 行.
+[ 2012-05-11T19:55:46+08:00 ] /SiaWeb/admin.php/Person | NOTIC: [8] Undefined index: id e0a30f13b67ca08dcfd2020e5eee6f57.php 第 21 行.
+[ 2012-05-11T19:55:46+08:00 ] /SiaWeb/admin.php/Person | NOTIC: [8] Undefined index: id e0a30f13b67ca08dcfd2020e5eee6f57.php 第 20 行.
+[ 2012-05-11T19:55:46+08:00 ] /SiaWeb/admin.php/Person | NOTIC: [8] Undefined index: id e0a30f13b67ca08dcfd2020e5eee6f57.php 第 21 行.
+[ 2012-05-11T19:55:46+08:00 ] /SiaWeb/admin.php/Person | INFO: Run ParseTemplate Behavior [ RunTime:0.009360s ]
+[ 2012-05-11T19:55:46+08:00 ] /SiaWeb/admin.php/Person | INFO: Tag[ view_parse ] --END-- [ RunTime:0.009444s ]
+[ 2012-05-11T19:55:46+08:00 ] /SiaWeb/admin.php/Person | INFO: Tag[ view_filter ] --START--
+[ 2012-05-11T19:55:46+08:00 ] /SiaWeb/admin.php/Person | INFO: Run ContentReplace Behavior [ RunTime:0.000458s ]
+[ 2012-05-11T19:55:46+08:00 ] /SiaWeb/admin.php/Person | INFO: Run TokenBuild Behavior [ RunTime:0.000779s ]
+[ 2012-05-11T19:55:46+08:00 ] /SiaWeb/admin.php/Person | INFO: Run WriteHtmlCache Behavior [ RunTime:0.000359s ]
+[ 2012-05-11T19:55:46+08:00 ] /SiaWeb/admin.php/Person | INFO: Run ShowRuntime Behavior [ RunTime:0.000594s ]
+[ 2012-05-11T19:55:46+08:00 ] /SiaWeb/admin.php/Person | INFO: Tag[ view_filter ] --END-- [ RunTime:0.002421s ]
+[ 2012-05-11T19:55:46+08:00 ] /SiaWeb/admin.php/Person | INFO: Tag[ view_end ] --START--
+[ 2012-05-11T19:55:46+08:00 ] /SiaWeb/admin.php/Person | INFO: Run ShowPageTrace Behavior [ RunTime:0.000542s ]
+[ 2012-05-11T19:55:46+08:00 ] /SiaWeb/admin.php/Person | INFO: Tag[ view_end ] --END-- [ RunTime:0.000630s ]
+[ 2012-05-11T19:55:47+08:00 ] /SiaWeb/admin.php/Person/delete/id/ | INFO: Tag[ route_check ] --START--
+[ 2012-05-11T19:55:47+08:00 ] /SiaWeb/admin.php/Person/delete/id/ | INFO: Run CheckRoute Behavior [ RunTime:0.000813s ]
+[ 2012-05-11T19:55:47+08:00 ] /SiaWeb/admin.php/Person/delete/id/ | INFO: Tag[ route_check ] --END-- [ RunTime:0.000931s ]
+[ 2012-05-11T19:55:47+08:00 ] /SiaWeb/admin.php/Person/delete/id/ | INFO: Tag[ app_begin ] --START--
+[ 2012-05-11T19:55:47+08:00 ] /SiaWeb/admin.php/Person/delete/id/ | INFO: Run ReadHtmlCache Behavior [ RunTime:0.000537s ]
+[ 2012-05-11T19:55:47+08:00 ] /SiaWeb/admin.php/Person/delete/id/ | INFO: Tag[ app_begin ] --END-- [ RunTime:0.000614s ]
+[ 2012-05-11T19:55:49+08:00 ] /SiaWeb/admin.php/Person/edit/id/ | INFO: Tag[ route_check ] --START--
+[ 2012-05-11T19:55:49+08:00 ] /SiaWeb/admin.php/Person/edit/id/ | INFO: Run CheckRoute Behavior [ RunTime:0.000737s ]
+[ 2012-05-11T19:55:49+08:00 ] /SiaWeb/admin.php/Person/edit/id/ | INFO: Tag[ route_check ] --END-- [ RunTime:0.000851s ]
+[ 2012-05-11T19:55:49+08:00 ] /SiaWeb/admin.php/Person/edit/id/ | INFO: Tag[ app_begin ] --START--
+[ 2012-05-11T19:55:49+08:00 ] /SiaWeb/admin.php/Person/edit/id/ | INFO: Run ReadHtmlCache Behavior [ RunTime:0.000529s ]
+[ 2012-05-11T19:55:49+08:00 ] /SiaWeb/admin.php/Person/edit/id/ | INFO: Tag[ app_begin ] --END-- [ RunTime:0.000605s ]
+[ 2012-05-11T19:55:50+08:00 ] /SiaWeb/admin.php/Person/edit/id/ | INFO: Tag[ route_check ] --START--
+[ 2012-05-11T19:55:50+08:00 ] /SiaWeb/admin.php/Person/edit/id/ | INFO: Run CheckRoute Behavior [ RunTime:0.000764s ]
+[ 2012-05-11T19:55:50+08:00 ] /SiaWeb/admin.php/Person/edit/id/ | INFO: Tag[ route_check ] --END-- [ RunTime:0.000927s ]
+[ 2012-05-11T19:55:50+08:00 ] /SiaWeb/admin.php/Person/edit/id/ | INFO: Tag[ app_begin ] --START--
+[ 2012-05-11T19:55:50+08:00 ] /SiaWeb/admin.php/Person/edit/id/ | INFO: Run ReadHtmlCache Behavior [ RunTime:0.000544s ]
+[ 2012-05-11T19:55:50+08:00 ] /SiaWeb/admin.php/Person/edit/id/ | INFO: Tag[ app_begin ] --END-- [ RunTime:0.000624s ]
+[ 2012-05-11T19:58:00+08:00 ] /SiaWeb/admin.php/Person | INFO: Tag[ route_check ] --START--
+[ 2012-05-11T19:58:00+08:00 ] /SiaWeb/admin.php/Person | INFO: Run CheckRoute Behavior [ RunTime:0.000989s ]
+[ 2012-05-11T19:58:00+08:00 ] /SiaWeb/admin.php/Person | INFO: Tag[ route_check ] --END-- [ RunTime:0.001110s ]
+[ 2012-05-11T19:58:00+08:00 ] /SiaWeb/admin.php/Person | INFO: Tag[ app_begin ] --START--
+[ 2012-05-11T19:58:00+08:00 ] /SiaWeb/admin.php/Person | INFO: Run ReadHtmlCache Behavior [ RunTime:0.001342s ]
+[ 2012-05-11T19:58:00+08:00 ] /SiaWeb/admin.php/Person | INFO: Tag[ app_begin ] --END-- [ RunTime:0.001473s ]
+[ 2012-05-11T19:58:00+08:00 ] /SiaWeb/admin.php/Person | SQL: SHOW COLUMNS FROM `think_person` [ RunTime:0.004250s ]
+[ 2012-05-11T19:58:00+08:00 ] /SiaWeb/admin.php/Person | SQL: SELECT `name`,`major` FROM `think_person`  [ RunTime:0.000201s ]
+[ 2012-05-11T19:58:00+08:00 ] /SiaWeb/admin.php/Person | INFO: Tag[ view_template ] --START--
+[ 2012-05-11T19:58:00+08:00 ] /SiaWeb/admin.php/Person | INFO: Run LocationTemplate Behavior [ RunTime:0.000773s ]
+[ 2012-05-11T19:58:00+08:00 ] /SiaWeb/admin.php/Person | INFO: Tag[ view_template ] --END-- [ RunTime:0.000863s ]
+[ 2012-05-11T19:58:00+08:00 ] /SiaWeb/admin.php/Person | INFO: Tag[ view_parse ] --START--
+[ 2012-05-11T19:58:00+08:00 ] /SiaWeb/admin.php/Person | NOTIC: [8] Undefined index: id e0a30f13b67ca08dcfd2020e5eee6f57.php 第 20 行.
+[ 2012-05-11T19:58:00+08:00 ] /SiaWeb/admin.php/Person | NOTIC: [8] Undefined index: id e0a30f13b67ca08dcfd2020e5eee6f57.php 第 21 行.
+[ 2012-05-11T19:58:00+08:00 ] /SiaWeb/admin.php/Person | NOTIC: [8] Undefined index: id e0a30f13b67ca08dcfd2020e5eee6f57.php 第 20 行.
+[ 2012-05-11T19:58:00+08:00 ] /SiaWeb/admin.php/Person | NOTIC: [8] Undefined index: id e0a30f13b67ca08dcfd2020e5eee6f57.php 第 21 行.
+[ 2012-05-11T19:58:00+08:00 ] /SiaWeb/admin.php/Person | NOTIC: [8] Undefined index: id e0a30f13b67ca08dcfd2020e5eee6f57.php 第 20 行.
+[ 2012-05-11T19:58:00+08:00 ] /SiaWeb/admin.php/Person | NOTIC: [8] Undefined index: id e0a30f13b67ca08dcfd2020e5eee6f57.php 第 21 行.
+[ 2012-05-11T19:58:00+08:00 ] /SiaWeb/admin.php/Person | INFO: Run ParseTemplate Behavior [ RunTime:0.010786s ]
+[ 2012-05-11T19:58:00+08:00 ] /SiaWeb/admin.php/Person | INFO: Tag[ view_parse ] --END-- [ RunTime:0.010873s ]
+[ 2012-05-11T19:58:00+08:00 ] /SiaWeb/admin.php/Person | INFO: Tag[ view_filter ] --START--
+[ 2012-05-11T19:58:00+08:00 ] /SiaWeb/admin.php/Person | INFO: Run ContentReplace Behavior [ RunTime:0.000519s ]
+[ 2012-05-11T19:58:00+08:00 ] /SiaWeb/admin.php/Person | INFO: Run TokenBuild Behavior [ RunTime:0.000604s ]
+[ 2012-05-11T19:58:00+08:00 ] /SiaWeb/admin.php/Person | INFO: Run WriteHtmlCache Behavior [ RunTime:0.000468s ]
+[ 2012-05-11T19:58:00+08:00 ] /SiaWeb/admin.php/Person | INFO: Run ShowRuntime Behavior [ RunTime:0.000840s ]
+[ 2012-05-11T19:58:00+08:00 ] /SiaWeb/admin.php/Person | INFO: Tag[ view_filter ] --END-- [ RunTime:0.002713s ]
+[ 2012-05-11T19:58:00+08:00 ] /SiaWeb/admin.php/Person | INFO: Tag[ view_end ] --START--
+[ 2012-05-11T19:58:00+08:00 ] /SiaWeb/admin.php/Person | INFO: Run ShowPageTrace Behavior [ RunTime:0.000560s ]
+[ 2012-05-11T19:58:00+08:00 ] /SiaWeb/admin.php/Person | INFO: Tag[ view_end ] --END-- [ RunTime:0.000641s ]
+[ 2012-05-11T19:58:01+08:00 ] /SiaWeb/admin.php/Person | INFO: Tag[ route_check ] --START--
+[ 2012-05-11T19:58:01+08:00 ] /SiaWeb/admin.php/Person | INFO: Run CheckRoute Behavior [ RunTime:0.000858s ]
+[ 2012-05-11T19:58:01+08:00 ] /SiaWeb/admin.php/Person | INFO: Tag[ route_check ] --END-- [ RunTime:0.000983s ]
+[ 2012-05-11T19:58:01+08:00 ] /SiaWeb/admin.php/Person | INFO: Tag[ app_begin ] --START--
+[ 2012-05-11T19:58:01+08:00 ] /SiaWeb/admin.php/Person | INFO: Run ReadHtmlCache Behavior [ RunTime:0.000605s ]
+[ 2012-05-11T19:58:01+08:00 ] /SiaWeb/admin.php/Person | INFO: Tag[ app_begin ] --END-- [ RunTime:0.000689s ]
+[ 2012-05-11T19:58:01+08:00 ] /SiaWeb/admin.php/Person | SQL: SHOW COLUMNS FROM `think_person` [ RunTime:0.004847s ]
+[ 2012-05-11T19:58:01+08:00 ] /SiaWeb/admin.php/Person | SQL: SELECT `name`,`major` FROM `think_person`  [ RunTime:0.000274s ]
+[ 2012-05-11T19:58:01+08:00 ] /SiaWeb/admin.php/Person | INFO: Tag[ view_template ] --START--
+[ 2012-05-11T19:58:01+08:00 ] /SiaWeb/admin.php/Person | INFO: Run LocationTemplate Behavior [ RunTime:0.000570s ]
+[ 2012-05-11T19:58:01+08:00 ] /SiaWeb/admin.php/Person | INFO: Tag[ view_template ] --END-- [ RunTime:0.000661s ]
+[ 2012-05-11T19:58:01+08:00 ] /SiaWeb/admin.php/Person | INFO: Tag[ view_parse ] --START--
+[ 2012-05-11T19:58:01+08:00 ] /SiaWeb/admin.php/Person | NOTIC: [8] Undefined index: id e0a30f13b67ca08dcfd2020e5eee6f57.php 第 20 行.
+[ 2012-05-11T19:58:01+08:00 ] /SiaWeb/admin.php/Person | NOTIC: [8] Undefined index: id e0a30f13b67ca08dcfd2020e5eee6f57.php 第 21 行.
+[ 2012-05-11T19:58:01+08:00 ] /SiaWeb/admin.php/Person | NOTIC: [8] Undefined index: id e0a30f13b67ca08dcfd2020e5eee6f57.php 第 20 行.
+[ 2012-05-11T19:58:01+08:00 ] /SiaWeb/admin.php/Person | NOTIC: [8] Undefined index: id e0a30f13b67ca08dcfd2020e5eee6f57.php 第 21 行.
+[ 2012-05-11T19:58:01+08:00 ] /SiaWeb/admin.php/Person | NOTIC: [8] Undefined index: id e0a30f13b67ca08dcfd2020e5eee6f57.php 第 20 行.
+[ 2012-05-11T19:58:01+08:00 ] /SiaWeb/admin.php/Person | NOTIC: [8] Undefined index: id e0a30f13b67ca08dcfd2020e5eee6f57.php 第 21 行.
+[ 2012-05-11T19:58:01+08:00 ] /SiaWeb/admin.php/Person | INFO: Run ParseTemplate Behavior [ RunTime:0.010358s ]
+[ 2012-05-11T19:58:01+08:00 ] /SiaWeb/admin.php/Person | INFO: Tag[ view_parse ] --END-- [ RunTime:0.010445s ]
+[ 2012-05-11T19:58:01+08:00 ] /SiaWeb/admin.php/Person | INFO: Tag[ view_filter ] --START--
+[ 2012-05-11T19:58:01+08:00 ] /SiaWeb/admin.php/Person | INFO: Run ContentReplace Behavior [ RunTime:0.000574s ]
+[ 2012-05-11T19:58:01+08:00 ] /SiaWeb/admin.php/Person | INFO: Run TokenBuild Behavior [ RunTime:0.000650s ]
+[ 2012-05-11T19:58:01+08:00 ] /SiaWeb/admin.php/Person | INFO: Run WriteHtmlCache Behavior [ RunTime:0.000380s ]
+[ 2012-05-11T19:58:01+08:00 ] /SiaWeb/admin.php/Person | INFO: Run ShowRuntime Behavior [ RunTime:0.000709s ]
+[ 2012-05-11T19:58:01+08:00 ] /SiaWeb/admin.php/Person | INFO: Tag[ view_filter ] --END-- [ RunTime:0.002548s ]
+[ 2012-05-11T19:58:01+08:00 ] /SiaWeb/admin.php/Person | INFO: Tag[ view_end ] --START--
+[ 2012-05-11T19:58:01+08:00 ] /SiaWeb/admin.php/Person | INFO: Run ShowPageTrace Behavior [ RunTime:0.000605s ]
+[ 2012-05-11T19:58:01+08:00 ] /SiaWeb/admin.php/Person | INFO: Tag[ view_end ] --END-- [ RunTime:0.000688s ]
+[ 2012-05-11T19:58:02+08:00 ] /SiaWeb/admin.php/Person/edit/id/ | INFO: Tag[ route_check ] --START--
+[ 2012-05-11T19:58:02+08:00 ] /SiaWeb/admin.php/Person/edit/id/ | INFO: Run CheckRoute Behavior [ RunTime:0.000960s ]
+[ 2012-05-11T19:58:02+08:00 ] /SiaWeb/admin.php/Person/edit/id/ | INFO: Tag[ route_check ] --END-- [ RunTime:0.001073s ]
+[ 2012-05-11T19:58:02+08:00 ] /SiaWeb/admin.php/Person/edit/id/ | INFO: Tag[ app_begin ] --START--
+[ 2012-05-11T19:58:02+08:00 ] /SiaWeb/admin.php/Person/edit/id/ | INFO: Run ReadHtmlCache Behavior [ RunTime:0.000569s ]
+[ 2012-05-11T19:58:02+08:00 ] /SiaWeb/admin.php/Person/edit/id/ | INFO: Tag[ app_begin ] --END-- [ RunTime:0.000651s ]
+[ 2012-05-11T19:58:07+08:00 ] /SiaWeb/admin.php/Person/edit/id/ | INFO: Tag[ route_check ] --START--
+[ 2012-05-11T19:58:07+08:00 ] /SiaWeb/admin.php/Person/edit/id/ | INFO: Run CheckRoute Behavior [ RunTime:0.000774s ]
+[ 2012-05-11T19:58:07+08:00 ] /SiaWeb/admin.php/Person/edit/id/ | INFO: Tag[ route_check ] --END-- [ RunTime:0.000891s ]
+[ 2012-05-11T19:58:07+08:00 ] /SiaWeb/admin.php/Person/edit/id/ | INFO: Tag[ app_begin ] --START--
+[ 2012-05-11T19:58:07+08:00 ] /SiaWeb/admin.php/Person/edit/id/ | INFO: Run ReadHtmlCache Behavior [ RunTime:0.000599s ]
+[ 2012-05-11T19:58:07+08:00 ] /SiaWeb/admin.php/Person/edit/id/ | INFO: Tag[ app_begin ] --END-- [ RunTime:0.000684s ]
+[ 2012-05-11T19:58:54+08:00 ] /SiaWeb/admin.php/Person | INFO: Tag[ route_check ] --START--
+[ 2012-05-11T19:58:54+08:00 ] /SiaWeb/admin.php/Person | INFO: Run CheckRoute Behavior [ RunTime:0.000967s ]
+[ 2012-05-11T19:58:54+08:00 ] /SiaWeb/admin.php/Person | INFO: Tag[ route_check ] --END-- [ RunTime:0.001085s ]
+[ 2012-05-11T19:58:54+08:00 ] /SiaWeb/admin.php/Person | INFO: Tag[ app_begin ] --START--
+[ 2012-05-11T19:58:54+08:00 ] /SiaWeb/admin.php/Person | INFO: Run ReadHtmlCache Behavior [ RunTime:0.000643s ]
+[ 2012-05-11T19:58:54+08:00 ] /SiaWeb/admin.php/Person | INFO: Tag[ app_begin ] --END-- [ RunTime:0.000720s ]
+[ 2012-05-11T19:58:54+08:00 ] /SiaWeb/admin.php/Person | SQL: SHOW COLUMNS FROM `think_person` [ RunTime:0.004135s ]
+[ 2012-05-11T19:58:54+08:00 ] /SiaWeb/admin.php/Person | SQL: SELECT `id`,`name`,`major` FROM `think_person`  [ RunTime:0.000261s ]
+[ 2012-05-11T19:58:54+08:00 ] /SiaWeb/admin.php/Person | INFO: Tag[ view_template ] --START--
+[ 2012-05-11T19:58:54+08:00 ] /SiaWeb/admin.php/Person | INFO: Run LocationTemplate Behavior [ RunTime:0.000787s ]
+[ 2012-05-11T19:58:54+08:00 ] /SiaWeb/admin.php/Person | INFO: Tag[ view_template ] --END-- [ RunTime:0.000879s ]
+[ 2012-05-11T19:58:54+08:00 ] /SiaWeb/admin.php/Person | INFO: Tag[ view_parse ] --START--
+[ 2012-05-11T19:58:54+08:00 ] /SiaWeb/admin.php/Person | INFO: Run ParseTemplate Behavior [ RunTime:0.009645s ]
+[ 2012-05-11T19:58:54+08:00 ] /SiaWeb/admin.php/Person | INFO: Tag[ view_parse ] --END-- [ RunTime:0.009749s ]
+[ 2012-05-11T19:58:54+08:00 ] /SiaWeb/admin.php/Person | INFO: Tag[ view_filter ] --START--
+[ 2012-05-11T19:58:54+08:00 ] /SiaWeb/admin.php/Person | INFO: Run ContentReplace Behavior [ RunTime:0.000472s ]
+[ 2012-05-11T19:58:54+08:00 ] /SiaWeb/admin.php/Person | INFO: Run TokenBuild Behavior [ RunTime:0.000548s ]
+[ 2012-05-11T19:58:54+08:00 ] /SiaWeb/admin.php/Person | INFO: Run WriteHtmlCache Behavior [ RunTime:0.000317s ]
+[ 2012-05-11T19:58:54+08:00 ] /SiaWeb/admin.php/Person | INFO: Run ShowRuntime Behavior [ RunTime:0.000607s ]
+[ 2012-05-11T19:58:54+08:00 ] /SiaWeb/admin.php/Person | INFO: Tag[ view_filter ] --END-- [ RunTime:0.002219s ]
+[ 2012-05-11T19:58:54+08:00 ] /SiaWeb/admin.php/Person | INFO: Tag[ view_end ] --START--
+[ 2012-05-11T19:58:54+08:00 ] /SiaWeb/admin.php/Person | INFO: Run ShowPageTrace Behavior [ RunTime:0.000520s ]
+[ 2012-05-11T19:58:54+08:00 ] /SiaWeb/admin.php/Person | INFO: Tag[ view_end ] --END-- [ RunTime:0.000596s ]
+[ 2012-05-11T19:58:55+08:00 ] /SiaWeb/admin.php/Person | INFO: Tag[ route_check ] --START--
+[ 2012-05-11T19:58:55+08:00 ] /SiaWeb/admin.php/Person | INFO: Run CheckRoute Behavior [ RunTime:0.001262s ]
+[ 2012-05-11T19:58:55+08:00 ] /SiaWeb/admin.php/Person | INFO: Tag[ route_check ] --END-- [ RunTime:0.001414s ]
+[ 2012-05-11T19:58:55+08:00 ] /SiaWeb/admin.php/Person | INFO: Tag[ app_begin ] --START--
+[ 2012-05-11T19:58:55+08:00 ] /SiaWeb/admin.php/Person | INFO: Run ReadHtmlCache Behavior [ RunTime:0.000817s ]
+[ 2012-05-11T19:58:55+08:00 ] /SiaWeb/admin.php/Person | INFO: Tag[ app_begin ] --END-- [ RunTime:0.000925s ]
+[ 2012-05-11T19:58:55+08:00 ] /SiaWeb/admin.php/Person | SQL: SHOW COLUMNS FROM `think_person` [ RunTime:0.003465s ]
+[ 2012-05-11T19:58:55+08:00 ] /SiaWeb/admin.php/Person | SQL: SELECT `id`,`name`,`major` FROM `think_person`  [ RunTime:0.000287s ]
+[ 2012-05-11T19:58:55+08:00 ] /SiaWeb/admin.php/Person | INFO: Tag[ view_template ] --START--
+[ 2012-05-11T19:58:55+08:00 ] /SiaWeb/admin.php/Person | INFO: Run LocationTemplate Behavior [ RunTime:0.000528s ]
+[ 2012-05-11T19:58:55+08:00 ] /SiaWeb/admin.php/Person | INFO: Tag[ view_template ] --END-- [ RunTime:0.000615s ]
+[ 2012-05-11T19:58:55+08:00 ] /SiaWeb/admin.php/Person | INFO: Tag[ view_parse ] --START--
+[ 2012-05-11T19:58:55+08:00 ] /SiaWeb/admin.php/Person | INFO: Run ParseTemplate Behavior [ RunTime:0.013628s ]
+[ 2012-05-11T19:58:55+08:00 ] /SiaWeb/admin.php/Person | INFO: Tag[ view_parse ] --END-- [ RunTime:0.013754s ]
+[ 2012-05-11T19:58:55+08:00 ] /SiaWeb/admin.php/Person | INFO: Tag[ view_filter ] --START--
+[ 2012-05-11T19:58:55+08:00 ] /SiaWeb/admin.php/Person | INFO: Run ContentReplace Behavior [ RunTime:0.000604s ]
+[ 2012-05-11T19:58:55+08:00 ] /SiaWeb/admin.php/Person | INFO: Run TokenBuild Behavior [ RunTime:0.000584s ]
+[ 2012-05-11T19:58:55+08:00 ] /SiaWeb/admin.php/Person | INFO: Run WriteHtmlCache Behavior [ RunTime:0.000266s ]
+[ 2012-05-11T19:58:55+08:00 ] /SiaWeb/admin.php/Person | INFO: Run ShowRuntime Behavior [ RunTime:0.000550s ]
+[ 2012-05-11T19:58:55+08:00 ] /SiaWeb/admin.php/Person | INFO: Tag[ view_filter ] --END-- [ RunTime:0.002364s ]
+[ 2012-05-11T19:58:55+08:00 ] /SiaWeb/admin.php/Person | INFO: Tag[ view_end ] --START--
+[ 2012-05-11T19:58:55+08:00 ] /SiaWeb/admin.php/Person | INFO: Run ShowPageTrace Behavior [ RunTime:0.000445s ]
+[ 2012-05-11T19:58:55+08:00 ] /SiaWeb/admin.php/Person | INFO: Tag[ view_end ] --END-- [ RunTime:0.000524s ]
+[ 2012-05-11T19:58:57+08:00 ] /SiaWeb/admin.php/Person/delete/id/3 | INFO: Tag[ route_check ] --START--
+[ 2012-05-11T19:58:57+08:00 ] /SiaWeb/admin.php/Person/delete/id/3 | INFO: Run CheckRoute Behavior [ RunTime:0.000902s ]
+[ 2012-05-11T19:58:57+08:00 ] /SiaWeb/admin.php/Person/delete/id/3 | INFO: Tag[ route_check ] --END-- [ RunTime:0.002183s ]
+[ 2012-05-11T19:58:57+08:00 ] /SiaWeb/admin.php/Person/delete/id/3 | INFO: Tag[ app_begin ] --START--
+[ 2012-05-11T19:58:57+08:00 ] /SiaWeb/admin.php/Person/delete/id/3 | INFO: Run ReadHtmlCache Behavior [ RunTime:0.000633s ]
+[ 2012-05-11T19:58:57+08:00 ] /SiaWeb/admin.php/Person/delete/id/3 | INFO: Tag[ app_begin ] --END-- [ RunTime:0.000725s ]
+[ 2012-05-11T19:58:57+08:00 ] /SiaWeb/admin.php/Person/delete/id/3 | SQL: SHOW COLUMNS FROM `think_person` [ RunTime:0.003908s ]
+[ 2012-05-11T19:58:57+08:00 ] /SiaWeb/admin.php/Person/delete/id/3 | SQL: DELETE FROM `think_person` WHERE ( `id` = '3' ) [ RunTime:0.065744s ]
+[ 2012-05-11T19:58:57+08:00 ] /SiaWeb/admin.php/Person/delete/id/3 | INFO: Tag[ view_template ] --START--
+[ 2012-05-11T19:58:57+08:00 ] /SiaWeb/admin.php/Person/delete/id/3 | INFO: Run LocationTemplate Behavior [ RunTime:0.000931s ]
+[ 2012-05-11T19:58:57+08:00 ] /SiaWeb/admin.php/Person/delete/id/3 | INFO: Tag[ view_template ] --END-- [ RunTime:0.001081s ]
+[ 2012-05-11T19:58:57+08:00 ] /SiaWeb/admin.php/Person/delete/id/3 | INFO: Tag[ view_parse ] --START--
+[ 2012-05-11T19:58:57+08:00 ] /SiaWeb/admin.php/Person/delete/id/3 | INFO: Run ParseTemplate Behavior [ RunTime:0.008660s ]
+[ 2012-05-11T19:58:57+08:00 ] /SiaWeb/admin.php/Person/delete/id/3 | INFO: Tag[ view_parse ] --END-- [ RunTime:0.008785s ]
+[ 2012-05-11T19:58:57+08:00 ] /SiaWeb/admin.php/Person/delete/id/3 | INFO: Tag[ view_filter ] --START--
+[ 2012-05-11T19:58:57+08:00 ] /SiaWeb/admin.php/Person/delete/id/3 | INFO: Run ContentReplace Behavior [ RunTime:0.000369s ]
+[ 2012-05-11T19:58:57+08:00 ] /SiaWeb/admin.php/Person/delete/id/3 | INFO: Run TokenBuild Behavior [ RunTime:0.000398s ]
+[ 2012-05-11T19:58:57+08:00 ] /SiaWeb/admin.php/Person/delete/id/3 | INFO: Run WriteHtmlCache Behavior [ RunTime:0.000241s ]
+[ 2012-05-11T19:58:57+08:00 ] /SiaWeb/admin.php/Person/delete/id/3 | INFO: Run ShowRuntime Behavior [ RunTime:0.000487s ]
+[ 2012-05-11T19:58:57+08:00 ] /SiaWeb/admin.php/Person/delete/id/3 | INFO: Tag[ view_filter ] --END-- [ RunTime:0.001720s ]
+[ 2012-05-11T19:58:57+08:00 ] /SiaWeb/admin.php/Person/delete/id/3 | INFO: Tag[ view_end ] --START--
+[ 2012-05-11T19:58:57+08:00 ] /SiaWeb/admin.php/Person/delete/id/3 | INFO: Run ShowPageTrace Behavior [ RunTime:0.000423s ]
+[ 2012-05-11T19:58:57+08:00 ] /SiaWeb/admin.php/Person/delete/id/3 | INFO: Tag[ view_end ] --END-- [ RunTime:0.000504s ]
+[ 2012-05-11T19:58:58+08:00 ] /SiaWeb/admin.php/Person | INFO: Tag[ route_check ] --START--
+[ 2012-05-11T19:58:58+08:00 ] /SiaWeb/admin.php/Person | INFO: Run CheckRoute Behavior [ RunTime:0.001156s ]
+[ 2012-05-11T19:58:58+08:00 ] /SiaWeb/admin.php/Person | INFO: Tag[ route_check ] --END-- [ RunTime:0.001331s ]
+[ 2012-05-11T19:58:58+08:00 ] /SiaWeb/admin.php/Person | INFO: Tag[ app_begin ] --START--
+[ 2012-05-11T19:58:58+08:00 ] /SiaWeb/admin.php/Person | INFO: Run ReadHtmlCache Behavior [ RunTime:0.000819s ]
+[ 2012-05-11T19:58:58+08:00 ] /SiaWeb/admin.php/Person | INFO: Tag[ app_begin ] --END-- [ RunTime:0.000945s ]
+[ 2012-05-11T19:58:58+08:00 ] /SiaWeb/admin.php/Person | SQL: SHOW COLUMNS FROM `think_person` [ RunTime:0.003623s ]
+[ 2012-05-11T19:58:59+08:00 ] /SiaWeb/admin.php/Person | SQL: SELECT `id`,`name`,`major` FROM `think_person`  [ RunTime:0.000213s ]
+[ 2012-05-11T19:58:59+08:00 ] /SiaWeb/admin.php/Person | INFO: Tag[ view_template ] --START--
+[ 2012-05-11T19:58:59+08:00 ] /SiaWeb/admin.php/Person | INFO: Run LocationTemplate Behavior [ RunTime:0.000518s ]
+[ 2012-05-11T19:58:59+08:00 ] /SiaWeb/admin.php/Person | INFO: Tag[ view_template ] --END-- [ RunTime:0.000607s ]
+[ 2012-05-11T19:58:59+08:00 ] /SiaWeb/admin.php/Person | INFO: Tag[ view_parse ] --START--
+[ 2012-05-11T19:58:59+08:00 ] /SiaWeb/admin.php/Person | INFO: Run ParseTemplate Behavior [ RunTime:0.027488s ]
+[ 2012-05-11T19:58:59+08:00 ] /SiaWeb/admin.php/Person | INFO: Tag[ view_parse ] --END-- [ RunTime:0.027597s ]
+[ 2012-05-11T19:58:59+08:00 ] /SiaWeb/admin.php/Person | INFO: Tag[ view_filter ] --START--
+[ 2012-05-11T19:58:59+08:00 ] /SiaWeb/admin.php/Person | INFO: Run ContentReplace Behavior [ RunTime:0.000405s ]
+[ 2012-05-11T19:58:59+08:00 ] /SiaWeb/admin.php/Person | INFO: Run TokenBuild Behavior [ RunTime:0.000490s ]
+[ 2012-05-11T19:58:59+08:00 ] /SiaWeb/admin.php/Person | INFO: Run WriteHtmlCache Behavior [ RunTime:0.000249s ]
+[ 2012-05-11T19:58:59+08:00 ] /SiaWeb/admin.php/Person | INFO: Run ShowRuntime Behavior [ RunTime:0.000538s ]
+[ 2012-05-11T19:58:59+08:00 ] /SiaWeb/admin.php/Person | INFO: Tag[ view_filter ] --END-- [ RunTime:0.001935s ]
+[ 2012-05-11T19:58:59+08:00 ] /SiaWeb/admin.php/Person | INFO: Tag[ view_end ] --START--
+[ 2012-05-11T19:58:59+08:00 ] /SiaWeb/admin.php/Person | INFO: Run ShowPageTrace Behavior [ RunTime:0.000452s ]
+[ 2012-05-11T19:58:59+08:00 ] /SiaWeb/admin.php/Person | INFO: Tag[ view_end ] --END-- [ RunTime:0.000531s ]
+[ 2012-05-11T20:07:14+08:00 ] /SiaWeb/admin.php/Person/edit/id/1 | ERR: (ThinkException) Action:assgin您所请求的方法不存在！
+[ 2012-05-11T20:11:09+08:00 ] /SiaWeb/admin.php/Person | INFO: Tag[ route_check ] --START--
+[ 2012-05-11T20:11:09+08:00 ] /SiaWeb/admin.php/Person | INFO: Run CheckRoute Behavior [ RunTime:0.001415s ]
+[ 2012-05-11T20:11:09+08:00 ] /SiaWeb/admin.php/Person | INFO: Tag[ route_check ] --END-- [ RunTime:0.001597s ]
+[ 2012-05-11T20:11:09+08:00 ] /SiaWeb/admin.php/Person | INFO: Tag[ app_begin ] --START--
+[ 2012-05-11T20:11:09+08:00 ] /SiaWeb/admin.php/Person | INFO: Run ReadHtmlCache Behavior [ RunTime:0.000788s ]
+[ 2012-05-11T20:11:09+08:00 ] /SiaWeb/admin.php/Person | INFO: Tag[ app_begin ] --END-- [ RunTime:0.000883s ]
+[ 2012-05-11T20:11:09+08:00 ] /SiaWeb/admin.php/Person | SQL: SHOW COLUMNS FROM `think_person` [ RunTime:0.004228s ]
+[ 2012-05-11T20:11:09+08:00 ] /SiaWeb/admin.php/Person | SQL: SELECT `id`,`name`,`major` FROM `think_person`  [ RunTime:0.000303s ]
+[ 2012-05-11T20:11:09+08:00 ] /SiaWeb/admin.php/Person | INFO: Tag[ view_template ] --START--
+[ 2012-05-11T20:11:09+08:00 ] /SiaWeb/admin.php/Person | INFO: Run LocationTemplate Behavior [ RunTime:0.001083s ]
+[ 2012-05-11T20:11:09+08:00 ] /SiaWeb/admin.php/Person | INFO: Tag[ view_template ] --END-- [ RunTime:0.001227s ]
+[ 2012-05-11T20:11:09+08:00 ] /SiaWeb/admin.php/Person | INFO: Tag[ view_parse ] --START--
+[ 2012-05-11T20:11:09+08:00 ] /SiaWeb/admin.php/Person | INFO: Run ParseTemplate Behavior [ RunTime:0.011295s ]
+[ 2012-05-11T20:11:09+08:00 ] /SiaWeb/admin.php/Person | INFO: Tag[ view_parse ] --END-- [ RunTime:0.011431s ]
+[ 2012-05-11T20:11:09+08:00 ] /SiaWeb/admin.php/Person | INFO: Tag[ view_filter ] --START--
+[ 2012-05-11T20:11:09+08:00 ] /SiaWeb/admin.php/Person | INFO: Run ContentReplace Behavior [ RunTime:0.000670s ]
+[ 2012-05-11T20:11:09+08:00 ] /SiaWeb/admin.php/Person | INFO: Run TokenBuild Behavior [ RunTime:0.000690s ]
+[ 2012-05-11T20:11:09+08:00 ] /SiaWeb/admin.php/Person | INFO: Run WriteHtmlCache Behavior [ RunTime:0.000333s ]
+[ 2012-05-11T20:11:09+08:00 ] /SiaWeb/admin.php/Person | INFO: Run ShowRuntime Behavior [ RunTime:0.000908s ]
+[ 2012-05-11T20:11:09+08:00 ] /SiaWeb/admin.php/Person | INFO: Tag[ view_filter ] --END-- [ RunTime:0.002933s ]
+[ 2012-05-11T20:11:09+08:00 ] /SiaWeb/admin.php/Person | INFO: Tag[ view_end ] --START--
+[ 2012-05-11T20:11:09+08:00 ] /SiaWeb/admin.php/Person | INFO: Run ShowPageTrace Behavior [ RunTime:0.000765s ]
+[ 2012-05-11T20:11:09+08:00 ] /SiaWeb/admin.php/Person | INFO: Tag[ view_end ] --END-- [ RunTime:0.000885s ]
+[ 2012-05-11T20:11:10+08:00 ] /SiaWeb/admin.php/Person/edit/id/1 | ERR: (ThinkException) Action:assgin您所请求的方法不存在！
+[ 2012-05-11T20:11:37+08:00 ] /SiaWeb/admin.php/Person | INFO: Tag[ route_check ] --START--
+[ 2012-05-11T20:11:37+08:00 ] /SiaWeb/admin.php/Person | INFO: Run CheckRoute Behavior [ RunTime:0.000929s ]
+[ 2012-05-11T20:11:37+08:00 ] /SiaWeb/admin.php/Person | INFO: Tag[ route_check ] --END-- [ RunTime:0.001045s ]
+[ 2012-05-11T20:11:37+08:00 ] /SiaWeb/admin.php/Person | INFO: Tag[ app_begin ] --START--
+[ 2012-05-11T20:11:37+08:00 ] /SiaWeb/admin.php/Person | INFO: Run ReadHtmlCache Behavior [ RunTime:0.000614s ]
+[ 2012-05-11T20:11:37+08:00 ] /SiaWeb/admin.php/Person | INFO: Tag[ app_begin ] --END-- [ RunTime:0.000695s ]
+[ 2012-05-11T20:11:37+08:00 ] /SiaWeb/admin.php/Person | SQL: SHOW COLUMNS FROM `think_person` [ RunTime:0.004007s ]
+[ 2012-05-11T20:11:37+08:00 ] /SiaWeb/admin.php/Person | SQL: SELECT `id`,`name`,`major` FROM `think_person`  [ RunTime:0.000202s ]
+[ 2012-05-11T20:11:37+08:00 ] /SiaWeb/admin.php/Person | INFO: Tag[ view_template ] --START--
+[ 2012-05-11T20:11:37+08:00 ] /SiaWeb/admin.php/Person | INFO: Run LocationTemplate Behavior [ RunTime:0.000888s ]
+[ 2012-05-11T20:11:37+08:00 ] /SiaWeb/admin.php/Person | INFO: Tag[ view_template ] --END-- [ RunTime:0.001010s ]
+[ 2012-05-11T20:11:37+08:00 ] /SiaWeb/admin.php/Person | INFO: Tag[ view_parse ] --START--
+[ 2012-05-11T20:11:37+08:00 ] /SiaWeb/admin.php/Person | INFO: Run ParseTemplate Behavior [ RunTime:0.011222s ]
+[ 2012-05-11T20:11:37+08:00 ] /SiaWeb/admin.php/Person | INFO: Tag[ view_parse ] --END-- [ RunTime:0.011346s ]
+[ 2012-05-11T20:11:37+08:00 ] /SiaWeb/admin.php/Person | INFO: Tag[ view_filter ] --START--
+[ 2012-05-11T20:11:37+08:00 ] /SiaWeb/admin.php/Person | INFO: Run ContentReplace Behavior [ RunTime:0.000771s ]
+[ 2012-05-11T20:11:37+08:00 ] /SiaWeb/admin.php/Person | INFO: Run TokenBuild Behavior [ RunTime:0.000902s ]
+[ 2012-05-11T20:11:37+08:00 ] /SiaWeb/admin.php/Person | INFO: Run WriteHtmlCache Behavior [ RunTime:0.000424s ]
+[ 2012-05-11T20:11:37+08:00 ] /SiaWeb/admin.php/Person | INFO: Run ShowRuntime Behavior [ RunTime:0.000668s ]
+[ 2012-05-11T20:11:37+08:00 ] /SiaWeb/admin.php/Person | INFO: Tag[ view_filter ] --END-- [ RunTime:0.003058s ]
+[ 2012-05-11T20:11:37+08:00 ] /SiaWeb/admin.php/Person | INFO: Tag[ view_end ] --START--
+[ 2012-05-11T20:11:37+08:00 ] /SiaWeb/admin.php/Person | INFO: Run ShowPageTrace Behavior [ RunTime:0.000492s ]
+[ 2012-05-11T20:11:37+08:00 ] /SiaWeb/admin.php/Person | INFO: Tag[ view_end ] --END-- [ RunTime:0.000570s ]
+[ 2012-05-11T20:11:38+08:00 ] /SiaWeb/admin.php/Person/edit/id/1 | INFO: Tag[ route_check ] --START--
+[ 2012-05-11T20:11:38+08:00 ] /SiaWeb/admin.php/Person/edit/id/1 | INFO: Run CheckRoute Behavior [ RunTime:0.001023s ]
+[ 2012-05-11T20:11:38+08:00 ] /SiaWeb/admin.php/Person/edit/id/1 | INFO: Tag[ route_check ] --END-- [ RunTime:0.001170s ]
+[ 2012-05-11T20:11:38+08:00 ] /SiaWeb/admin.php/Person/edit/id/1 | INFO: Tag[ app_begin ] --START--
+[ 2012-05-11T20:11:38+08:00 ] /SiaWeb/admin.php/Person/edit/id/1 | INFO: Run ReadHtmlCache Behavior [ RunTime:0.000563s ]
+[ 2012-05-11T20:11:38+08:00 ] /SiaWeb/admin.php/Person/edit/id/1 | INFO: Tag[ app_begin ] --END-- [ RunTime:0.000645s ]
+[ 2012-05-11T20:11:38+08:00 ] /SiaWeb/admin.php/Person/edit/id/1 | SQL: SHOW COLUMNS FROM `think_person` [ RunTime:0.003783s ]
+[ 2012-05-11T20:11:38+08:00 ] /SiaWeb/admin.php/Person/edit/id/1 | SQL: SELECT * FROM `think_person` WHERE id=1 LIMIT 1   [ RunTime:0.000214s ]
+[ 2012-05-11T20:11:38+08:00 ] /SiaWeb/admin.php/Person/edit/id/1 | INFO: Tag[ view_template ] --START--
+[ 2012-05-11T20:11:38+08:00 ] /SiaWeb/admin.php/Person/edit/id/1 | INFO: Run LocationTemplate Behavior [ RunTime:0.000590s ]
+[ 2012-05-11T20:11:38+08:00 ] /SiaWeb/admin.php/Person/edit/id/1 | INFO: Tag[ view_template ] --END-- [ RunTime:0.000677s ]
+[ 2012-05-11T20:11:38+08:00 ] /SiaWeb/admin.php/Person/edit/id/1 | INFO: Tag[ view_parse ] --START--
+[ 2012-05-11T20:11:38+08:00 ] /SiaWeb/admin.php/Person/edit/id/1 | INFO: Run ParseTemplate Behavior [ RunTime:0.011233s ]
+[ 2012-05-11T20:11:38+08:00 ] /SiaWeb/admin.php/Person/edit/id/1 | INFO: Tag[ view_parse ] --END-- [ RunTime:0.011336s ]
+[ 2012-05-11T20:11:38+08:00 ] /SiaWeb/admin.php/Person/edit/id/1 | INFO: Tag[ view_filter ] --START--
+[ 2012-05-11T20:11:38+08:00 ] /SiaWeb/admin.php/Person/edit/id/1 | INFO: Run ContentReplace Behavior [ RunTime:0.000505s ]
+[ 2012-05-11T20:11:38+08:00 ] /SiaWeb/admin.php/Person/edit/id/1 | INFO: Run TokenBuild Behavior [ RunTime:0.000702s ]
+[ 2012-05-11T20:11:38+08:00 ] /SiaWeb/admin.php/Person/edit/id/1 | INFO: Run WriteHtmlCache Behavior [ RunTime:0.000365s ]
+[ 2012-05-11T20:11:38+08:00 ] /SiaWeb/admin.php/Person/edit/id/1 | INFO: Run ShowRuntime Behavior [ RunTime:0.000689s ]
+[ 2012-05-11T20:11:38+08:00 ] /SiaWeb/admin.php/Person/edit/id/1 | INFO: Tag[ view_filter ] --END-- [ RunTime:0.002573s ]
+[ 2012-05-11T20:11:38+08:00 ] /SiaWeb/admin.php/Person/edit/id/1 | INFO: Tag[ view_end ] --START--
+[ 2012-05-11T20:11:38+08:00 ] /SiaWeb/admin.php/Person/edit/id/1 | INFO: Run ShowPageTrace Behavior [ RunTime:0.000439s ]
+[ 2012-05-11T20:11:38+08:00 ] /SiaWeb/admin.php/Person/edit/id/1 | INFO: Tag[ view_end ] --END-- [ RunTime:0.000518s ]
+[ 2012-05-11T20:14:53+08:00 ] /SiaWeb/admin.php/Person | INFO: Tag[ route_check ] --START--
+[ 2012-05-11T20:14:53+08:00 ] /SiaWeb/admin.php/Person | INFO: Run CheckRoute Behavior [ RunTime:0.000969s ]
+[ 2012-05-11T20:14:53+08:00 ] /SiaWeb/admin.php/Person | INFO: Tag[ route_check ] --END-- [ RunTime:0.001093s ]
+[ 2012-05-11T20:14:53+08:00 ] /SiaWeb/admin.php/Person | INFO: Tag[ app_begin ] --START--
+[ 2012-05-11T20:14:53+08:00 ] /SiaWeb/admin.php/Person | INFO: Run ReadHtmlCache Behavior [ RunTime:0.000634s ]
+[ 2012-05-11T20:14:53+08:00 ] /SiaWeb/admin.php/Person | INFO: Tag[ app_begin ] --END-- [ RunTime:0.000726s ]
+[ 2012-05-11T20:14:53+08:00 ] /SiaWeb/admin.php/Person | SQL: SHOW COLUMNS FROM `think_person` [ RunTime:0.003812s ]
+[ 2012-05-11T20:14:53+08:00 ] /SiaWeb/admin.php/Person | SQL: SELECT `id`,`name`,`major` FROM `think_person`  [ RunTime:0.000216s ]
+[ 2012-05-11T20:14:53+08:00 ] /SiaWeb/admin.php/Person | INFO: Tag[ view_template ] --START--
+[ 2012-05-11T20:14:53+08:00 ] /SiaWeb/admin.php/Person | INFO: Run LocationTemplate Behavior [ RunTime:0.000823s ]
+[ 2012-05-11T20:14:53+08:00 ] /SiaWeb/admin.php/Person | INFO: Tag[ view_template ] --END-- [ RunTime:0.000914s ]
+[ 2012-05-11T20:14:53+08:00 ] /SiaWeb/admin.php/Person | INFO: Tag[ view_parse ] --START--
+[ 2012-05-11T20:14:53+08:00 ] /SiaWeb/admin.php/Person | INFO: Run ParseTemplate Behavior [ RunTime:0.009797s ]
+[ 2012-05-11T20:14:53+08:00 ] /SiaWeb/admin.php/Person | INFO: Tag[ view_parse ] --END-- [ RunTime:0.009898s ]
+[ 2012-05-11T20:14:53+08:00 ] /SiaWeb/admin.php/Person | INFO: Tag[ view_filter ] --START--
+[ 2012-05-11T20:14:53+08:00 ] /SiaWeb/admin.php/Person | INFO: Run ContentReplace Behavior [ RunTime:0.000650s ]
+[ 2012-05-11T20:14:53+08:00 ] /SiaWeb/admin.php/Person | INFO: Run TokenBuild Behavior [ RunTime:0.000833s ]
+[ 2012-05-11T20:14:53+08:00 ] /SiaWeb/admin.php/Person | INFO: Run WriteHtmlCache Behavior [ RunTime:0.000493s ]
+[ 2012-05-11T20:14:53+08:00 ] /SiaWeb/admin.php/Person | INFO: Run ShowRuntime Behavior [ RunTime:0.001269s ]
+[ 2012-05-11T20:14:53+08:00 ] /SiaWeb/admin.php/Person | INFO: Tag[ view_filter ] --END-- [ RunTime:0.003628s ]
+[ 2012-05-11T20:14:53+08:00 ] /SiaWeb/admin.php/Person | INFO: Tag[ view_end ] --START--
+[ 2012-05-11T20:14:53+08:00 ] /SiaWeb/admin.php/Person | INFO: Run ShowPageTrace Behavior [ RunTime:0.000786s ]
+[ 2012-05-11T20:14:53+08:00 ] /SiaWeb/admin.php/Person | INFO: Tag[ view_end ] --END-- [ RunTime:0.000928s ]
+[ 2012-05-11T20:14:54+08:00 ] /SiaWeb/admin.php/Person/edit/id/1 | INFO: Tag[ route_check ] --START--
+[ 2012-05-11T20:14:54+08:00 ] /SiaWeb/admin.php/Person/edit/id/1 | INFO: Run CheckRoute Behavior [ RunTime:0.000807s ]
+[ 2012-05-11T20:14:54+08:00 ] /SiaWeb/admin.php/Person/edit/id/1 | INFO: Tag[ route_check ] --END-- [ RunTime:0.000931s ]
+[ 2012-05-11T20:14:54+08:00 ] /SiaWeb/admin.php/Person/edit/id/1 | INFO: Tag[ app_begin ] --START--
+[ 2012-05-11T20:14:54+08:00 ] /SiaWeb/admin.php/Person/edit/id/1 | INFO: Run ReadHtmlCache Behavior [ RunTime:0.000587s ]
+[ 2012-05-11T20:14:54+08:00 ] /SiaWeb/admin.php/Person/edit/id/1 | INFO: Tag[ app_begin ] --END-- [ RunTime:0.000679s ]
+[ 2012-05-11T20:14:54+08:00 ] /SiaWeb/admin.php/Person/edit/id/1 | SQL: SHOW COLUMNS FROM `think_person` [ RunTime:0.003837s ]
+[ 2012-05-11T20:14:54+08:00 ] /SiaWeb/admin.php/Person/edit/id/1 | SQL: SELECT * FROM `think_person` WHERE id=1 LIMIT 1   [ RunTime:0.000247s ]
+[ 2012-05-11T20:14:54+08:00 ] /SiaWeb/admin.php/Person/edit/id/1 | INFO: Tag[ view_template ] --START--
+[ 2012-05-11T20:14:54+08:00 ] /SiaWeb/admin.php/Person/edit/id/1 | INFO: Run LocationTemplate Behavior [ RunTime:0.000762s ]
+[ 2012-05-11T20:14:54+08:00 ] /SiaWeb/admin.php/Person/edit/id/1 | INFO: Tag[ view_template ] --END-- [ RunTime:0.000903s ]
+[ 2012-05-11T20:14:54+08:00 ] /SiaWeb/admin.php/Person/edit/id/1 | INFO: Tag[ view_parse ] --START--
+[ 2012-05-11T20:14:54+08:00 ] /SiaWeb/admin.php/Person/edit/id/1 | INFO: Run ParseTemplate Behavior [ RunTime:0.008553s ]
+[ 2012-05-11T20:14:54+08:00 ] /SiaWeb/admin.php/Person/edit/id/1 | INFO: Tag[ view_parse ] --END-- [ RunTime:0.008671s ]
+[ 2012-05-11T20:14:54+08:00 ] /SiaWeb/admin.php/Person/edit/id/1 | INFO: Tag[ view_filter ] --START--
+[ 2012-05-11T20:14:54+08:00 ] /SiaWeb/admin.php/Person/edit/id/1 | INFO: Run ContentReplace Behavior [ RunTime:0.000371s ]
+[ 2012-05-11T20:14:54+08:00 ] /SiaWeb/admin.php/Person/edit/id/1 | INFO: Run TokenBuild Behavior [ RunTime:0.000462s ]
+[ 2012-05-11T20:14:54+08:00 ] /SiaWeb/admin.php/Person/edit/id/1 | INFO: Run WriteHtmlCache Behavior [ RunTime:0.000317s ]
+[ 2012-05-11T20:14:54+08:00 ] /SiaWeb/admin.php/Person/edit/id/1 | INFO: Run ShowRuntime Behavior [ RunTime:0.000810s ]
+[ 2012-05-11T20:14:54+08:00 ] /SiaWeb/admin.php/Person/edit/id/1 | INFO: Tag[ view_filter ] --END-- [ RunTime:0.002240s ]
+[ 2012-05-11T20:14:54+08:00 ] /SiaWeb/admin.php/Person/edit/id/1 | INFO: Tag[ view_end ] --START--
+[ 2012-05-11T20:14:54+08:00 ] /SiaWeb/admin.php/Person/edit/id/1 | INFO: Run ShowPageTrace Behavior [ RunTime:0.000694s ]
+[ 2012-05-11T20:14:54+08:00 ] /SiaWeb/admin.php/Person/edit/id/1 | INFO: Tag[ view_end ] --END-- [ RunTime:0.000867s ]
+[ 2012-05-11T20:14:55+08:00 ] /SiaWeb/admin.php/Person/update | INFO: Tag[ route_check ] --START--
+[ 2012-05-11T20:14:55+08:00 ] /SiaWeb/admin.php/Person/update | INFO: Run CheckRoute Behavior [ RunTime:0.000829s ]
+[ 2012-05-11T20:14:55+08:00 ] /SiaWeb/admin.php/Person/update | INFO: Tag[ route_check ] --END-- [ RunTime:0.000949s ]
+[ 2012-05-11T20:14:55+08:00 ] /SiaWeb/admin.php/Person/update | INFO: Tag[ app_begin ] --START--
+[ 2012-05-11T20:14:55+08:00 ] /SiaWeb/admin.php/Person/update | INFO: Run ReadHtmlCache Behavior [ RunTime:0.000563s ]
+[ 2012-05-11T20:14:55+08:00 ] /SiaWeb/admin.php/Person/update | INFO: Tag[ app_begin ] --END-- [ RunTime:0.000659s ]
+[ 2012-05-11T20:15:02+08:00 ] /SiaWeb/admin.php/Person/update | INFO: Tag[ route_check ] --START--
+[ 2012-05-11T20:15:02+08:00 ] /SiaWeb/admin.php/Person/update | INFO: Run CheckRoute Behavior [ RunTime:0.000748s ]
+[ 2012-05-11T20:15:02+08:00 ] /SiaWeb/admin.php/Person/update | INFO: Tag[ route_check ] --END-- [ RunTime:0.000871s ]
+[ 2012-05-11T20:15:02+08:00 ] /SiaWeb/admin.php/Person/update | INFO: Tag[ app_begin ] --START--
+[ 2012-05-11T20:15:02+08:00 ] /SiaWeb/admin.php/Person/update | INFO: Run ReadHtmlCache Behavior [ RunTime:0.000529s ]
+[ 2012-05-11T20:15:02+08:00 ] /SiaWeb/admin.php/Person/update | INFO: Tag[ app_begin ] --END-- [ RunTime:0.000618s ]
+[ 2012-05-11T20:15:33+08:00 ] /SiaWeb/admin.php/Person/edit/id/1 | INFO: Tag[ route_check ] --START--
+[ 2012-05-11T20:15:33+08:00 ] /SiaWeb/admin.php/Person/edit/id/1 | INFO: Run CheckRoute Behavior [ RunTime:0.000909s ]
+[ 2012-05-11T20:15:33+08:00 ] /SiaWeb/admin.php/Person/edit/id/1 | INFO: Tag[ route_check ] --END-- [ RunTime:0.001024s ]
+[ 2012-05-11T20:15:33+08:00 ] /SiaWeb/admin.php/Person/edit/id/1 | INFO: Tag[ app_begin ] --START--
+[ 2012-05-11T20:15:33+08:00 ] /SiaWeb/admin.php/Person/edit/id/1 | INFO: Run ReadHtmlCache Behavior [ RunTime:0.000618s ]
+[ 2012-05-11T20:15:33+08:00 ] /SiaWeb/admin.php/Person/edit/id/1 | INFO: Tag[ app_begin ] --END-- [ RunTime:0.000700s ]
+[ 2012-05-11T20:15:33+08:00 ] /SiaWeb/admin.php/Person/edit/id/1 | SQL: SHOW COLUMNS FROM `think_person` [ RunTime:0.003300s ]
+[ 2012-05-11T20:15:33+08:00 ] /SiaWeb/admin.php/Person/edit/id/1 | SQL: SELECT * FROM `think_person` WHERE id=1 LIMIT 1   [ RunTime:0.000209s ]
+[ 2012-05-11T20:15:33+08:00 ] /SiaWeb/admin.php/Person/edit/id/1 | INFO: Tag[ view_template ] --START--
+[ 2012-05-11T20:15:33+08:00 ] /SiaWeb/admin.php/Person/edit/id/1 | INFO: Run LocationTemplate Behavior [ RunTime:0.000769s ]
+[ 2012-05-11T20:15:33+08:00 ] /SiaWeb/admin.php/Person/edit/id/1 | INFO: Tag[ view_template ] --END-- [ RunTime:0.001074s ]
+[ 2012-05-11T20:15:33+08:00 ] /SiaWeb/admin.php/Person/edit/id/1 | INFO: Tag[ view_parse ] --START--
+[ 2012-05-11T20:15:33+08:00 ] /SiaWeb/admin.php/Person/edit/id/1 | INFO: Run ParseTemplate Behavior [ RunTime:0.007766s ]
+[ 2012-05-11T20:15:33+08:00 ] /SiaWeb/admin.php/Person/edit/id/1 | INFO: Tag[ view_parse ] --END-- [ RunTime:0.007868s ]
+[ 2012-05-11T20:15:33+08:00 ] /SiaWeb/admin.php/Person/edit/id/1 | INFO: Tag[ view_filter ] --START--
+[ 2012-05-11T20:15:33+08:00 ] /SiaWeb/admin.php/Person/edit/id/1 | INFO: Run ContentReplace Behavior [ RunTime:0.000479s ]
+[ 2012-05-11T20:15:33+08:00 ] /SiaWeb/admin.php/Person/edit/id/1 | INFO: Run TokenBuild Behavior [ RunTime:0.000546s ]
+[ 2012-05-11T20:15:33+08:00 ] /SiaWeb/admin.php/Person/edit/id/1 | INFO: Run WriteHtmlCache Behavior [ RunTime:0.000328s ]
+[ 2012-05-11T20:15:33+08:00 ] /SiaWeb/admin.php/Person/edit/id/1 | INFO: Run ShowRuntime Behavior [ RunTime:0.000590s ]
+[ 2012-05-11T20:15:33+08:00 ] /SiaWeb/admin.php/Person/edit/id/1 | INFO: Tag[ view_filter ] --END-- [ RunTime:0.002166s ]
+[ 2012-05-11T20:15:33+08:00 ] /SiaWeb/admin.php/Person/edit/id/1 | INFO: Tag[ view_end ] --START--
+[ 2012-05-11T20:15:33+08:00 ] /SiaWeb/admin.php/Person/edit/id/1 | INFO: Run ShowPageTrace Behavior [ RunTime:0.000492s ]
+[ 2012-05-11T20:15:33+08:00 ] /SiaWeb/admin.php/Person/edit/id/1 | INFO: Tag[ view_end ] --END-- [ RunTime:0.000587s ]
+[ 2012-05-11T20:15:35+08:00 ] /SiaWeb/admin.php/Person/edit/id/1 | INFO: Tag[ route_check ] --START--
+[ 2012-05-11T20:15:35+08:00 ] /SiaWeb/admin.php/Person/edit/id/1 | INFO: Run CheckRoute Behavior [ RunTime:0.000787s ]
+[ 2012-05-11T20:15:35+08:00 ] /SiaWeb/admin.php/Person/edit/id/1 | INFO: Tag[ route_check ] --END-- [ RunTime:0.000904s ]
+[ 2012-05-11T20:15:35+08:00 ] /SiaWeb/admin.php/Person/edit/id/1 | INFO: Tag[ app_begin ] --START--
+[ 2012-05-11T20:15:35+08:00 ] /SiaWeb/admin.php/Person/edit/id/1 | INFO: Run ReadHtmlCache Behavior [ RunTime:0.000566s ]
+[ 2012-05-11T20:15:35+08:00 ] /SiaWeb/admin.php/Person/edit/id/1 | INFO: Tag[ app_begin ] --END-- [ RunTime:0.000649s ]
+[ 2012-05-11T20:15:35+08:00 ] /SiaWeb/admin.php/Person/edit/id/1 | SQL: SHOW COLUMNS FROM `think_person` [ RunTime:0.004928s ]
+[ 2012-05-11T20:15:35+08:00 ] /SiaWeb/admin.php/Person/edit/id/1 | SQL: SELECT * FROM `think_person` WHERE id=1 LIMIT 1   [ RunTime:0.000223s ]
+[ 2012-05-11T20:15:35+08:00 ] /SiaWeb/admin.php/Person/edit/id/1 | INFO: Tag[ view_template ] --START--
+[ 2012-05-11T20:15:35+08:00 ] /SiaWeb/admin.php/Person/edit/id/1 | INFO: Run LocationTemplate Behavior [ RunTime:0.000469s ]
+[ 2012-05-11T20:15:35+08:00 ] /SiaWeb/admin.php/Person/edit/id/1 | INFO: Tag[ view_template ] --END-- [ RunTime:0.000556s ]
+[ 2012-05-11T20:15:35+08:00 ] /SiaWeb/admin.php/Person/edit/id/1 | INFO: Tag[ view_parse ] --START--
+[ 2012-05-11T20:15:35+08:00 ] /SiaWeb/admin.php/Person/edit/id/1 | INFO: Run ParseTemplate Behavior [ RunTime:0.007450s ]
+[ 2012-05-11T20:15:35+08:00 ] /SiaWeb/admin.php/Person/edit/id/1 | INFO: Tag[ view_parse ] --END-- [ RunTime:0.007548s ]
+[ 2012-05-11T20:15:35+08:00 ] /SiaWeb/admin.php/Person/edit/id/1 | INFO: Tag[ view_filter ] --START--
+[ 2012-05-11T20:15:35+08:00 ] /SiaWeb/admin.php/Person/edit/id/1 | INFO: Run ContentReplace Behavior [ RunTime:0.000359s ]
+[ 2012-05-11T20:15:35+08:00 ] /SiaWeb/admin.php/Person/edit/id/1 | INFO: Run TokenBuild Behavior [ RunTime:0.000483s ]
+[ 2012-05-11T20:15:35+08:00 ] /SiaWeb/admin.php/Person/edit/id/1 | INFO: Run WriteHtmlCache Behavior [ RunTime:0.000241s ]
+[ 2012-05-11T20:15:35+08:00 ] /SiaWeb/admin.php/Person/edit/id/1 | INFO: Run ShowRuntime Behavior [ RunTime:0.000538s ]
+[ 2012-05-11T20:15:35+08:00 ] /SiaWeb/admin.php/Person/edit/id/1 | INFO: Tag[ view_filter ] --END-- [ RunTime:0.001844s ]
+[ 2012-05-11T20:15:35+08:00 ] /SiaWeb/admin.php/Person/edit/id/1 | INFO: Tag[ view_end ] --START--
+[ 2012-05-11T20:15:35+08:00 ] /SiaWeb/admin.php/Person/edit/id/1 | INFO: Run ShowPageTrace Behavior [ RunTime:0.000421s ]
+[ 2012-05-11T20:15:35+08:00 ] /SiaWeb/admin.php/Person/edit/id/1 | INFO: Tag[ view_end ] --END-- [ RunTime:0.000500s ]
+[ 2012-05-11T20:15:36+08:00 ] /SiaWeb/admin.php/Person/update | INFO: Tag[ route_check ] --START--
+[ 2012-05-11T20:15:36+08:00 ] /SiaWeb/admin.php/Person/update | INFO: Run CheckRoute Behavior [ RunTime:0.001264s ]
+[ 2012-05-11T20:15:36+08:00 ] /SiaWeb/admin.php/Person/update | INFO: Tag[ route_check ] --END-- [ RunTime:0.001462s ]
+[ 2012-05-11T20:15:36+08:00 ] /SiaWeb/admin.php/Person/update | INFO: Tag[ app_begin ] --START--
+[ 2012-05-11T20:15:36+08:00 ] /SiaWeb/admin.php/Person/update | INFO: Run ReadHtmlCache Behavior [ RunTime:0.000987s ]
+[ 2012-05-11T20:15:36+08:00 ] /SiaWeb/admin.php/Person/update | INFO: Tag[ app_begin ] --END-- [ RunTime:0.001136s ]
+[ 2012-05-11T20:20:16+08:00 ] /SiaWeb/admin.php/Person/edit/id/1 | INFO: Tag[ route_check ] --START--
+[ 2012-05-11T20:20:16+08:00 ] /SiaWeb/admin.php/Person/edit/id/1 | INFO: Run CheckRoute Behavior [ RunTime:0.000944s ]
+[ 2012-05-11T20:20:16+08:00 ] /SiaWeb/admin.php/Person/edit/id/1 | INFO: Tag[ route_check ] --END-- [ RunTime:0.001070s ]
+[ 2012-05-11T20:20:16+08:00 ] /SiaWeb/admin.php/Person/edit/id/1 | INFO: Tag[ app_begin ] --START--
+[ 2012-05-11T20:20:16+08:00 ] /SiaWeb/admin.php/Person/edit/id/1 | INFO: Run ReadHtmlCache Behavior [ RunTime:0.000601s ]
+[ 2012-05-11T20:20:16+08:00 ] /SiaWeb/admin.php/Person/edit/id/1 | INFO: Tag[ app_begin ] --END-- [ RunTime:0.000692s ]
+[ 2012-05-11T20:20:16+08:00 ] /SiaWeb/admin.php/Person/edit/id/1 | SQL: SHOW COLUMNS FROM `think_person` [ RunTime:0.005440s ]
+[ 2012-05-11T20:20:16+08:00 ] /SiaWeb/admin.php/Person/edit/id/1 | SQL: SELECT * FROM `think_person` WHERE id=1 LIMIT 1   [ RunTime:0.000262s ]
+[ 2012-05-11T20:20:16+08:00 ] /SiaWeb/admin.php/Person/edit/id/1 | INFO: Tag[ view_template ] --START--
+[ 2012-05-11T20:20:16+08:00 ] /SiaWeb/admin.php/Person/edit/id/1 | INFO: Run LocationTemplate Behavior [ RunTime:0.000765s ]
+[ 2012-05-11T20:20:16+08:00 ] /SiaWeb/admin.php/Person/edit/id/1 | INFO: Tag[ view_template ] --END-- [ RunTime:0.000857s ]
+[ 2012-05-11T20:20:16+08:00 ] /SiaWeb/admin.php/Person/edit/id/1 | INFO: Tag[ view_parse ] --START--
+[ 2012-05-11T20:20:16+08:00 ] /SiaWeb/admin.php/Person/edit/id/1 | INFO: Run ParseTemplate Behavior [ RunTime:0.009625s ]
+[ 2012-05-11T20:20:16+08:00 ] /SiaWeb/admin.php/Person/edit/id/1 | INFO: Tag[ view_parse ] --END-- [ RunTime:0.009732s ]
+[ 2012-05-11T20:20:16+08:00 ] /SiaWeb/admin.php/Person/edit/id/1 | INFO: Tag[ view_filter ] --START--
+[ 2012-05-11T20:20:16+08:00 ] /SiaWeb/admin.php/Person/edit/id/1 | INFO: Run ContentReplace Behavior [ RunTime:0.000488s ]
+[ 2012-05-11T20:20:16+08:00 ] /SiaWeb/admin.php/Person/edit/id/1 | INFO: Run TokenBuild Behavior [ RunTime:0.000560s ]
+[ 2012-05-11T20:20:16+08:00 ] /SiaWeb/admin.php/Person/edit/id/1 | INFO: Run WriteHtmlCache Behavior [ RunTime:0.000341s ]
+[ 2012-05-11T20:20:16+08:00 ] /SiaWeb/admin.php/Person/edit/id/1 | INFO: Run ShowRuntime Behavior [ RunTime:0.000599s ]
+[ 2012-05-11T20:20:16+08:00 ] /SiaWeb/admin.php/Person/edit/id/1 | INFO: Tag[ view_filter ] --END-- [ RunTime:0.002227s ]
+[ 2012-05-11T20:20:16+08:00 ] /SiaWeb/admin.php/Person/edit/id/1 | INFO: Tag[ view_end ] --START--
+[ 2012-05-11T20:20:16+08:00 ] /SiaWeb/admin.php/Person/edit/id/1 | INFO: Run ShowPageTrace Behavior [ RunTime:0.000519s ]
+[ 2012-05-11T20:20:16+08:00 ] /SiaWeb/admin.php/Person/edit/id/1 | INFO: Tag[ view_end ] --END-- [ RunTime:0.000604s ]
+[ 2012-05-11T20:20:56+08:00 ] /SiaWeb/admin.php/Person/update | INFO: Tag[ route_check ] --START--
+[ 2012-05-11T20:20:56+08:00 ] /SiaWeb/admin.php/Person/update | INFO: Run CheckRoute Behavior [ RunTime:0.000754s ]
+[ 2012-05-11T20:20:56+08:00 ] /SiaWeb/admin.php/Person/update | INFO: Tag[ route_check ] --END-- [ RunTime:0.000873s ]
+[ 2012-05-11T20:20:56+08:00 ] /SiaWeb/admin.php/Person/update | INFO: Tag[ app_begin ] --START--
+[ 2012-05-11T20:20:56+08:00 ] /SiaWeb/admin.php/Person/update | INFO: Run ReadHtmlCache Behavior [ RunTime:0.000538s ]
+[ 2012-05-11T20:20:56+08:00 ] /SiaWeb/admin.php/Person/update | INFO: Tag[ app_begin ] --END-- [ RunTime:0.000618s ]
+[ 2012-05-11T20:20:56+08:00 ] /SiaWeb/admin.php/Person/update | SQL: SHOW COLUMNS FROM `think_person` [ RunTime:0.004472s ]
+[ 2012-05-11T20:20:56+08:00 ] /SiaWeb/admin.php/Person/update | SQL: UPDATE `think_person` SET `name`='吴文俊',`major`='大数学家',`jobtitle`='中国科学院院士',`job`='名誉主任' WHERE ( `id` = '1' ) [ RunTime:0.036859s ]
+[ 2012-05-11T20:20:56+08:00 ] /SiaWeb/admin.php/Person/update | INFO: Tag[ view_template ] --START--
+[ 2012-05-11T20:20:56+08:00 ] /SiaWeb/admin.php/Person/update | INFO: Run LocationTemplate Behavior [ RunTime:0.000964s ]
+[ 2012-05-11T20:20:56+08:00 ] /SiaWeb/admin.php/Person/update | INFO: Tag[ view_template ] --END-- [ RunTime:0.001108s ]
+[ 2012-05-11T20:20:56+08:00 ] /SiaWeb/admin.php/Person/update | INFO: Tag[ view_parse ] --START--
+[ 2012-05-11T20:20:56+08:00 ] /SiaWeb/admin.php/Person/update | INFO: Run ParseTemplate Behavior [ RunTime:0.010255s ]
+[ 2012-05-11T20:20:56+08:00 ] /SiaWeb/admin.php/Person/update | INFO: Tag[ view_parse ] --END-- [ RunTime:0.010470s ]
+[ 2012-05-11T20:20:56+08:00 ] /SiaWeb/admin.php/Person/update | INFO: Tag[ view_filter ] --START--
+[ 2012-05-11T20:20:56+08:00 ] /SiaWeb/admin.php/Person/update | INFO: Run ContentReplace Behavior [ RunTime:0.000817s ]
+[ 2012-05-11T20:20:56+08:00 ] /SiaWeb/admin.php/Person/update | INFO: Run TokenBuild Behavior [ RunTime:0.000779s ]
+[ 2012-05-11T20:20:56+08:00 ] /SiaWeb/admin.php/Person/update | INFO: Run WriteHtmlCache Behavior [ RunTime:0.000483s ]
+[ 2012-05-11T20:20:56+08:00 ] /SiaWeb/admin.php/Person/update | INFO: Run ShowRuntime Behavior [ RunTime:0.000952s ]
+[ 2012-05-11T20:20:56+08:00 ] /SiaWeb/admin.php/Person/update | INFO: Tag[ view_filter ] --END-- [ RunTime:0.003401s ]
+[ 2012-05-11T20:20:56+08:00 ] /SiaWeb/admin.php/Person/update | INFO: Tag[ view_end ] --START--
+[ 2012-05-11T20:20:56+08:00 ] /SiaWeb/admin.php/Person/update | INFO: Run ShowPageTrace Behavior [ RunTime:0.000752s ]
+[ 2012-05-11T20:20:56+08:00 ] /SiaWeb/admin.php/Person/update | INFO: Tag[ view_end ] --END-- [ RunTime:0.000886s ]
+[ 2012-05-11T20:20:57+08:00 ] /SiaWeb/admin.php/Person/edit/id/1 | INFO: Tag[ route_check ] --START--
+[ 2012-05-11T20:20:57+08:00 ] /SiaWeb/admin.php/Person/edit/id/1 | INFO: Run CheckRoute Behavior [ RunTime:0.000741s ]
+[ 2012-05-11T20:20:57+08:00 ] /SiaWeb/admin.php/Person/edit/id/1 | INFO: Tag[ route_check ] --END-- [ RunTime:0.000852s ]
+[ 2012-05-11T20:20:57+08:00 ] /SiaWeb/admin.php/Person/edit/id/1 | INFO: Tag[ app_begin ] --START--
+[ 2012-05-11T20:20:57+08:00 ] /SiaWeb/admin.php/Person/edit/id/1 | INFO: Run ReadHtmlCache Behavior [ RunTime:0.000543s ]
+[ 2012-05-11T20:20:57+08:00 ] /SiaWeb/admin.php/Person/edit/id/1 | INFO: Tag[ app_begin ] --END-- [ RunTime:0.000624s ]
+[ 2012-05-11T20:20:57+08:00 ] /SiaWeb/admin.php/Person/edit/id/1 | SQL: SHOW COLUMNS FROM `think_person` [ RunTime:0.003530s ]
+[ 2012-05-11T20:20:57+08:00 ] /SiaWeb/admin.php/Person/edit/id/1 | SQL: SELECT * FROM `think_person` WHERE id=1 LIMIT 1   [ RunTime:0.000252s ]
+[ 2012-05-11T20:20:57+08:00 ] /SiaWeb/admin.php/Person/edit/id/1 | INFO: Tag[ view_template ] --START--
+[ 2012-05-11T20:20:57+08:00 ] /SiaWeb/admin.php/Person/edit/id/1 | INFO: Run LocationTemplate Behavior [ RunTime:0.000927s ]
+[ 2012-05-11T20:20:57+08:00 ] /SiaWeb/admin.php/Person/edit/id/1 | INFO: Tag[ view_template ] --END-- [ RunTime:0.001067s ]
+[ 2012-05-11T20:20:57+08:00 ] /SiaWeb/admin.php/Person/edit/id/1 | INFO: Tag[ view_parse ] --START--
+[ 2012-05-11T20:20:57+08:00 ] /SiaWeb/admin.php/Person/edit/id/1 | INFO: Run ParseTemplate Behavior [ RunTime:0.008055s ]
+[ 2012-05-11T20:20:57+08:00 ] /SiaWeb/admin.php/Person/edit/id/1 | INFO: Tag[ view_parse ] --END-- [ RunTime:0.008173s ]
+[ 2012-05-11T20:20:57+08:00 ] /SiaWeb/admin.php/Person/edit/id/1 | INFO: Tag[ view_filter ] --START--
+[ 2012-05-11T20:20:57+08:00 ] /SiaWeb/admin.php/Person/edit/id/1 | INFO: Run ContentReplace Behavior [ RunTime:0.000393s ]
+[ 2012-05-11T20:20:57+08:00 ] /SiaWeb/admin.php/Person/edit/id/1 | INFO: Run TokenBuild Behavior [ RunTime:0.000473s ]
+[ 2012-05-11T20:20:57+08:00 ] /SiaWeb/admin.php/Person/edit/id/1 | INFO: Run WriteHtmlCache Behavior [ RunTime:0.000262s ]
+[ 2012-05-11T20:20:57+08:00 ] /SiaWeb/admin.php/Person/edit/id/1 | INFO: Run ShowRuntime Behavior [ RunTime:0.000635s ]
+[ 2012-05-11T20:20:57+08:00 ] /SiaWeb/admin.php/Person/edit/id/1 | INFO: Tag[ view_filter ] --END-- [ RunTime:0.002015s ]
+[ 2012-05-11T20:20:57+08:00 ] /SiaWeb/admin.php/Person/edit/id/1 | INFO: Tag[ view_end ] --START--
+[ 2012-05-11T20:20:57+08:00 ] /SiaWeb/admin.php/Person/edit/id/1 | INFO: Run ShowPageTrace Behavior [ RunTime:0.000681s ]
+[ 2012-05-11T20:20:57+08:00 ] /SiaWeb/admin.php/Person/edit/id/1 | INFO: Tag[ view_end ] --END-- [ RunTime:0.000864s ]
+[ 2012-05-11T21:56:25+08:00 ] /SiaWeb/admin.php/User | INFO: Tag[ route_check ] --START--
+[ 2012-05-11T21:56:25+08:00 ] /SiaWeb/admin.php/User | INFO: Run CheckRoute Behavior [ RunTime:0.001062s ]
+[ 2012-05-11T21:56:25+08:00 ] /SiaWeb/admin.php/User | INFO: Tag[ route_check ] --END-- [ RunTime:0.001205s ]
+[ 2012-05-11T21:56:25+08:00 ] /SiaWeb/admin.php/User | INFO: Tag[ app_begin ] --START--
+[ 2012-05-11T21:56:25+08:00 ] /SiaWeb/admin.php/User | INFO: Run ReadHtmlCache Behavior [ RunTime:0.000764s ]
+[ 2012-05-11T21:56:25+08:00 ] /SiaWeb/admin.php/User | INFO: Tag[ app_begin ] --END-- [ RunTime:0.000849s ]
+[ 2012-05-11T21:56:25+08:00 ] /SiaWeb/admin.php/User | INFO: Tag[ view_template ] --START--
+[ 2012-05-11T21:56:25+08:00 ] /SiaWeb/admin.php/User | INFO: Run LocationTemplate Behavior [ RunTime:0.001210s ]
+[ 2012-05-11T21:56:25+08:00 ] /SiaWeb/admin.php/User | INFO: Tag[ view_template ] --END-- [ RunTime:0.001344s ]
+[ 2012-05-11T21:56:25+08:00 ] /SiaWeb/admin.php/User | INFO: Tag[ view_parse ] --START--
+[ 2012-05-11T21:56:25+08:00 ] /SiaWeb/admin.php/User | INFO: Run ParseTemplate Behavior [ RunTime:0.007851s ]
+[ 2012-05-11T21:56:25+08:00 ] /SiaWeb/admin.php/User | INFO: Tag[ view_parse ] --END-- [ RunTime:0.007954s ]
+[ 2012-05-11T21:56:25+08:00 ] /SiaWeb/admin.php/User | INFO: Tag[ view_filter ] --START--
+[ 2012-05-11T21:56:25+08:00 ] /SiaWeb/admin.php/User | INFO: Run ContentReplace Behavior [ RunTime:0.000590s ]
+[ 2012-05-11T21:56:25+08:00 ] /SiaWeb/admin.php/User | INFO: Run TokenBuild Behavior [ RunTime:0.000629s ]
+[ 2012-05-11T21:56:25+08:00 ] /SiaWeb/admin.php/User | INFO: Run WriteHtmlCache Behavior [ RunTime:0.000384s ]
+[ 2012-05-11T21:56:25+08:00 ] /SiaWeb/admin.php/User | INFO: Run ShowRuntime Behavior [ RunTime:0.000714s ]
+[ 2012-05-11T21:56:25+08:00 ] /SiaWeb/admin.php/User | INFO: Tag[ view_filter ] --END-- [ RunTime:0.002547s ]
+[ 2012-05-11T21:56:25+08:00 ] /SiaWeb/admin.php/User | INFO: Tag[ view_end ] --START--
+[ 2012-05-11T21:56:25+08:00 ] /SiaWeb/admin.php/User | INFO: Run ShowPageTrace Behavior [ RunTime:0.000509s ]
+[ 2012-05-11T21:56:25+08:00 ] /SiaWeb/admin.php/User | INFO: Tag[ view_end ] --END-- [ RunTime:0.000592s ]
+[ 2012-05-11T21:56:36+08:00 ] /SiaWeb/admin.php/User/add | INFO: Tag[ route_check ] --START--
+[ 2012-05-11T21:56:36+08:00 ] /SiaWeb/admin.php/User/add | INFO: Run CheckRoute Behavior [ RunTime:0.000971s ]
+[ 2012-05-11T21:56:36+08:00 ] /SiaWeb/admin.php/User/add | INFO: Tag[ route_check ] --END-- [ RunTime:0.001093s ]
+[ 2012-05-11T21:56:36+08:00 ] /SiaWeb/admin.php/User/add | INFO: Tag[ app_begin ] --START--
+[ 2012-05-11T21:56:36+08:00 ] /SiaWeb/admin.php/User/add | INFO: Run ReadHtmlCache Behavior [ RunTime:0.000677s ]
+[ 2012-05-11T21:56:36+08:00 ] /SiaWeb/admin.php/User/add | INFO: Tag[ app_begin ] --END-- [ RunTime:0.000765s ]
+[ 2012-05-11T21:56:36+08:00 ] /SiaWeb/admin.php/User/add | SQL: SHOW COLUMNS FROM `think_user` [ RunTime:0.004920s ]
+[ 2012-05-11T21:56:36+08:00 ] /SiaWeb/admin.php/User/add | SQL: INSERT INTO `think_user` (`username`,`password`,`createtime`,`ip`) VALUES ('','','','') [ RunTime:0.000273s ]
+[ 2012-05-11T21:56:36+08:00 ] /SiaWeb/admin.php/User/add | INFO: Tag[ view_template ] --START--
+[ 2012-05-11T21:56:36+08:00 ] /SiaWeb/admin.php/User/add | INFO: Run LocationTemplate Behavior [ RunTime:0.000764s ]
+[ 2012-05-11T21:56:36+08:00 ] /SiaWeb/admin.php/User/add | INFO: Tag[ view_template ] --END-- [ RunTime:0.000882s ]
+[ 2012-05-11T21:56:36+08:00 ] /SiaWeb/admin.php/User/add | INFO: Tag[ view_parse ] --START--
+[ 2012-05-11T21:56:36+08:00 ] /SiaWeb/admin.php/User/add | INFO: Run ParseTemplate Behavior [ RunTime:0.009838s ]
+[ 2012-05-11T21:56:36+08:00 ] /SiaWeb/admin.php/User/add | INFO: Tag[ view_parse ] --END-- [ RunTime:0.009969s ]
+[ 2012-05-11T21:56:36+08:00 ] /SiaWeb/admin.php/User/add | INFO: Tag[ view_filter ] --START--
+[ 2012-05-11T21:56:36+08:00 ] /SiaWeb/admin.php/User/add | INFO: Run ContentReplace Behavior [ RunTime:0.000458s ]
+[ 2012-05-11T21:56:36+08:00 ] /SiaWeb/admin.php/User/add | INFO: Run TokenBuild Behavior [ RunTime:0.000523s ]
+[ 2012-05-11T21:56:36+08:00 ] /SiaWeb/admin.php/User/add | INFO: Run WriteHtmlCache Behavior [ RunTime:0.000318s ]
+[ 2012-05-11T21:56:36+08:00 ] /SiaWeb/admin.php/User/add | INFO: Run ShowRuntime Behavior [ RunTime:0.000610s ]
+[ 2012-05-11T21:56:36+08:00 ] /SiaWeb/admin.php/User/add | INFO: Tag[ view_filter ] --END-- [ RunTime:0.002141s ]
+[ 2012-05-11T21:56:36+08:00 ] /SiaWeb/admin.php/User/add | INFO: Tag[ view_end ] --START--
+[ 2012-05-11T21:56:36+08:00 ] /SiaWeb/admin.php/User/add | INFO: Run ShowPageTrace Behavior [ RunTime:0.000739s ]
+[ 2012-05-11T21:56:36+08:00 ] /SiaWeb/admin.php/User/add | INFO: Tag[ view_end ] --END-- [ RunTime:0.000849s ]
+[ 2012-05-11T21:56:37+08:00 ] /SiaWeb/admin.php/User | INFO: Tag[ route_check ] --START--
+[ 2012-05-11T21:56:37+08:00 ] /SiaWeb/admin.php/User | INFO: Run CheckRoute Behavior [ RunTime:0.000737s ]
+[ 2012-05-11T21:56:37+08:00 ] /SiaWeb/admin.php/User | INFO: Tag[ route_check ] --END-- [ RunTime:0.000849s ]
+[ 2012-05-11T21:56:37+08:00 ] /SiaWeb/admin.php/User | INFO: Tag[ app_begin ] --START--
+[ 2012-05-11T21:56:37+08:00 ] /SiaWeb/admin.php/User | INFO: Run ReadHtmlCache Behavior [ RunTime:0.000587s ]
+[ 2012-05-11T21:56:37+08:00 ] /SiaWeb/admin.php/User | INFO: Tag[ app_begin ] --END-- [ RunTime:0.000673s ]
+[ 2012-05-11T21:56:37+08:00 ] /SiaWeb/admin.php/User | INFO: Tag[ view_template ] --START--
+[ 2012-05-11T21:56:37+08:00 ] /SiaWeb/admin.php/User | INFO: Run LocationTemplate Behavior [ RunTime:0.000557s ]
+[ 2012-05-11T21:56:37+08:00 ] /SiaWeb/admin.php/User | INFO: Tag[ view_template ] --END-- [ RunTime:0.000641s ]
+[ 2012-05-11T21:56:37+08:00 ] /SiaWeb/admin.php/User | INFO: Tag[ view_parse ] --START--
+[ 2012-05-11T21:56:37+08:00 ] /SiaWeb/admin.php/User | INFO: Run ParseTemplate Behavior [ RunTime:0.006320s ]
+[ 2012-05-11T21:56:37+08:00 ] /SiaWeb/admin.php/User | INFO: Tag[ view_parse ] --END-- [ RunTime:0.006413s ]
+[ 2012-05-11T21:56:37+08:00 ] /SiaWeb/admin.php/User | INFO: Tag[ view_filter ] --START--
+[ 2012-05-11T21:56:37+08:00 ] /SiaWeb/admin.php/User | INFO: Run ContentReplace Behavior [ RunTime:0.000369s ]
+[ 2012-05-11T21:56:37+08:00 ] /SiaWeb/admin.php/User | INFO: Run TokenBuild Behavior [ RunTime:0.000479s ]
+[ 2012-05-11T21:56:37+08:00 ] /SiaWeb/admin.php/User | INFO: Run WriteHtmlCache Behavior [ RunTime:0.000247s ]
+[ 2012-05-11T21:56:37+08:00 ] /SiaWeb/admin.php/User | INFO: Run ShowRuntime Behavior [ RunTime:0.000534s ]
+[ 2012-05-11T21:56:37+08:00 ] /SiaWeb/admin.php/User | INFO: Tag[ view_filter ] --END-- [ RunTime:0.001843s ]
+[ 2012-05-11T21:56:37+08:00 ] /SiaWeb/admin.php/User | INFO: Tag[ view_end ] --START--
+[ 2012-05-11T21:56:37+08:00 ] /SiaWeb/admin.php/User | INFO: Run ShowPageTrace Behavior [ RunTime:0.000435s ]
+[ 2012-05-11T21:56:37+08:00 ] /SiaWeb/admin.php/User | INFO: Tag[ view_end ] --END-- [ RunTime:0.000514s ]
+[ 2012-05-11T21:56:39+08:00 ] /SiaWeb/admin.php/User/add | INFO: Tag[ route_check ] --START--
+[ 2012-05-11T21:56:39+08:00 ] /SiaWeb/admin.php/User/add | INFO: Run CheckRoute Behavior [ RunTime:0.000855s ]
+[ 2012-05-11T21:56:39+08:00 ] /SiaWeb/admin.php/User/add | INFO: Tag[ route_check ] --END-- [ RunTime:0.000976s ]
+[ 2012-05-11T21:56:39+08:00 ] /SiaWeb/admin.php/User/add | INFO: Tag[ app_begin ] --START--
+[ 2012-05-11T21:56:39+08:00 ] /SiaWeb/admin.php/User/add | INFO: Run ReadHtmlCache Behavior [ RunTime:0.000607s ]
+[ 2012-05-11T21:56:39+08:00 ] /SiaWeb/admin.php/User/add | INFO: Tag[ app_begin ] --END-- [ RunTime:0.000694s ]
+[ 2012-05-11T21:56:39+08:00 ] /SiaWeb/admin.php/User/add | SQL: SHOW COLUMNS FROM `think_user` [ RunTime:0.003955s ]
+[ 2012-05-11T21:56:39+08:00 ] /SiaWeb/admin.php/User/add | SQL: INSERT INTO `think_user` (`username`,`password`,`createtime`,`ip`) VALUES ('','','','') [ RunTime:0.000239s ]
+[ 2012-05-11T21:56:39+08:00 ] /SiaWeb/admin.php/User/add | INFO: Tag[ view_template ] --START--
+[ 2012-05-11T21:56:39+08:00 ] /SiaWeb/admin.php/User/add | INFO: Run LocationTemplate Behavior [ RunTime:0.000511s ]
+[ 2012-05-11T21:56:39+08:00 ] /SiaWeb/admin.php/User/add | INFO: Tag[ view_template ] --END-- [ RunTime:0.000606s ]
+[ 2012-05-11T21:56:39+08:00 ] /SiaWeb/admin.php/User/add | INFO: Tag[ view_parse ] --START--
+[ 2012-05-11T21:56:39+08:00 ] /SiaWeb/admin.php/User/add | INFO: Run ParseTemplate Behavior [ RunTime:0.008706s ]
+[ 2012-05-11T21:56:39+08:00 ] /SiaWeb/admin.php/User/add | INFO: Tag[ view_parse ] --END-- [ RunTime:0.008810s ]
+[ 2012-05-11T21:56:39+08:00 ] /SiaWeb/admin.php/User/add | INFO: Tag[ view_filter ] --START--
+[ 2012-05-11T21:56:39+08:00 ] /SiaWeb/admin.php/User/add | INFO: Run ContentReplace Behavior [ RunTime:0.000410s ]
+[ 2012-05-11T21:56:39+08:00 ] /SiaWeb/admin.php/User/add | INFO: Run TokenBuild Behavior [ RunTime:0.000413s ]
+[ 2012-05-11T21:56:39+08:00 ] /SiaWeb/admin.php/User/add | INFO: Run WriteHtmlCache Behavior [ RunTime:0.000248s ]
+[ 2012-05-11T21:56:39+08:00 ] /SiaWeb/admin.php/User/add | INFO: Run ShowRuntime Behavior [ RunTime:0.000526s ]
+[ 2012-05-11T21:56:39+08:00 ] /SiaWeb/admin.php/User/add | INFO: Tag[ view_filter ] --END-- [ RunTime:0.001830s ]
+[ 2012-05-11T21:56:39+08:00 ] /SiaWeb/admin.php/User/add | INFO: Tag[ view_end ] --START--
+[ 2012-05-11T21:56:39+08:00 ] /SiaWeb/admin.php/User/add | INFO: Run ShowPageTrace Behavior [ RunTime:0.000465s ]
+[ 2012-05-11T21:56:39+08:00 ] /SiaWeb/admin.php/User/add | INFO: Tag[ view_end ] --END-- [ RunTime:0.000545s ]
+[ 2012-05-11T21:56:40+08:00 ] /SiaWeb/admin.php/User | INFO: Tag[ route_check ] --START--
+[ 2012-05-11T21:56:40+08:00 ] /SiaWeb/admin.php/User | INFO: Run CheckRoute Behavior [ RunTime:0.000737s ]
+[ 2012-05-11T21:56:40+08:00 ] /SiaWeb/admin.php/User | INFO: Tag[ route_check ] --END-- [ RunTime:0.000853s ]
+[ 2012-05-11T21:56:40+08:00 ] /SiaWeb/admin.php/User | INFO: Tag[ app_begin ] --START--
+[ 2012-05-11T21:56:40+08:00 ] /SiaWeb/admin.php/User | INFO: Run ReadHtmlCache Behavior [ RunTime:0.000549s ]
+[ 2012-05-11T21:56:40+08:00 ] /SiaWeb/admin.php/User | INFO: Tag[ app_begin ] --END-- [ RunTime:0.000632s ]
+[ 2012-05-11T21:56:40+08:00 ] /SiaWeb/admin.php/User | INFO: Tag[ view_template ] --START--
+[ 2012-05-11T21:56:40+08:00 ] /SiaWeb/admin.php/User | INFO: Run LocationTemplate Behavior [ RunTime:0.000369s ]
+[ 2012-05-11T21:56:40+08:00 ] /SiaWeb/admin.php/User | INFO: Tag[ view_template ] --END-- [ RunTime:0.000452s ]
+[ 2012-05-11T21:56:40+08:00 ] /SiaWeb/admin.php/User | INFO: Tag[ view_parse ] --START--
+[ 2012-05-11T21:56:40+08:00 ] /SiaWeb/admin.php/User | INFO: Run ParseTemplate Behavior [ RunTime:0.006365s ]
+[ 2012-05-11T21:56:40+08:00 ] /SiaWeb/admin.php/User | INFO: Tag[ view_parse ] --END-- [ RunTime:0.006493s ]
+[ 2012-05-11T21:56:40+08:00 ] /SiaWeb/admin.php/User | INFO: Tag[ view_filter ] --START--
+[ 2012-05-11T21:56:40+08:00 ] /SiaWeb/admin.php/User | INFO: Run ContentReplace Behavior [ RunTime:0.000561s ]
+[ 2012-05-11T21:56:40+08:00 ] /SiaWeb/admin.php/User | INFO: Run TokenBuild Behavior [ RunTime:0.000717s ]
+[ 2012-05-11T21:56:40+08:00 ] /SiaWeb/admin.php/User | INFO: Run WriteHtmlCache Behavior [ RunTime:0.000274s ]
+[ 2012-05-11T21:56:40+08:00 ] /SiaWeb/admin.php/User | INFO: Run ShowRuntime Behavior [ RunTime:0.000513s ]
+[ 2012-05-11T21:56:40+08:00 ] /SiaWeb/admin.php/User | INFO: Tag[ view_filter ] --END-- [ RunTime:0.002362s ]
+[ 2012-05-11T21:56:40+08:00 ] /SiaWeb/admin.php/User | INFO: Tag[ view_end ] --START--
+[ 2012-05-11T21:56:40+08:00 ] /SiaWeb/admin.php/User | INFO: Run ShowPageTrace Behavior [ RunTime:0.000433s ]
+[ 2012-05-11T21:56:40+08:00 ] /SiaWeb/admin.php/User | INFO: Tag[ view_end ] --END-- [ RunTime:0.000517s ]
+[ 2012-05-11T21:57:01+08:00 ] /SiaWeb/admin.php/User/add | INFO: Tag[ route_check ] --START--
+[ 2012-05-11T21:57:01+08:00 ] /SiaWeb/admin.php/User/add | INFO: Run CheckRoute Behavior [ RunTime:0.000752s ]
+[ 2012-05-11T21:57:01+08:00 ] /SiaWeb/admin.php/User/add | INFO: Tag[ route_check ] --END-- [ RunTime:0.000866s ]
+[ 2012-05-11T21:57:01+08:00 ] /SiaWeb/admin.php/User/add | INFO: Tag[ app_begin ] --START--
+[ 2012-05-11T21:57:01+08:00 ] /SiaWeb/admin.php/User/add | INFO: Run ReadHtmlCache Behavior [ RunTime:0.000553s ]
+[ 2012-05-11T21:57:01+08:00 ] /SiaWeb/admin.php/User/add | INFO: Tag[ app_begin ] --END-- [ RunTime:0.000637s ]
+[ 2012-05-11T21:57:01+08:00 ] /SiaWeb/admin.php/User/add | SQL: SHOW COLUMNS FROM `think_user` [ RunTime:0.004231s ]
+[ 2012-05-11T21:57:01+08:00 ] /SiaWeb/admin.php/User/add | SQL: INSERT INTO `think_user` (`username`,`password`,`createtime`,`ip`) VALUES ('','','','') [ RunTime:0.000241s ]
+[ 2012-05-11T21:57:01+08:00 ] /SiaWeb/admin.php/User/add | INFO: Tag[ view_template ] --START--
+[ 2012-05-11T21:57:01+08:00 ] /SiaWeb/admin.php/User/add | INFO: Run LocationTemplate Behavior [ RunTime:0.000483s ]
+[ 2012-05-11T21:57:01+08:00 ] /SiaWeb/admin.php/User/add | INFO: Tag[ view_template ] --END-- [ RunTime:0.000571s ]
+[ 2012-05-11T21:57:01+08:00 ] /SiaWeb/admin.php/User/add | INFO: Tag[ view_parse ] --START--
+[ 2012-05-11T21:57:01+08:00 ] /SiaWeb/admin.php/User/add | INFO: Run ParseTemplate Behavior [ RunTime:0.008269s ]
+[ 2012-05-11T21:57:01+08:00 ] /SiaWeb/admin.php/User/add | INFO: Tag[ view_parse ] --END-- [ RunTime:0.008375s ]
+[ 2012-05-11T21:57:01+08:00 ] /SiaWeb/admin.php/User/add | INFO: Tag[ view_filter ] --START--
+[ 2012-05-11T21:57:01+08:00 ] /SiaWeb/admin.php/User/add | INFO: Run ContentReplace Behavior [ RunTime:0.000399s ]
+[ 2012-05-11T21:57:01+08:00 ] /SiaWeb/admin.php/User/add | INFO: Run TokenBuild Behavior [ RunTime:0.000761s ]
+[ 2012-05-11T21:57:01+08:00 ] /SiaWeb/admin.php/User/add | INFO: Run WriteHtmlCache Behavior [ RunTime:0.000401s ]
+[ 2012-05-11T21:57:01+08:00 ] /SiaWeb/admin.php/User/add | INFO: Run ShowRuntime Behavior [ RunTime:0.000772s ]
+[ 2012-05-11T21:57:01+08:00 ] /SiaWeb/admin.php/User/add | INFO: Tag[ view_filter ] --END-- [ RunTime:0.002733s ]
+[ 2012-05-11T21:57:01+08:00 ] /SiaWeb/admin.php/User/add | INFO: Tag[ view_end ] --START--
+[ 2012-05-11T21:57:01+08:00 ] /SiaWeb/admin.php/User/add | INFO: Run ShowPageTrace Behavior [ RunTime:0.000669s ]
+[ 2012-05-11T21:57:01+08:00 ] /SiaWeb/admin.php/User/add | INFO: Tag[ view_end ] --END-- [ RunTime:0.000773s ]
+[ 2012-05-11T21:57:02+08:00 ] /SiaWeb/admin.php/User | INFO: Tag[ route_check ] --START--
+[ 2012-05-11T21:57:02+08:00 ] /SiaWeb/admin.php/User | INFO: Run CheckRoute Behavior [ RunTime:0.000741s ]
+[ 2012-05-11T21:57:02+08:00 ] /SiaWeb/admin.php/User | INFO: Tag[ route_check ] --END-- [ RunTime:0.000855s ]
+[ 2012-05-11T21:57:02+08:00 ] /SiaWeb/admin.php/User | INFO: Tag[ app_begin ] --START--
+[ 2012-05-11T21:57:02+08:00 ] /SiaWeb/admin.php/User | INFO: Run ReadHtmlCache Behavior [ RunTime:0.000552s ]
+[ 2012-05-11T21:57:02+08:00 ] /SiaWeb/admin.php/User | INFO: Tag[ app_begin ] --END-- [ RunTime:0.000635s ]
+[ 2012-05-11T21:57:02+08:00 ] /SiaWeb/admin.php/User | INFO: Tag[ view_template ] --START--
+[ 2012-05-11T21:57:02+08:00 ] /SiaWeb/admin.php/User | INFO: Run LocationTemplate Behavior [ RunTime:0.000368s ]
+[ 2012-05-11T21:57:02+08:00 ] /SiaWeb/admin.php/User | INFO: Tag[ view_template ] --END-- [ RunTime:0.000452s ]
+[ 2012-05-11T21:57:02+08:00 ] /SiaWeb/admin.php/User | INFO: Tag[ view_parse ] --START--
+[ 2012-05-11T21:57:02+08:00 ] /SiaWeb/admin.php/User | INFO: Run ParseTemplate Behavior [ RunTime:0.006315s ]
+[ 2012-05-11T21:57:02+08:00 ] /SiaWeb/admin.php/User | INFO: Tag[ view_parse ] --END-- [ RunTime:0.006414s ]
+[ 2012-05-11T21:57:02+08:00 ] /SiaWeb/admin.php/User | INFO: Tag[ view_filter ] --START--
+[ 2012-05-11T21:57:02+08:00 ] /SiaWeb/admin.php/User | INFO: Run ContentReplace Behavior [ RunTime:0.000374s ]
+[ 2012-05-11T21:57:02+08:00 ] /SiaWeb/admin.php/User | INFO: Run TokenBuild Behavior [ RunTime:0.000467s ]
+[ 2012-05-11T21:57:02+08:00 ] /SiaWeb/admin.php/User | INFO: Run WriteHtmlCache Behavior [ RunTime:0.000242s ]
+[ 2012-05-11T21:57:02+08:00 ] /SiaWeb/admin.php/User | INFO: Run ShowRuntime Behavior [ RunTime:0.000508s ]
+[ 2012-05-11T21:57:02+08:00 ] /SiaWeb/admin.php/User | INFO: Tag[ view_filter ] --END-- [ RunTime:0.001808s ]
+[ 2012-05-11T21:57:02+08:00 ] /SiaWeb/admin.php/User | INFO: Tag[ view_end ] --START--
+[ 2012-05-11T21:57:02+08:00 ] /SiaWeb/admin.php/User | INFO: Run ShowPageTrace Behavior [ RunTime:0.000416s ]
+[ 2012-05-11T21:57:02+08:00 ] /SiaWeb/admin.php/User | INFO: Tag[ view_end ] --END-- [ RunTime:0.000492s ]
+[ 2012-05-11T22:02:27+08:00 ] /SiaWeb/admin.php/User | INFO: Tag[ route_check ] --START--
+[ 2012-05-11T22:02:27+08:00 ] /SiaWeb/admin.php/User | INFO: Run CheckRoute Behavior [ RunTime:0.001429s ]
+[ 2012-05-11T22:02:27+08:00 ] /SiaWeb/admin.php/User | INFO: Tag[ route_check ] --END-- [ RunTime:0.001703s ]
+[ 2012-05-11T22:02:27+08:00 ] /SiaWeb/admin.php/User | INFO: Tag[ app_begin ] --START--
+[ 2012-05-11T22:02:27+08:00 ] /SiaWeb/admin.php/User | INFO: Run ReadHtmlCache Behavior [ RunTime:0.001000s ]
+[ 2012-05-11T22:02:27+08:00 ] /SiaWeb/admin.php/User | INFO: Tag[ app_begin ] --END-- [ RunTime:0.001133s ]
+[ 2012-05-11T22:02:27+08:00 ] /SiaWeb/admin.php/User | INFO: Tag[ view_template ] --START--
+[ 2012-05-11T22:02:27+08:00 ] /SiaWeb/admin.php/User | INFO: Run LocationTemplate Behavior [ RunTime:0.000899s ]
+[ 2012-05-11T22:02:27+08:00 ] /SiaWeb/admin.php/User | INFO: Tag[ view_template ] --END-- [ RunTime:0.001028s ]
+[ 2012-05-11T22:02:27+08:00 ] /SiaWeb/admin.php/User | INFO: Tag[ view_parse ] --START--
+[ 2012-05-11T22:02:27+08:00 ] /SiaWeb/admin.php/User | INFO: Run ParseTemplate Behavior [ RunTime:0.008756s ]
+[ 2012-05-11T22:02:27+08:00 ] /SiaWeb/admin.php/User | INFO: Tag[ view_parse ] --END-- [ RunTime:0.008872s ]
+[ 2012-05-11T22:02:27+08:00 ] /SiaWeb/admin.php/User | INFO: Tag[ view_filter ] --START--
+[ 2012-05-11T22:02:27+08:00 ] /SiaWeb/admin.php/User | INFO: Run ContentReplace Behavior [ RunTime:0.000538s ]
+[ 2012-05-11T22:02:27+08:00 ] /SiaWeb/admin.php/User | INFO: Run TokenBuild Behavior [ RunTime:0.000797s ]
+[ 2012-05-11T22:02:27+08:00 ] /SiaWeb/admin.php/User | INFO: Run WriteHtmlCache Behavior [ RunTime:0.000438s ]
+[ 2012-05-11T22:02:27+08:00 ] /SiaWeb/admin.php/User | INFO: Run ShowRuntime Behavior [ RunTime:0.000937s ]
+[ 2012-05-11T22:02:27+08:00 ] /SiaWeb/admin.php/User | INFO: Tag[ view_filter ] --END-- [ RunTime:0.003040s ]
+[ 2012-05-11T22:02:27+08:00 ] /SiaWeb/admin.php/User | INFO: Tag[ view_end ] --START--
+[ 2012-05-11T22:02:27+08:00 ] /SiaWeb/admin.php/User | INFO: Run ShowPageTrace Behavior [ RunTime:0.000849s ]
+[ 2012-05-11T22:02:27+08:00 ] /SiaWeb/admin.php/User | INFO: Tag[ view_end ] --END-- [ RunTime:0.000962s ]
+[ 2012-05-11T22:02:29+08:00 ] /SiaWeb/admin.php/User/add | INFO: Tag[ route_check ] --START--
+[ 2012-05-11T22:02:29+08:00 ] /SiaWeb/admin.php/User/add | INFO: Run CheckRoute Behavior [ RunTime:0.000749s ]
+[ 2012-05-11T22:02:29+08:00 ] /SiaWeb/admin.php/User/add | INFO: Tag[ route_check ] --END-- [ RunTime:0.000863s ]
+[ 2012-05-11T22:02:29+08:00 ] /SiaWeb/admin.php/User/add | INFO: Tag[ app_begin ] --START--
+[ 2012-05-11T22:02:29+08:00 ] /SiaWeb/admin.php/User/add | INFO: Run ReadHtmlCache Behavior [ RunTime:0.000551s ]
+[ 2012-05-11T22:02:29+08:00 ] /SiaWeb/admin.php/User/add | INFO: Tag[ app_begin ] --END-- [ RunTime:0.000634s ]
+[ 2012-05-11T22:02:29+08:00 ] /SiaWeb/admin.php/User/add | SQL: SHOW COLUMNS FROM `think_user` [ RunTime:0.003202s ]
+[ 2012-05-11T22:02:29+08:00 ] /SiaWeb/admin.php/User/add | SQL: INSERT INTO `think_user` (`username`,`password`,`createtime`,`ip`) VALUES ('','','','') [ RunTime:0.000230s ]
+[ 2012-05-11T22:02:29+08:00 ] /SiaWeb/admin.php/User/add | INFO: Tag[ view_template ] --START--
+[ 2012-05-11T22:02:29+08:00 ] /SiaWeb/admin.php/User/add | INFO: Run LocationTemplate Behavior [ RunTime:0.000607s ]
+[ 2012-05-11T22:02:29+08:00 ] /SiaWeb/admin.php/User/add | INFO: Tag[ view_template ] --END-- [ RunTime:0.000701s ]
+[ 2012-05-11T22:02:29+08:00 ] /SiaWeb/admin.php/User/add | INFO: Tag[ view_parse ] --START--
+[ 2012-05-11T22:02:29+08:00 ] /SiaWeb/admin.php/User/add | INFO: Run ParseTemplate Behavior [ RunTime:0.009201s ]
+[ 2012-05-11T22:02:29+08:00 ] /SiaWeb/admin.php/User/add | INFO: Tag[ view_parse ] --END-- [ RunTime:0.009351s ]
+[ 2012-05-11T22:02:29+08:00 ] /SiaWeb/admin.php/User/add | INFO: Tag[ view_filter ] --START--
+[ 2012-05-11T22:02:29+08:00 ] /SiaWeb/admin.php/User/add | INFO: Run ContentReplace Behavior [ RunTime:0.000558s ]
+[ 2012-05-11T22:02:29+08:00 ] /SiaWeb/admin.php/User/add | INFO: Run TokenBuild Behavior [ RunTime:0.000634s ]
+[ 2012-05-11T22:02:29+08:00 ] /SiaWeb/admin.php/User/add | INFO: Run WriteHtmlCache Behavior [ RunTime:0.000363s ]
+[ 2012-05-11T22:02:29+08:00 ] /SiaWeb/admin.php/User/add | INFO: Run ShowRuntime Behavior [ RunTime:0.000770s ]
+[ 2012-05-11T22:02:29+08:00 ] /SiaWeb/admin.php/User/add | INFO: Tag[ view_filter ] --END-- [ RunTime:0.002711s ]
+[ 2012-05-11T22:02:29+08:00 ] /SiaWeb/admin.php/User/add | INFO: Tag[ view_end ] --START--
+[ 2012-05-11T22:02:29+08:00 ] /SiaWeb/admin.php/User/add | INFO: Run ShowPageTrace Behavior [ RunTime:0.000651s ]
+[ 2012-05-11T22:02:29+08:00 ] /SiaWeb/admin.php/User/add | INFO: Tag[ view_end ] --END-- [ RunTime:0.000785s ]
+[ 2012-05-11T22:02:30+08:00 ] /SiaWeb/admin.php/User | INFO: Tag[ route_check ] --START--
+[ 2012-05-11T22:02:30+08:00 ] /SiaWeb/admin.php/User | INFO: Run CheckRoute Behavior [ RunTime:0.000848s ]
+[ 2012-05-11T22:02:30+08:00 ] /SiaWeb/admin.php/User | INFO: Tag[ route_check ] --END-- [ RunTime:0.000968s ]
+[ 2012-05-11T22:02:30+08:00 ] /SiaWeb/admin.php/User | INFO: Tag[ app_begin ] --START--
+[ 2012-05-11T22:02:30+08:00 ] /SiaWeb/admin.php/User | INFO: Run ReadHtmlCache Behavior [ RunTime:0.000579s ]
+[ 2012-05-11T22:02:30+08:00 ] /SiaWeb/admin.php/User | INFO: Tag[ app_begin ] --END-- [ RunTime:0.000662s ]
+[ 2012-05-11T22:02:30+08:00 ] /SiaWeb/admin.php/User | INFO: Tag[ view_template ] --START--
+[ 2012-05-11T22:02:30+08:00 ] /SiaWeb/admin.php/User | INFO: Run LocationTemplate Behavior [ RunTime:0.000510s ]
+[ 2012-05-11T22:02:30+08:00 ] /SiaWeb/admin.php/User | INFO: Tag[ view_template ] --END-- [ RunTime:0.000682s ]
+[ 2012-05-11T22:02:30+08:00 ] /SiaWeb/admin.php/User | INFO: Tag[ view_parse ] --START--
+[ 2012-05-11T22:02:30+08:00 ] /SiaWeb/admin.php/User | INFO: Run ParseTemplate Behavior [ RunTime:0.007014s ]
+[ 2012-05-11T22:02:30+08:00 ] /SiaWeb/admin.php/User | INFO: Tag[ view_parse ] --END-- [ RunTime:0.007115s ]
+[ 2012-05-11T22:02:30+08:00 ] /SiaWeb/admin.php/User | INFO: Tag[ view_filter ] --START--
+[ 2012-05-11T22:02:30+08:00 ] /SiaWeb/admin.php/User | INFO: Run ContentReplace Behavior [ RunTime:0.000390s ]
+[ 2012-05-11T22:02:30+08:00 ] /SiaWeb/admin.php/User | INFO: Run TokenBuild Behavior [ RunTime:0.000483s ]
+[ 2012-05-11T22:02:30+08:00 ] /SiaWeb/admin.php/User | INFO: Run WriteHtmlCache Behavior [ RunTime:0.000243s ]
+[ 2012-05-11T22:02:30+08:00 ] /SiaWeb/admin.php/User | INFO: Run ShowRuntime Behavior [ RunTime:0.000526s ]
+[ 2012-05-11T22:02:30+08:00 ] /SiaWeb/admin.php/User | INFO: Tag[ view_filter ] --END-- [ RunTime:0.001861s ]
+[ 2012-05-11T22:02:30+08:00 ] /SiaWeb/admin.php/User | INFO: Tag[ view_end ] --START--
+[ 2012-05-11T22:02:30+08:00 ] /SiaWeb/admin.php/User | INFO: Run ShowPageTrace Behavior [ RunTime:0.000437s ]
+[ 2012-05-11T22:02:30+08:00 ] /SiaWeb/admin.php/User | INFO: Tag[ view_end ] --END-- [ RunTime:0.000515s ]
+[ 2012-05-11T22:02:33+08:00 ] /SiaWeb/admin.php/User/add | INFO: Tag[ route_check ] --START--
+[ 2012-05-11T22:02:33+08:00 ] /SiaWeb/admin.php/User/add | INFO: Run CheckRoute Behavior [ RunTime:0.000776s ]
+[ 2012-05-11T22:02:33+08:00 ] /SiaWeb/admin.php/User/add | INFO: Tag[ route_check ] --END-- [ RunTime:0.000891s ]
+[ 2012-05-11T22:02:33+08:00 ] /SiaWeb/admin.php/User/add | INFO: Tag[ app_begin ] --START--
+[ 2012-05-11T22:02:33+08:00 ] /SiaWeb/admin.php/User/add | INFO: Run ReadHtmlCache Behavior [ RunTime:0.000569s ]
+[ 2012-05-11T22:02:33+08:00 ] /SiaWeb/admin.php/User/add | INFO: Tag[ app_begin ] --END-- [ RunTime:0.000651s ]
+[ 2012-05-11T22:02:33+08:00 ] /SiaWeb/admin.php/User/add | SQL: SHOW COLUMNS FROM `think_user` [ RunTime:0.003922s ]
+[ 2012-05-11T22:02:33+08:00 ] /SiaWeb/admin.php/User/add | SQL: INSERT INTO `think_user` (`username`,`password`,`createtime`,`ip`) VALUES ('zzz','zzz','','') [ RunTime:0.000275s ]
+[ 2012-05-11T22:02:33+08:00 ] /SiaWeb/admin.php/User/add | INFO: Tag[ view_template ] --START--
+[ 2012-05-11T22:02:33+08:00 ] /SiaWeb/admin.php/User/add | INFO: Run LocationTemplate Behavior [ RunTime:0.000788s ]
+[ 2012-05-11T22:02:33+08:00 ] /SiaWeb/admin.php/User/add | INFO: Tag[ view_template ] --END-- [ RunTime:0.000937s ]
+[ 2012-05-11T22:02:33+08:00 ] /SiaWeb/admin.php/User/add | INFO: Tag[ view_parse ] --START--
+[ 2012-05-11T22:02:33+08:00 ] /SiaWeb/admin.php/User/add | INFO: Run ParseTemplate Behavior [ RunTime:0.008279s ]
+[ 2012-05-11T22:02:33+08:00 ] /SiaWeb/admin.php/User/add | INFO: Tag[ view_parse ] --END-- [ RunTime:0.008403s ]
+[ 2012-05-11T22:02:33+08:00 ] /SiaWeb/admin.php/User/add | INFO: Tag[ view_filter ] --START--
+[ 2012-05-11T22:02:33+08:00 ] /SiaWeb/admin.php/User/add | INFO: Run ContentReplace Behavior [ RunTime:0.000371s ]
+[ 2012-05-11T22:02:33+08:00 ] /SiaWeb/admin.php/User/add | INFO: Run TokenBuild Behavior [ RunTime:0.000406s ]
+[ 2012-05-11T22:02:33+08:00 ] /SiaWeb/admin.php/User/add | INFO: Run WriteHtmlCache Behavior [ RunTime:0.000261s ]
+[ 2012-05-11T22:02:33+08:00 ] /SiaWeb/admin.php/User/add | INFO: Run ShowRuntime Behavior [ RunTime:0.000502s ]
+[ 2012-05-11T22:02:33+08:00 ] /SiaWeb/admin.php/User/add | INFO: Tag[ view_filter ] --END-- [ RunTime:0.001767s ]
+[ 2012-05-11T22:02:33+08:00 ] /SiaWeb/admin.php/User/add | INFO: Tag[ view_end ] --START--
+[ 2012-05-11T22:02:33+08:00 ] /SiaWeb/admin.php/User/add | INFO: Run ShowPageTrace Behavior [ RunTime:0.000427s ]
+[ 2012-05-11T22:02:33+08:00 ] /SiaWeb/admin.php/User/add | INFO: Tag[ view_end ] --END-- [ RunTime:0.000506s ]
+[ 2012-05-11T22:02:34+08:00 ] /SiaWeb/admin.php/User | INFO: Tag[ route_check ] --START--
+[ 2012-05-11T22:02:34+08:00 ] /SiaWeb/admin.php/User | INFO: Run CheckRoute Behavior [ RunTime:0.000751s ]
+[ 2012-05-11T22:02:34+08:00 ] /SiaWeb/admin.php/User | INFO: Tag[ route_check ] --END-- [ RunTime:0.000864s ]
+[ 2012-05-11T22:02:34+08:00 ] /SiaWeb/admin.php/User | INFO: Tag[ app_begin ] --START--
+[ 2012-05-11T22:02:34+08:00 ] /SiaWeb/admin.php/User | INFO: Run ReadHtmlCache Behavior [ RunTime:0.000547s ]
+[ 2012-05-11T22:02:34+08:00 ] /SiaWeb/admin.php/User | INFO: Tag[ app_begin ] --END-- [ RunTime:0.000641s ]
+[ 2012-05-11T22:02:34+08:00 ] /SiaWeb/admin.php/User | INFO: Tag[ view_template ] --START--
+[ 2012-05-11T22:02:34+08:00 ] /SiaWeb/admin.php/User | INFO: Run LocationTemplate Behavior [ RunTime:0.000383s ]
+[ 2012-05-11T22:02:34+08:00 ] /SiaWeb/admin.php/User | INFO: Tag[ view_template ] --END-- [ RunTime:0.000466s ]
+[ 2012-05-11T22:02:34+08:00 ] /SiaWeb/admin.php/User | INFO: Tag[ view_parse ] --START--
+[ 2012-05-11T22:02:34+08:00 ] /SiaWeb/admin.php/User | INFO: Run ParseTemplate Behavior [ RunTime:0.008149s ]
+[ 2012-05-11T22:02:34+08:00 ] /SiaWeb/admin.php/User | INFO: Tag[ view_parse ] --END-- [ RunTime:0.008275s ]
+[ 2012-05-11T22:02:34+08:00 ] /SiaWeb/admin.php/User | INFO: Tag[ view_filter ] --START--
+[ 2012-05-11T22:02:34+08:00 ] /SiaWeb/admin.php/User | INFO: Run ContentReplace Behavior [ RunTime:0.000538s ]
+[ 2012-05-11T22:02:34+08:00 ] /SiaWeb/admin.php/User | INFO: Run TokenBuild Behavior [ RunTime:0.000724s ]
+[ 2012-05-11T22:02:34+08:00 ] /SiaWeb/admin.php/User | INFO: Run WriteHtmlCache Behavior [ RunTime:0.000356s ]
+[ 2012-05-11T22:02:34+08:00 ] /SiaWeb/admin.php/User | INFO: Run ShowRuntime Behavior [ RunTime:0.000776s ]
+[ 2012-05-11T22:02:34+08:00 ] /SiaWeb/admin.php/User | INFO: Tag[ view_filter ] --END-- [ RunTime:0.002744s ]
+[ 2012-05-11T22:02:34+08:00 ] /SiaWeb/admin.php/User | INFO: Tag[ view_end ] --START--
+[ 2012-05-11T22:02:34+08:00 ] /SiaWeb/admin.php/User | INFO: Run ShowPageTrace Behavior [ RunTime:0.000465s ]
+[ 2012-05-11T22:02:34+08:00 ] /SiaWeb/admin.php/User | INFO: Tag[ view_end ] --END-- [ RunTime:0.000542s ]
+[ 2012-05-11T22:04:41+08:00 ] /SiaWeb/admin.php/User | INFO: Tag[ route_check ] --START--
+[ 2012-05-11T22:04:41+08:00 ] /SiaWeb/admin.php/User | INFO: Run CheckRoute Behavior [ RunTime:0.001067s ]
+[ 2012-05-11T22:04:41+08:00 ] /SiaWeb/admin.php/User | INFO: Tag[ route_check ] --END-- [ RunTime:0.001197s ]
+[ 2012-05-11T22:04:41+08:00 ] /SiaWeb/admin.php/User | INFO: Tag[ app_begin ] --START--
+[ 2012-05-11T22:04:41+08:00 ] /SiaWeb/admin.php/User | INFO: Run ReadHtmlCache Behavior [ RunTime:0.000744s ]
+[ 2012-05-11T22:04:41+08:00 ] /SiaWeb/admin.php/User | INFO: Tag[ app_begin ] --END-- [ RunTime:0.000824s ]
+[ 2012-05-11T22:04:41+08:00 ] /SiaWeb/admin.php/User | INFO: Tag[ view_template ] --START--
+[ 2012-05-11T22:04:41+08:00 ] /SiaWeb/admin.php/User | INFO: Run LocationTemplate Behavior [ RunTime:0.001204s ]
+[ 2012-05-11T22:04:41+08:00 ] /SiaWeb/admin.php/User | INFO: Tag[ view_template ] --END-- [ RunTime:0.001343s ]
+[ 2012-05-11T22:04:41+08:00 ] /SiaWeb/admin.php/User | INFO: Tag[ view_parse ] --START--
+[ 2012-05-11T22:04:41+08:00 ] /SiaWeb/admin.php/User | INFO: Run ParseTemplate Behavior [ RunTime:0.017245s ]
+[ 2012-05-11T22:04:41+08:00 ] /SiaWeb/admin.php/User | INFO: Tag[ view_parse ] --END-- [ RunTime:0.017443s ]
+[ 2012-05-11T22:04:41+08:00 ] /SiaWeb/admin.php/User | INFO: Tag[ view_filter ] --START--
+[ 2012-05-11T22:04:41+08:00 ] /SiaWeb/admin.php/User | INFO: Run ContentReplace Behavior [ RunTime:0.000829s ]
+[ 2012-05-11T22:04:41+08:00 ] /SiaWeb/admin.php/User | INFO: Run TokenBuild Behavior [ RunTime:0.000957s ]
+[ 2012-05-11T22:04:41+08:00 ] /SiaWeb/admin.php/User | INFO: Run WriteHtmlCache Behavior [ RunTime:0.000550s ]
+[ 2012-05-11T22:04:41+08:00 ] /SiaWeb/admin.php/User | INFO: Run ShowRuntime Behavior [ RunTime:0.000992s ]
+[ 2012-05-11T22:04:41+08:00 ] /SiaWeb/admin.php/User | INFO: Tag[ view_filter ] --END-- [ RunTime:0.003705s ]
+[ 2012-05-11T22:04:41+08:00 ] /SiaWeb/admin.php/User | INFO: Tag[ view_end ] --START--
+[ 2012-05-11T22:04:41+08:00 ] /SiaWeb/admin.php/User | INFO: Run ShowPageTrace Behavior [ RunTime:0.000757s ]
+[ 2012-05-11T22:04:41+08:00 ] /SiaWeb/admin.php/User | INFO: Tag[ view_end ] --END-- [ RunTime:0.000909s ]
+[ 2012-05-11T22:04:44+08:00 ] /SiaWeb/admin.php/User/add | INFO: Tag[ route_check ] --START--
+[ 2012-05-11T22:04:44+08:00 ] /SiaWeb/admin.php/User/add | INFO: Run CheckRoute Behavior [ RunTime:0.000927s ]
+[ 2012-05-11T22:04:44+08:00 ] /SiaWeb/admin.php/User/add | INFO: Tag[ route_check ] --END-- [ RunTime:0.001046s ]
+[ 2012-05-11T22:04:44+08:00 ] /SiaWeb/admin.php/User/add | INFO: Tag[ app_begin ] --START--
+[ 2012-05-11T22:04:44+08:00 ] /SiaWeb/admin.php/User/add | INFO: Run ReadHtmlCache Behavior [ RunTime:0.000735s ]
+[ 2012-05-11T22:04:44+08:00 ] /SiaWeb/admin.php/User/add | INFO: Tag[ app_begin ] --END-- [ RunTime:0.000819s ]
+[ 2012-05-11T22:04:52+08:00 ] /SiaWeb/admin.php/User/add | INFO: Tag[ route_check ] --START--
+[ 2012-05-11T22:04:52+08:00 ] /SiaWeb/admin.php/User/add | INFO: Run CheckRoute Behavior [ RunTime:0.000968s ]
+[ 2012-05-11T22:04:52+08:00 ] /SiaWeb/admin.php/User/add | INFO: Tag[ route_check ] --END-- [ RunTime:0.001112s ]
+[ 2012-05-11T22:04:52+08:00 ] /SiaWeb/admin.php/User/add | INFO: Tag[ app_begin ] --START--
+[ 2012-05-11T22:04:52+08:00 ] /SiaWeb/admin.php/User/add | INFO: Run ReadHtmlCache Behavior [ RunTime:0.000614s ]
+[ 2012-05-11T22:04:52+08:00 ] /SiaWeb/admin.php/User/add | INFO: Tag[ app_begin ] --END-- [ RunTime:0.000706s ]
+[ 2012-05-11T22:05:07+08:00 ] /SiaWeb/admin.php/User/add | INFO: Tag[ route_check ] --START--
+[ 2012-05-11T22:05:07+08:00 ] /SiaWeb/admin.php/User/add | INFO: Run CheckRoute Behavior [ RunTime:0.000897s ]
+[ 2012-05-11T22:05:07+08:00 ] /SiaWeb/admin.php/User/add | INFO: Tag[ route_check ] --END-- [ RunTime:0.001016s ]
+[ 2012-05-11T22:05:07+08:00 ] /SiaWeb/admin.php/User/add | INFO: Tag[ app_begin ] --START--
+[ 2012-05-11T22:05:07+08:00 ] /SiaWeb/admin.php/User/add | INFO: Run ReadHtmlCache Behavior [ RunTime:0.000684s ]
+[ 2012-05-11T22:05:07+08:00 ] /SiaWeb/admin.php/User/add | INFO: Tag[ app_begin ] --END-- [ RunTime:0.000764s ]
+[ 2012-05-11T22:13:42+08:00 ] /SiaWeb/admin.php/User | INFO: Tag[ route_check ] --START--
+[ 2012-05-11T22:13:42+08:00 ] /SiaWeb/admin.php/User | INFO: Run CheckRoute Behavior [ RunTime:0.001019s ]
+[ 2012-05-11T22:13:42+08:00 ] /SiaWeb/admin.php/User | INFO: Tag[ route_check ] --END-- [ RunTime:0.001151s ]
+[ 2012-05-11T22:13:42+08:00 ] /SiaWeb/admin.php/User | INFO: Tag[ app_begin ] --START--
+[ 2012-05-11T22:13:42+08:00 ] /SiaWeb/admin.php/User | INFO: Run ReadHtmlCache Behavior [ RunTime:0.000644s ]
+[ 2012-05-11T22:13:42+08:00 ] /SiaWeb/admin.php/User | INFO: Tag[ app_begin ] --END-- [ RunTime:0.000727s ]
+[ 2012-05-11T22:13:42+08:00 ] /SiaWeb/admin.php/User | INFO: Tag[ view_template ] --START--
+[ 2012-05-11T22:13:42+08:00 ] /SiaWeb/admin.php/User | INFO: Run LocationTemplate Behavior [ RunTime:0.000782s ]
+[ 2012-05-11T22:13:42+08:00 ] /SiaWeb/admin.php/User | INFO: Tag[ view_template ] --END-- [ RunTime:0.000872s ]
+[ 2012-05-11T22:13:42+08:00 ] /SiaWeb/admin.php/User | INFO: Tag[ view_parse ] --START--
+[ 2012-05-11T22:13:42+08:00 ] /SiaWeb/admin.php/User | INFO: Run ParseTemplate Behavior [ RunTime:0.015427s ]
+[ 2012-05-11T22:13:42+08:00 ] /SiaWeb/admin.php/User | INFO: Tag[ view_parse ] --END-- [ RunTime:0.015532s ]
+[ 2012-05-11T22:13:42+08:00 ] /SiaWeb/admin.php/User | INFO: Tag[ view_filter ] --START--
+[ 2012-05-11T22:13:42+08:00 ] /SiaWeb/admin.php/User | INFO: Run ContentReplace Behavior [ RunTime:0.000545s ]
+[ 2012-05-11T22:13:42+08:00 ] /SiaWeb/admin.php/User | INFO: Run TokenBuild Behavior [ RunTime:0.000825s ]
+[ 2012-05-11T22:13:42+08:00 ] /SiaWeb/admin.php/User | INFO: Run WriteHtmlCache Behavior [ RunTime:0.000557s ]
+[ 2012-05-11T22:13:42+08:00 ] /SiaWeb/admin.php/User | INFO: Run ShowRuntime Behavior [ RunTime:0.000988s ]
+[ 2012-05-11T22:13:42+08:00 ] /SiaWeb/admin.php/User | INFO: Tag[ view_filter ] --END-- [ RunTime:0.003265s ]
+[ 2012-05-11T22:13:42+08:00 ] /SiaWeb/admin.php/User | INFO: Tag[ view_end ] --START--
+[ 2012-05-11T22:13:42+08:00 ] /SiaWeb/admin.php/User | INFO: Run ShowPageTrace Behavior [ RunTime:0.000747s ]
+[ 2012-05-11T22:13:42+08:00 ] /SiaWeb/admin.php/User | INFO: Tag[ view_end ] --END-- [ RunTime:0.000874s ]
+[ 2012-05-11T22:13:44+08:00 ] /SiaWeb/admin.php/User/add | INFO: Tag[ route_check ] --START--
+[ 2012-05-11T22:13:44+08:00 ] /SiaWeb/admin.php/User/add | INFO: Run CheckRoute Behavior [ RunTime:0.000754s ]
+[ 2012-05-11T22:13:44+08:00 ] /SiaWeb/admin.php/User/add | INFO: Tag[ route_check ] --END-- [ RunTime:0.000868s ]
+[ 2012-05-11T22:13:44+08:00 ] /SiaWeb/admin.php/User/add | INFO: Tag[ app_begin ] --START--
+[ 2012-05-11T22:13:44+08:00 ] /SiaWeb/admin.php/User/add | INFO: Run ReadHtmlCache Behavior [ RunTime:0.000549s ]
+[ 2012-05-11T22:13:44+08:00 ] /SiaWeb/admin.php/User/add | INFO: Tag[ app_begin ] --END-- [ RunTime:0.000632s ]
+[ 2012-05-11T22:15:30+08:00 ] /SiaWeb/admin.php/User/add | INFO: Tag[ route_check ] --START--
+[ 2012-05-11T22:15:30+08:00 ] /SiaWeb/admin.php/User/add | INFO: Run CheckRoute Behavior [ RunTime:0.001497s ]
+[ 2012-05-11T22:15:30+08:00 ] /SiaWeb/admin.php/User/add | INFO: Tag[ route_check ] --END-- [ RunTime:0.001683s ]
+[ 2012-05-11T22:15:30+08:00 ] /SiaWeb/admin.php/User/add | INFO: Tag[ app_begin ] --START--
+[ 2012-05-11T22:15:30+08:00 ] /SiaWeb/admin.php/User/add | INFO: Run ReadHtmlCache Behavior [ RunTime:0.000991s ]
+[ 2012-05-11T22:15:30+08:00 ] /SiaWeb/admin.php/User/add | INFO: Tag[ app_begin ] --END-- [ RunTime:0.001107s ]
+[ 2012-05-11T22:15:30+08:00 ] /SiaWeb/admin.php/User/add | SQL: SHOW COLUMNS FROM `think_user` [ RunTime:0.003535s ]
+[ 2012-05-11T22:15:30+08:00 ] /SiaWeb/admin.php/User/add | SQL: INSERT INTO `think_user` (`username`,`password`,`createtime`,`ip`) VALUES ('','','','') [ RunTime:0.000301s ]
+[ 2012-05-11T22:15:30+08:00 ] /SiaWeb/admin.php/User/add | INFO: Tag[ view_template ] --START--
+[ 2012-05-11T22:15:30+08:00 ] /SiaWeb/admin.php/User/add | INFO: Run LocationTemplate Behavior [ RunTime:0.000826s ]
+[ 2012-05-11T22:15:30+08:00 ] /SiaWeb/admin.php/User/add | INFO: Tag[ view_template ] --END-- [ RunTime:0.000920s ]
+[ 2012-05-11T22:15:30+08:00 ] /SiaWeb/admin.php/User/add | INFO: Tag[ view_parse ] --START--
+[ 2012-05-11T22:15:30+08:00 ] /SiaWeb/admin.php/User/add | INFO: Run ParseTemplate Behavior [ RunTime:0.011346s ]
+[ 2012-05-11T22:15:30+08:00 ] /SiaWeb/admin.php/User/add | INFO: Tag[ view_parse ] --END-- [ RunTime:0.011453s ]
+[ 2012-05-11T22:15:30+08:00 ] /SiaWeb/admin.php/User/add | INFO: Tag[ view_filter ] --START--
+[ 2012-05-11T22:15:30+08:00 ] /SiaWeb/admin.php/User/add | INFO: Run ContentReplace Behavior [ RunTime:0.000516s ]
+[ 2012-05-11T22:15:30+08:00 ] /SiaWeb/admin.php/User/add | INFO: Run TokenBuild Behavior [ RunTime:0.000570s ]
+[ 2012-05-11T22:15:30+08:00 ] /SiaWeb/admin.php/User/add | INFO: Run WriteHtmlCache Behavior [ RunTime:0.000367s ]
+[ 2012-05-11T22:15:30+08:00 ] /SiaWeb/admin.php/User/add | INFO: Run ShowRuntime Behavior [ RunTime:0.000950s ]
+[ 2012-05-11T22:15:30+08:00 ] /SiaWeb/admin.php/User/add | INFO: Tag[ view_filter ] --END-- [ RunTime:0.002680s ]
+[ 2012-05-11T22:15:30+08:00 ] /SiaWeb/admin.php/User/add | INFO: Tag[ view_end ] --START--
+[ 2012-05-11T22:15:30+08:00 ] /SiaWeb/admin.php/User/add | INFO: Run ShowPageTrace Behavior [ RunTime:0.000851s ]
+[ 2012-05-11T22:15:30+08:00 ] /SiaWeb/admin.php/User/add | INFO: Tag[ view_end ] --END-- [ RunTime:0.000995s ]
+[ 2012-05-11T22:15:31+08:00 ] /SiaWeb/admin.php/User | INFO: Tag[ route_check ] --START--
+[ 2012-05-11T22:15:31+08:00 ] /SiaWeb/admin.php/User | INFO: Run CheckRoute Behavior [ RunTime:0.000873s ]
+[ 2012-05-11T22:15:31+08:00 ] /SiaWeb/admin.php/User | INFO: Tag[ route_check ] --END-- [ RunTime:0.000991s ]
+[ 2012-05-11T22:15:31+08:00 ] /SiaWeb/admin.php/User | INFO: Tag[ app_begin ] --START--
+[ 2012-05-11T22:15:31+08:00 ] /SiaWeb/admin.php/User | INFO: Run ReadHtmlCache Behavior [ RunTime:0.000696s ]
+[ 2012-05-11T22:15:31+08:00 ] /SiaWeb/admin.php/User | INFO: Tag[ app_begin ] --END-- [ RunTime:0.000775s ]
+[ 2012-05-11T22:15:31+08:00 ] /SiaWeb/admin.php/User | INFO: Tag[ view_template ] --START--
+[ 2012-05-11T22:15:31+08:00 ] /SiaWeb/admin.php/User | INFO: Run LocationTemplate Behavior [ RunTime:0.000773s ]
+[ 2012-05-11T22:15:31+08:00 ] /SiaWeb/admin.php/User | INFO: Tag[ view_template ] --END-- [ RunTime:0.000860s ]
+[ 2012-05-11T22:15:31+08:00 ] /SiaWeb/admin.php/User | INFO: Tag[ view_parse ] --START--
+[ 2012-05-11T22:15:31+08:00 ] /SiaWeb/admin.php/User | INFO: Run ParseTemplate Behavior [ RunTime:0.014290s ]
+[ 2012-05-11T22:15:31+08:00 ] /SiaWeb/admin.php/User | INFO: Tag[ view_parse ] --END-- [ RunTime:0.014404s ]
+[ 2012-05-11T22:15:31+08:00 ] /SiaWeb/admin.php/User | INFO: Tag[ view_filter ] --START--
+[ 2012-05-11T22:15:31+08:00 ] /SiaWeb/admin.php/User | INFO: Run ContentReplace Behavior [ RunTime:0.000580s ]
+[ 2012-05-11T22:15:31+08:00 ] /SiaWeb/admin.php/User | INFO: Run TokenBuild Behavior [ RunTime:0.000716s ]
+[ 2012-05-11T22:15:31+08:00 ] /SiaWeb/admin.php/User | INFO: Run WriteHtmlCache Behavior [ RunTime:0.000396s ]
+[ 2012-05-11T22:15:31+08:00 ] /SiaWeb/admin.php/User | INFO: Run ShowRuntime Behavior [ RunTime:0.000674s ]
+[ 2012-05-11T22:15:31+08:00 ] /SiaWeb/admin.php/User | INFO: Tag[ view_filter ] --END-- [ RunTime:0.002619s ]
+[ 2012-05-11T22:15:31+08:00 ] /SiaWeb/admin.php/User | INFO: Tag[ view_end ] --START--
+[ 2012-05-11T22:15:31+08:00 ] /SiaWeb/admin.php/User | INFO: Run ShowPageTrace Behavior [ RunTime:0.000563s ]
+[ 2012-05-11T22:15:31+08:00 ] /SiaWeb/admin.php/User | INFO: Tag[ view_end ] --END-- [ RunTime:0.000648s ]
+[ 2012-05-11T22:16:36+08:00 ] /SiaWeb/admin.php/User/add | INFO: Tag[ route_check ] --START--
+[ 2012-05-11T22:16:36+08:00 ] /SiaWeb/admin.php/User/add | INFO: Run CheckRoute Behavior [ RunTime:0.000962s ]
+[ 2012-05-11T22:16:36+08:00 ] /SiaWeb/admin.php/User/add | INFO: Tag[ route_check ] --END-- [ RunTime:0.001117s ]
+[ 2012-05-11T22:16:36+08:00 ] /SiaWeb/admin.php/User/add | INFO: Tag[ app_begin ] --START--
+[ 2012-05-11T22:16:36+08:00 ] /SiaWeb/admin.php/User/add | INFO: Run ReadHtmlCache Behavior [ RunTime:0.000731s ]
+[ 2012-05-11T22:16:36+08:00 ] /SiaWeb/admin.php/User/add | INFO: Tag[ app_begin ] --END-- [ RunTime:0.000811s ]
+[ 2012-05-11T22:16:36+08:00 ] /SiaWeb/admin.php/User/add | SQL: SHOW COLUMNS FROM `think_user` [ RunTime:0.004401s ]
+[ 2012-05-11T22:16:36+08:00 ] /SiaWeb/admin.php/User/add | SQL: INSERT INTO `think_user` (`username`,`password`,`createtime`,`ip`) VALUES ('aasa','','','') [ RunTime:0.000215s ]
+[ 2012-05-11T22:16:36+08:00 ] /SiaWeb/admin.php/User/add | INFO: Tag[ view_template ] --START--
+[ 2012-05-11T22:16:36+08:00 ] /SiaWeb/admin.php/User/add | INFO: Run LocationTemplate Behavior [ RunTime:0.001123s ]
+[ 2012-05-11T22:16:36+08:00 ] /SiaWeb/admin.php/User/add | INFO: Tag[ view_template ] --END-- [ RunTime:0.001225s ]
+[ 2012-05-11T22:16:36+08:00 ] /SiaWeb/admin.php/User/add | INFO: Tag[ view_parse ] --START--
+[ 2012-05-11T22:16:36+08:00 ] /SiaWeb/admin.php/User/add | INFO: Run ParseTemplate Behavior [ RunTime:0.010338s ]
+[ 2012-05-11T22:16:36+08:00 ] /SiaWeb/admin.php/User/add | INFO: Tag[ view_parse ] --END-- [ RunTime:0.010448s ]
+[ 2012-05-11T22:16:36+08:00 ] /SiaWeb/admin.php/User/add | INFO: Tag[ view_filter ] --START--
+[ 2012-05-11T22:16:36+08:00 ] /SiaWeb/admin.php/User/add | INFO: Run ContentReplace Behavior [ RunTime:0.000576s ]
+[ 2012-05-11T22:16:36+08:00 ] /SiaWeb/admin.php/User/add | INFO: Run TokenBuild Behavior [ RunTime:0.000557s ]
+[ 2012-05-11T22:16:36+08:00 ] /SiaWeb/admin.php/User/add | INFO: Run WriteHtmlCache Behavior [ RunTime:0.000372s ]
+[ 2012-05-11T22:16:36+08:00 ] /SiaWeb/admin.php/User/add | INFO: Run ShowRuntime Behavior [ RunTime:0.000639s ]
+[ 2012-05-11T22:16:36+08:00 ] /SiaWeb/admin.php/User/add | INFO: Tag[ view_filter ] --END-- [ RunTime:0.002389s ]
+[ 2012-05-11T22:16:36+08:00 ] /SiaWeb/admin.php/User/add | INFO: Tag[ view_end ] --START--
+[ 2012-05-11T22:16:36+08:00 ] /SiaWeb/admin.php/User/add | INFO: Run ShowPageTrace Behavior [ RunTime:0.000482s ]
+[ 2012-05-11T22:16:36+08:00 ] /SiaWeb/admin.php/User/add | INFO: Tag[ view_end ] --END-- [ RunTime:0.000561s ]
+[ 2012-05-11T22:16:37+08:00 ] /SiaWeb/admin.php/User | INFO: Tag[ route_check ] --START--
+[ 2012-05-11T22:16:37+08:00 ] /SiaWeb/admin.php/User | INFO: Run CheckRoute Behavior [ RunTime:0.000854s ]
+[ 2012-05-11T22:16:37+08:00 ] /SiaWeb/admin.php/User | INFO: Tag[ route_check ] --END-- [ RunTime:0.000968s ]
+[ 2012-05-11T22:16:37+08:00 ] /SiaWeb/admin.php/User | INFO: Tag[ app_begin ] --START--
+[ 2012-05-11T22:16:37+08:00 ] /SiaWeb/admin.php/User | INFO: Run ReadHtmlCache Behavior [ RunTime:0.000703s ]
+[ 2012-05-11T22:16:37+08:00 ] /SiaWeb/admin.php/User | INFO: Tag[ app_begin ] --END-- [ RunTime:0.000783s ]
+[ 2012-05-11T22:16:37+08:00 ] /SiaWeb/admin.php/User | INFO: Tag[ view_template ] --START--
+[ 2012-05-11T22:16:37+08:00 ] /SiaWeb/admin.php/User | INFO: Run LocationTemplate Behavior [ RunTime:0.000725s ]
+[ 2012-05-11T22:16:37+08:00 ] /SiaWeb/admin.php/User | INFO: Tag[ view_template ] --END-- [ RunTime:0.000811s ]
+[ 2012-05-11T22:16:37+08:00 ] /SiaWeb/admin.php/User | INFO: Tag[ view_parse ] --START--
+[ 2012-05-11T22:16:37+08:00 ] /SiaWeb/admin.php/User | INFO: Run ParseTemplate Behavior [ RunTime:0.008669s ]
+[ 2012-05-11T22:16:37+08:00 ] /SiaWeb/admin.php/User | INFO: Tag[ view_parse ] --END-- [ RunTime:0.008798s ]
+[ 2012-05-11T22:16:37+08:00 ] /SiaWeb/admin.php/User | INFO: Tag[ view_filter ] --START--
+[ 2012-05-11T22:16:37+08:00 ] /SiaWeb/admin.php/User | INFO: Run ContentReplace Behavior [ RunTime:0.000517s ]
+[ 2012-05-11T22:16:37+08:00 ] /SiaWeb/admin.php/User | INFO: Run TokenBuild Behavior [ RunTime:0.000613s ]
+[ 2012-05-11T22:16:37+08:00 ] /SiaWeb/admin.php/User | INFO: Run WriteHtmlCache Behavior [ RunTime:0.000368s ]
+[ 2012-05-11T22:16:37+08:00 ] /SiaWeb/admin.php/User | INFO: Run ShowRuntime Behavior [ RunTime:0.000657s ]
+[ 2012-05-11T22:16:37+08:00 ] /SiaWeb/admin.php/User | INFO: Tag[ view_filter ] --END-- [ RunTime:0.002375s ]
+[ 2012-05-11T22:16:37+08:00 ] /SiaWeb/admin.php/User | INFO: Tag[ view_end ] --START--
+[ 2012-05-11T22:16:37+08:00 ] /SiaWeb/admin.php/User | INFO: Run ShowPageTrace Behavior [ RunTime:0.000477s ]
+[ 2012-05-11T22:16:37+08:00 ] /SiaWeb/admin.php/User | INFO: Tag[ view_end ] --END-- [ RunTime:0.000556s ]
+[ 2012-05-11T22:18:08+08:00 ] /SiaWeb/admin.php/User | INFO: Tag[ route_check ] --START--
+[ 2012-05-11T22:18:08+08:00 ] /SiaWeb/admin.php/User | INFO: Run CheckRoute Behavior [ RunTime:0.001023s ]
+[ 2012-05-11T22:18:08+08:00 ] /SiaWeb/admin.php/User | INFO: Tag[ route_check ] --END-- [ RunTime:0.001154s ]
+[ 2012-05-11T22:18:08+08:00 ] /SiaWeb/admin.php/User | INFO: Tag[ app_begin ] --START--
+[ 2012-05-11T22:18:08+08:00 ] /SiaWeb/admin.php/User | INFO: Run ReadHtmlCache Behavior [ RunTime:0.000647s ]
+[ 2012-05-11T22:18:08+08:00 ] /SiaWeb/admin.php/User | INFO: Tag[ app_begin ] --END-- [ RunTime:0.000732s ]
+[ 2012-05-11T22:18:08+08:00 ] /SiaWeb/admin.php/User | INFO: Tag[ view_template ] --START--
+[ 2012-05-11T22:18:08+08:00 ] /SiaWeb/admin.php/User | INFO: Run LocationTemplate Behavior [ RunTime:0.000776s ]
+[ 2012-05-11T22:18:08+08:00 ] /SiaWeb/admin.php/User | INFO: Tag[ view_template ] --END-- [ RunTime:0.000867s ]
+[ 2012-05-11T22:18:08+08:00 ] /SiaWeb/admin.php/User | INFO: Tag[ view_parse ] --START--
+[ 2012-05-11T22:18:08+08:00 ] /SiaWeb/admin.php/User | INFO: Run ParseTemplate Behavior [ RunTime:0.008160s ]
+[ 2012-05-11T22:18:08+08:00 ] /SiaWeb/admin.php/User | INFO: Tag[ view_parse ] --END-- [ RunTime:0.008262s ]
+[ 2012-05-11T22:18:08+08:00 ] /SiaWeb/admin.php/User | INFO: Tag[ view_filter ] --START--
+[ 2012-05-11T22:18:08+08:00 ] /SiaWeb/admin.php/User | INFO: Run ContentReplace Behavior [ RunTime:0.000516s ]
+[ 2012-05-11T22:18:08+08:00 ] /SiaWeb/admin.php/User | INFO: Run TokenBuild Behavior [ RunTime:0.000543s ]
+[ 2012-05-11T22:18:08+08:00 ] /SiaWeb/admin.php/User | INFO: Run WriteHtmlCache Behavior [ RunTime:0.000455s ]
+[ 2012-05-11T22:18:08+08:00 ] /SiaWeb/admin.php/User | INFO: Run ShowRuntime Behavior [ RunTime:0.000967s ]
+[ 2012-05-11T22:18:08+08:00 ] /SiaWeb/admin.php/User | INFO: Tag[ view_filter ] --END-- [ RunTime:0.002752s ]
+[ 2012-05-11T22:18:08+08:00 ] /SiaWeb/admin.php/User | INFO: Tag[ view_end ] --START--
+[ 2012-05-11T22:18:08+08:00 ] /SiaWeb/admin.php/User | INFO: Run ShowPageTrace Behavior [ RunTime:0.000724s ]
+[ 2012-05-11T22:18:08+08:00 ] /SiaWeb/admin.php/User | INFO: Tag[ view_end ] --END-- [ RunTime:0.000848s ]
+[ 2012-05-11T23:15:46+08:00 ] /SiaWeb/admin.php/user | ERR: (ThinkException) 无法加载模块user
+[ 2012-05-11T23:15:52+08:00 ] /SiaWeb/admin.php/User | INFO: Tag[ route_check ] --START--
+[ 2012-05-11T23:15:52+08:00 ] /SiaWeb/admin.php/User | INFO: Run CheckRoute Behavior [ RunTime:0.000989s ]
+[ 2012-05-11T23:15:52+08:00 ] /SiaWeb/admin.php/User | INFO: Tag[ route_check ] --END-- [ RunTime:0.001103s ]
+[ 2012-05-11T23:15:52+08:00 ] /SiaWeb/admin.php/User | INFO: Tag[ app_begin ] --START--
+[ 2012-05-11T23:15:52+08:00 ] /SiaWeb/admin.php/User | INFO: Run ReadHtmlCache Behavior [ RunTime:0.000591s ]
+[ 2012-05-11T23:15:52+08:00 ] /SiaWeb/admin.php/User | INFO: Tag[ app_begin ] --END-- [ RunTime:0.000668s ]
+[ 2012-05-11T23:15:52+08:00 ] /SiaWeb/admin.php/User | INFO: Tag[ view_template ] --START--
+[ 2012-05-11T23:15:52+08:00 ] /SiaWeb/admin.php/User | INFO: Run LocationTemplate Behavior [ RunTime:0.000630s ]
+[ 2012-05-11T23:15:52+08:00 ] /SiaWeb/admin.php/User | INFO: Tag[ view_template ] --END-- [ RunTime:0.000716s ]
+[ 2012-05-11T23:15:52+08:00 ] /SiaWeb/admin.php/User | INFO: Tag[ view_parse ] --START--
+[ 2012-05-11T23:15:52+08:00 ] /SiaWeb/admin.php/User | INFO: Run ParseTemplate Behavior [ RunTime:0.011814s ]
+[ 2012-05-11T23:15:52+08:00 ] /SiaWeb/admin.php/User | INFO: Tag[ view_parse ] --END-- [ RunTime:0.011954s ]
+[ 2012-05-11T23:15:52+08:00 ] /SiaWeb/admin.php/User | INFO: Tag[ view_filter ] --START--
+[ 2012-05-11T23:15:52+08:00 ] /SiaWeb/admin.php/User | INFO: Run ContentReplace Behavior [ RunTime:0.000843s ]
+[ 2012-05-11T23:15:52+08:00 ] /SiaWeb/admin.php/User | INFO: Run TokenBuild Behavior [ RunTime:0.000919s ]
+[ 2012-05-11T23:15:52+08:00 ] /SiaWeb/admin.php/User | INFO: Run WriteHtmlCache Behavior [ RunTime:0.000636s ]
+[ 2012-05-11T23:15:52+08:00 ] /SiaWeb/admin.php/User | INFO: Run ShowRuntime Behavior [ RunTime:0.001082s ]
+[ 2012-05-11T23:15:52+08:00 ] /SiaWeb/admin.php/User | INFO: Tag[ view_filter ] --END-- [ RunTime:0.003882s ]
+[ 2012-05-11T23:15:52+08:00 ] /SiaWeb/admin.php/User | INFO: Tag[ view_end ] --START--
+[ 2012-05-11T23:15:52+08:00 ] /SiaWeb/admin.php/User | INFO: Run ShowPageTrace Behavior [ RunTime:0.000790s ]
+[ 2012-05-11T23:15:52+08:00 ] /SiaWeb/admin.php/User | INFO: Tag[ view_end ] --END-- [ RunTime:0.000943s ]
+[ 2012-05-11T23:16:26+08:00 ] /SiaWeb/admin.php/User/add | INFO: Tag[ route_check ] --START--
+[ 2012-05-11T23:16:26+08:00 ] /SiaWeb/admin.php/User/add | INFO: Run CheckRoute Behavior [ RunTime:0.000742s ]
+[ 2012-05-11T23:16:26+08:00 ] /SiaWeb/admin.php/User/add | INFO: Tag[ route_check ] --END-- [ RunTime:0.000855s ]
+[ 2012-05-11T23:16:26+08:00 ] /SiaWeb/admin.php/User/add | INFO: Tag[ app_begin ] --START--
+[ 2012-05-11T23:16:26+08:00 ] /SiaWeb/admin.php/User/add | INFO: Run ReadHtmlCache Behavior [ RunTime:0.000514s ]
+[ 2012-05-11T23:16:26+08:00 ] /SiaWeb/admin.php/User/add | INFO: Tag[ app_begin ] --END-- [ RunTime:0.000590s ]
+[ 2012-05-11T23:16:26+08:00 ] /SiaWeb/admin.php/User/add | SQL: SHOW COLUMNS FROM `think_user` [ RunTime:0.004868s ]
+[ 2012-05-11T23:16:26+08:00 ] /SiaWeb/admin.php/User/add | SQL: INSERT INTO `think_user` (`username`,`password`,`createtime`,`ip`) VALUES ('aaaaaa','a','123','') [ RunTime:0.000248s ]
+[ 2012-05-11T23:16:26+08:00 ] /SiaWeb/admin.php/User/add | INFO: Tag[ view_template ] --START--
+[ 2012-05-11T23:16:26+08:00 ] /SiaWeb/admin.php/User/add | INFO: Run LocationTemplate Behavior [ RunTime:0.000488s ]
+[ 2012-05-11T23:16:26+08:00 ] /SiaWeb/admin.php/User/add | INFO: Tag[ view_template ] --END-- [ RunTime:0.000578s ]
+[ 2012-05-11T23:16:26+08:00 ] /SiaWeb/admin.php/User/add | INFO: Tag[ view_parse ] --START--
+[ 2012-05-11T23:16:26+08:00 ] /SiaWeb/admin.php/User/add | INFO: Run ParseTemplate Behavior [ RunTime:0.008376s ]
+[ 2012-05-11T23:16:26+08:00 ] /SiaWeb/admin.php/User/add | INFO: Tag[ view_parse ] --END-- [ RunTime:0.008476s ]
+[ 2012-05-11T23:16:26+08:00 ] /SiaWeb/admin.php/User/add | INFO: Tag[ view_filter ] --START--
+[ 2012-05-11T23:16:26+08:00 ] /SiaWeb/admin.php/User/add | INFO: Run ContentReplace Behavior [ RunTime:0.000526s ]
+[ 2012-05-11T23:16:26+08:00 ] /SiaWeb/admin.php/User/add | INFO: Run TokenBuild Behavior [ RunTime:0.000542s ]
+[ 2012-05-11T23:16:26+08:00 ] /SiaWeb/admin.php/User/add | INFO: Run WriteHtmlCache Behavior [ RunTime:0.000424s ]
+[ 2012-05-11T23:16:26+08:00 ] /SiaWeb/admin.php/User/add | INFO: Run ShowRuntime Behavior [ RunTime:0.000662s ]
+[ 2012-05-11T23:16:26+08:00 ] /SiaWeb/admin.php/User/add | INFO: Tag[ view_filter ] --END-- [ RunTime:0.002413s ]
+[ 2012-05-11T23:16:26+08:00 ] /SiaWeb/admin.php/User/add | INFO: Tag[ view_end ] --START--
+[ 2012-05-11T23:16:26+08:00 ] /SiaWeb/admin.php/User/add | INFO: Run ShowPageTrace Behavior [ RunTime:0.000554s ]
+[ 2012-05-11T23:16:26+08:00 ] /SiaWeb/admin.php/User/add | INFO: Tag[ view_end ] --END-- [ RunTime:0.000638s ]
+[ 2012-05-11T23:16:27+08:00 ] /SiaWeb/admin.php/User | INFO: Tag[ route_check ] --START--
+[ 2012-05-11T23:16:27+08:00 ] /SiaWeb/admin.php/User | INFO: Run CheckRoute Behavior [ RunTime:0.000727s ]
+[ 2012-05-11T23:16:27+08:00 ] /SiaWeb/admin.php/User | INFO: Tag[ route_check ] --END-- [ RunTime:0.000840s ]
+[ 2012-05-11T23:16:27+08:00 ] /SiaWeb/admin.php/User | INFO: Tag[ app_begin ] --START--
+[ 2012-05-11T23:16:27+08:00 ] /SiaWeb/admin.php/User | INFO: Run ReadHtmlCache Behavior [ RunTime:0.000513s ]
+[ 2012-05-11T23:16:27+08:00 ] /SiaWeb/admin.php/User | INFO: Tag[ app_begin ] --END-- [ RunTime:0.000591s ]
+[ 2012-05-11T23:16:27+08:00 ] /SiaWeb/admin.php/User | INFO: Tag[ view_template ] --START--
+[ 2012-05-11T23:16:27+08:00 ] /SiaWeb/admin.php/User | INFO: Run LocationTemplate Behavior [ RunTime:0.000638s ]
+[ 2012-05-11T23:16:27+08:00 ] /SiaWeb/admin.php/User | INFO: Tag[ view_template ] --END-- [ RunTime:0.000723s ]
+[ 2012-05-11T23:16:27+08:00 ] /SiaWeb/admin.php/User | INFO: Tag[ view_parse ] --START--
+[ 2012-05-11T23:16:27+08:00 ] /SiaWeb/admin.php/User | INFO: Run ParseTemplate Behavior [ RunTime:0.007297s ]
+[ 2012-05-11T23:16:27+08:00 ] /SiaWeb/admin.php/User | INFO: Tag[ view_parse ] --END-- [ RunTime:0.007398s ]
+[ 2012-05-11T23:16:27+08:00 ] /SiaWeb/admin.php/User | INFO: Tag[ view_filter ] --START--
+[ 2012-05-11T23:16:27+08:00 ] /SiaWeb/admin.php/User | INFO: Run ContentReplace Behavior [ RunTime:0.000526s ]
+[ 2012-05-11T23:16:27+08:00 ] /SiaWeb/admin.php/User | INFO: Run TokenBuild Behavior [ RunTime:0.000591s ]
+[ 2012-05-11T23:16:27+08:00 ] /SiaWeb/admin.php/User | INFO: Run WriteHtmlCache Behavior [ RunTime:0.000375s ]
+[ 2012-05-11T23:16:27+08:00 ] /SiaWeb/admin.php/User | INFO: Run ShowRuntime Behavior [ RunTime:0.000623s ]
+[ 2012-05-11T23:16:27+08:00 ] /SiaWeb/admin.php/User | INFO: Tag[ view_filter ] --END-- [ RunTime:0.002325s ]
+[ 2012-05-11T23:16:27+08:00 ] /SiaWeb/admin.php/User | INFO: Tag[ view_end ] --START--
+[ 2012-05-11T23:16:27+08:00 ] /SiaWeb/admin.php/User | INFO: Run ShowPageTrace Behavior [ RunTime:0.000544s ]
+[ 2012-05-11T23:16:27+08:00 ] /SiaWeb/admin.php/User | INFO: Tag[ view_end ] --END-- [ RunTime:0.000617s ]
+[ 2012-05-11T23:28:24+08:00 ] /SiaWeb/admin.php/User | INFO: Tag[ route_check ] --START--
+[ 2012-05-11T23:28:24+08:00 ] /SiaWeb/admin.php/User | INFO: Run CheckRoute Behavior [ RunTime:0.000994s ]
+[ 2012-05-11T23:28:24+08:00 ] /SiaWeb/admin.php/User | INFO: Tag[ route_check ] --END-- [ RunTime:0.001116s ]
+[ 2012-05-11T23:28:24+08:00 ] /SiaWeb/admin.php/User | INFO: Tag[ app_begin ] --START--
+[ 2012-05-11T23:28:24+08:00 ] /SiaWeb/admin.php/User | INFO: Run ReadHtmlCache Behavior [ RunTime:0.000630s ]
+[ 2012-05-11T23:28:24+08:00 ] /SiaWeb/admin.php/User | INFO: Tag[ app_begin ] --END-- [ RunTime:0.000728s ]
+[ 2012-05-11T23:28:24+08:00 ] /SiaWeb/admin.php/User | INFO: Tag[ view_template ] --START--
+[ 2012-05-11T23:28:24+08:00 ] /SiaWeb/admin.php/User | INFO: Run LocationTemplate Behavior [ RunTime:0.001835s ]
+[ 2012-05-11T23:28:24+08:00 ] /SiaWeb/admin.php/User | INFO: Tag[ view_template ] --END-- [ RunTime:0.001959s ]
+[ 2012-05-11T23:28:24+08:00 ] /SiaWeb/admin.php/User | INFO: Tag[ view_parse ] --START--
+[ 2012-05-11T23:28:24+08:00 ] /SiaWeb/admin.php/User | INFO: Run ParseTemplate Behavior [ RunTime:0.007520s ]
+[ 2012-05-11T23:28:24+08:00 ] /SiaWeb/admin.php/User | INFO: Tag[ view_parse ] --END-- [ RunTime:0.007613s ]
+[ 2012-05-11T23:28:24+08:00 ] /SiaWeb/admin.php/User | INFO: Tag[ view_filter ] --START--
+[ 2012-05-11T23:28:24+08:00 ] /SiaWeb/admin.php/User | INFO: Run ContentReplace Behavior [ RunTime:0.000524s ]
+[ 2012-05-11T23:28:24+08:00 ] /SiaWeb/admin.php/User | INFO: Run TokenBuild Behavior [ RunTime:0.000641s ]
+[ 2012-05-11T23:28:24+08:00 ] /SiaWeb/admin.php/User | INFO: Run WriteHtmlCache Behavior [ RunTime:0.000381s ]
+[ 2012-05-11T23:28:24+08:00 ] /SiaWeb/admin.php/User | INFO: Run ShowRuntime Behavior [ RunTime:0.000637s ]
+[ 2012-05-11T23:28:24+08:00 ] /SiaWeb/admin.php/User | INFO: Tag[ view_filter ] --END-- [ RunTime:0.002416s ]
+[ 2012-05-11T23:28:24+08:00 ] /SiaWeb/admin.php/User | INFO: Tag[ view_end ] --START--
+[ 2012-05-11T23:28:24+08:00 ] /SiaWeb/admin.php/User | INFO: Run ShowPageTrace Behavior [ RunTime:0.000563s ]
+[ 2012-05-11T23:28:24+08:00 ] /SiaWeb/admin.php/User | INFO: Tag[ view_end ] --END-- [ RunTime:0.000638s ]
+[ 2012-05-11T23:28:44+08:00 ] /SiaWeb/admin.php/User/add | INFO: Tag[ route_check ] --START--
+[ 2012-05-11T23:28:44+08:00 ] /SiaWeb/admin.php/User/add | INFO: Run CheckRoute Behavior [ RunTime:0.000748s ]
+[ 2012-05-11T23:28:44+08:00 ] /SiaWeb/admin.php/User/add | INFO: Tag[ route_check ] --END-- [ RunTime:0.000868s ]
+[ 2012-05-11T23:28:44+08:00 ] /SiaWeb/admin.php/User/add | INFO: Tag[ app_begin ] --START--
+[ 2012-05-11T23:28:44+08:00 ] /SiaWeb/admin.php/User/add | INFO: Run ReadHtmlCache Behavior [ RunTime:0.000562s ]
+[ 2012-05-11T23:28:44+08:00 ] /SiaWeb/admin.php/User/add | INFO: Tag[ app_begin ] --END-- [ RunTime:0.000647s ]
+[ 2012-05-11T23:28:44+08:00 ] /SiaWeb/admin.php/User/add | SQL: SHOW COLUMNS FROM `think_user` [ RunTime:0.003920s ]
+[ 2012-05-11T23:28:44+08:00 ] /SiaWeb/admin.php/User/add | SQL: INSERT INTO `think_user` (`username`,`password`,`ip`,`createtime`) VALUES ('ytsyts','202cb962ac59075b964b07152d234b70','127.0.0.1',1336750124) [ RunTime:0.000244s ]
+[ 2012-05-11T23:28:44+08:00 ] /SiaWeb/admin.php/User/add | INFO: Tag[ view_template ] --START--
+[ 2012-05-11T23:28:44+08:00 ] /SiaWeb/admin.php/User/add | INFO: Run LocationTemplate Behavior [ RunTime:0.000473s ]
+[ 2012-05-11T23:28:44+08:00 ] /SiaWeb/admin.php/User/add | INFO: Tag[ view_template ] --END-- [ RunTime:0.000566s ]
+[ 2012-05-11T23:28:44+08:00 ] /SiaWeb/admin.php/User/add | INFO: Tag[ view_parse ] --START--
+[ 2012-05-11T23:28:44+08:00 ] /SiaWeb/admin.php/User/add | INFO: Run ParseTemplate Behavior [ RunTime:0.008355s ]
+[ 2012-05-11T23:28:44+08:00 ] /SiaWeb/admin.php/User/add | INFO: Tag[ view_parse ] --END-- [ RunTime:0.008465s ]
+[ 2012-05-11T23:28:44+08:00 ] /SiaWeb/admin.php/User/add | INFO: Tag[ view_filter ] --START--
+[ 2012-05-11T23:28:44+08:00 ] /SiaWeb/admin.php/User/add | INFO: Run ContentReplace Behavior [ RunTime:0.000401s ]
+[ 2012-05-11T23:28:44+08:00 ] /SiaWeb/admin.php/User/add | INFO: Run TokenBuild Behavior [ RunTime:0.000441s ]
+[ 2012-05-11T23:28:44+08:00 ] /SiaWeb/admin.php/User/add | INFO: Run WriteHtmlCache Behavior [ RunTime:0.000252s ]
+[ 2012-05-11T23:28:44+08:00 ] /SiaWeb/admin.php/User/add | INFO: Run ShowRuntime Behavior [ RunTime:0.000510s ]
+[ 2012-05-11T23:28:44+08:00 ] /SiaWeb/admin.php/User/add | INFO: Tag[ view_filter ] --END-- [ RunTime:0.001833s ]
+[ 2012-05-11T23:28:44+08:00 ] /SiaWeb/admin.php/User/add | INFO: Tag[ view_end ] --START--
+[ 2012-05-11T23:28:44+08:00 ] /SiaWeb/admin.php/User/add | INFO: Run ShowPageTrace Behavior [ RunTime:0.000427s ]
+[ 2012-05-11T23:28:44+08:00 ] /SiaWeb/admin.php/User/add | INFO: Tag[ view_end ] --END-- [ RunTime:0.000505s ]
+[ 2012-05-11T23:28:45+08:00 ] /SiaWeb/admin.php/User | INFO: Tag[ route_check ] --START--
+[ 2012-05-11T23:28:45+08:00 ] /SiaWeb/admin.php/User | INFO: Run CheckRoute Behavior [ RunTime:0.001124s ]
+[ 2012-05-11T23:28:45+08:00 ] /SiaWeb/admin.php/User | INFO: Tag[ route_check ] --END-- [ RunTime:0.001276s ]
+[ 2012-05-11T23:28:45+08:00 ] /SiaWeb/admin.php/User | INFO: Tag[ app_begin ] --START--
+[ 2012-05-11T23:28:45+08:00 ] /SiaWeb/admin.php/User | INFO: Run ReadHtmlCache Behavior [ RunTime:0.000623s ]
+[ 2012-05-11T23:28:45+08:00 ] /SiaWeb/admin.php/User | INFO: Tag[ app_begin ] --END-- [ RunTime:0.000706s ]
+[ 2012-05-11T23:28:45+08:00 ] /SiaWeb/admin.php/User | INFO: Tag[ view_template ] --START--
+[ 2012-05-11T23:28:45+08:00 ] /SiaWeb/admin.php/User | INFO: Run LocationTemplate Behavior [ RunTime:0.000570s ]
+[ 2012-05-11T23:28:45+08:00 ] /SiaWeb/admin.php/User | INFO: Tag[ view_template ] --END-- [ RunTime:0.000654s ]
+[ 2012-05-11T23:28:45+08:00 ] /SiaWeb/admin.php/User | INFO: Tag[ view_parse ] --START--
+[ 2012-05-11T23:28:45+08:00 ] /SiaWeb/admin.php/User | INFO: Run ParseTemplate Behavior [ RunTime:0.007710s ]
+[ 2012-05-11T23:28:45+08:00 ] /SiaWeb/admin.php/User | INFO: Tag[ view_parse ] --END-- [ RunTime:0.007844s ]
+[ 2012-05-11T23:28:45+08:00 ] /SiaWeb/admin.php/User | INFO: Tag[ view_filter ] --START--
+[ 2012-05-11T23:28:45+08:00 ] /SiaWeb/admin.php/User | INFO: Run ContentReplace Behavior [ RunTime:0.000487s ]
+[ 2012-05-11T23:28:45+08:00 ] /SiaWeb/admin.php/User | INFO: Run TokenBuild Behavior [ RunTime:0.000503s ]
+[ 2012-05-11T23:28:45+08:00 ] /SiaWeb/admin.php/User | INFO: Run WriteHtmlCache Behavior [ RunTime:0.000307s ]
+[ 2012-05-11T23:28:45+08:00 ] /SiaWeb/admin.php/User | INFO: Run ShowRuntime Behavior [ RunTime:0.000521s ]
+[ 2012-05-11T23:28:45+08:00 ] /SiaWeb/admin.php/User | INFO: Tag[ view_filter ] --END-- [ RunTime:0.002066s ]
+[ 2012-05-11T23:28:45+08:00 ] /SiaWeb/admin.php/User | INFO: Tag[ view_end ] --START--
+[ 2012-05-11T23:28:45+08:00 ] /SiaWeb/admin.php/User | INFO: Run ShowPageTrace Behavior [ RunTime:0.000530s ]
+[ 2012-05-11T23:28:45+08:00 ] /SiaWeb/admin.php/User | INFO: Tag[ view_end ] --END-- [ RunTime:0.000612s ]
+[ 2012-05-11T23:47:23+08:00 ] /SiaWeb/admin.php/Cate | INFO: Tag[ route_check ] --START--
+[ 2012-05-11T23:47:23+08:00 ] /SiaWeb/admin.php/Cate | INFO: Run CheckRoute Behavior [ RunTime:0.001155s ]
+[ 2012-05-11T23:47:23+08:00 ] /SiaWeb/admin.php/Cate | INFO: Tag[ route_check ] --END-- [ RunTime:0.001318s ]
+[ 2012-05-11T23:47:23+08:00 ] /SiaWeb/admin.php/Cate | INFO: Tag[ app_begin ] --START--
+[ 2012-05-11T23:47:23+08:00 ] /SiaWeb/admin.php/Cate | INFO: Run ReadHtmlCache Behavior [ RunTime:0.000705s ]
+[ 2012-05-11T23:47:23+08:00 ] /SiaWeb/admin.php/Cate | INFO: Tag[ app_begin ] --END-- [ RunTime:0.000791s ]
+[ 2012-05-11T23:47:23+08:00 ] /SiaWeb/admin.php/Cate | INFO: Tag[ view_template ] --START--
+[ 2012-05-11T23:47:23+08:00 ] /SiaWeb/admin.php/Cate | INFO: Run LocationTemplate Behavior [ RunTime:0.000912s ]
+[ 2012-05-11T23:47:23+08:00 ] /SiaWeb/admin.php/Cate | INFO: Tag[ view_template ] --END-- [ RunTime:0.001005s ]
+[ 2012-05-11T23:47:23+08:00 ] /SiaWeb/admin.php/Cate | INFO: Tag[ view_parse ] --START--
+[ 2012-05-11T23:47:23+08:00 ] /SiaWeb/admin.php/Cate | INFO: Run ParseTemplate Behavior [ RunTime:0.007632s ]
+[ 2012-05-11T23:47:23+08:00 ] /SiaWeb/admin.php/Cate | INFO: Tag[ view_parse ] --END-- [ RunTime:0.007733s ]
+[ 2012-05-11T23:47:23+08:00 ] /SiaWeb/admin.php/Cate | INFO: Tag[ view_filter ] --START--
+[ 2012-05-11T23:47:23+08:00 ] /SiaWeb/admin.php/Cate | INFO: Run ContentReplace Behavior [ RunTime:0.000505s ]
+[ 2012-05-11T23:47:23+08:00 ] /SiaWeb/admin.php/Cate | INFO: Run TokenBuild Behavior [ RunTime:0.000613s ]
+[ 2012-05-11T23:47:23+08:00 ] /SiaWeb/admin.php/Cate | INFO: Run WriteHtmlCache Behavior [ RunTime:0.000529s ]
+[ 2012-05-11T23:47:23+08:00 ] /SiaWeb/admin.php/Cate | INFO: Run ShowRuntime Behavior [ RunTime:0.001093s ]
+[ 2012-05-11T23:47:23+08:00 ] /SiaWeb/admin.php/Cate | INFO: Tag[ view_filter ] --END-- [ RunTime:0.003031s ]
+[ 2012-05-11T23:47:23+08:00 ] /SiaWeb/admin.php/Cate | INFO: Tag[ view_end ] --START--
+[ 2012-05-11T23:47:23+08:00 ] /SiaWeb/admin.php/Cate | INFO: Run ShowPageTrace Behavior [ RunTime:0.000803s ]
+[ 2012-05-11T23:47:23+08:00 ] /SiaWeb/admin.php/Cate | INFO: Tag[ view_end ] --END-- [ RunTime:0.000940s ]
+[ 2012-05-11T23:51:05+08:00 ] /SiaWeb/admin.php/Cate | INFO: Tag[ route_check ] --START--
+[ 2012-05-11T23:51:05+08:00 ] /SiaWeb/admin.php/Cate | INFO: Run CheckRoute Behavior [ RunTime:0.001000s ]
+[ 2012-05-11T23:51:05+08:00 ] /SiaWeb/admin.php/Cate | INFO: Tag[ route_check ] --END-- [ RunTime:0.001122s ]
+[ 2012-05-11T23:51:05+08:00 ] /SiaWeb/admin.php/Cate | INFO: Tag[ app_begin ] --START--
+[ 2012-05-11T23:51:05+08:00 ] /SiaWeb/admin.php/Cate | INFO: Run ReadHtmlCache Behavior [ RunTime:0.000713s ]
+[ 2012-05-11T23:51:05+08:00 ] /SiaWeb/admin.php/Cate | INFO: Tag[ app_begin ] --END-- [ RunTime:0.000794s ]
+[ 2012-05-11T23:51:05+08:00 ] /SiaWeb/admin.php/Cate | SQL: SHOW COLUMNS FROM `think_cate` [ RunTime:0.004550s ]
+[ 2012-05-11T23:51:05+08:00 ] /SiaWeb/admin.php/Cate | SQL: SELECT `id`,`name`,`pid`,concat(path,'-',id) as bpath FROM `think_cate` ORDER BY bpath desc  [ RunTime:0.000354s ]
+[ 2012-05-11T23:51:05+08:00 ] /SiaWeb/admin.php/Cate | INFO: Tag[ view_template ] --START--
+[ 2012-05-11T23:51:05+08:00 ] /SiaWeb/admin.php/Cate | INFO: Run LocationTemplate Behavior [ RunTime:0.001087s ]
+[ 2012-05-11T23:51:05+08:00 ] /SiaWeb/admin.php/Cate | INFO: Tag[ view_template ] --END-- [ RunTime:0.001210s ]
+[ 2012-05-11T23:51:05+08:00 ] /SiaWeb/admin.php/Cate | INFO: Tag[ view_parse ] --START--
+[ 2012-05-11T23:51:05+08:00 ] /SiaWeb/admin.php/Cate | INFO: Run ParseTemplate Behavior [ RunTime:0.010710s ]
+[ 2012-05-11T23:51:05+08:00 ] /SiaWeb/admin.php/Cate | INFO: Tag[ view_parse ] --END-- [ RunTime:0.010864s ]
+[ 2012-05-11T23:51:05+08:00 ] /SiaWeb/admin.php/Cate | INFO: Tag[ view_filter ] --START--
+[ 2012-05-11T23:51:05+08:00 ] /SiaWeb/admin.php/Cate | INFO: Run ContentReplace Behavior [ RunTime:0.000855s ]
+[ 2012-05-11T23:51:05+08:00 ] /SiaWeb/admin.php/Cate | INFO: Run TokenBuild Behavior [ RunTime:0.000782s ]
+[ 2012-05-11T23:51:05+08:00 ] /SiaWeb/admin.php/Cate | INFO: Run WriteHtmlCache Behavior [ RunTime:0.000527s ]
+[ 2012-05-11T23:51:05+08:00 ] /SiaWeb/admin.php/Cate | INFO: Run ShowRuntime Behavior [ RunTime:0.000815s ]
+[ 2012-05-11T23:51:05+08:00 ] /SiaWeb/admin.php/Cate | INFO: Tag[ view_filter ] --END-- [ RunTime:0.003283s ]
+[ 2012-05-11T23:51:05+08:00 ] /SiaWeb/admin.php/Cate | INFO: Tag[ view_end ] --START--
+[ 2012-05-11T23:51:05+08:00 ] /SiaWeb/admin.php/Cate | INFO: Run ShowPageTrace Behavior [ RunTime:0.000509s ]
+[ 2012-05-11T23:51:05+08:00 ] /SiaWeb/admin.php/Cate | INFO: Tag[ view_end ] --END-- [ RunTime:0.000584s ]
+[ 2012-05-11T23:52:18+08:00 ] /SiaWeb/admin.php/Cate | INFO: Tag[ route_check ] --START--
+[ 2012-05-11T23:52:18+08:00 ] /SiaWeb/admin.php/Cate | INFO: Run CheckRoute Behavior [ RunTime:0.001025s ]
+[ 2012-05-11T23:52:18+08:00 ] /SiaWeb/admin.php/Cate | INFO: Tag[ route_check ] --END-- [ RunTime:0.001177s ]
+[ 2012-05-11T23:52:18+08:00 ] /SiaWeb/admin.php/Cate | INFO: Tag[ app_begin ] --START--
+[ 2012-05-11T23:52:18+08:00 ] /SiaWeb/admin.php/Cate | INFO: Run ReadHtmlCache Behavior [ RunTime:0.000854s ]
+[ 2012-05-11T23:52:18+08:00 ] /SiaWeb/admin.php/Cate | INFO: Tag[ app_begin ] --END-- [ RunTime:0.000952s ]
+[ 2012-05-11T23:52:18+08:00 ] /SiaWeb/admin.php/Cate | SQL: SHOW COLUMNS FROM `think_cate` [ RunTime:0.005221s ]
+[ 2012-05-11T23:52:18+08:00 ] /SiaWeb/admin.php/Cate | SQL: SELECT `id`,`name`,`pid`,concat(path,'-',id) as bpath FROM `think_cate` ORDER BY bpath  [ RunTime:0.000300s ]
+[ 2012-05-11T23:52:18+08:00 ] /SiaWeb/admin.php/Cate | INFO: Tag[ view_template ] --START--
+[ 2012-05-11T23:52:18+08:00 ] /SiaWeb/admin.php/Cate | INFO: Run LocationTemplate Behavior [ RunTime:0.001206s ]
+[ 2012-05-11T23:52:18+08:00 ] /SiaWeb/admin.php/Cate | INFO: Tag[ view_template ] --END-- [ RunTime:0.001325s ]
+[ 2012-05-11T23:52:18+08:00 ] /SiaWeb/admin.php/Cate | INFO: Tag[ view_parse ] --START--
+[ 2012-05-11T23:52:18+08:00 ] /SiaWeb/admin.php/Cate | INFO: Run ParseTemplate Behavior [ RunTime:0.011964s ]
+[ 2012-05-11T23:52:18+08:00 ] /SiaWeb/admin.php/Cate | INFO: Tag[ view_parse ] --END-- [ RunTime:0.012092s ]
+[ 2012-05-11T23:52:18+08:00 ] /SiaWeb/admin.php/Cate | INFO: Tag[ view_filter ] --START--
+[ 2012-05-11T23:52:18+08:00 ] /SiaWeb/admin.php/Cate | INFO: Run ContentReplace Behavior [ RunTime:0.000551s ]
+[ 2012-05-11T23:52:18+08:00 ] /SiaWeb/admin.php/Cate | INFO: Run TokenBuild Behavior [ RunTime:0.000669s ]
+[ 2012-05-11T23:52:18+08:00 ] /SiaWeb/admin.php/Cate | INFO: Run WriteHtmlCache Behavior [ RunTime:0.000407s ]
+[ 2012-05-11T23:52:18+08:00 ] /SiaWeb/admin.php/Cate | INFO: Run ShowRuntime Behavior [ RunTime:0.000682s ]
+[ 2012-05-11T23:52:18+08:00 ] /SiaWeb/admin.php/Cate | INFO: Tag[ view_filter ] --END-- [ RunTime:0.002540s ]
+[ 2012-05-11T23:52:18+08:00 ] /SiaWeb/admin.php/Cate | INFO: Tag[ view_end ] --START--
+[ 2012-05-11T23:52:18+08:00 ] /SiaWeb/admin.php/Cate | INFO: Run ShowPageTrace Behavior [ RunTime:0.000518s ]
+[ 2012-05-11T23:52:18+08:00 ] /SiaWeb/admin.php/Cate | INFO: Tag[ view_end ] --END-- [ RunTime:0.000598s ]
+[ 2012-05-11T23:55:08+08:00 ] /SiaWeb/admin.php/Cate | INFO: Tag[ route_check ] --START--
+[ 2012-05-11T23:55:08+08:00 ] /SiaWeb/admin.php/Cate | INFO: Run CheckRoute Behavior [ RunTime:0.000948s ]
+[ 2012-05-11T23:55:08+08:00 ] /SiaWeb/admin.php/Cate | INFO: Tag[ route_check ] --END-- [ RunTime:0.001068s ]
+[ 2012-05-11T23:55:08+08:00 ] /SiaWeb/admin.php/Cate | INFO: Tag[ app_begin ] --START--
+[ 2012-05-11T23:55:08+08:00 ] /SiaWeb/admin.php/Cate | INFO: Run ReadHtmlCache Behavior [ RunTime:0.000621s ]
+[ 2012-05-11T23:55:08+08:00 ] /SiaWeb/admin.php/Cate | INFO: Tag[ app_begin ] --END-- [ RunTime:0.000702s ]
+[ 2012-05-11T23:55:08+08:00 ] /SiaWeb/admin.php/Cate | SQL: SHOW COLUMNS FROM `think_cate` [ RunTime:0.003755s ]
+[ 2012-05-11T23:55:08+08:00 ] /SiaWeb/admin.php/Cate | SQL: SELECT `id`,`name`,`pid`,concat(path,'-',id) as bpath FROM `think_cate` ORDER BY bpath  [ RunTime:0.000270s ]
+[ 2012-05-11T23:55:08+08:00 ] /SiaWeb/admin.php/Cate | INFO: Tag[ view_template ] --START--
+[ 2012-05-11T23:55:08+08:00 ] /SiaWeb/admin.php/Cate | INFO: Run LocationTemplate Behavior [ RunTime:0.000838s ]
+[ 2012-05-11T23:55:08+08:00 ] /SiaWeb/admin.php/Cate | INFO: Tag[ view_template ] --END-- [ RunTime:0.000928s ]
+[ 2012-05-11T23:55:08+08:00 ] /SiaWeb/admin.php/Cate | INFO: Tag[ view_parse ] --START--
+[ 2012-05-11T23:55:08+08:00 ] /SiaWeb/admin.php/Cate | INFO: Run ParseTemplate Behavior [ RunTime:0.009296s ]
+[ 2012-05-11T23:55:08+08:00 ] /SiaWeb/admin.php/Cate | INFO: Tag[ view_parse ] --END-- [ RunTime:0.009401s ]
+[ 2012-05-11T23:55:08+08:00 ] /SiaWeb/admin.php/Cate | INFO: Tag[ view_filter ] --START--
+[ 2012-05-11T23:55:08+08:00 ] /SiaWeb/admin.php/Cate | INFO: Run ContentReplace Behavior [ RunTime:0.000554s ]
+[ 2012-05-11T23:55:08+08:00 ] /SiaWeb/admin.php/Cate | INFO: Run TokenBuild Behavior [ RunTime:0.000835s ]
+[ 2012-05-11T23:55:08+08:00 ] /SiaWeb/admin.php/Cate | INFO: Run WriteHtmlCache Behavior [ RunTime:0.000380s ]
+[ 2012-05-11T23:55:08+08:00 ] /SiaWeb/admin.php/Cate | INFO: Run ShowRuntime Behavior [ RunTime:0.000658s ]
+[ 2012-05-11T23:55:08+08:00 ] /SiaWeb/admin.php/Cate | INFO: Tag[ view_filter ] --END-- [ RunTime:0.002653s ]
+[ 2012-05-11T23:55:08+08:00 ] /SiaWeb/admin.php/Cate | INFO: Tag[ view_end ] --START--
+[ 2012-05-11T23:55:08+08:00 ] /SiaWeb/admin.php/Cate | INFO: Run ShowPageTrace Behavior [ RunTime:0.000549s ]
+[ 2012-05-11T23:55:08+08:00 ] /SiaWeb/admin.php/Cate | INFO: Tag[ view_end ] --END-- [ RunTime:0.000629s ]

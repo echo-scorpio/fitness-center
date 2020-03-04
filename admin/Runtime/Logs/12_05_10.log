@@ -1,0 +1,74 @@
+[ 2012-05-10T08:45:43+08:00 ] /SiaWeb/admin.php | INFO: Tag[ app_begin ] --START--
+[ 2012-05-10T08:45:43+08:00 ] /SiaWeb/admin.php | INFO: Run ReadHtmlCache Behavior [ RunTime:0.000950s ]
+[ 2012-05-10T08:45:43+08:00 ] /SiaWeb/admin.php | INFO: Tag[ app_begin ] --END-- [ RunTime:0.001109s ]
+[ 2012-05-10T08:45:43+08:00 ] /SiaWeb/admin.php | NOTIC: [8] Constant PHP_FILE already defined Dispatcher.class.php 第 53 行.
+[ 2012-05-10T08:45:43+08:00 ] /SiaWeb/admin.php | NOTIC: [8] Constant MODULE_NAME already defined Dispatcher.class.php 第 135 行.
+[ 2012-05-10T08:45:43+08:00 ] /SiaWeb/admin.php | NOTIC: [8] Constant P_ACTION_NAME already defined Dispatcher.class.php 第 206 行.
+[ 2012-05-10T08:45:43+08:00 ] /SiaWeb/admin.php | NOTIC: [8] Constant ACTION_NAME already defined Dispatcher.class.php 第 136 行.
+[ 2012-05-10T08:45:43+08:00 ] /SiaWeb/admin.php | NOTIC: [8] Constant __SELF__ already defined Dispatcher.class.php 第 138 行.
+[ 2012-05-10T08:45:43+08:00 ] /SiaWeb/admin.php | NOTIC: [8] Constant __APP__ already defined Dispatcher.class.php 第 140 行.
+[ 2012-05-10T08:45:43+08:00 ] /SiaWeb/admin.php | NOTIC: [8] Constant __URL__ already defined Dispatcher.class.php 第 147 行.
+[ 2012-05-10T08:45:43+08:00 ] /SiaWeb/admin.php | NOTIC: [8] Constant __ACTION__ already defined Dispatcher.class.php 第 150 行.
+[ 2012-05-10T08:45:43+08:00 ] /SiaWeb/admin.php | NOTIC: [8] Constant THEME_NAME already defined App.class.php 第 69 行.
+[ 2012-05-10T08:45:43+08:00 ] /SiaWeb/admin.php | NOTIC: [8] Constant THEME_PATH already defined App.class.php 第 71 行.
+[ 2012-05-10T08:45:43+08:00 ] /SiaWeb/admin.php | NOTIC: [8] Constant APP_TMPL_PATH already defined App.class.php 第 72 行.
+[ 2012-05-10T08:45:43+08:00 ] /SiaWeb/admin.php | INFO: Tag[ app_begin ] --START--
+[ 2012-05-10T08:45:43+08:00 ] /SiaWeb/admin.php | INFO: Run ReadHtmlCache Behavior [ RunTime:0.000099s ]
+[ 2012-05-10T08:45:43+08:00 ] /SiaWeb/admin.php | INFO: Tag[ app_begin ] --END-- [ RunTime:-0.002972s ]
+[ 2012-05-10T08:45:43+08:00 ] /SiaWeb/admin.php | NOTIC: [8] A session had already been started - ignoring session_start() functions.php 第 411 行.
+[ 2012-05-10T08:50:43+08:00 ] /SiaWeb/admin.php | INFO: Tag[ app_begin ] --START--
+[ 2012-05-10T08:50:43+08:00 ] /SiaWeb/admin.php | INFO: Run ReadHtmlCache Behavior [ RunTime:0.002462s ]
+[ 2012-05-10T08:50:43+08:00 ] /SiaWeb/admin.php | INFO: Tag[ app_begin ] --END-- [ RunTime:0.003941s ]
+[ 2012-05-10T08:50:43+08:00 ] /SiaWeb/admin.php | NOTIC: [8] Constant PHP_FILE already defined Dispatcher.class.php 第 53 行.
+[ 2012-05-10T08:50:43+08:00 ] /SiaWeb/admin.php | NOTIC: [8] Constant MODULE_NAME already defined Dispatcher.class.php 第 135 行.
+[ 2012-05-10T08:50:43+08:00 ] /SiaWeb/admin.php | NOTIC: [8] Constant P_ACTION_NAME already defined Dispatcher.class.php 第 206 行.
+[ 2012-05-10T08:50:43+08:00 ] /SiaWeb/admin.php | NOTIC: [8] Constant ACTION_NAME already defined Dispatcher.class.php 第 136 行.
+[ 2012-05-10T08:50:43+08:00 ] /SiaWeb/admin.php | NOTIC: [8] Constant __SELF__ already defined Dispatcher.class.php 第 138 行.
+[ 2012-05-10T08:50:43+08:00 ] /SiaWeb/admin.php | NOTIC: [8] Constant __APP__ already defined Dispatcher.class.php 第 140 行.
+[ 2012-05-10T08:50:43+08:00 ] /SiaWeb/admin.php | NOTIC: [8] Constant __URL__ already defined Dispatcher.class.php 第 147 行.
+[ 2012-05-10T08:50:43+08:00 ] /SiaWeb/admin.php | NOTIC: [8] Constant __ACTION__ already defined Dispatcher.class.php 第 150 行.
+[ 2012-05-10T08:50:43+08:00 ] /SiaWeb/admin.php | NOTIC: [8] Constant THEME_NAME already defined App.class.php 第 69 行.
+[ 2012-05-10T08:50:43+08:00 ] /SiaWeb/admin.php | NOTIC: [8] Constant THEME_PATH already defined App.class.php 第 71 行.
+[ 2012-05-10T08:50:43+08:00 ] /SiaWeb/admin.php | NOTIC: [8] Constant APP_TMPL_PATH already defined App.class.php 第 72 行.
+[ 2012-05-10T08:50:43+08:00 ] /SiaWeb/admin.php | INFO: Tag[ app_begin ] --START--
+[ 2012-05-10T08:50:43+08:00 ] /SiaWeb/admin.php | INFO: Run ReadHtmlCache Behavior [ RunTime:0.000188s ]
+[ 2012-05-10T08:50:43+08:00 ] /SiaWeb/admin.php | INFO: Tag[ app_begin ] --END-- [ RunTime:-0.004767s ]
+[ 2012-05-10T08:50:43+08:00 ] /SiaWeb/admin.php | NOTIC: [8] A session had already been started - ignoring session_start() functions.php 第 411 行.
+[ 2012-05-10T13:48:29+08:00 ] /SiaWeb/admin.php | INFO: Tag[ app_begin ] --START--
+[ 2012-05-10T13:48:29+08:00 ] /SiaWeb/admin.php | INFO: Run ReadHtmlCache Behavior [ RunTime:0.000846s ]
+[ 2012-05-10T13:48:29+08:00 ] /SiaWeb/admin.php | INFO: Tag[ app_begin ] --END-- [ RunTime:0.001023s ]
+[ 2012-05-10T13:48:29+08:00 ] /SiaWeb/admin.php | NOTIC: [8] Use of undefined constant APP_PUBLIC_PATH - assumed 'APP_PUBLIC_PATH' IndexAction.class.php 第 16 行.
+[ 2012-05-10T13:48:29+08:00 ] /SiaWeb/admin.php | NOTIC: [8] Use of undefined constant CONFIG_PATH - assumed 'CONFIG_PATH' IndexAction.class.php 第 18 行.
+[ 2012-05-10T13:48:29+08:00 ] /SiaWeb/admin.php | NOTIC: [8] Use of undefined constant GROUP_NAME - assumed 'GROUP_NAME' IndexAction.class.php 第 21 行.
+[ 2012-05-10T13:48:29+08:00 ] /SiaWeb/admin.php | NOTIC: [8] Use of undefined constant IS_APACHE - assumed 'IS_APACHE' IndexAction.class.php 第 23 行.
+[ 2012-05-10T13:48:29+08:00 ] /SiaWeb/admin.php | NOTIC: [8] Use of undefined constant IS_IIS - assumed 'IS_IIS' IndexAction.class.php 第 25 行.
+[ 2012-05-10T13:48:29+08:00 ] /SiaWeb/admin.php | NOTIC: [8] Use of undefined constant LANG_SET - assumed 'LANG_SET' IndexAction.class.php 第 27 行.
+[ 2012-05-10T13:48:29+08:00 ] /SiaWeb/admin.php | NOTIC: [8] Use of undefined constant MODEL_NAME - assumed 'MODEL_NAME' IndexAction.class.php 第 31 行.
+[ 2012-05-10T13:48:29+08:00 ] /SiaWeb/admin.php | NOTIC: [8] Use of undefined constant TEMPLATE_NAME - assumed 'TEMPLATE_NAME' IndexAction.class.php 第 38 行.
+[ 2012-05-10T13:48:29+08:00 ] /SiaWeb/admin.php | NOTIC: [8] Use of undefined constant TEMPLATE_PATH - assumed 'TEMPLATE_PATH' IndexAction.class.php 第 39 行.
+[ 2012-05-10T13:48:29+08:00 ] /SiaWeb/admin.php | NOTIC: [8] Use of undefined constant WEB_PUBLIC_PATH - assumed 'WEB_PUBLIC_PATH' IndexAction.class.php 第 41 行.
+[ 2012-05-10T13:48:29+08:00 ] /SiaWeb/admin.php | NOTIC: [8] Constant PHP_FILE already defined Dispatcher.class.php 第 53 行.
+[ 2012-05-10T13:48:29+08:00 ] /SiaWeb/admin.php | NOTIC: [8] Constant MODULE_NAME already defined Dispatcher.class.php 第 135 行.
+[ 2012-05-10T13:48:29+08:00 ] /SiaWeb/admin.php | NOTIC: [8] Constant P_ACTION_NAME already defined Dispatcher.class.php 第 206 行.
+[ 2012-05-10T13:48:29+08:00 ] /SiaWeb/admin.php | NOTIC: [8] Constant ACTION_NAME already defined Dispatcher.class.php 第 136 行.
+[ 2012-05-10T13:48:29+08:00 ] /SiaWeb/admin.php | NOTIC: [8] Constant __SELF__ already defined Dispatcher.class.php 第 138 行.
+[ 2012-05-10T13:48:29+08:00 ] /SiaWeb/admin.php | NOTIC: [8] Constant __APP__ already defined Dispatcher.class.php 第 140 行.
+[ 2012-05-10T13:48:29+08:00 ] /SiaWeb/admin.php | NOTIC: [8] Constant __URL__ already defined Dispatcher.class.php 第 147 行.
+[ 2012-05-10T13:48:29+08:00 ] /SiaWeb/admin.php | NOTIC: [8] Constant __ACTION__ already defined Dispatcher.class.php 第 150 行.
+[ 2012-05-10T13:48:29+08:00 ] /SiaWeb/admin.php | NOTIC: [8] Constant THEME_NAME already defined App.class.php 第 69 行.
+[ 2012-05-10T13:48:29+08:00 ] /SiaWeb/admin.php | NOTIC: [8] Constant THEME_PATH already defined App.class.php 第 71 行.
+[ 2012-05-10T13:48:29+08:00 ] /SiaWeb/admin.php | NOTIC: [8] Constant APP_TMPL_PATH already defined App.class.php 第 72 行.
+[ 2012-05-10T13:48:29+08:00 ] /SiaWeb/admin.php | INFO: Tag[ app_begin ] --START--
+[ 2012-05-10T13:48:29+08:00 ] /SiaWeb/admin.php | INFO: Run ReadHtmlCache Behavior [ RunTime:0.000110s ]
+[ 2012-05-10T13:48:29+08:00 ] /SiaWeb/admin.php | INFO: Tag[ app_begin ] --END-- [ RunTime:-0.034398s ]
+[ 2012-05-10T13:48:29+08:00 ] /SiaWeb/admin.php | NOTIC: [8] A session had already been started - ignoring session_start() functions.php 第 411 行.
+[ 2012-05-10T13:48:29+08:00 ] /SiaWeb/admin.php | NOTIC: [8] Use of undefined constant APP_PUBLIC_PATH - assumed 'APP_PUBLIC_PATH' IndexAction.class.php 第 16 行.
+[ 2012-05-10T13:48:29+08:00 ] /SiaWeb/admin.php | NOTIC: [8] Use of undefined constant CONFIG_PATH - assumed 'CONFIG_PATH' IndexAction.class.php 第 18 行.
+[ 2012-05-10T13:48:29+08:00 ] /SiaWeb/admin.php | NOTIC: [8] Use of undefined constant GROUP_NAME - assumed 'GROUP_NAME' IndexAction.class.php 第 21 行.
+[ 2012-05-10T13:48:29+08:00 ] /SiaWeb/admin.php | NOTIC: [8] Use of undefined constant IS_APACHE - assumed 'IS_APACHE' IndexAction.class.php 第 23 行.
+[ 2012-05-10T13:48:29+08:00 ] /SiaWeb/admin.php | NOTIC: [8] Use of undefined constant IS_IIS - assumed 'IS_IIS' IndexAction.class.php 第 25 行.
+[ 2012-05-10T13:48:29+08:00 ] /SiaWeb/admin.php | NOTIC: [8] Use of undefined constant LANG_SET - assumed 'LANG_SET' IndexAction.class.php 第 27 行.
+[ 2012-05-10T13:48:29+08:00 ] /SiaWeb/admin.php | NOTIC: [8] Use of undefined constant MODEL_NAME - assumed 'MODEL_NAME' IndexAction.class.php 第 31 行.
+[ 2012-05-10T13:48:29+08:00 ] /SiaWeb/admin.php | NOTIC: [8] Use of undefined constant TEMPLATE_NAME - assumed 'TEMPLATE_NAME' IndexAction.class.php 第 38 行.
+[ 2012-05-10T13:48:29+08:00 ] /SiaWeb/admin.php | NOTIC: [8] Use of undefined constant TEMPLATE_PATH - assumed 'TEMPLATE_PATH' IndexAction.class.php 第 39 行.
+[ 2012-05-10T13:48:29+08:00 ] /SiaWeb/admin.php | NOTIC: [8] Use of undefined constant WEB_PUBLIC_PATH - assumed 'WEB_PUBLIC_PATH' IndexAction.class.php 第 41 行.

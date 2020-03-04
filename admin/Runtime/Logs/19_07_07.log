@@ -1,0 +1,1286 @@
+[ 2019-07-07T09:25:43+08:00 ] /abcTest/admin.php/Index/resources/images/closelabel.gif | ERR: (ThinkException) 非法操作resources
+[ 2019-07-07T09:26:05+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ route_check ] --START--
+[ 2019-07-07T09:26:05+08:00 ] /abcTest/admin.php/Index/index | INFO: Run CheckRoute Behavior [ RunTime:0.001345s ]
+[ 2019-07-07T09:26:05+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ route_check ] --END-- [ RunTime:0.001567s ]
+[ 2019-07-07T09:26:05+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ app_begin ] --START--
+[ 2019-07-07T09:26:05+08:00 ] /abcTest/admin.php/Index/index | INFO: Run ReadHtmlCache Behavior [ RunTime:0.001025s ]
+[ 2019-07-07T09:26:05+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ app_begin ] --END-- [ RunTime:0.001219s ]
+[ 2019-07-07T09:26:05+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ view_template ] --START--
+[ 2019-07-07T09:26:05+08:00 ] /abcTest/admin.php/Index/index | INFO: Run LocationTemplate Behavior [ RunTime:0.001410s ]
+[ 2019-07-07T09:26:05+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ view_template ] --END-- [ RunTime:0.001647s ]
+[ 2019-07-07T09:26:05+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ view_parse ] --START--
+[ 2019-07-07T09:26:05+08:00 ] /abcTest/admin.php/Index/index | NOTIC: [8] Undefined variable: title 4c18d5952d0dbf1eedb8a1ec796fa788.php 第 5 行.
+[ 2019-07-07T09:26:05+08:00 ] /abcTest/admin.php/Index/index | INFO: Run ParseTemplate Behavior [ RunTime:0.018134s ]
+[ 2019-07-07T09:26:05+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ view_parse ] --END-- [ RunTime:0.018425s ]
+[ 2019-07-07T09:26:05+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ view_filter ] --START--
+[ 2019-07-07T09:26:05+08:00 ] /abcTest/admin.php/Index/index | INFO: Run ContentReplace Behavior [ RunTime:0.001186s ]
+[ 2019-07-07T09:26:05+08:00 ] /abcTest/admin.php/Index/index | INFO: Run TokenBuild Behavior [ RunTime:0.001415s ]
+[ 2019-07-07T09:26:05+08:00 ] /abcTest/admin.php/Index/index | INFO: Run WriteHtmlCache Behavior [ RunTime:0.000855s ]
+[ 2019-07-07T09:26:05+08:00 ] /abcTest/admin.php/Index/index | INFO: Run ShowRuntime Behavior [ RunTime:0.001830s ]
+[ 2019-07-07T09:26:05+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ view_filter ] --END-- [ RunTime:0.006054s ]
+[ 2019-07-07T09:26:05+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ view_end ] --START--
+[ 2019-07-07T09:26:05+08:00 ] /abcTest/admin.php/Index/index | INFO: Run ShowPageTrace Behavior [ RunTime:0.001107s ]
+[ 2019-07-07T09:26:05+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ view_end ] --END-- [ RunTime:0.001312s ]
+[ 2019-07-07T09:26:09+08:00 ] /abcTest/admin.php/Index/resources/images/closelabel.gif | ERR: (ThinkException) 非法操作resources
+[ 2019-07-07T09:26:27+08:00 ] /abcTest/admin.php/Member/index | INFO: Tag[ route_check ] --START--
+[ 2019-07-07T09:26:27+08:00 ] /abcTest/admin.php/Member/index | INFO: Run CheckRoute Behavior [ RunTime:0.002720s ]
+[ 2019-07-07T09:26:27+08:00 ] /abcTest/admin.php/Member/index | INFO: Tag[ route_check ] --END-- [ RunTime:0.003283s ]
+[ 2019-07-07T09:26:27+08:00 ] /abcTest/admin.php/Member/index | INFO: Tag[ app_begin ] --START--
+[ 2019-07-07T09:26:27+08:00 ] /abcTest/admin.php/Member/index | INFO: Run ReadHtmlCache Behavior [ RunTime:0.002180s ]
+[ 2019-07-07T09:26:27+08:00 ] /abcTest/admin.php/Member/index | INFO: Tag[ app_begin ] --END-- [ RunTime:0.002618s ]
+[ 2019-07-07T09:26:27+08:00 ] /abcTest/admin.php/Member/index | NOTIC: [8] Use of undefined constant Member - assumed 'Member' MemberAction.class.php 第 6 行.
+[ 2019-07-07T09:26:28+08:00 ] /abcTest/admin.php/Member/index | SQL: SHOW COLUMNS FROM `t_member` [ RunTime:0.007322s ]
+[ 2019-07-07T09:26:28+08:00 ] /abcTest/admin.php/Member/index | SQL: SELECT COUNT(*) AS tp_count FROM `t_member` LIMIT 1   [ RunTime:0.000545s ]
+[ 2019-07-07T09:26:28+08:00 ] /abcTest/admin.php/Member/index | SQL: SELECT `memName`,`memSex`,`memAddr`,`memHealth`,`memIdCard`,`memTel`,`memRegisteDate` FROM `t_member` ORDER BY memId asc  [ RunTime:0.000355s ]
+[ 2019-07-07T09:26:28+08:00 ] /abcTest/admin.php/Member/index | INFO: Tag[ view_template ] --START--
+[ 2019-07-07T09:26:28+08:00 ] /abcTest/admin.php/Member/index | INFO: Run LocationTemplate Behavior [ RunTime:0.001300s ]
+[ 2019-07-07T09:26:28+08:00 ] /abcTest/admin.php/Member/index | INFO: Tag[ view_template ] --END-- [ RunTime:0.001560s ]
+[ 2019-07-07T09:26:28+08:00 ] /abcTest/admin.php/Member/index | INFO: Tag[ view_parse ] --START--
+[ 2019-07-07T09:26:28+08:00 ] /abcTest/admin.php/Member/index | NOTIC: [8] Undefined variable: title 3cee509fada8262edd7bf89285b287db.php 第 5 行.
+[ 2019-07-07T09:26:28+08:00 ] /abcTest/admin.php/Member/index | INFO: Run ParseTemplate Behavior [ RunTime:0.066575s ]
+[ 2019-07-07T09:26:28+08:00 ] /abcTest/admin.php/Member/index | INFO: Tag[ view_parse ] --END-- [ RunTime:0.066774s ]
+[ 2019-07-07T09:26:28+08:00 ] /abcTest/admin.php/Member/index | INFO: Tag[ view_filter ] --START--
+[ 2019-07-07T09:26:28+08:00 ] /abcTest/admin.php/Member/index | INFO: Run ContentReplace Behavior [ RunTime:0.000758s ]
+[ 2019-07-07T09:26:28+08:00 ] /abcTest/admin.php/Member/index | INFO: Run TokenBuild Behavior [ RunTime:0.000795s ]
+[ 2019-07-07T09:26:28+08:00 ] /abcTest/admin.php/Member/index | INFO: Run WriteHtmlCache Behavior [ RunTime:0.000357s ]
+[ 2019-07-07T09:26:28+08:00 ] /abcTest/admin.php/Member/index | INFO: Run ShowRuntime Behavior [ RunTime:0.000760s ]
+[ 2019-07-07T09:26:28+08:00 ] /abcTest/admin.php/Member/index | INFO: Tag[ view_filter ] --END-- [ RunTime:0.003077s ]
+[ 2019-07-07T09:26:28+08:00 ] /abcTest/admin.php/Member/index | INFO: Tag[ view_end ] --START--
+[ 2019-07-07T09:26:28+08:00 ] /abcTest/admin.php/Member/index | INFO: Run ShowPageTrace Behavior [ RunTime:0.000583s ]
+[ 2019-07-07T09:26:28+08:00 ] /abcTest/admin.php/Member/index | INFO: Tag[ view_end ] --END-- [ RunTime:0.000714s ]
+[ 2019-07-07T09:26:32+08:00 ] /abcTest/admin.php/Member/resources/images/closelabel.gif | ERR: (ThinkException) 非法操作resources
+[ 2019-07-07T15:14:04+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ route_check ] --START--
+[ 2019-07-07T15:14:04+08:00 ] /abcTest/admin.php/Index/index | INFO: Run CheckRoute Behavior [ RunTime:0.002063s ]
+[ 2019-07-07T15:14:04+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ route_check ] --END-- [ RunTime:0.002331s ]
+[ 2019-07-07T15:14:04+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ app_begin ] --START--
+[ 2019-07-07T15:14:04+08:00 ] /abcTest/admin.php/Index/index | INFO: Run ReadHtmlCache Behavior [ RunTime:0.001715s ]
+[ 2019-07-07T15:14:04+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ app_begin ] --END-- [ RunTime:0.001897s ]
+[ 2019-07-07T15:14:04+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ view_template ] --START--
+[ 2019-07-07T15:14:04+08:00 ] /abcTest/admin.php/Index/index | INFO: Run LocationTemplate Behavior [ RunTime:0.001813s ]
+[ 2019-07-07T15:14:04+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ view_template ] --END-- [ RunTime:0.002054s ]
+[ 2019-07-07T15:14:04+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ view_parse ] --START--
+[ 2019-07-07T15:14:05+08:00 ] /abcTest/admin.php/Index/index | NOTIC: [8] Undefined variable: title 4c18d5952d0dbf1eedb8a1ec796fa788.php 第 5 行.
+[ 2019-07-07T15:14:05+08:00 ] /abcTest/admin.php/Index/index | INFO: Run ParseTemplate Behavior [ RunTime:0.019744s ]
+[ 2019-07-07T15:14:05+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ view_parse ] --END-- [ RunTime:0.019972s ]
+[ 2019-07-07T15:14:05+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ view_filter ] --START--
+[ 2019-07-07T15:14:05+08:00 ] /abcTest/admin.php/Index/index | INFO: Run ContentReplace Behavior [ RunTime:0.001433s ]
+[ 2019-07-07T15:14:05+08:00 ] /abcTest/admin.php/Index/index | INFO: Run TokenBuild Behavior [ RunTime:0.001813s ]
+[ 2019-07-07T15:14:05+08:00 ] /abcTest/admin.php/Index/index | INFO: Run WriteHtmlCache Behavior [ RunTime:0.000952s ]
+[ 2019-07-07T15:14:05+08:00 ] /abcTest/admin.php/Index/index | INFO: Run ShowRuntime Behavior [ RunTime:0.002543s ]
+[ 2019-07-07T15:14:05+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ view_filter ] --END-- [ RunTime:0.007496s ]
+[ 2019-07-07T15:14:05+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ view_end ] --START--
+[ 2019-07-07T15:14:05+08:00 ] /abcTest/admin.php/Index/index | INFO: Run ShowPageTrace Behavior [ RunTime:0.001457s ]
+[ 2019-07-07T15:14:05+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ view_end ] --END-- [ RunTime:0.001669s ]
+[ 2019-07-07T15:14:08+08:00 ] /abcTest/admin.php/Index/resources/images/closelabel.gif | ERR: (ThinkException) 非法操作resources
+[ 2019-07-07T15:14:36+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ route_check ] --START--
+[ 2019-07-07T15:14:36+08:00 ] /abcTest/admin.php/Index/index | INFO: Run CheckRoute Behavior [ RunTime:0.002726s ]
+[ 2019-07-07T15:14:36+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ route_check ] --END-- [ RunTime:0.003168s ]
+[ 2019-07-07T15:14:36+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ app_begin ] --START--
+[ 2019-07-07T15:14:36+08:00 ] /abcTest/admin.php/Index/index | INFO: Run ReadHtmlCache Behavior [ RunTime:0.001960s ]
+[ 2019-07-07T15:14:36+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ app_begin ] --END-- [ RunTime:0.002205s ]
+[ 2019-07-07T15:14:36+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ view_template ] --START--
+[ 2019-07-07T15:14:36+08:00 ] /abcTest/admin.php/Index/index | INFO: Run LocationTemplate Behavior [ RunTime:0.001999s ]
+[ 2019-07-07T15:14:36+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ view_template ] --END-- [ RunTime:0.002233s ]
+[ 2019-07-07T15:14:36+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ view_parse ] --START--
+[ 2019-07-07T15:14:37+08:00 ] /abcTest/admin.php/Index/index | NOTIC: [8] Undefined variable: title 4c18d5952d0dbf1eedb8a1ec796fa788.php 第 5 行.
+[ 2019-07-07T15:14:37+08:00 ] /abcTest/admin.php/Index/index | INFO: Run ParseTemplate Behavior [ RunTime:0.020981s ]
+[ 2019-07-07T15:14:37+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ view_parse ] --END-- [ RunTime:0.021239s ]
+[ 2019-07-07T15:14:37+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ view_filter ] --START--
+[ 2019-07-07T15:14:37+08:00 ] /abcTest/admin.php/Index/index | INFO: Run ContentReplace Behavior [ RunTime:0.002149s ]
+[ 2019-07-07T15:14:37+08:00 ] /abcTest/admin.php/Index/index | INFO: Run TokenBuild Behavior [ RunTime:0.001434s ]
+[ 2019-07-07T15:14:37+08:00 ] /abcTest/admin.php/Index/index | INFO: Run WriteHtmlCache Behavior [ RunTime:0.001687s ]
+[ 2019-07-07T15:14:37+08:00 ] /abcTest/admin.php/Index/index | INFO: Run ShowRuntime Behavior [ RunTime:0.002652s ]
+[ 2019-07-07T15:14:37+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ view_filter ] --END-- [ RunTime:0.008698s ]
+[ 2019-07-07T15:14:37+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ view_end ] --START--
+[ 2019-07-07T15:14:37+08:00 ] /abcTest/admin.php/Index/index | INFO: Run ShowPageTrace Behavior [ RunTime:0.001766s ]
+[ 2019-07-07T15:14:37+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ view_end ] --END-- [ RunTime:0.001979s ]
+[ 2019-07-07T15:14:40+08:00 ] /abcTest/admin.php/Index/resources/images/closelabel.gif | ERR: (ThinkException) 非法操作resources
+[ 2019-07-07T15:14:41+08:00 ] /abcTest/admin.php/Course/index | INFO: Tag[ route_check ] --START--
+[ 2019-07-07T15:14:41+08:00 ] /abcTest/admin.php/Course/index | INFO: Run CheckRoute Behavior [ RunTime:0.002291s ]
+[ 2019-07-07T15:14:41+08:00 ] /abcTest/admin.php/Course/index | INFO: Tag[ route_check ] --END-- [ RunTime:0.002559s ]
+[ 2019-07-07T15:14:41+08:00 ] /abcTest/admin.php/Course/index | INFO: Tag[ app_begin ] --START--
+[ 2019-07-07T15:14:41+08:00 ] /abcTest/admin.php/Course/index | INFO: Run ReadHtmlCache Behavior [ RunTime:0.001745s ]
+[ 2019-07-07T15:14:41+08:00 ] /abcTest/admin.php/Course/index | INFO: Tag[ app_begin ] --END-- [ RunTime:0.001999s ]
+[ 2019-07-07T15:14:41+08:00 ] /abcTest/admin.php/Course/index | NOTIC: [8] Undefined index: id CourseAction.class.php 第 4 行.
+[ 2019-07-07T15:14:41+08:00 ] /abcTest/admin.php/Course/index | NOTIC: [8] Use of undefined constant Course - assumed 'Course' CourseAction.class.php 第 5 行.
+[ 2019-07-07T15:14:41+08:00 ] /abcTest/admin.php/Course/index | SQL: SHOW COLUMNS FROM `t_course` [ RunTime:0.008347s ]
+[ 2019-07-07T15:14:41+08:00 ] /abcTest/admin.php/Course/index | SQL: SELECT `courseID`,`courseName`,`courseContent`,`courseTime`,`courseArea`,`courseTeacher`,`coursePrice` FROM `t_course` ORDER BY courseID asc  [ RunTime:0.000999s ]
+[ 2019-07-07T15:14:41+08:00 ] /abcTest/admin.php/Course/index | SQL: SELECT `courseContent` FROM `t_course` WHERE courseID='' LIMIT 1   [ RunTime:0.000526s ]
+[ 2019-07-07T15:14:41+08:00 ] /abcTest/admin.php/Course/index | INFO: Tag[ view_template ] --START--
+[ 2019-07-07T15:14:41+08:00 ] /abcTest/admin.php/Course/index | INFO: Run LocationTemplate Behavior [ RunTime:0.002490s ]
+[ 2019-07-07T15:14:41+08:00 ] /abcTest/admin.php/Course/index | INFO: Tag[ view_template ] --END-- [ RunTime:0.002722s ]
+[ 2019-07-07T15:14:41+08:00 ] /abcTest/admin.php/Course/index | INFO: Tag[ view_parse ] --START--
+[ 2019-07-07T15:14:41+08:00 ] /abcTest/admin.php/Course/index | NOTIC: [8] Undefined variable: title 6f0ada55359106615047b4a70d624b08.php 第 5 行.
+[ 2019-07-07T15:14:41+08:00 ] /abcTest/admin.php/Course/index | INFO: Run ParseTemplate Behavior [ RunTime:0.046659s ]
+[ 2019-07-07T15:14:41+08:00 ] /abcTest/admin.php/Course/index | INFO: Tag[ view_parse ] --END-- [ RunTime:0.046865s ]
+[ 2019-07-07T15:14:41+08:00 ] /abcTest/admin.php/Course/index | INFO: Tag[ view_filter ] --START--
+[ 2019-07-07T15:14:41+08:00 ] /abcTest/admin.php/Course/index | INFO: Run ContentReplace Behavior [ RunTime:0.001649s ]
+[ 2019-07-07T15:14:41+08:00 ] /abcTest/admin.php/Course/index | INFO: Run TokenBuild Behavior [ RunTime:0.001617s ]
+[ 2019-07-07T15:14:41+08:00 ] /abcTest/admin.php/Course/index | INFO: Run WriteHtmlCache Behavior [ RunTime:0.000780s ]
+[ 2019-07-07T15:14:41+08:00 ] /abcTest/admin.php/Course/index | INFO: Run ShowRuntime Behavior [ RunTime:0.001272s ]
+[ 2019-07-07T15:14:41+08:00 ] /abcTest/admin.php/Course/index | INFO: Tag[ view_filter ] --END-- [ RunTime:0.005791s ]
+[ 2019-07-07T15:14:41+08:00 ] /abcTest/admin.php/Course/index | INFO: Tag[ view_end ] --START--
+[ 2019-07-07T15:14:41+08:00 ] /abcTest/admin.php/Course/index | INFO: Run ShowPageTrace Behavior [ RunTime:0.001007s ]
+[ 2019-07-07T15:14:41+08:00 ] /abcTest/admin.php/Course/index | INFO: Tag[ view_end ] --END-- [ RunTime:0.001159s ]
+[ 2019-07-07T15:14:46+08:00 ] /abcTest/admin.php/Course/resources/images/closelabel.gif | ERR: (ThinkException) 非法操作resources
+[ 2019-07-07T15:14:48+08:00 ] /abcTest/admin.php/Course/index | INFO: Tag[ route_check ] --START--
+[ 2019-07-07T15:14:48+08:00 ] /abcTest/admin.php/Course/index | INFO: Run CheckRoute Behavior [ RunTime:0.001382s ]
+[ 2019-07-07T15:14:48+08:00 ] /abcTest/admin.php/Course/index | INFO: Tag[ route_check ] --END-- [ RunTime:0.001578s ]
+[ 2019-07-07T15:14:48+08:00 ] /abcTest/admin.php/Course/index | INFO: Tag[ app_begin ] --START--
+[ 2019-07-07T15:14:48+08:00 ] /abcTest/admin.php/Course/index | INFO: Run ReadHtmlCache Behavior [ RunTime:0.001222s ]
+[ 2019-07-07T15:14:48+08:00 ] /abcTest/admin.php/Course/index | INFO: Tag[ app_begin ] --END-- [ RunTime:0.001385s ]
+[ 2019-07-07T15:14:48+08:00 ] /abcTest/admin.php/Course/index | NOTIC: [8] Use of undefined constant Course - assumed 'Course' CourseAction.class.php 第 5 行.
+[ 2019-07-07T15:14:48+08:00 ] /abcTest/admin.php/Course/index | SQL: SHOW COLUMNS FROM `t_course` [ RunTime:0.007806s ]
+[ 2019-07-07T15:14:48+08:00 ] /abcTest/admin.php/Course/index | SQL: SELECT `courseID`,`courseName`,`courseContent`,`courseTime`,`courseArea`,`courseTeacher`,`coursePrice` FROM `t_course` ORDER BY courseID asc  [ RunTime:0.000837s ]
+[ 2019-07-07T15:14:48+08:00 ] /abcTest/admin.php/Course/index | SQL: SELECT `courseContent` FROM `t_course` WHERE courseID='300001' LIMIT 1   [ RunTime:0.000553s ]
+[ 2019-07-07T15:14:48+08:00 ] /abcTest/admin.php/Course/index | INFO: Tag[ view_template ] --START--
+[ 2019-07-07T15:14:48+08:00 ] /abcTest/admin.php/Course/index | INFO: Run LocationTemplate Behavior [ RunTime:0.001800s ]
+[ 2019-07-07T15:14:48+08:00 ] /abcTest/admin.php/Course/index | INFO: Tag[ view_template ] --END-- [ RunTime:0.001974s ]
+[ 2019-07-07T15:14:48+08:00 ] /abcTest/admin.php/Course/index | INFO: Tag[ view_parse ] --START--
+[ 2019-07-07T15:14:48+08:00 ] /abcTest/admin.php/Course/index | NOTIC: [8] Undefined variable: title 6f0ada55359106615047b4a70d624b08.php 第 5 行.
+[ 2019-07-07T15:14:48+08:00 ] /abcTest/admin.php/Course/index | INFO: Run ParseTemplate Behavior [ RunTime:0.020828s ]
+[ 2019-07-07T15:14:48+08:00 ] /abcTest/admin.php/Course/index | INFO: Tag[ view_parse ] --END-- [ RunTime:0.021013s ]
+[ 2019-07-07T15:14:48+08:00 ] /abcTest/admin.php/Course/index | INFO: Tag[ view_filter ] --START--
+[ 2019-07-07T15:14:48+08:00 ] /abcTest/admin.php/Course/index | INFO: Run ContentReplace Behavior [ RunTime:0.001371s ]
+[ 2019-07-07T15:14:48+08:00 ] /abcTest/admin.php/Course/index | INFO: Run TokenBuild Behavior [ RunTime:0.001208s ]
+[ 2019-07-07T15:14:48+08:00 ] /abcTest/admin.php/Course/index | INFO: Run WriteHtmlCache Behavior [ RunTime:0.000901s ]
+[ 2019-07-07T15:14:48+08:00 ] /abcTest/admin.php/Course/index | INFO: Run ShowRuntime Behavior [ RunTime:0.001310s ]
+[ 2019-07-07T15:14:48+08:00 ] /abcTest/admin.php/Course/index | INFO: Tag[ view_filter ] --END-- [ RunTime:0.005252s ]
+[ 2019-07-07T15:14:48+08:00 ] /abcTest/admin.php/Course/index | INFO: Tag[ view_end ] --START--
+[ 2019-07-07T15:14:48+08:00 ] /abcTest/admin.php/Course/index | INFO: Run ShowPageTrace Behavior [ RunTime:0.001007s ]
+[ 2019-07-07T15:14:48+08:00 ] /abcTest/admin.php/Course/index | INFO: Tag[ view_end ] --END-- [ RunTime:0.001160s ]
+[ 2019-07-07T15:15:01+08:00 ] /abcTest/admin.php/Course/index | INFO: Tag[ route_check ] --START--
+[ 2019-07-07T15:15:01+08:00 ] /abcTest/admin.php/Course/index | INFO: Run CheckRoute Behavior [ RunTime:0.003542s ]
+[ 2019-07-07T15:15:01+08:00 ] /abcTest/admin.php/Course/index | INFO: Tag[ route_check ] --END-- [ RunTime:0.003979s ]
+[ 2019-07-07T15:15:01+08:00 ] /abcTest/admin.php/Course/index | INFO: Tag[ app_begin ] --START--
+[ 2019-07-07T15:15:01+08:00 ] /abcTest/admin.php/Course/index | INFO: Run ReadHtmlCache Behavior [ RunTime:0.002999s ]
+[ 2019-07-07T15:15:01+08:00 ] /abcTest/admin.php/Course/index | INFO: Tag[ app_begin ] --END-- [ RunTime:0.003377s ]
+[ 2019-07-07T15:15:01+08:00 ] /abcTest/admin.php/Course/index | NOTIC: [8] Undefined index: id CourseAction.class.php 第 4 行.
+[ 2019-07-07T15:15:01+08:00 ] /abcTest/admin.php/Course/index | NOTIC: [8] Use of undefined constant Course - assumed 'Course' CourseAction.class.php 第 5 行.
+[ 2019-07-07T15:15:01+08:00 ] /abcTest/admin.php/Course/index | SQL: SHOW COLUMNS FROM `t_course` [ RunTime:0.050247s ]
+[ 2019-07-07T15:15:01+08:00 ] /abcTest/admin.php/Course/index | SQL: SELECT `courseID`,`courseName`,`courseContent`,`courseTime`,`courseArea`,`courseTeacher`,`coursePrice` FROM `t_course` ORDER BY courseID asc  [ RunTime:0.000719s ]
+[ 2019-07-07T15:15:01+08:00 ] /abcTest/admin.php/Course/index | SQL: SELECT `courseContent` FROM `t_course` WHERE courseID='' LIMIT 1   [ RunTime:0.000554s ]
+[ 2019-07-07T15:15:01+08:00 ] /abcTest/admin.php/Course/index | INFO: Tag[ view_template ] --START--
+[ 2019-07-07T15:15:01+08:00 ] /abcTest/admin.php/Course/index | INFO: Run LocationTemplate Behavior [ RunTime:0.002312s ]
+[ 2019-07-07T15:15:01+08:00 ] /abcTest/admin.php/Course/index | INFO: Tag[ view_template ] --END-- [ RunTime:0.002549s ]
+[ 2019-07-07T15:15:01+08:00 ] /abcTest/admin.php/Course/index | INFO: Tag[ view_parse ] --START--
+[ 2019-07-07T15:15:01+08:00 ] /abcTest/admin.php/Course/index | NOTIC: [8] Undefined variable: title 6f0ada55359106615047b4a70d624b08.php 第 5 行.
+[ 2019-07-07T15:15:01+08:00 ] /abcTest/admin.php/Course/index | INFO: Run ParseTemplate Behavior [ RunTime:0.028954s ]
+[ 2019-07-07T15:15:01+08:00 ] /abcTest/admin.php/Course/index | INFO: Tag[ view_parse ] --END-- [ RunTime:0.029176s ]
+[ 2019-07-07T15:15:01+08:00 ] /abcTest/admin.php/Course/index | INFO: Tag[ view_filter ] --START--
+[ 2019-07-07T15:15:01+08:00 ] /abcTest/admin.php/Course/index | INFO: Run ContentReplace Behavior [ RunTime:0.001205s ]
+[ 2019-07-07T15:15:01+08:00 ] /abcTest/admin.php/Course/index | INFO: Run TokenBuild Behavior [ RunTime:0.001406s ]
+[ 2019-07-07T15:15:01+08:00 ] /abcTest/admin.php/Course/index | INFO: Run WriteHtmlCache Behavior [ RunTime:0.000816s ]
+[ 2019-07-07T15:15:01+08:00 ] /abcTest/admin.php/Course/index | INFO: Run ShowRuntime Behavior [ RunTime:0.001216s ]
+[ 2019-07-07T15:15:01+08:00 ] /abcTest/admin.php/Course/index | INFO: Tag[ view_filter ] --END-- [ RunTime:0.005090s ]
+[ 2019-07-07T15:15:01+08:00 ] /abcTest/admin.php/Course/index | INFO: Tag[ view_end ] --START--
+[ 2019-07-07T15:15:01+08:00 ] /abcTest/admin.php/Course/index | INFO: Run ShowPageTrace Behavior [ RunTime:0.000976s ]
+[ 2019-07-07T15:15:01+08:00 ] /abcTest/admin.php/Course/index | INFO: Tag[ view_end ] --END-- [ RunTime:0.001126s ]
+[ 2019-07-07T15:15:05+08:00 ] /abcTest/admin.php/Course/resources/images/closelabel.gif | ERR: (ThinkException) 非法操作resources
+[ 2019-07-07T15:15:19+08:00 ] /abcTest/admin.php/Course/index | INFO: Tag[ route_check ] --START--
+[ 2019-07-07T15:15:19+08:00 ] /abcTest/admin.php/Course/index | INFO: Run CheckRoute Behavior [ RunTime:0.001696s ]
+[ 2019-07-07T15:15:19+08:00 ] /abcTest/admin.php/Course/index | INFO: Tag[ route_check ] --END-- [ RunTime:0.001890s ]
+[ 2019-07-07T15:15:19+08:00 ] /abcTest/admin.php/Course/index | INFO: Tag[ app_begin ] --START--
+[ 2019-07-07T15:15:19+08:00 ] /abcTest/admin.php/Course/index | INFO: Run ReadHtmlCache Behavior [ RunTime:0.001238s ]
+[ 2019-07-07T15:15:19+08:00 ] /abcTest/admin.php/Course/index | INFO: Tag[ app_begin ] --END-- [ RunTime:0.001367s ]
+[ 2019-07-07T15:15:19+08:00 ] /abcTest/admin.php/Course/index | NOTIC: [8] Undefined index: id CourseAction.class.php 第 4 行.
+[ 2019-07-07T15:15:19+08:00 ] /abcTest/admin.php/Course/index | NOTIC: [8] Use of undefined constant Course - assumed 'Course' CourseAction.class.php 第 5 行.
+[ 2019-07-07T15:15:19+08:00 ] /abcTest/admin.php/Course/index | SQL: SHOW COLUMNS FROM `t_course` [ RunTime:0.006611s ]
+[ 2019-07-07T15:15:19+08:00 ] /abcTest/admin.php/Course/index | SQL: SELECT `courseID`,`courseName`,`courseContent`,`courseTime`,`courseArea`,`courseTeacher`,`coursePrice` FROM `t_course` ORDER BY courseID asc  [ RunTime:0.000723s ]
+[ 2019-07-07T15:15:19+08:00 ] /abcTest/admin.php/Course/index | SQL: SELECT `courseContent` FROM `t_course` WHERE courseID='' LIMIT 1   [ RunTime:0.000357s ]
+[ 2019-07-07T15:15:19+08:00 ] /abcTest/admin.php/Course/index | INFO: Tag[ view_template ] --START--
+[ 2019-07-07T15:15:19+08:00 ] /abcTest/admin.php/Course/index | INFO: Run LocationTemplate Behavior [ RunTime:0.004694s ]
+[ 2019-07-07T15:15:19+08:00 ] /abcTest/admin.php/Course/index | INFO: Tag[ view_template ] --END-- [ RunTime:0.004918s ]
+[ 2019-07-07T15:15:19+08:00 ] /abcTest/admin.php/Course/index | INFO: Tag[ view_parse ] --START--
+[ 2019-07-07T15:15:19+08:00 ] /abcTest/admin.php/Course/index | NOTIC: [8] Undefined variable: title 6f0ada55359106615047b4a70d624b08.php 第 5 行.
+[ 2019-07-07T15:15:19+08:00 ] /abcTest/admin.php/Course/index | INFO: Run ParseTemplate Behavior [ RunTime:0.026780s ]
+[ 2019-07-07T15:15:19+08:00 ] /abcTest/admin.php/Course/index | INFO: Tag[ view_parse ] --END-- [ RunTime:0.026984s ]
+[ 2019-07-07T15:15:19+08:00 ] /abcTest/admin.php/Course/index | INFO: Tag[ view_filter ] --START--
+[ 2019-07-07T15:15:19+08:00 ] /abcTest/admin.php/Course/index | INFO: Run ContentReplace Behavior [ RunTime:0.002363s ]
+[ 2019-07-07T15:15:19+08:00 ] /abcTest/admin.php/Course/index | INFO: Run TokenBuild Behavior [ RunTime:0.001451s ]
+[ 2019-07-07T15:15:19+08:00 ] /abcTest/admin.php/Course/index | INFO: Run WriteHtmlCache Behavior [ RunTime:0.000920s ]
+[ 2019-07-07T15:15:19+08:00 ] /abcTest/admin.php/Course/index | INFO: Run ShowRuntime Behavior [ RunTime:0.001365s ]
+[ 2019-07-07T15:15:19+08:00 ] /abcTest/admin.php/Course/index | INFO: Tag[ view_filter ] --END-- [ RunTime:0.006590s ]
+[ 2019-07-07T15:15:19+08:00 ] /abcTest/admin.php/Course/index | INFO: Tag[ view_end ] --START--
+[ 2019-07-07T15:15:19+08:00 ] /abcTest/admin.php/Course/index | INFO: Run ShowPageTrace Behavior [ RunTime:0.001072s ]
+[ 2019-07-07T15:15:19+08:00 ] /abcTest/admin.php/Course/index | INFO: Tag[ view_end ] --END-- [ RunTime:0.001228s ]
+[ 2019-07-07T15:15:23+08:00 ] /abcTest/admin.php/Course/resources/images/closelabel.gif | ERR: (ThinkException) 非法操作resources
+[ 2019-07-07T15:16:13+08:00 ] /abcTest/admin.php/Card/index | INFO: Tag[ route_check ] --START--
+[ 2019-07-07T15:16:13+08:00 ] /abcTest/admin.php/Card/index | INFO: Run CheckRoute Behavior [ RunTime:0.001537s ]
+[ 2019-07-07T15:16:13+08:00 ] /abcTest/admin.php/Card/index | INFO: Tag[ route_check ] --END-- [ RunTime:0.001718s ]
+[ 2019-07-07T15:16:13+08:00 ] /abcTest/admin.php/Card/index | INFO: Tag[ app_begin ] --START--
+[ 2019-07-07T15:16:13+08:00 ] /abcTest/admin.php/Card/index | INFO: Run ReadHtmlCache Behavior [ RunTime:0.001368s ]
+[ 2019-07-07T15:16:13+08:00 ] /abcTest/admin.php/Card/index | INFO: Tag[ app_begin ] --END-- [ RunTime:0.001536s ]
+[ 2019-07-07T15:16:13+08:00 ] /abcTest/admin.php/Card/index | INFO: Tag[ view_template ] --START--
+[ 2019-07-07T15:16:13+08:00 ] /abcTest/admin.php/Card/index | INFO: Run LocationTemplate Behavior [ RunTime:0.001431s ]
+[ 2019-07-07T15:16:13+08:00 ] /abcTest/admin.php/Card/index | INFO: Tag[ view_template ] --END-- [ RunTime:0.001570s ]
+[ 2019-07-07T15:16:13+08:00 ] /abcTest/admin.php/Card/index | INFO: Tag[ view_parse ] --START--
+[ 2019-07-07T15:16:13+08:00 ] /abcTest/admin.php/Card/index | INFO: Run ParseTemplate Behavior [ RunTime:0.014425s ]
+[ 2019-07-07T15:16:13+08:00 ] /abcTest/admin.php/Card/index | INFO: Tag[ view_parse ] --END-- [ RunTime:0.014631s ]
+[ 2019-07-07T15:16:13+08:00 ] /abcTest/admin.php/Card/index | INFO: Tag[ view_filter ] --START--
+[ 2019-07-07T15:16:13+08:00 ] /abcTest/admin.php/Card/index | INFO: Run ContentReplace Behavior [ RunTime:0.001309s ]
+[ 2019-07-07T15:16:13+08:00 ] /abcTest/admin.php/Card/index | INFO: Run TokenBuild Behavior [ RunTime:0.001050s ]
+[ 2019-07-07T15:16:13+08:00 ] /abcTest/admin.php/Card/index | INFO: Run WriteHtmlCache Behavior [ RunTime:0.000993s ]
+[ 2019-07-07T15:16:13+08:00 ] /abcTest/admin.php/Card/index | INFO: Run ShowRuntime Behavior [ RunTime:0.001404s ]
+[ 2019-07-07T15:16:13+08:00 ] /abcTest/admin.php/Card/index | INFO: Tag[ view_filter ] --END-- [ RunTime:0.005198s ]
+[ 2019-07-07T15:16:13+08:00 ] /abcTest/admin.php/Card/index | INFO: Tag[ view_end ] --START--
+[ 2019-07-07T15:16:13+08:00 ] /abcTest/admin.php/Card/index | INFO: Run ShowPageTrace Behavior [ RunTime:0.001002s ]
+[ 2019-07-07T15:16:13+08:00 ] /abcTest/admin.php/Card/index | INFO: Tag[ view_end ] --END-- [ RunTime:0.001141s ]
+[ 2019-07-07T15:35:07+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ route_check ] --START--
+[ 2019-07-07T15:35:07+08:00 ] /abcTest/admin.php/Index/index | INFO: Run CheckRoute Behavior [ RunTime:0.002752s ]
+[ 2019-07-07T15:35:07+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ route_check ] --END-- [ RunTime:0.003090s ]
+[ 2019-07-07T15:35:07+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ app_begin ] --START--
+[ 2019-07-07T15:35:07+08:00 ] /abcTest/admin.php/Index/index | INFO: Run ReadHtmlCache Behavior [ RunTime:0.001951s ]
+[ 2019-07-07T15:35:07+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ app_begin ] --END-- [ RunTime:0.002176s ]
+[ 2019-07-07T15:35:07+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ view_template ] --START--
+[ 2019-07-07T15:35:07+08:00 ] /abcTest/admin.php/Index/index | INFO: Run LocationTemplate Behavior [ RunTime:0.002876s ]
+[ 2019-07-07T15:35:07+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ view_template ] --END-- [ RunTime:0.003314s ]
+[ 2019-07-07T15:35:07+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ view_parse ] --START--
+[ 2019-07-07T15:35:07+08:00 ] /abcTest/admin.php/Index/index | NOTIC: [8] Undefined variable: title 4c18d5952d0dbf1eedb8a1ec796fa788.php 第 5 行.
+[ 2019-07-07T15:35:07+08:00 ] /abcTest/admin.php/Index/index | INFO: Run ParseTemplate Behavior [ RunTime:0.021032s ]
+[ 2019-07-07T15:35:07+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ view_parse ] --END-- [ RunTime:0.021242s ]
+[ 2019-07-07T15:35:07+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ view_filter ] --START--
+[ 2019-07-07T15:35:07+08:00 ] /abcTest/admin.php/Index/index | INFO: Run ContentReplace Behavior [ RunTime:0.001337s ]
+[ 2019-07-07T15:35:07+08:00 ] /abcTest/admin.php/Index/index | INFO: Run TokenBuild Behavior [ RunTime:0.001181s ]
+[ 2019-07-07T15:35:07+08:00 ] /abcTest/admin.php/Index/index | INFO: Run WriteHtmlCache Behavior [ RunTime:0.000834s ]
+[ 2019-07-07T15:35:07+08:00 ] /abcTest/admin.php/Index/index | INFO: Run ShowRuntime Behavior [ RunTime:0.001342s ]
+[ 2019-07-07T15:35:07+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ view_filter ] --END-- [ RunTime:0.005119s ]
+[ 2019-07-07T15:35:07+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ view_end ] --START--
+[ 2019-07-07T15:35:07+08:00 ] /abcTest/admin.php/Index/index | INFO: Run ShowPageTrace Behavior [ RunTime:0.001063s ]
+[ 2019-07-07T15:35:07+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ view_end ] --END-- [ RunTime:0.001207s ]
+[ 2019-07-07T15:35:11+08:00 ] /abcTest/admin.php/Index/resources/images/closelabel.gif | ERR: (ThinkException) 非法操作resources
+[ 2019-07-07T15:35:13+08:00 ] /abcTest/admin.php/Card/index | INFO: Tag[ route_check ] --START--
+[ 2019-07-07T15:35:13+08:00 ] /abcTest/admin.php/Card/index | INFO: Run CheckRoute Behavior [ RunTime:0.001706s ]
+[ 2019-07-07T15:35:13+08:00 ] /abcTest/admin.php/Card/index | INFO: Tag[ route_check ] --END-- [ RunTime:0.001926s ]
+[ 2019-07-07T15:35:13+08:00 ] /abcTest/admin.php/Card/index | INFO: Tag[ app_begin ] --START--
+[ 2019-07-07T15:35:13+08:00 ] /abcTest/admin.php/Card/index | INFO: Run ReadHtmlCache Behavior [ RunTime:0.001403s ]
+[ 2019-07-07T15:35:13+08:00 ] /abcTest/admin.php/Card/index | INFO: Tag[ app_begin ] --END-- [ RunTime:0.001580s ]
+[ 2019-07-07T15:35:13+08:00 ] /abcTest/admin.php/Card/index | NOTIC: [8] Use of undefined constant Card - assumed 'Card' CardAction.class.php 第 4 行.
+[ 2019-07-07T15:35:13+08:00 ] /abcTest/admin.php/Card/index | SQL: SHOW COLUMNS FROM `t_card` [ RunTime:0.006854s ]
+[ 2019-07-07T15:35:13+08:00 ] /abcTest/admin.php/Card/index | SQL: SELECT `cardID`,`cardName`,`validTimes`,`cardPrice`,`cardDiscount`,`startTime`,`endTime` FROM `t_card` ORDER BY cardID asc  [ RunTime:0.000777s ]
+[ 2019-07-07T15:35:13+08:00 ] /abcTest/admin.php/Card/index | INFO: Tag[ view_template ] --START--
+[ 2019-07-07T15:35:13+08:00 ] /abcTest/admin.php/Card/index | INFO: Run LocationTemplate Behavior [ RunTime:0.008119s ]
+[ 2019-07-07T15:35:13+08:00 ] /abcTest/admin.php/Card/index | INFO: Tag[ view_template ] --END-- [ RunTime:0.008321s ]
+[ 2019-07-07T15:35:13+08:00 ] /abcTest/admin.php/Card/index | INFO: Tag[ view_parse ] --START--
+[ 2019-07-07T15:35:13+08:00 ] /abcTest/admin.php/Card/index | NOTIC: [8] Undefined variable: title b25313e8e9308df3a7c3768fbe3d1422.php 第 5 行.
+[ 2019-07-07T15:35:13+08:00 ] /abcTest/admin.php/Card/index | NOTIC: [8] Undefined index: cardDisscount b25313e8e9308df3a7c3768fbe3d1422.php 第 55 行.
+[ 2019-07-07T15:35:13+08:00 ] /abcTest/admin.php/Card/index | NOTIC: [8] Undefined index: coaIdCardNo b25313e8e9308df3a7c3768fbe3d1422.php 第 60 行.
+[ 2019-07-07T15:35:13+08:00 ] /abcTest/admin.php/Card/index | NOTIC: [8] Undefined index: cardDisscount b25313e8e9308df3a7c3768fbe3d1422.php 第 55 行.
+[ 2019-07-07T15:35:13+08:00 ] /abcTest/admin.php/Card/index | NOTIC: [8] Undefined index: coaIdCardNo b25313e8e9308df3a7c3768fbe3d1422.php 第 60 行.
+[ 2019-07-07T15:35:13+08:00 ] /abcTest/admin.php/Card/index | NOTIC: [8] Undefined index: cardDisscount b25313e8e9308df3a7c3768fbe3d1422.php 第 55 行.
+[ 2019-07-07T15:35:13+08:00 ] /abcTest/admin.php/Card/index | NOTIC: [8] Undefined index: coaIdCardNo b25313e8e9308df3a7c3768fbe3d1422.php 第 60 行.
+[ 2019-07-07T15:35:13+08:00 ] /abcTest/admin.php/Card/index | INFO: Run ParseTemplate Behavior [ RunTime:0.021224s ]
+[ 2019-07-07T15:35:13+08:00 ] /abcTest/admin.php/Card/index | INFO: Tag[ view_parse ] --END-- [ RunTime:0.021389s ]
+[ 2019-07-07T15:35:13+08:00 ] /abcTest/admin.php/Card/index | INFO: Tag[ view_filter ] --START--
+[ 2019-07-07T15:35:13+08:00 ] /abcTest/admin.php/Card/index | INFO: Run ContentReplace Behavior [ RunTime:0.001085s ]
+[ 2019-07-07T15:35:13+08:00 ] /abcTest/admin.php/Card/index | INFO: Run TokenBuild Behavior [ RunTime:0.001183s ]
+[ 2019-07-07T15:35:13+08:00 ] /abcTest/admin.php/Card/index | INFO: Run WriteHtmlCache Behavior [ RunTime:0.000732s ]
+[ 2019-07-07T15:35:13+08:00 ] /abcTest/admin.php/Card/index | INFO: Run ShowRuntime Behavior [ RunTime:0.001767s ]
+[ 2019-07-07T15:35:13+08:00 ] /abcTest/admin.php/Card/index | INFO: Tag[ view_filter ] --END-- [ RunTime:0.005224s ]
+[ 2019-07-07T15:35:13+08:00 ] /abcTest/admin.php/Card/index | INFO: Tag[ view_end ] --START--
+[ 2019-07-07T15:35:13+08:00 ] /abcTest/admin.php/Card/index | INFO: Run ShowPageTrace Behavior [ RunTime:0.000976s ]
+[ 2019-07-07T15:35:13+08:00 ] /abcTest/admin.php/Card/index | INFO: Tag[ view_end ] --END-- [ RunTime:0.001127s ]
+[ 2019-07-07T15:35:17+08:00 ] /abcTest/admin.php/Card/resources/images/closelabel.gif | ERR: (ThinkException) 非法操作resources
+[ 2019-07-07T15:54:58+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ route_check ] --START--
+[ 2019-07-07T15:54:58+08:00 ] /abcTest/admin.php/Index/index | INFO: Run CheckRoute Behavior [ RunTime:0.002086s ]
+[ 2019-07-07T15:54:58+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ route_check ] --END-- [ RunTime:0.002368s ]
+[ 2019-07-07T15:54:58+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ app_begin ] --START--
+[ 2019-07-07T15:54:58+08:00 ] /abcTest/admin.php/Index/index | INFO: Run ReadHtmlCache Behavior [ RunTime:0.002137s ]
+[ 2019-07-07T15:54:58+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ app_begin ] --END-- [ RunTime:0.002355s ]
+[ 2019-07-07T15:54:58+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ view_template ] --START--
+[ 2019-07-07T15:54:58+08:00 ] /abcTest/admin.php/Index/index | INFO: Run LocationTemplate Behavior [ RunTime:0.002327s ]
+[ 2019-07-07T15:54:58+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ view_template ] --END-- [ RunTime:0.002635s ]
+[ 2019-07-07T15:54:58+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ view_parse ] --START--
+[ 2019-07-07T15:54:58+08:00 ] /abcTest/admin.php/Index/index | NOTIC: [8] Undefined variable: title 4c18d5952d0dbf1eedb8a1ec796fa788.php 第 5 行.
+[ 2019-07-07T15:54:58+08:00 ] /abcTest/admin.php/Index/index | INFO: Run ParseTemplate Behavior [ RunTime:0.021160s ]
+[ 2019-07-07T15:54:58+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ view_parse ] --END-- [ RunTime:0.021395s ]
+[ 2019-07-07T15:54:58+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ view_filter ] --START--
+[ 2019-07-07T15:54:58+08:00 ] /abcTest/admin.php/Index/index | INFO: Run ContentReplace Behavior [ RunTime:0.001405s ]
+[ 2019-07-07T15:54:58+08:00 ] /abcTest/admin.php/Index/index | INFO: Run TokenBuild Behavior [ RunTime:0.001422s ]
+[ 2019-07-07T15:54:58+08:00 ] /abcTest/admin.php/Index/index | INFO: Run WriteHtmlCache Behavior [ RunTime:0.001051s ]
+[ 2019-07-07T15:54:58+08:00 ] /abcTest/admin.php/Index/index | INFO: Run ShowRuntime Behavior [ RunTime:0.001634s ]
+[ 2019-07-07T15:54:58+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ view_filter ] --END-- [ RunTime:0.006056s ]
+[ 2019-07-07T15:54:58+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ view_end ] --START--
+[ 2019-07-07T15:54:58+08:00 ] /abcTest/admin.php/Index/index | INFO: Run ShowPageTrace Behavior [ RunTime:0.002125s ]
+[ 2019-07-07T15:54:58+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ view_end ] --END-- [ RunTime:0.002330s ]
+[ 2019-07-07T15:55:24+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ route_check ] --START--
+[ 2019-07-07T15:55:24+08:00 ] /abcTest/admin.php/Index/index | INFO: Run CheckRoute Behavior [ RunTime:0.002029s ]
+[ 2019-07-07T15:55:24+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ route_check ] --END-- [ RunTime:0.002318s ]
+[ 2019-07-07T15:55:24+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ app_begin ] --START--
+[ 2019-07-07T15:55:24+08:00 ] /abcTest/admin.php/Index/index | INFO: Run ReadHtmlCache Behavior [ RunTime:0.001677s ]
+[ 2019-07-07T15:55:24+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ app_begin ] --END-- [ RunTime:0.002675s ]
+[ 2019-07-07T15:55:24+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ view_template ] --START--
+[ 2019-07-07T15:55:24+08:00 ] /abcTest/admin.php/Index/index | INFO: Run LocationTemplate Behavior [ RunTime:0.001993s ]
+[ 2019-07-07T15:55:24+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ view_template ] --END-- [ RunTime:0.002244s ]
+[ 2019-07-07T15:55:24+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ view_parse ] --START--
+[ 2019-07-07T15:55:24+08:00 ] /abcTest/admin.php/Index/index | NOTIC: [8] Undefined variable: title 4c18d5952d0dbf1eedb8a1ec796fa788.php 第 5 行.
+[ 2019-07-07T15:55:24+08:00 ] /abcTest/admin.php/Index/index | INFO: Run ParseTemplate Behavior [ RunTime:0.015689s ]
+[ 2019-07-07T15:55:24+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ view_parse ] --END-- [ RunTime:0.015907s ]
+[ 2019-07-07T15:55:24+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ view_filter ] --START--
+[ 2019-07-07T15:55:24+08:00 ] /abcTest/admin.php/Index/index | INFO: Run ContentReplace Behavior [ RunTime:0.001041s ]
+[ 2019-07-07T15:55:24+08:00 ] /abcTest/admin.php/Index/index | INFO: Run TokenBuild Behavior [ RunTime:0.000997s ]
+[ 2019-07-07T15:55:24+08:00 ] /abcTest/admin.php/Index/index | INFO: Run WriteHtmlCache Behavior [ RunTime:0.000587s ]
+[ 2019-07-07T15:55:24+08:00 ] /abcTest/admin.php/Index/index | INFO: Run ShowRuntime Behavior [ RunTime:0.001024s ]
+[ 2019-07-07T15:55:24+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ view_filter ] --END-- [ RunTime:0.004058s ]
+[ 2019-07-07T15:55:24+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ view_end ] --START--
+[ 2019-07-07T15:55:24+08:00 ] /abcTest/admin.php/Index/index | INFO: Run ShowPageTrace Behavior [ RunTime:0.000918s ]
+[ 2019-07-07T15:55:24+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ view_end ] --END-- [ RunTime:0.001055s ]
+[ 2019-07-07T15:55:27+08:00 ] /abcTest/admin.php/Index/resources/images/closelabel.gif | ERR: (ThinkException) 非法操作resources
+[ 2019-07-07T15:55:31+08:00 ] /abcTest/admin.php/Card/index | INFO: Tag[ route_check ] --START--
+[ 2019-07-07T15:55:31+08:00 ] /abcTest/admin.php/Card/index | INFO: Run CheckRoute Behavior [ RunTime:0.001652s ]
+[ 2019-07-07T15:55:31+08:00 ] /abcTest/admin.php/Card/index | INFO: Tag[ route_check ] --END-- [ RunTime:0.001858s ]
+[ 2019-07-07T15:55:31+08:00 ] /abcTest/admin.php/Card/index | INFO: Tag[ app_begin ] --START--
+[ 2019-07-07T15:55:31+08:00 ] /abcTest/admin.php/Card/index | INFO: Run ReadHtmlCache Behavior [ RunTime:0.001143s ]
+[ 2019-07-07T15:55:31+08:00 ] /abcTest/admin.php/Card/index | INFO: Tag[ app_begin ] --END-- [ RunTime:0.001314s ]
+[ 2019-07-07T15:55:31+08:00 ] /abcTest/admin.php/Card/index | NOTIC: [8] Use of undefined constant Card - assumed 'Card' CardAction.class.php 第 4 行.
+[ 2019-07-07T15:55:31+08:00 ] /abcTest/admin.php/Card/index | SQL: SHOW COLUMNS FROM `t_card` [ RunTime:0.006874s ]
+[ 2019-07-07T15:55:31+08:00 ] /abcTest/admin.php/Card/index | SQL: SELECT `cardID`,`cardName`,`validTimes`,`cardPrice`,`cardDiscount`,`startTime`,`endTime` FROM `t_card` ORDER BY cardID asc  [ RunTime:0.000616s ]
+[ 2019-07-07T15:55:31+08:00 ] /abcTest/admin.php/Card/index | INFO: Tag[ view_template ] --START--
+[ 2019-07-07T15:55:31+08:00 ] /abcTest/admin.php/Card/index | INFO: Run LocationTemplate Behavior [ RunTime:0.006540s ]
+[ 2019-07-07T15:55:31+08:00 ] /abcTest/admin.php/Card/index | INFO: Tag[ view_template ] --END-- [ RunTime:0.006714s ]
+[ 2019-07-07T15:55:31+08:00 ] /abcTest/admin.php/Card/index | INFO: Tag[ view_parse ] --START--
+[ 2019-07-07T15:55:31+08:00 ] /abcTest/admin.php/Card/index | NOTIC: [8] Undefined variable: title b25313e8e9308df3a7c3768fbe3d1422.php 第 5 行.
+[ 2019-07-07T15:55:31+08:00 ] /abcTest/admin.php/Card/index | INFO: Run ParseTemplate Behavior [ RunTime:0.027451s ]
+[ 2019-07-07T15:55:31+08:00 ] /abcTest/admin.php/Card/index | INFO: Tag[ view_parse ] --END-- [ RunTime:0.027630s ]
+[ 2019-07-07T15:55:31+08:00 ] /abcTest/admin.php/Card/index | INFO: Tag[ view_filter ] --START--
+[ 2019-07-07T15:55:31+08:00 ] /abcTest/admin.php/Card/index | INFO: Run ContentReplace Behavior [ RunTime:0.001082s ]
+[ 2019-07-07T15:55:31+08:00 ] /abcTest/admin.php/Card/index | INFO: Run TokenBuild Behavior [ RunTime:0.001172s ]
+[ 2019-07-07T15:55:31+08:00 ] /abcTest/admin.php/Card/index | INFO: Run WriteHtmlCache Behavior [ RunTime:0.000727s ]
+[ 2019-07-07T15:55:31+08:00 ] /abcTest/admin.php/Card/index | INFO: Run ShowRuntime Behavior [ RunTime:0.001176s ]
+[ 2019-07-07T15:55:31+08:00 ] /abcTest/admin.php/Card/index | INFO: Tag[ view_filter ] --END-- [ RunTime:0.004594s ]
+[ 2019-07-07T15:55:31+08:00 ] /abcTest/admin.php/Card/index | INFO: Tag[ view_end ] --START--
+[ 2019-07-07T15:55:31+08:00 ] /abcTest/admin.php/Card/index | INFO: Run ShowPageTrace Behavior [ RunTime:0.000979s ]
+[ 2019-07-07T15:55:31+08:00 ] /abcTest/admin.php/Card/index | INFO: Tag[ view_end ] --END-- [ RunTime:0.001131s ]
+[ 2019-07-07T15:55:36+08:00 ] /abcTest/admin.php/Card/resources/images/closelabel.gif | ERR: (ThinkException) 非法操作resources
+[ 2019-07-07T15:55:49+08:00 ] /abcTest/admin.php/Card/resources/images/closelabel.gif | ERR: (ThinkException) 非法操作resources
+[ 2019-07-07T16:00:14+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ route_check ] --START--
+[ 2019-07-07T16:00:14+08:00 ] /abcTest/admin.php/Index/index | INFO: Run CheckRoute Behavior [ RunTime:0.002047s ]
+[ 2019-07-07T16:00:14+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ route_check ] --END-- [ RunTime:0.002280s ]
+[ 2019-07-07T16:00:14+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ app_begin ] --START--
+[ 2019-07-07T16:00:14+08:00 ] /abcTest/admin.php/Index/index | INFO: Run ReadHtmlCache Behavior [ RunTime:0.002020s ]
+[ 2019-07-07T16:00:14+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ app_begin ] --END-- [ RunTime:0.002234s ]
+[ 2019-07-07T16:00:14+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ view_template ] --START--
+[ 2019-07-07T16:00:14+08:00 ] /abcTest/admin.php/Index/index | INFO: Run LocationTemplate Behavior [ RunTime:0.001928s ]
+[ 2019-07-07T16:00:14+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ view_template ] --END-- [ RunTime:0.002143s ]
+[ 2019-07-07T16:00:14+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ view_parse ] --START--
+[ 2019-07-07T16:00:14+08:00 ] /abcTest/admin.php/Index/index | NOTIC: [8] Undefined variable: title 4c18d5952d0dbf1eedb8a1ec796fa788.php 第 5 行.
+[ 2019-07-07T16:00:14+08:00 ] /abcTest/admin.php/Index/index | INFO: Run ParseTemplate Behavior [ RunTime:0.018147s ]
+[ 2019-07-07T16:00:14+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ view_parse ] --END-- [ RunTime:0.018364s ]
+[ 2019-07-07T16:00:14+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ view_filter ] --START--
+[ 2019-07-07T16:00:14+08:00 ] /abcTest/admin.php/Index/index | INFO: Run ContentReplace Behavior [ RunTime:0.002819s ]
+[ 2019-07-07T16:00:14+08:00 ] /abcTest/admin.php/Index/index | INFO: Run TokenBuild Behavior [ RunTime:0.001756s ]
+[ 2019-07-07T16:00:14+08:00 ] /abcTest/admin.php/Index/index | INFO: Run WriteHtmlCache Behavior [ RunTime:0.001049s ]
+[ 2019-07-07T16:00:14+08:00 ] /abcTest/admin.php/Index/index | INFO: Run ShowRuntime Behavior [ RunTime:0.001718s ]
+[ 2019-07-07T16:00:14+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ view_filter ] --END-- [ RunTime:0.008341s ]
+[ 2019-07-07T16:00:14+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ view_end ] --START--
+[ 2019-07-07T16:00:14+08:00 ] /abcTest/admin.php/Index/index | INFO: Run ShowPageTrace Behavior [ RunTime:0.001349s ]
+[ 2019-07-07T16:00:14+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ view_end ] --END-- [ RunTime:0.001531s ]
+[ 2019-07-07T16:00:17+08:00 ] /abcTest/admin.php/Index/resources/images/closelabel.gif | ERR: (ThinkException) 非法操作resources
+[ 2019-07-07T16:00:18+08:00 ] /abcTest/admin.php/Card/index | INFO: Tag[ route_check ] --START--
+[ 2019-07-07T16:00:18+08:00 ] /abcTest/admin.php/Card/index | INFO: Run CheckRoute Behavior [ RunTime:0.001827s ]
+[ 2019-07-07T16:00:18+08:00 ] /abcTest/admin.php/Card/index | INFO: Tag[ route_check ] --END-- [ RunTime:0.002028s ]
+[ 2019-07-07T16:00:18+08:00 ] /abcTest/admin.php/Card/index | INFO: Tag[ app_begin ] --START--
+[ 2019-07-07T16:00:18+08:00 ] /abcTest/admin.php/Card/index | INFO: Run ReadHtmlCache Behavior [ RunTime:0.001171s ]
+[ 2019-07-07T16:00:18+08:00 ] /abcTest/admin.php/Card/index | INFO: Tag[ app_begin ] --END-- [ RunTime:0.001333s ]
+[ 2019-07-07T16:00:18+08:00 ] /abcTest/admin.php/Card/index | NOTIC: [8] Use of undefined constant Card - assumed 'Card' CardAction.class.php 第 4 行.
+[ 2019-07-07T16:00:18+08:00 ] /abcTest/admin.php/Card/index | SQL: SHOW COLUMNS FROM `t_card` [ RunTime:0.007090s ]
+[ 2019-07-07T16:00:18+08:00 ] /abcTest/admin.php/Card/index | SQL: SELECT `cardID`,`cardName`,`validTimes`,`cardPrice`,`cardDiscount`,`startTime`,`endTime` FROM `t_card` ORDER BY cardID asc  [ RunTime:0.000499s ]
+[ 2019-07-07T16:00:18+08:00 ] /abcTest/admin.php/Card/index | INFO: Tag[ view_template ] --START--
+[ 2019-07-07T16:00:18+08:00 ] /abcTest/admin.php/Card/index | INFO: Run LocationTemplate Behavior [ RunTime:0.001816s ]
+[ 2019-07-07T16:00:18+08:00 ] /abcTest/admin.php/Card/index | INFO: Tag[ view_template ] --END-- [ RunTime:0.001987s ]
+[ 2019-07-07T16:00:18+08:00 ] /abcTest/admin.php/Card/index | INFO: Tag[ view_parse ] --START--
+[ 2019-07-07T16:00:19+08:00 ] /abcTest/admin.php/Card/index | NOTIC: [8] Undefined variable: title b25313e8e9308df3a7c3768fbe3d1422.php 第 5 行.
+[ 2019-07-07T16:00:19+08:00 ] /abcTest/admin.php/Card/index | INFO: Run ParseTemplate Behavior [ RunTime:0.019625s ]
+[ 2019-07-07T16:00:19+08:00 ] /abcTest/admin.php/Card/index | INFO: Tag[ view_parse ] --END-- [ RunTime:0.019798s ]
+[ 2019-07-07T16:00:19+08:00 ] /abcTest/admin.php/Card/index | INFO: Tag[ view_filter ] --START--
+[ 2019-07-07T16:00:19+08:00 ] /abcTest/admin.php/Card/index | INFO: Run ContentReplace Behavior [ RunTime:0.001009s ]
+[ 2019-07-07T16:00:19+08:00 ] /abcTest/admin.php/Card/index | INFO: Run TokenBuild Behavior [ RunTime:0.001112s ]
+[ 2019-07-07T16:00:19+08:00 ] /abcTest/admin.php/Card/index | INFO: Run WriteHtmlCache Behavior [ RunTime:0.000679s ]
+[ 2019-07-07T16:00:19+08:00 ] /abcTest/admin.php/Card/index | INFO: Run ShowRuntime Behavior [ RunTime:0.001119s ]
+[ 2019-07-07T16:00:19+08:00 ] /abcTest/admin.php/Card/index | INFO: Tag[ view_filter ] --END-- [ RunTime:0.004328s ]
+[ 2019-07-07T16:00:19+08:00 ] /abcTest/admin.php/Card/index | INFO: Tag[ view_end ] --START--
+[ 2019-07-07T16:00:19+08:00 ] /abcTest/admin.php/Card/index | INFO: Run ShowPageTrace Behavior [ RunTime:0.000931s ]
+[ 2019-07-07T16:00:19+08:00 ] /abcTest/admin.php/Card/index | INFO: Tag[ view_end ] --END-- [ RunTime:0.001080s ]
+[ 2019-07-07T16:00:23+08:00 ] /abcTest/admin.php/Card/resources/images/closelabel.gif | ERR: (ThinkException) 非法操作resources
+[ 2019-07-07T16:00:29+08:00 ] /abcTest/admin.php/Card/resources/images/closelabel.gif | ERR: (ThinkException) 非法操作resources
+[ 2019-07-07T16:26:30+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ route_check ] --START--
+[ 2019-07-07T16:26:30+08:00 ] /abcTest/admin.php/Index/index | INFO: Run CheckRoute Behavior [ RunTime:0.002437s ]
+[ 2019-07-07T16:26:30+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ route_check ] --END-- [ RunTime:0.002734s ]
+[ 2019-07-07T16:26:30+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ app_begin ] --START--
+[ 2019-07-07T16:26:30+08:00 ] /abcTest/admin.php/Index/index | INFO: Run ReadHtmlCache Behavior [ RunTime:0.003656s ]
+[ 2019-07-07T16:26:30+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ app_begin ] --END-- [ RunTime:0.003945s ]
+[ 2019-07-07T16:26:30+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ view_template ] --START--
+[ 2019-07-07T16:26:30+08:00 ] /abcTest/admin.php/Index/index | INFO: Run LocationTemplate Behavior [ RunTime:0.002660s ]
+[ 2019-07-07T16:26:30+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ view_template ] --END-- [ RunTime:0.002914s ]
+[ 2019-07-07T16:26:30+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ view_parse ] --START--
+[ 2019-07-07T16:26:30+08:00 ] /abcTest/admin.php/Index/index | NOTIC: [8] Undefined variable: title 4c18d5952d0dbf1eedb8a1ec796fa788.php 第 5 行.
+[ 2019-07-07T16:26:30+08:00 ] /abcTest/admin.php/Index/index | INFO: Run ParseTemplate Behavior [ RunTime:0.020751s ]
+[ 2019-07-07T16:26:30+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ view_parse ] --END-- [ RunTime:0.020993s ]
+[ 2019-07-07T16:26:30+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ view_filter ] --START--
+[ 2019-07-07T16:26:30+08:00 ] /abcTest/admin.php/Index/index | INFO: Run ContentReplace Behavior [ RunTime:0.002517s ]
+[ 2019-07-07T16:26:30+08:00 ] /abcTest/admin.php/Index/index | INFO: Run TokenBuild Behavior [ RunTime:0.002262s ]
+[ 2019-07-07T16:26:30+08:00 ] /abcTest/admin.php/Index/index | INFO: Run WriteHtmlCache Behavior [ RunTime:0.001207s ]
+[ 2019-07-07T16:26:30+08:00 ] /abcTest/admin.php/Index/index | INFO: Run ShowRuntime Behavior [ RunTime:0.001969s ]
+[ 2019-07-07T16:26:30+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ view_filter ] --END-- [ RunTime:0.008638s ]
+[ 2019-07-07T16:26:30+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ view_end ] --START--
+[ 2019-07-07T16:26:30+08:00 ] /abcTest/admin.php/Index/index | INFO: Run ShowPageTrace Behavior [ RunTime:0.001470s ]
+[ 2019-07-07T16:26:30+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ view_end ] --END-- [ RunTime:0.001642s ]
+[ 2019-07-07T16:26:33+08:00 ] /abcTest/admin.php/Index/resources/images/closelabel.gif | ERR: (ThinkException) 非法操作resources
+[ 2019-07-07T16:29:20+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ route_check ] --START--
+[ 2019-07-07T16:29:20+08:00 ] /abcTest/admin.php/Index/index | INFO: Run CheckRoute Behavior [ RunTime:0.002723s ]
+[ 2019-07-07T16:29:20+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ route_check ] --END-- [ RunTime:0.002946s ]
+[ 2019-07-07T16:29:20+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ app_begin ] --START--
+[ 2019-07-07T16:29:20+08:00 ] /abcTest/admin.php/Index/index | INFO: Run ReadHtmlCache Behavior [ RunTime:0.001641s ]
+[ 2019-07-07T16:29:20+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ app_begin ] --END-- [ RunTime:0.001803s ]
+[ 2019-07-07T16:29:20+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ view_template ] --START--
+[ 2019-07-07T16:29:20+08:00 ] /abcTest/admin.php/Index/index | INFO: Run LocationTemplate Behavior [ RunTime:0.001611s ]
+[ 2019-07-07T16:29:20+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ view_template ] --END-- [ RunTime:0.001781s ]
+[ 2019-07-07T16:29:20+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ view_parse ] --START--
+[ 2019-07-07T16:29:20+08:00 ] /abcTest/admin.php/Index/index | NOTIC: [8] Undefined variable: title 4c18d5952d0dbf1eedb8a1ec796fa788.php 第 5 行.
+[ 2019-07-07T16:29:20+08:00 ] /abcTest/admin.php/Index/index | INFO: Run ParseTemplate Behavior [ RunTime:0.015755s ]
+[ 2019-07-07T16:29:20+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ view_parse ] --END-- [ RunTime:0.015928s ]
+[ 2019-07-07T16:29:20+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ view_filter ] --START--
+[ 2019-07-07T16:29:20+08:00 ] /abcTest/admin.php/Index/index | INFO: Run ContentReplace Behavior [ RunTime:0.001138s ]
+[ 2019-07-07T16:29:20+08:00 ] /abcTest/admin.php/Index/index | INFO: Run TokenBuild Behavior [ RunTime:0.001151s ]
+[ 2019-07-07T16:29:20+08:00 ] /abcTest/admin.php/Index/index | INFO: Run WriteHtmlCache Behavior [ RunTime:0.001455s ]
+[ 2019-07-07T16:29:20+08:00 ] /abcTest/admin.php/Index/index | INFO: Run ShowRuntime Behavior [ RunTime:0.001874s ]
+[ 2019-07-07T16:29:20+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ view_filter ] --END-- [ RunTime:0.006176s ]
+[ 2019-07-07T16:29:20+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ view_end ] --START--
+[ 2019-07-07T16:29:20+08:00 ] /abcTest/admin.php/Index/index | INFO: Run ShowPageTrace Behavior [ RunTime:0.001456s ]
+[ 2019-07-07T16:29:20+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ view_end ] --END-- [ RunTime:0.001661s ]
+[ 2019-07-07T16:29:23+08:00 ] /abcTest/admin.php/Index/resources/images/closelabel.gif | ERR: (ThinkException) 非法操作resources
+[ 2019-07-07T16:41:30+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ route_check ] --START--
+[ 2019-07-07T16:41:30+08:00 ] /abcTest/admin.php/Index/index | INFO: Run CheckRoute Behavior [ RunTime:0.003153s ]
+[ 2019-07-07T16:41:30+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ route_check ] --END-- [ RunTime:0.003405s ]
+[ 2019-07-07T16:41:30+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ app_begin ] --START--
+[ 2019-07-07T16:41:31+08:00 ] /abcTest/admin.php/Index/index | INFO: Run ReadHtmlCache Behavior [ RunTime:0.002129s ]
+[ 2019-07-07T16:41:31+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ app_begin ] --END-- [ RunTime:0.002331s ]
+[ 2019-07-07T16:41:31+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ view_template ] --START--
+[ 2019-07-07T16:41:31+08:00 ] /abcTest/admin.php/Index/index | INFO: Run LocationTemplate Behavior [ RunTime:0.002146s ]
+[ 2019-07-07T16:41:31+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ view_template ] --END-- [ RunTime:0.002347s ]
+[ 2019-07-07T16:41:31+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ view_parse ] --START--
+[ 2019-07-07T16:41:31+08:00 ] /abcTest/admin.php/Index/index | NOTIC: [8] Undefined variable: title 4c18d5952d0dbf1eedb8a1ec796fa788.php 第 5 行.
+[ 2019-07-07T16:41:31+08:00 ] /abcTest/admin.php/Index/index | INFO: Run ParseTemplate Behavior [ RunTime:0.021208s ]
+[ 2019-07-07T16:41:31+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ view_parse ] --END-- [ RunTime:0.021461s ]
+[ 2019-07-07T16:41:31+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ view_filter ] --START--
+[ 2019-07-07T16:41:31+08:00 ] /abcTest/admin.php/Index/index | INFO: Run ContentReplace Behavior [ RunTime:0.002121s ]
+[ 2019-07-07T16:41:31+08:00 ] /abcTest/admin.php/Index/index | INFO: Run TokenBuild Behavior [ RunTime:0.002516s ]
+[ 2019-07-07T16:41:31+08:00 ] /abcTest/admin.php/Index/index | INFO: Run WriteHtmlCache Behavior [ RunTime:0.001606s ]
+[ 2019-07-07T16:41:31+08:00 ] /abcTest/admin.php/Index/index | INFO: Run ShowRuntime Behavior [ RunTime:0.002107s ]
+[ 2019-07-07T16:41:31+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ view_filter ] --END-- [ RunTime:0.009035s ]
+[ 2019-07-07T16:41:31+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ view_end ] --START--
+[ 2019-07-07T16:41:31+08:00 ] /abcTest/admin.php/Index/index | INFO: Run ShowPageTrace Behavior [ RunTime:0.001442s ]
+[ 2019-07-07T16:41:31+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ view_end ] --END-- [ RunTime:0.001619s ]
+[ 2019-07-07T16:41:34+08:00 ] /abcTest/admin.php/Index/resources/images/closelabel.gif | ERR: (ThinkException) 非法操作resources
+[ 2019-07-07T16:41:36+08:00 ] /abcTest/admin.php/Card/index | INFO: Tag[ route_check ] --START--
+[ 2019-07-07T16:41:36+08:00 ] /abcTest/admin.php/Card/index | INFO: Run CheckRoute Behavior [ RunTime:0.002062s ]
+[ 2019-07-07T16:41:36+08:00 ] /abcTest/admin.php/Card/index | INFO: Tag[ route_check ] --END-- [ RunTime:0.002298s ]
+[ 2019-07-07T16:41:36+08:00 ] /abcTest/admin.php/Card/index | INFO: Tag[ app_begin ] --START--
+[ 2019-07-07T16:41:36+08:00 ] /abcTest/admin.php/Card/index | INFO: Run ReadHtmlCache Behavior [ RunTime:0.001684s ]
+[ 2019-07-07T16:41:36+08:00 ] /abcTest/admin.php/Card/index | INFO: Tag[ app_begin ] --END-- [ RunTime:0.001916s ]
+[ 2019-07-07T16:41:36+08:00 ] /abcTest/admin.php/Card/index | NOTIC: [8] Use of undefined constant Card - assumed 'Card' CardAction.class.php 第 4 行.
+[ 2019-07-07T16:41:36+08:00 ] /abcTest/admin.php/Card/index | SQL: SHOW COLUMNS FROM `t_card` [ RunTime:0.008458s ]
+[ 2019-07-07T16:41:36+08:00 ] /abcTest/admin.php/Card/index | SQL: SELECT `cardID`,`cardName`,`validTimes`,`cardPrice`,`cardDiscount`,`startTime`,`endTime` FROM `t_card` ORDER BY cardID asc  [ RunTime:0.000527s ]
+[ 2019-07-07T16:41:36+08:00 ] /abcTest/admin.php/Card/index | INFO: Tag[ view_template ] --START--
+[ 2019-07-07T16:41:36+08:00 ] /abcTest/admin.php/Card/index | INFO: Run LocationTemplate Behavior [ RunTime:0.002059s ]
+[ 2019-07-07T16:41:36+08:00 ] /abcTest/admin.php/Card/index | INFO: Tag[ view_template ] --END-- [ RunTime:0.002226s ]
+[ 2019-07-07T16:41:36+08:00 ] /abcTest/admin.php/Card/index | INFO: Tag[ view_parse ] --START--
+[ 2019-07-07T16:41:36+08:00 ] /abcTest/admin.php/Card/index | NOTIC: [8] Undefined variable: title b25313e8e9308df3a7c3768fbe3d1422.php 第 5 行.
+[ 2019-07-07T16:41:36+08:00 ] /abcTest/admin.php/Card/index | INFO: Run ParseTemplate Behavior [ RunTime:0.029370s ]
+[ 2019-07-07T16:41:36+08:00 ] /abcTest/admin.php/Card/index | INFO: Tag[ view_parse ] --END-- [ RunTime:0.029560s ]
+[ 2019-07-07T16:41:36+08:00 ] /abcTest/admin.php/Card/index | INFO: Tag[ view_filter ] --START--
+[ 2019-07-07T16:41:36+08:00 ] /abcTest/admin.php/Card/index | INFO: Run ContentReplace Behavior [ RunTime:0.001493s ]
+[ 2019-07-07T16:41:36+08:00 ] /abcTest/admin.php/Card/index | INFO: Run TokenBuild Behavior [ RunTime:0.001439s ]
+[ 2019-07-07T16:41:36+08:00 ] /abcTest/admin.php/Card/index | INFO: Run WriteHtmlCache Behavior [ RunTime:0.001171s ]
+[ 2019-07-07T16:41:36+08:00 ] /abcTest/admin.php/Card/index | INFO: Run ShowRuntime Behavior [ RunTime:0.001576s ]
+[ 2019-07-07T16:41:36+08:00 ] /abcTest/admin.php/Card/index | INFO: Tag[ view_filter ] --END-- [ RunTime:0.006192s ]
+[ 2019-07-07T16:41:36+08:00 ] /abcTest/admin.php/Card/index | INFO: Tag[ view_end ] --START--
+[ 2019-07-07T16:41:36+08:00 ] /abcTest/admin.php/Card/index | INFO: Run ShowPageTrace Behavior [ RunTime:0.001458s ]
+[ 2019-07-07T16:41:36+08:00 ] /abcTest/admin.php/Card/index | INFO: Tag[ view_end ] --END-- [ RunTime:0.001669s ]
+[ 2019-07-07T16:41:40+08:00 ] /abcTest/admin.php/Card/resources/images/closelabel.gif | ERR: (ThinkException) 非法操作resources
+[ 2019-07-07T16:41:43+08:00 ] /abcTest/admin.php/Card/index | INFO: Tag[ route_check ] --START--
+[ 2019-07-07T16:41:43+08:00 ] /abcTest/admin.php/Card/index | INFO: Run CheckRoute Behavior [ RunTime:0.001451s ]
+[ 2019-07-07T16:41:43+08:00 ] /abcTest/admin.php/Card/index | INFO: Tag[ route_check ] --END-- [ RunTime:0.001644s ]
+[ 2019-07-07T16:41:43+08:00 ] /abcTest/admin.php/Card/index | INFO: Tag[ app_begin ] --START--
+[ 2019-07-07T16:41:43+08:00 ] /abcTest/admin.php/Card/index | INFO: Run ReadHtmlCache Behavior [ RunTime:0.001202s ]
+[ 2019-07-07T16:41:43+08:00 ] /abcTest/admin.php/Card/index | INFO: Tag[ app_begin ] --END-- [ RunTime:0.001358s ]
+[ 2019-07-07T16:41:43+08:00 ] /abcTest/admin.php/Card/index | NOTIC: [8] Use of undefined constant Card - assumed 'Card' CardAction.class.php 第 4 行.
+[ 2019-07-07T16:41:43+08:00 ] /abcTest/admin.php/Card/index | SQL: SHOW COLUMNS FROM `t_card` [ RunTime:0.007668s ]
+[ 2019-07-07T16:41:43+08:00 ] /abcTest/admin.php/Card/index | SQL: SELECT `cardID`,`cardName`,`validTimes`,`cardPrice`,`cardDiscount`,`startTime`,`endTime` FROM `t_card` ORDER BY cardID asc  [ RunTime:0.000420s ]
+[ 2019-07-07T16:41:43+08:00 ] /abcTest/admin.php/Card/index | INFO: Tag[ view_template ] --START--
+[ 2019-07-07T16:41:43+08:00 ] /abcTest/admin.php/Card/index | INFO: Run LocationTemplate Behavior [ RunTime:0.001730s ]
+[ 2019-07-07T16:41:43+08:00 ] /abcTest/admin.php/Card/index | INFO: Tag[ view_template ] --END-- [ RunTime:0.001936s ]
+[ 2019-07-07T16:41:43+08:00 ] /abcTest/admin.php/Card/index | INFO: Tag[ view_parse ] --START--
+[ 2019-07-07T16:41:43+08:00 ] /abcTest/admin.php/Card/index | NOTIC: [8] Undefined variable: title b25313e8e9308df3a7c3768fbe3d1422.php 第 5 行.
+[ 2019-07-07T16:41:43+08:00 ] /abcTest/admin.php/Card/index | INFO: Run ParseTemplate Behavior [ RunTime:0.019449s ]
+[ 2019-07-07T16:41:43+08:00 ] /abcTest/admin.php/Card/index | INFO: Tag[ view_parse ] --END-- [ RunTime:0.019626s ]
+[ 2019-07-07T16:41:43+08:00 ] /abcTest/admin.php/Card/index | INFO: Tag[ view_filter ] --START--
+[ 2019-07-07T16:41:43+08:00 ] /abcTest/admin.php/Card/index | INFO: Run ContentReplace Behavior [ RunTime:0.001005s ]
+[ 2019-07-07T16:41:43+08:00 ] /abcTest/admin.php/Card/index | INFO: Run TokenBuild Behavior [ RunTime:0.001096s ]
+[ 2019-07-07T16:41:43+08:00 ] /abcTest/admin.php/Card/index | INFO: Run WriteHtmlCache Behavior [ RunTime:0.000644s ]
+[ 2019-07-07T16:41:43+08:00 ] /abcTest/admin.php/Card/index | INFO: Run ShowRuntime Behavior [ RunTime:0.001305s ]
+[ 2019-07-07T16:41:43+08:00 ] /abcTest/admin.php/Card/index | INFO: Tag[ view_filter ] --END-- [ RunTime:0.004536s ]
+[ 2019-07-07T16:41:43+08:00 ] /abcTest/admin.php/Card/index | INFO: Tag[ view_end ] --START--
+[ 2019-07-07T16:41:43+08:00 ] /abcTest/admin.php/Card/index | INFO: Run ShowPageTrace Behavior [ RunTime:0.001186s ]
+[ 2019-07-07T16:41:43+08:00 ] /abcTest/admin.php/Card/index | INFO: Tag[ view_end ] --END-- [ RunTime:0.001396s ]
+[ 2019-07-07T16:41:48+08:00 ] /abcTest/admin.php/Card/resources/images/closelabel.gif | ERR: (ThinkException) 非法操作resources
+[ 2019-07-07T16:42:21+08:00 ] /abcTest/admin.php/Member/index | INFO: Tag[ route_check ] --START--
+[ 2019-07-07T16:42:21+08:00 ] /abcTest/admin.php/Member/index | INFO: Run CheckRoute Behavior [ RunTime:0.002300s ]
+[ 2019-07-07T16:42:21+08:00 ] /abcTest/admin.php/Member/index | INFO: Tag[ route_check ] --END-- [ RunTime:0.002586s ]
+[ 2019-07-07T16:42:21+08:00 ] /abcTest/admin.php/Member/index | INFO: Tag[ app_begin ] --START--
+[ 2019-07-07T16:42:21+08:00 ] /abcTest/admin.php/Member/index | INFO: Run ReadHtmlCache Behavior [ RunTime:0.001996s ]
+[ 2019-07-07T16:42:21+08:00 ] /abcTest/admin.php/Member/index | INFO: Tag[ app_begin ] --END-- [ RunTime:0.002259s ]
+[ 2019-07-07T16:42:21+08:00 ] /abcTest/admin.php/Member/index | NOTIC: [8] Use of undefined constant Member - assumed 'Member' MemberAction.class.php 第 6 行.
+[ 2019-07-07T16:42:21+08:00 ] /abcTest/admin.php/Member/index | SQL: SHOW COLUMNS FROM `t_member` [ RunTime:0.006773s ]
+[ 2019-07-07T16:42:21+08:00 ] /abcTest/admin.php/Member/index | SQL: SELECT COUNT(*) AS tp_count FROM `t_member` LIMIT 1   [ RunTime:0.000327s ]
+[ 2019-07-07T16:42:21+08:00 ] /abcTest/admin.php/Member/index | SQL: SELECT `memName`,`memSex`,`memAddr`,`memHealth`,`memIdCard`,`memTel`,`memRegisteDate` FROM `t_member` ORDER BY memId asc  [ RunTime:0.000220s ]
+[ 2019-07-07T16:42:21+08:00 ] /abcTest/admin.php/Member/index | INFO: Tag[ view_template ] --START--
+[ 2019-07-07T16:42:21+08:00 ] /abcTest/admin.php/Member/index | INFO: Run LocationTemplate Behavior [ RunTime:0.001921s ]
+[ 2019-07-07T16:42:21+08:00 ] /abcTest/admin.php/Member/index | INFO: Tag[ view_template ] --END-- [ RunTime:0.002074s ]
+[ 2019-07-07T16:42:21+08:00 ] /abcTest/admin.php/Member/index | INFO: Tag[ view_parse ] --START--
+[ 2019-07-07T16:42:21+08:00 ] /abcTest/admin.php/Member/index | NOTIC: [8] Undefined variable: title 3cee509fada8262edd7bf89285b287db.php 第 5 行.
+[ 2019-07-07T16:42:21+08:00 ] /abcTest/admin.php/Member/index | INFO: Run ParseTemplate Behavior [ RunTime:0.018466s ]
+[ 2019-07-07T16:42:21+08:00 ] /abcTest/admin.php/Member/index | INFO: Tag[ view_parse ] --END-- [ RunTime:0.018628s ]
+[ 2019-07-07T16:42:21+08:00 ] /abcTest/admin.php/Member/index | INFO: Tag[ view_filter ] --START--
+[ 2019-07-07T16:42:21+08:00 ] /abcTest/admin.php/Member/index | INFO: Run ContentReplace Behavior [ RunTime:0.001344s ]
+[ 2019-07-07T16:42:21+08:00 ] /abcTest/admin.php/Member/index | INFO: Run TokenBuild Behavior [ RunTime:0.001119s ]
+[ 2019-07-07T16:42:21+08:00 ] /abcTest/admin.php/Member/index | INFO: Run WriteHtmlCache Behavior [ RunTime:0.000727s ]
+[ 2019-07-07T16:42:21+08:00 ] /abcTest/admin.php/Member/index | INFO: Run ShowRuntime Behavior [ RunTime:0.001112s ]
+[ 2019-07-07T16:42:21+08:00 ] /abcTest/admin.php/Member/index | INFO: Tag[ view_filter ] --END-- [ RunTime:0.004664s ]
+[ 2019-07-07T16:42:21+08:00 ] /abcTest/admin.php/Member/index | INFO: Tag[ view_end ] --START--
+[ 2019-07-07T16:42:21+08:00 ] /abcTest/admin.php/Member/index | INFO: Run ShowPageTrace Behavior [ RunTime:0.001505s ]
+[ 2019-07-07T16:42:21+08:00 ] /abcTest/admin.php/Member/index | INFO: Tag[ view_end ] --END-- [ RunTime:0.001650s ]
+[ 2019-07-07T16:42:26+08:00 ] /abcTest/admin.php/Member/resources/images/closelabel.gif | ERR: (ThinkException) 非法操作resources
+[ 2019-07-07T16:42:46+08:00 ] /abcTest/admin.php/Coach/index | INFO: Tag[ route_check ] --START--
+[ 2019-07-07T16:42:46+08:00 ] /abcTest/admin.php/Coach/index | INFO: Run CheckRoute Behavior [ RunTime:0.001770s ]
+[ 2019-07-07T16:42:46+08:00 ] /abcTest/admin.php/Coach/index | INFO: Tag[ route_check ] --END-- [ RunTime:0.001977s ]
+[ 2019-07-07T16:42:46+08:00 ] /abcTest/admin.php/Coach/index | INFO: Tag[ app_begin ] --START--
+[ 2019-07-07T16:42:46+08:00 ] /abcTest/admin.php/Coach/index | INFO: Run ReadHtmlCache Behavior [ RunTime:0.001570s ]
+[ 2019-07-07T16:42:46+08:00 ] /abcTest/admin.php/Coach/index | INFO: Tag[ app_begin ] --END-- [ RunTime:0.001760s ]
+[ 2019-07-07T16:42:46+08:00 ] /abcTest/admin.php/Coach/index | SQL: SHOW COLUMNS FROM `t_coach` [ RunTime:0.007115s ]
+[ 2019-07-07T16:42:46+08:00 ] /abcTest/admin.php/Coach/index | SQL: SELECT `coaName`,`coaSex`,`coaIdCardNo`,`coaNation`,`coaPolitic`,`coaEducation`,`coaTel`,`coaPosition`,`coaSchool`,`coaRemarks` FROM `t_coach` ORDER BY coaID asc  [ RunTime:0.000534s ]
+[ 2019-07-07T16:42:46+08:00 ] /abcTest/admin.php/Coach/index | INFO: Tag[ view_template ] --START--
+[ 2019-07-07T16:42:46+08:00 ] /abcTest/admin.php/Coach/index | INFO: Run LocationTemplate Behavior [ RunTime:0.004117s ]
+[ 2019-07-07T16:42:46+08:00 ] /abcTest/admin.php/Coach/index | INFO: Tag[ view_template ] --END-- [ RunTime:0.004318s ]
+[ 2019-07-07T16:42:46+08:00 ] /abcTest/admin.php/Coach/index | INFO: Tag[ view_parse ] --START--
+[ 2019-07-07T16:42:46+08:00 ] /abcTest/admin.php/Coach/index | NOTIC: [8] Undefined variable: title c0b4f8b64c1eb1997bb34efa106d73f2.php 第 5 行.
+[ 2019-07-07T16:42:46+08:00 ] /abcTest/admin.php/Coach/index | INFO: Run ParseTemplate Behavior [ RunTime:0.020481s ]
+[ 2019-07-07T16:42:46+08:00 ] /abcTest/admin.php/Coach/index | INFO: Tag[ view_parse ] --END-- [ RunTime:0.020656s ]
+[ 2019-07-07T16:42:46+08:00 ] /abcTest/admin.php/Coach/index | INFO: Tag[ view_filter ] --START--
+[ 2019-07-07T16:42:46+08:00 ] /abcTest/admin.php/Coach/index | INFO: Run ContentReplace Behavior [ RunTime:0.001321s ]
+[ 2019-07-07T16:42:46+08:00 ] /abcTest/admin.php/Coach/index | INFO: Run TokenBuild Behavior [ RunTime:0.001419s ]
+[ 2019-07-07T16:42:46+08:00 ] /abcTest/admin.php/Coach/index | INFO: Run WriteHtmlCache Behavior [ RunTime:0.000779s ]
+[ 2019-07-07T16:42:46+08:00 ] /abcTest/admin.php/Coach/index | INFO: Run ShowRuntime Behavior [ RunTime:0.001835s ]
+[ 2019-07-07T16:42:46+08:00 ] /abcTest/admin.php/Coach/index | INFO: Tag[ view_filter ] --END-- [ RunTime:0.005840s ]
+[ 2019-07-07T16:42:46+08:00 ] /abcTest/admin.php/Coach/index | INFO: Tag[ view_end ] --START--
+[ 2019-07-07T16:42:46+08:00 ] /abcTest/admin.php/Coach/index | INFO: Run ShowPageTrace Behavior [ RunTime:0.001516s ]
+[ 2019-07-07T16:42:46+08:00 ] /abcTest/admin.php/Coach/index | INFO: Tag[ view_end ] --END-- [ RunTime:0.001692s ]
+[ 2019-07-07T16:42:51+08:00 ] /abcTest/admin.php/Coach/resources/images/closelabel.gif | ERR: (ThinkException) 非法操作resources
+[ 2019-07-07T16:43:00+08:00 ] /abcTest/admin.php/Course/index | INFO: Tag[ route_check ] --START--
+[ 2019-07-07T16:43:00+08:00 ] /abcTest/admin.php/Course/index | INFO: Run CheckRoute Behavior [ RunTime:0.002960s ]
+[ 2019-07-07T16:43:00+08:00 ] /abcTest/admin.php/Course/index | INFO: Tag[ route_check ] --END-- [ RunTime:0.003255s ]
+[ 2019-07-07T16:43:00+08:00 ] /abcTest/admin.php/Course/index | INFO: Tag[ app_begin ] --START--
+[ 2019-07-07T16:43:00+08:00 ] /abcTest/admin.php/Course/index | INFO: Run ReadHtmlCache Behavior [ RunTime:0.001982s ]
+[ 2019-07-07T16:43:00+08:00 ] /abcTest/admin.php/Course/index | INFO: Tag[ app_begin ] --END-- [ RunTime:0.002251s ]
+[ 2019-07-07T16:43:00+08:00 ] /abcTest/admin.php/Course/index | NOTIC: [8] Undefined index: id CourseAction.class.php 第 4 行.
+[ 2019-07-07T16:43:00+08:00 ] /abcTest/admin.php/Course/index | NOTIC: [8] Use of undefined constant Course - assumed 'Course' CourseAction.class.php 第 5 行.
+[ 2019-07-07T16:43:00+08:00 ] /abcTest/admin.php/Course/index | SQL: SHOW COLUMNS FROM `t_course` [ RunTime:0.029553s ]
+[ 2019-07-07T16:43:00+08:00 ] /abcTest/admin.php/Course/index | SQL: SELECT `courseID`,`courseName`,`courseContent`,`courseTime`,`courseArea`,`courseTeacher`,`coursePrice` FROM `t_course` ORDER BY courseID asc  [ RunTime:0.000530s ]
+[ 2019-07-07T16:43:00+08:00 ] /abcTest/admin.php/Course/index | SQL: SELECT `courseContent` FROM `t_course` WHERE courseID='' LIMIT 1   [ RunTime:0.000169s ]
+[ 2019-07-07T16:43:00+08:00 ] /abcTest/admin.php/Course/index | INFO: Tag[ view_template ] --START--
+[ 2019-07-07T16:43:00+08:00 ] /abcTest/admin.php/Course/index | INFO: Run LocationTemplate Behavior [ RunTime:0.001673s ]
+[ 2019-07-07T16:43:00+08:00 ] /abcTest/admin.php/Course/index | INFO: Tag[ view_template ] --END-- [ RunTime:0.001819s ]
+[ 2019-07-07T16:43:00+08:00 ] /abcTest/admin.php/Course/index | INFO: Tag[ view_parse ] --START--
+[ 2019-07-07T16:43:00+08:00 ] /abcTest/admin.php/Course/index | NOTIC: [8] Undefined variable: title 6f0ada55359106615047b4a70d624b08.php 第 5 行.
+[ 2019-07-07T16:43:00+08:00 ] /abcTest/admin.php/Course/index | INFO: Run ParseTemplate Behavior [ RunTime:0.027253s ]
+[ 2019-07-07T16:43:00+08:00 ] /abcTest/admin.php/Course/index | INFO: Tag[ view_parse ] --END-- [ RunTime:0.027404s ]
+[ 2019-07-07T16:43:00+08:00 ] /abcTest/admin.php/Course/index | INFO: Tag[ view_filter ] --START--
+[ 2019-07-07T16:43:00+08:00 ] /abcTest/admin.php/Course/index | INFO: Run ContentReplace Behavior [ RunTime:0.001077s ]
+[ 2019-07-07T16:43:00+08:00 ] /abcTest/admin.php/Course/index | INFO: Run TokenBuild Behavior [ RunTime:0.001218s ]
+[ 2019-07-07T16:43:00+08:00 ] /abcTest/admin.php/Course/index | INFO: Run WriteHtmlCache Behavior [ RunTime:0.000886s ]
+[ 2019-07-07T16:43:00+08:00 ] /abcTest/admin.php/Course/index | INFO: Run ShowRuntime Behavior [ RunTime:0.001388s ]
+[ 2019-07-07T16:43:00+08:00 ] /abcTest/admin.php/Course/index | INFO: Tag[ view_filter ] --END-- [ RunTime:0.004971s ]
+[ 2019-07-07T16:43:00+08:00 ] /abcTest/admin.php/Course/index | INFO: Tag[ view_end ] --START--
+[ 2019-07-07T16:43:00+08:00 ] /abcTest/admin.php/Course/index | INFO: Run ShowPageTrace Behavior [ RunTime:0.001173s ]
+[ 2019-07-07T16:43:00+08:00 ] /abcTest/admin.php/Course/index | INFO: Tag[ view_end ] --END-- [ RunTime:0.001401s ]
+[ 2019-07-07T16:43:05+08:00 ] /abcTest/admin.php/Course/resources/images/closelabel.gif | ERR: (ThinkException) 非法操作resources
+[ 2019-07-07T16:43:23+08:00 ] /abcTest/admin.php/Card/index | INFO: Tag[ route_check ] --START--
+[ 2019-07-07T16:43:23+08:00 ] /abcTest/admin.php/Card/index | INFO: Run CheckRoute Behavior [ RunTime:0.001848s ]
+[ 2019-07-07T16:43:23+08:00 ] /abcTest/admin.php/Card/index | INFO: Tag[ route_check ] --END-- [ RunTime:0.002038s ]
+[ 2019-07-07T16:43:23+08:00 ] /abcTest/admin.php/Card/index | INFO: Tag[ app_begin ] --START--
+[ 2019-07-07T16:43:23+08:00 ] /abcTest/admin.php/Card/index | INFO: Run ReadHtmlCache Behavior [ RunTime:0.001493s ]
+[ 2019-07-07T16:43:23+08:00 ] /abcTest/admin.php/Card/index | INFO: Tag[ app_begin ] --END-- [ RunTime:0.001675s ]
+[ 2019-07-07T16:43:23+08:00 ] /abcTest/admin.php/Card/index | NOTIC: [8] Use of undefined constant Card - assumed 'Card' CardAction.class.php 第 4 行.
+[ 2019-07-07T16:43:23+08:00 ] /abcTest/admin.php/Card/index | SQL: SHOW COLUMNS FROM `t_card` [ RunTime:0.006795s ]
+[ 2019-07-07T16:43:23+08:00 ] /abcTest/admin.php/Card/index | SQL: SELECT `cardID`,`cardName`,`validTimes`,`cardPrice`,`cardDiscount`,`startTime`,`endTime` FROM `t_card` ORDER BY cardID asc  [ RunTime:0.000615s ]
+[ 2019-07-07T16:43:23+08:00 ] /abcTest/admin.php/Card/index | INFO: Tag[ view_template ] --START--
+[ 2019-07-07T16:43:23+08:00 ] /abcTest/admin.php/Card/index | INFO: Run LocationTemplate Behavior [ RunTime:0.001979s ]
+[ 2019-07-07T16:43:23+08:00 ] /abcTest/admin.php/Card/index | INFO: Tag[ view_template ] --END-- [ RunTime:0.002151s ]
+[ 2019-07-07T16:43:23+08:00 ] /abcTest/admin.php/Card/index | INFO: Tag[ view_parse ] --START--
+[ 2019-07-07T16:43:23+08:00 ] /abcTest/admin.php/Card/index | NOTIC: [8] Undefined variable: title b25313e8e9308df3a7c3768fbe3d1422.php 第 5 行.
+[ 2019-07-07T16:43:23+08:00 ] /abcTest/admin.php/Card/index | INFO: Run ParseTemplate Behavior [ RunTime:0.018962s ]
+[ 2019-07-07T16:43:23+08:00 ] /abcTest/admin.php/Card/index | INFO: Tag[ view_parse ] --END-- [ RunTime:0.019135s ]
+[ 2019-07-07T16:43:23+08:00 ] /abcTest/admin.php/Card/index | INFO: Tag[ view_filter ] --START--
+[ 2019-07-07T16:43:23+08:00 ] /abcTest/admin.php/Card/index | INFO: Run ContentReplace Behavior [ RunTime:0.001223s ]
+[ 2019-07-07T16:43:23+08:00 ] /abcTest/admin.php/Card/index | INFO: Run TokenBuild Behavior [ RunTime:0.001207s ]
+[ 2019-07-07T16:43:23+08:00 ] /abcTest/admin.php/Card/index | INFO: Run WriteHtmlCache Behavior [ RunTime:0.000867s ]
+[ 2019-07-07T16:43:23+08:00 ] /abcTest/admin.php/Card/index | INFO: Run ShowRuntime Behavior [ RunTime:0.001330s ]
+[ 2019-07-07T16:43:23+08:00 ] /abcTest/admin.php/Card/index | INFO: Tag[ view_filter ] --END-- [ RunTime:0.005013s ]
+[ 2019-07-07T16:43:23+08:00 ] /abcTest/admin.php/Card/index | INFO: Tag[ view_end ] --START--
+[ 2019-07-07T16:43:23+08:00 ] /abcTest/admin.php/Card/index | INFO: Run ShowPageTrace Behavior [ RunTime:0.001106s ]
+[ 2019-07-07T16:43:23+08:00 ] /abcTest/admin.php/Card/index | INFO: Tag[ view_end ] --END-- [ RunTime:0.001259s ]
+[ 2019-07-07T16:43:27+08:00 ] /abcTest/admin.php/Card/resources/images/closelabel.gif | ERR: (ThinkException) 非法操作resources
+[ 2019-07-07T16:49:17+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ route_check ] --START--
+[ 2019-07-07T16:49:17+08:00 ] /abcTest/admin.php/Index/index | INFO: Run CheckRoute Behavior [ RunTime:0.002088s ]
+[ 2019-07-07T16:49:17+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ route_check ] --END-- [ RunTime:0.002334s ]
+[ 2019-07-07T16:49:17+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ app_begin ] --START--
+[ 2019-07-07T16:49:17+08:00 ] /abcTest/admin.php/Index/index | INFO: Run ReadHtmlCache Behavior [ RunTime:0.001745s ]
+[ 2019-07-07T16:49:17+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ app_begin ] --END-- [ RunTime:0.001969s ]
+[ 2019-07-07T16:49:17+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ view_template ] --START--
+[ 2019-07-07T16:49:17+08:00 ] /abcTest/admin.php/Index/index | INFO: Run LocationTemplate Behavior [ RunTime:0.002442s ]
+[ 2019-07-07T16:49:17+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ view_template ] --END-- [ RunTime:0.002661s ]
+[ 2019-07-07T16:49:17+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ view_parse ] --START--
+[ 2019-07-07T16:49:17+08:00 ] /abcTest/admin.php/Index/index | NOTIC: [8] Undefined variable: title 4c18d5952d0dbf1eedb8a1ec796fa788.php 第 5 行.
+[ 2019-07-07T16:49:17+08:00 ] /abcTest/admin.php/Index/index | INFO: Run ParseTemplate Behavior [ RunTime:0.018689s ]
+[ 2019-07-07T16:49:17+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ view_parse ] --END-- [ RunTime:0.018862s ]
+[ 2019-07-07T16:49:17+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ view_filter ] --START--
+[ 2019-07-07T16:49:17+08:00 ] /abcTest/admin.php/Index/index | INFO: Run ContentReplace Behavior [ RunTime:0.001212s ]
+[ 2019-07-07T16:49:17+08:00 ] /abcTest/admin.php/Index/index | INFO: Run TokenBuild Behavior [ RunTime:0.001158s ]
+[ 2019-07-07T16:49:17+08:00 ] /abcTest/admin.php/Index/index | INFO: Run WriteHtmlCache Behavior [ RunTime:0.000857s ]
+[ 2019-07-07T16:49:17+08:00 ] /abcTest/admin.php/Index/index | INFO: Run ShowRuntime Behavior [ RunTime:0.001338s ]
+[ 2019-07-07T16:49:17+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ view_filter ] --END-- [ RunTime:0.005019s ]
+[ 2019-07-07T16:49:17+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ view_end ] --START--
+[ 2019-07-07T16:49:17+08:00 ] /abcTest/admin.php/Index/index | INFO: Run ShowPageTrace Behavior [ RunTime:0.001247s ]
+[ 2019-07-07T16:49:17+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ view_end ] --END-- [ RunTime:0.001419s ]
+[ 2019-07-07T16:49:20+08:00 ] /abcTest/admin.php/Index/resources/images/closelabel.gif | ERR: (ThinkException) 非法操作resources
+[ 2019-07-07T16:49:31+08:00 ] /abcTest/admin.php/Card/index | INFO: Tag[ route_check ] --START--
+[ 2019-07-07T16:49:31+08:00 ] /abcTest/admin.php/Card/index | INFO: Run CheckRoute Behavior [ RunTime:0.001515s ]
+[ 2019-07-07T16:49:31+08:00 ] /abcTest/admin.php/Card/index | INFO: Tag[ route_check ] --END-- [ RunTime:0.001711s ]
+[ 2019-07-07T16:49:31+08:00 ] /abcTest/admin.php/Card/index | INFO: Tag[ app_begin ] --START--
+[ 2019-07-07T16:49:31+08:00 ] /abcTest/admin.php/Card/index | INFO: Run ReadHtmlCache Behavior [ RunTime:0.001330s ]
+[ 2019-07-07T16:49:31+08:00 ] /abcTest/admin.php/Card/index | INFO: Tag[ app_begin ] --END-- [ RunTime:0.001477s ]
+[ 2019-07-07T16:49:31+08:00 ] /abcTest/admin.php/Card/index | NOTIC: [8] Use of undefined constant Card - assumed 'Card' CardAction.class.php 第 4 行.
+[ 2019-07-07T16:49:31+08:00 ] /abcTest/admin.php/Card/index | SQL: SHOW COLUMNS FROM `t_card` [ RunTime:0.006738s ]
+[ 2019-07-07T16:49:31+08:00 ] /abcTest/admin.php/Card/index | SQL: SELECT `cardID`,`cardName`,`validTimes`,`cardPrice`,`cardDiscount`,`startTime`,`endTime` FROM `t_card` ORDER BY cardID asc  [ RunTime:0.000366s ]
+[ 2019-07-07T16:49:31+08:00 ] /abcTest/admin.php/Card/index | INFO: Tag[ view_template ] --START--
+[ 2019-07-07T16:49:31+08:00 ] /abcTest/admin.php/Card/index | INFO: Run LocationTemplate Behavior [ RunTime:0.001750s ]
+[ 2019-07-07T16:49:31+08:00 ] /abcTest/admin.php/Card/index | INFO: Tag[ view_template ] --END-- [ RunTime:0.001948s ]
+[ 2019-07-07T16:49:31+08:00 ] /abcTest/admin.php/Card/index | INFO: Tag[ view_parse ] --START--
+[ 2019-07-07T16:49:31+08:00 ] /abcTest/admin.php/Card/index | NOTIC: [8] Undefined variable: title b25313e8e9308df3a7c3768fbe3d1422.php 第 5 行.
+[ 2019-07-07T16:49:31+08:00 ] /abcTest/admin.php/Card/index | INFO: Run ParseTemplate Behavior [ RunTime:0.021132s ]
+[ 2019-07-07T16:49:31+08:00 ] /abcTest/admin.php/Card/index | INFO: Tag[ view_parse ] --END-- [ RunTime:0.021302s ]
+[ 2019-07-07T16:49:31+08:00 ] /abcTest/admin.php/Card/index | INFO: Tag[ view_filter ] --START--
+[ 2019-07-07T16:49:31+08:00 ] /abcTest/admin.php/Card/index | INFO: Run ContentReplace Behavior [ RunTime:0.001439s ]
+[ 2019-07-07T16:49:31+08:00 ] /abcTest/admin.php/Card/index | INFO: Run TokenBuild Behavior [ RunTime:0.001149s ]
+[ 2019-07-07T16:49:31+08:00 ] /abcTest/admin.php/Card/index | INFO: Run WriteHtmlCache Behavior [ RunTime:0.000991s ]
+[ 2019-07-07T16:49:31+08:00 ] /abcTest/admin.php/Card/index | INFO: Run ShowRuntime Behavior [ RunTime:0.001305s ]
+[ 2019-07-07T16:49:31+08:00 ] /abcTest/admin.php/Card/index | INFO: Tag[ view_filter ] --END-- [ RunTime:0.005315s ]
+[ 2019-07-07T16:49:31+08:00 ] /abcTest/admin.php/Card/index | INFO: Tag[ view_end ] --START--
+[ 2019-07-07T16:49:31+08:00 ] /abcTest/admin.php/Card/index | INFO: Run ShowPageTrace Behavior [ RunTime:0.001083s ]
+[ 2019-07-07T16:49:31+08:00 ] /abcTest/admin.php/Card/index | INFO: Tag[ view_end ] --END-- [ RunTime:0.001227s ]
+[ 2019-07-07T16:49:35+08:00 ] /abcTest/admin.php/Card/resources/images/closelabel.gif | ERR: (ThinkException) 非法操作resources
+[ 2019-07-07T16:49:39+08:00 ] /abcTest/admin.php/Card/index | INFO: Tag[ route_check ] --START--
+[ 2019-07-07T16:49:39+08:00 ] /abcTest/admin.php/Card/index | INFO: Run CheckRoute Behavior [ RunTime:0.001481s ]
+[ 2019-07-07T16:49:39+08:00 ] /abcTest/admin.php/Card/index | INFO: Tag[ route_check ] --END-- [ RunTime:0.001671s ]
+[ 2019-07-07T16:49:39+08:00 ] /abcTest/admin.php/Card/index | INFO: Tag[ app_begin ] --START--
+[ 2019-07-07T16:49:39+08:00 ] /abcTest/admin.php/Card/index | INFO: Run ReadHtmlCache Behavior [ RunTime:0.001252s ]
+[ 2019-07-07T16:49:39+08:00 ] /abcTest/admin.php/Card/index | INFO: Tag[ app_begin ] --END-- [ RunTime:0.001443s ]
+[ 2019-07-07T16:49:39+08:00 ] /abcTest/admin.php/Card/index | NOTIC: [8] Use of undefined constant Card - assumed 'Card' CardAction.class.php 第 4 行.
+[ 2019-07-07T16:49:39+08:00 ] /abcTest/admin.php/Card/index | SQL: SHOW COLUMNS FROM `t_card` [ RunTime:0.006914s ]
+[ 2019-07-07T16:49:39+08:00 ] /abcTest/admin.php/Card/index | SQL: SELECT `cardID`,`cardName`,`validTimes`,`cardPrice`,`cardDiscount`,`startTime`,`endTime` FROM `t_card` ORDER BY cardID asc  [ RunTime:0.000698s ]
+[ 2019-07-07T16:49:39+08:00 ] /abcTest/admin.php/Card/index | INFO: Tag[ view_template ] --START--
+[ 2019-07-07T16:49:39+08:00 ] /abcTest/admin.php/Card/index | INFO: Run LocationTemplate Behavior [ RunTime:0.001929s ]
+[ 2019-07-07T16:49:39+08:00 ] /abcTest/admin.php/Card/index | INFO: Tag[ view_template ] --END-- [ RunTime:0.002111s ]
+[ 2019-07-07T16:49:39+08:00 ] /abcTest/admin.php/Card/index | INFO: Tag[ view_parse ] --START--
+[ 2019-07-07T16:49:39+08:00 ] /abcTest/admin.php/Card/index | NOTIC: [8] Undefined variable: title b25313e8e9308df3a7c3768fbe3d1422.php 第 5 行.
+[ 2019-07-07T16:49:39+08:00 ] /abcTest/admin.php/Card/index | INFO: Run ParseTemplate Behavior [ RunTime:0.019853s ]
+[ 2019-07-07T16:49:39+08:00 ] /abcTest/admin.php/Card/index | INFO: Tag[ view_parse ] --END-- [ RunTime:0.020059s ]
+[ 2019-07-07T16:49:39+08:00 ] /abcTest/admin.php/Card/index | INFO: Tag[ view_filter ] --START--
+[ 2019-07-07T16:49:39+08:00 ] /abcTest/admin.php/Card/index | INFO: Run ContentReplace Behavior [ RunTime:0.001200s ]
+[ 2019-07-07T16:49:39+08:00 ] /abcTest/admin.php/Card/index | INFO: Run TokenBuild Behavior [ RunTime:0.001282s ]
+[ 2019-07-07T16:49:39+08:00 ] /abcTest/admin.php/Card/index | INFO: Run WriteHtmlCache Behavior [ RunTime:0.000823s ]
+[ 2019-07-07T16:49:39+08:00 ] /abcTest/admin.php/Card/index | INFO: Run ShowRuntime Behavior [ RunTime:0.001344s ]
+[ 2019-07-07T16:49:39+08:00 ] /abcTest/admin.php/Card/index | INFO: Tag[ view_filter ] --END-- [ RunTime:0.005063s ]
+[ 2019-07-07T16:49:39+08:00 ] /abcTest/admin.php/Card/index | INFO: Tag[ view_end ] --START--
+[ 2019-07-07T16:49:39+08:00 ] /abcTest/admin.php/Card/index | INFO: Run ShowPageTrace Behavior [ RunTime:0.001349s ]
+[ 2019-07-07T16:49:39+08:00 ] /abcTest/admin.php/Card/index | INFO: Tag[ view_end ] --END-- [ RunTime:0.001562s ]
+[ 2019-07-07T16:49:44+08:00 ] /abcTest/admin.php/Card/resources/images/closelabel.gif | ERR: (ThinkException) 非法操作resources
+[ 2019-07-07T16:49:48+08:00 ] /abcTest/admin.php/Card/index | INFO: Tag[ route_check ] --START--
+[ 2019-07-07T16:49:48+08:00 ] /abcTest/admin.php/Card/index | INFO: Run CheckRoute Behavior [ RunTime:0.003397s ]
+[ 2019-07-07T16:49:48+08:00 ] /abcTest/admin.php/Card/index | INFO: Tag[ route_check ] --END-- [ RunTime:0.003806s ]
+[ 2019-07-07T16:49:48+08:00 ] /abcTest/admin.php/Card/index | INFO: Tag[ app_begin ] --START--
+[ 2019-07-07T16:49:48+08:00 ] /abcTest/admin.php/Card/index | INFO: Run ReadHtmlCache Behavior [ RunTime:0.002101s ]
+[ 2019-07-07T16:49:48+08:00 ] /abcTest/admin.php/Card/index | INFO: Tag[ app_begin ] --END-- [ RunTime:0.002349s ]
+[ 2019-07-07T16:49:48+08:00 ] /abcTest/admin.php/Card/index | NOTIC: [8] Use of undefined constant Card - assumed 'Card' CardAction.class.php 第 4 行.
+[ 2019-07-07T16:49:48+08:00 ] /abcTest/admin.php/Card/index | SQL: SHOW COLUMNS FROM `t_card` [ RunTime:0.069406s ]
+[ 2019-07-07T16:49:48+08:00 ] /abcTest/admin.php/Card/index | SQL: SELECT `cardID`,`cardName`,`validTimes`,`cardPrice`,`cardDiscount`,`startTime`,`endTime` FROM `t_card` ORDER BY cardID asc  [ RunTime:0.000362s ]
+[ 2019-07-07T16:49:48+08:00 ] /abcTest/admin.php/Card/index | INFO: Tag[ view_template ] --START--
+[ 2019-07-07T16:49:48+08:00 ] /abcTest/admin.php/Card/index | INFO: Run LocationTemplate Behavior [ RunTime:0.002009s ]
+[ 2019-07-07T16:49:48+08:00 ] /abcTest/admin.php/Card/index | INFO: Tag[ view_template ] --END-- [ RunTime:0.002166s ]
+[ 2019-07-07T16:49:48+08:00 ] /abcTest/admin.php/Card/index | INFO: Tag[ view_parse ] --START--
+[ 2019-07-07T16:49:48+08:00 ] /abcTest/admin.php/Card/index | NOTIC: [8] Undefined variable: title b25313e8e9308df3a7c3768fbe3d1422.php 第 5 行.
+[ 2019-07-07T16:49:48+08:00 ] /abcTest/admin.php/Card/index | INFO: Run ParseTemplate Behavior [ RunTime:0.019492s ]
+[ 2019-07-07T16:49:48+08:00 ] /abcTest/admin.php/Card/index | INFO: Tag[ view_parse ] --END-- [ RunTime:0.019682s ]
+[ 2019-07-07T16:49:48+08:00 ] /abcTest/admin.php/Card/index | INFO: Tag[ view_filter ] --START--
+[ 2019-07-07T16:49:48+08:00 ] /abcTest/admin.php/Card/index | INFO: Run ContentReplace Behavior [ RunTime:0.001313s ]
+[ 2019-07-07T16:49:48+08:00 ] /abcTest/admin.php/Card/index | INFO: Run TokenBuild Behavior [ RunTime:0.001495s ]
+[ 2019-07-07T16:49:48+08:00 ] /abcTest/admin.php/Card/index | INFO: Run WriteHtmlCache Behavior [ RunTime:0.000952s ]
+[ 2019-07-07T16:49:48+08:00 ] /abcTest/admin.php/Card/index | INFO: Run ShowRuntime Behavior [ RunTime:0.001335s ]
+[ 2019-07-07T16:49:48+08:00 ] /abcTest/admin.php/Card/index | INFO: Tag[ view_filter ] --END-- [ RunTime:0.005525s ]
+[ 2019-07-07T16:49:48+08:00 ] /abcTest/admin.php/Card/index | INFO: Tag[ view_end ] --START--
+[ 2019-07-07T16:49:48+08:00 ] /abcTest/admin.php/Card/index | INFO: Run ShowPageTrace Behavior [ RunTime:0.001045s ]
+[ 2019-07-07T16:49:48+08:00 ] /abcTest/admin.php/Card/index | INFO: Tag[ view_end ] --END-- [ RunTime:0.001182s ]
+[ 2019-07-07T16:49:52+08:00 ] /abcTest/admin.php/Card/resources/images/closelabel.gif | ERR: (ThinkException) 非法操作resources
+[ 2019-07-07T16:55:35+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ route_check ] --START--
+[ 2019-07-07T16:55:35+08:00 ] /abcTest/admin.php/Index/index | INFO: Run CheckRoute Behavior [ RunTime:0.002119s ]
+[ 2019-07-07T16:55:35+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ route_check ] --END-- [ RunTime:0.002330s ]
+[ 2019-07-07T16:55:35+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ app_begin ] --START--
+[ 2019-07-07T16:55:35+08:00 ] /abcTest/admin.php/Index/index | INFO: Run ReadHtmlCache Behavior [ RunTime:0.001657s ]
+[ 2019-07-07T16:55:35+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ app_begin ] --END-- [ RunTime:0.001829s ]
+[ 2019-07-07T16:55:35+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ view_template ] --START--
+[ 2019-07-07T16:55:35+08:00 ] /abcTest/admin.php/Index/index | INFO: Run LocationTemplate Behavior [ RunTime:0.002874s ]
+[ 2019-07-07T16:55:35+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ view_template ] --END-- [ RunTime:0.003076s ]
+[ 2019-07-07T16:55:35+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ view_parse ] --START--
+[ 2019-07-07T16:55:35+08:00 ] /abcTest/admin.php/Index/index | NOTIC: [8] Undefined variable: title 4c18d5952d0dbf1eedb8a1ec796fa788.php 第 5 行.
+[ 2019-07-07T16:55:35+08:00 ] /abcTest/admin.php/Index/index | INFO: Run ParseTemplate Behavior [ RunTime:0.018335s ]
+[ 2019-07-07T16:55:35+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ view_parse ] --END-- [ RunTime:0.018587s ]
+[ 2019-07-07T16:55:35+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ view_filter ] --START--
+[ 2019-07-07T16:55:35+08:00 ] /abcTest/admin.php/Index/index | INFO: Run ContentReplace Behavior [ RunTime:0.001690s ]
+[ 2019-07-07T16:55:35+08:00 ] /abcTest/admin.php/Index/index | INFO: Run TokenBuild Behavior [ RunTime:0.001614s ]
+[ 2019-07-07T16:55:35+08:00 ] /abcTest/admin.php/Index/index | INFO: Run WriteHtmlCache Behavior [ RunTime:0.001197s ]
+[ 2019-07-07T16:55:35+08:00 ] /abcTest/admin.php/Index/index | INFO: Run ShowRuntime Behavior [ RunTime:0.002335s ]
+[ 2019-07-07T16:55:35+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ view_filter ] --END-- [ RunTime:0.007316s ]
+[ 2019-07-07T16:55:35+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ view_end ] --START--
+[ 2019-07-07T16:55:35+08:00 ] /abcTest/admin.php/Index/index | INFO: Run ShowPageTrace Behavior [ RunTime:0.001982s ]
+[ 2019-07-07T16:55:35+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ view_end ] --END-- [ RunTime:0.002138s ]
+[ 2019-07-07T16:55:38+08:00 ] /abcTest/admin.php/Index/resources/images/closelabel.gif | ERR: (ThinkException) 非法操作resources
+[ 2019-07-07T16:55:40+08:00 ] /abcTest/admin.php/Card/index | INFO: Tag[ route_check ] --START--
+[ 2019-07-07T16:55:40+08:00 ] /abcTest/admin.php/Card/index | INFO: Run CheckRoute Behavior [ RunTime:0.001579s ]
+[ 2019-07-07T16:55:40+08:00 ] /abcTest/admin.php/Card/index | INFO: Tag[ route_check ] --END-- [ RunTime:0.001752s ]
+[ 2019-07-07T16:55:40+08:00 ] /abcTest/admin.php/Card/index | INFO: Tag[ app_begin ] --START--
+[ 2019-07-07T16:55:40+08:00 ] /abcTest/admin.php/Card/index | INFO: Run ReadHtmlCache Behavior [ RunTime:0.001434s ]
+[ 2019-07-07T16:55:40+08:00 ] /abcTest/admin.php/Card/index | INFO: Tag[ app_begin ] --END-- [ RunTime:0.001978s ]
+[ 2019-07-07T16:55:40+08:00 ] /abcTest/admin.php/Card/index | NOTIC: [8] Use of undefined constant Card - assumed 'Card' CardAction.class.php 第 4 行.
+[ 2019-07-07T16:55:40+08:00 ] /abcTest/admin.php/Card/index | SQL: SHOW COLUMNS FROM `t_card` [ RunTime:0.006854s ]
+[ 2019-07-07T16:55:40+08:00 ] /abcTest/admin.php/Card/index | SQL: SELECT `cardID`,`cardName`,`validTimes`,`cardPrice`,`cardDiscount`,`startTime`,`endTime` FROM `t_card` ORDER BY cardID asc  [ RunTime:0.000365s ]
+[ 2019-07-07T16:55:40+08:00 ] /abcTest/admin.php/Card/index | INFO: Tag[ view_template ] --START--
+[ 2019-07-07T16:55:40+08:00 ] /abcTest/admin.php/Card/index | INFO: Run LocationTemplate Behavior [ RunTime:0.001858s ]
+[ 2019-07-07T16:55:40+08:00 ] /abcTest/admin.php/Card/index | INFO: Tag[ view_template ] --END-- [ RunTime:0.002024s ]
+[ 2019-07-07T16:55:40+08:00 ] /abcTest/admin.php/Card/index | INFO: Tag[ view_parse ] --START--
+[ 2019-07-07T16:55:40+08:00 ] /abcTest/admin.php/Card/index | NOTIC: [8] Undefined variable: title b25313e8e9308df3a7c3768fbe3d1422.php 第 5 行.
+[ 2019-07-07T16:55:40+08:00 ] /abcTest/admin.php/Card/index | INFO: Run ParseTemplate Behavior [ RunTime:0.018488s ]
+[ 2019-07-07T16:55:40+08:00 ] /abcTest/admin.php/Card/index | INFO: Tag[ view_parse ] --END-- [ RunTime:0.018708s ]
+[ 2019-07-07T16:55:40+08:00 ] /abcTest/admin.php/Card/index | INFO: Tag[ view_filter ] --START--
+[ 2019-07-07T16:55:40+08:00 ] /abcTest/admin.php/Card/index | INFO: Run ContentReplace Behavior [ RunTime:0.001069s ]
+[ 2019-07-07T16:55:40+08:00 ] /abcTest/admin.php/Card/index | INFO: Run TokenBuild Behavior [ RunTime:0.001140s ]
+[ 2019-07-07T16:55:40+08:00 ] /abcTest/admin.php/Card/index | INFO: Run WriteHtmlCache Behavior [ RunTime:0.000773s ]
+[ 2019-07-07T16:55:40+08:00 ] /abcTest/admin.php/Card/index | INFO: Run ShowRuntime Behavior [ RunTime:0.001192s ]
+[ 2019-07-07T16:55:40+08:00 ] /abcTest/admin.php/Card/index | INFO: Tag[ view_filter ] --END-- [ RunTime:0.004560s ]
+[ 2019-07-07T16:55:40+08:00 ] /abcTest/admin.php/Card/index | INFO: Tag[ view_end ] --START--
+[ 2019-07-07T16:55:40+08:00 ] /abcTest/admin.php/Card/index | INFO: Run ShowPageTrace Behavior [ RunTime:0.000981s ]
+[ 2019-07-07T16:55:40+08:00 ] /abcTest/admin.php/Card/index | INFO: Tag[ view_end ] --END-- [ RunTime:0.001114s ]
+[ 2019-07-07T16:55:44+08:00 ] /abcTest/admin.php/Card/resources/images/closelabel.gif | ERR: (ThinkException) 非法操作resources
+[ 2019-07-07T16:55:54+08:00 ] /abcTest/admin.php/Card/resources/images/closelabel.gif | ERR: (ThinkException) 非法操作resources
+[ 2019-07-07T17:00:15+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ route_check ] --START--
+[ 2019-07-07T17:00:15+08:00 ] /abcTest/admin.php/Index/index | INFO: Run CheckRoute Behavior [ RunTime:0.003062s ]
+[ 2019-07-07T17:00:15+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ route_check ] --END-- [ RunTime:0.003371s ]
+[ 2019-07-07T17:00:15+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ app_begin ] --START--
+[ 2019-07-07T17:00:15+08:00 ] /abcTest/admin.php/Index/index | INFO: Run ReadHtmlCache Behavior [ RunTime:0.002056s ]
+[ 2019-07-07T17:00:15+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ app_begin ] --END-- [ RunTime:0.002285s ]
+[ 2019-07-07T17:00:15+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ view_template ] --START--
+[ 2019-07-07T17:00:15+08:00 ] /abcTest/admin.php/Index/index | INFO: Run LocationTemplate Behavior [ RunTime:0.003896s ]
+[ 2019-07-07T17:00:15+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ view_template ] --END-- [ RunTime:0.004166s ]
+[ 2019-07-07T17:00:15+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ view_parse ] --START--
+[ 2019-07-07T17:00:15+08:00 ] /abcTest/admin.php/Index/index | NOTIC: [8] Undefined variable: title 4c18d5952d0dbf1eedb8a1ec796fa788.php 第 5 行.
+[ 2019-07-07T17:00:15+08:00 ] /abcTest/admin.php/Index/index | INFO: Run ParseTemplate Behavior [ RunTime:0.015892s ]
+[ 2019-07-07T17:00:15+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ view_parse ] --END-- [ RunTime:0.016295s ]
+[ 2019-07-07T17:00:15+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ view_filter ] --START--
+[ 2019-07-07T17:00:15+08:00 ] /abcTest/admin.php/Index/index | INFO: Run ContentReplace Behavior [ RunTime:0.001607s ]
+[ 2019-07-07T17:00:15+08:00 ] /abcTest/admin.php/Index/index | INFO: Run TokenBuild Behavior [ RunTime:0.001747s ]
+[ 2019-07-07T17:00:15+08:00 ] /abcTest/admin.php/Index/index | INFO: Run WriteHtmlCache Behavior [ RunTime:0.001190s ]
+[ 2019-07-07T17:00:15+08:00 ] /abcTest/admin.php/Index/index | INFO: Run ShowRuntime Behavior [ RunTime:0.001532s ]
+[ 2019-07-07T17:00:15+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ view_filter ] --END-- [ RunTime:0.006729s ]
+[ 2019-07-07T17:00:15+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ view_end ] --START--
+[ 2019-07-07T17:00:15+08:00 ] /abcTest/admin.php/Index/index | INFO: Run ShowPageTrace Behavior [ RunTime:0.001210s ]
+[ 2019-07-07T17:00:15+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ view_end ] --END-- [ RunTime:0.001378s ]
+[ 2019-07-07T17:00:19+08:00 ] /abcTest/admin.php/Index/resources/images/closelabel.gif | ERR: (ThinkException) 非法操作resources
+[ 2019-07-07T17:00:20+08:00 ] /abcTest/admin.php/Card/index | INFO: Tag[ route_check ] --START--
+[ 2019-07-07T17:00:20+08:00 ] /abcTest/admin.php/Card/index | INFO: Run CheckRoute Behavior [ RunTime:0.001520s ]
+[ 2019-07-07T17:00:20+08:00 ] /abcTest/admin.php/Card/index | INFO: Tag[ route_check ] --END-- [ RunTime:0.001693s ]
+[ 2019-07-07T17:00:20+08:00 ] /abcTest/admin.php/Card/index | INFO: Tag[ app_begin ] --START--
+[ 2019-07-07T17:00:20+08:00 ] /abcTest/admin.php/Card/index | INFO: Run ReadHtmlCache Behavior [ RunTime:0.001264s ]
+[ 2019-07-07T17:00:20+08:00 ] /abcTest/admin.php/Card/index | INFO: Tag[ app_begin ] --END-- [ RunTime:0.001425s ]
+[ 2019-07-07T17:00:20+08:00 ] /abcTest/admin.php/Card/index | NOTIC: [8] Use of undefined constant Card - assumed 'Card' CardAction.class.php 第 4 行.
+[ 2019-07-07T17:00:20+08:00 ] /abcTest/admin.php/Card/index | SQL: SHOW COLUMNS FROM `t_card` [ RunTime:0.007663s ]
+[ 2019-07-07T17:00:20+08:00 ] /abcTest/admin.php/Card/index | SQL: SELECT `cardID`,`cardName`,`validTimes`,`cardPrice`,`cardDiscount`,`startTime`,`endTime` FROM `t_card` ORDER BY cardID asc  [ RunTime:0.000472s ]
+[ 2019-07-07T17:00:20+08:00 ] /abcTest/admin.php/Card/index | INFO: Tag[ view_template ] --START--
+[ 2019-07-07T17:00:20+08:00 ] /abcTest/admin.php/Card/index | INFO: Run LocationTemplate Behavior [ RunTime:0.001929s ]
+[ 2019-07-07T17:00:20+08:00 ] /abcTest/admin.php/Card/index | INFO: Tag[ view_template ] --END-- [ RunTime:0.002111s ]
+[ 2019-07-07T17:00:20+08:00 ] /abcTest/admin.php/Card/index | INFO: Tag[ view_parse ] --START--
+[ 2019-07-07T17:00:21+08:00 ] /abcTest/admin.php/Card/index | NOTIC: [8] Undefined variable: title b25313e8e9308df3a7c3768fbe3d1422.php 第 5 行.
+[ 2019-07-07T17:00:21+08:00 ] /abcTest/admin.php/Card/index | INFO: Run ParseTemplate Behavior [ RunTime:0.018829s ]
+[ 2019-07-07T17:00:21+08:00 ] /abcTest/admin.php/Card/index | INFO: Tag[ view_parse ] --END-- [ RunTime:0.019002s ]
+[ 2019-07-07T17:00:21+08:00 ] /abcTest/admin.php/Card/index | INFO: Tag[ view_filter ] --START--
+[ 2019-07-07T17:00:21+08:00 ] /abcTest/admin.php/Card/index | INFO: Run ContentReplace Behavior [ RunTime:0.001089s ]
+[ 2019-07-07T17:00:21+08:00 ] /abcTest/admin.php/Card/index | INFO: Run TokenBuild Behavior [ RunTime:0.001176s ]
+[ 2019-07-07T17:00:21+08:00 ] /abcTest/admin.php/Card/index | INFO: Run WriteHtmlCache Behavior [ RunTime:0.000792s ]
+[ 2019-07-07T17:00:21+08:00 ] /abcTest/admin.php/Card/index | INFO: Run ShowRuntime Behavior [ RunTime:0.001180s ]
+[ 2019-07-07T17:00:21+08:00 ] /abcTest/admin.php/Card/index | INFO: Tag[ view_filter ] --END-- [ RunTime:0.004647s ]
+[ 2019-07-07T17:00:21+08:00 ] /abcTest/admin.php/Card/index | INFO: Tag[ view_end ] --START--
+[ 2019-07-07T17:00:21+08:00 ] /abcTest/admin.php/Card/index | INFO: Run ShowPageTrace Behavior [ RunTime:0.000974s ]
+[ 2019-07-07T17:00:21+08:00 ] /abcTest/admin.php/Card/index | INFO: Tag[ view_end ] --END-- [ RunTime:0.001113s ]
+[ 2019-07-07T17:00:25+08:00 ] /abcTest/admin.php/Card/resources/images/closelabel.gif | ERR: (ThinkException) 非法操作resources
+[ 2019-07-07T17:00:31+08:00 ] /abcTest/admin.php/Card/resources/images/closelabel.gif | ERR: (ThinkException) 非法操作resources
+[ 2019-07-07T17:04:05+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ route_check ] --START--
+[ 2019-07-07T17:04:05+08:00 ] /abcTest/admin.php/Index/index | INFO: Run CheckRoute Behavior [ RunTime:0.003420s ]
+[ 2019-07-07T17:04:05+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ route_check ] --END-- [ RunTime:0.003770s ]
+[ 2019-07-07T17:04:05+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ app_begin ] --START--
+[ 2019-07-07T17:04:05+08:00 ] /abcTest/admin.php/Index/index | INFO: Run ReadHtmlCache Behavior [ RunTime:0.001384s ]
+[ 2019-07-07T17:04:05+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ app_begin ] --END-- [ RunTime:0.001550s ]
+[ 2019-07-07T17:04:05+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ view_template ] --START--
+[ 2019-07-07T17:04:05+08:00 ] /abcTest/admin.php/Index/index | INFO: Run LocationTemplate Behavior [ RunTime:0.001547s ]
+[ 2019-07-07T17:04:05+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ view_template ] --END-- [ RunTime:0.001713s ]
+[ 2019-07-07T17:04:05+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ view_parse ] --START--
+[ 2019-07-07T17:04:05+08:00 ] /abcTest/admin.php/Index/index | NOTIC: [8] Undefined variable: title 4c18d5952d0dbf1eedb8a1ec796fa788.php 第 5 行.
+[ 2019-07-07T17:04:05+08:00 ] /abcTest/admin.php/Index/index | INFO: Run ParseTemplate Behavior [ RunTime:0.016823s ]
+[ 2019-07-07T17:04:05+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ view_parse ] --END-- [ RunTime:0.016994s ]
+[ 2019-07-07T17:04:05+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ view_filter ] --START--
+[ 2019-07-07T17:04:05+08:00 ] /abcTest/admin.php/Index/index | INFO: Run ContentReplace Behavior [ RunTime:0.001223s ]
+[ 2019-07-07T17:04:05+08:00 ] /abcTest/admin.php/Index/index | INFO: Run TokenBuild Behavior [ RunTime:0.001189s ]
+[ 2019-07-07T17:04:06+08:00 ] /abcTest/admin.php/Index/index | INFO: Run WriteHtmlCache Behavior [ RunTime:0.001792s ]
+[ 2019-07-07T17:04:06+08:00 ] /abcTest/admin.php/Index/index | INFO: Run ShowRuntime Behavior [ RunTime:0.001801s ]
+[ 2019-07-07T17:04:06+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ view_filter ] --END-- [ RunTime:0.006513s ]
+[ 2019-07-07T17:04:06+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ view_end ] --START--
+[ 2019-07-07T17:04:06+08:00 ] /abcTest/admin.php/Index/index | INFO: Run ShowPageTrace Behavior [ RunTime:0.001792s ]
+[ 2019-07-07T17:04:06+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ view_end ] --END-- [ RunTime:0.001996s ]
+[ 2019-07-07T17:04:09+08:00 ] /abcTest/admin.php/Index/resources/images/closelabel.gif | ERR: (ThinkException) 非法操作resources
+[ 2019-07-07T17:04:10+08:00 ] /abcTest/admin.php/Card/index | INFO: Tag[ route_check ] --START--
+[ 2019-07-07T17:04:10+08:00 ] /abcTest/admin.php/Card/index | INFO: Run CheckRoute Behavior [ RunTime:0.002341s ]
+[ 2019-07-07T17:04:10+08:00 ] /abcTest/admin.php/Card/index | INFO: Tag[ route_check ] --END-- [ RunTime:0.002558s ]
+[ 2019-07-07T17:04:10+08:00 ] /abcTest/admin.php/Card/index | INFO: Tag[ app_begin ] --START--
+[ 2019-07-07T17:04:10+08:00 ] /abcTest/admin.php/Card/index | INFO: Run ReadHtmlCache Behavior [ RunTime:0.001875s ]
+[ 2019-07-07T17:04:10+08:00 ] /abcTest/admin.php/Card/index | INFO: Tag[ app_begin ] --END-- [ RunTime:0.002082s ]
+[ 2019-07-07T17:04:10+08:00 ] /abcTest/admin.php/Card/index | NOTIC: [8] Use of undefined constant Card - assumed 'Card' CardAction.class.php 第 4 行.
+[ 2019-07-07T17:04:10+08:00 ] /abcTest/admin.php/Card/index | SQL: SHOW COLUMNS FROM `t_card` [ RunTime:0.006950s ]
+[ 2019-07-07T17:04:10+08:00 ] /abcTest/admin.php/Card/index | SQL: SELECT `cardID`,`cardName`,`validTimes`,`cardPrice`,`cardDiscount`,`startTime`,`endTime` FROM `t_card` ORDER BY cardID asc  [ RunTime:0.000418s ]
+[ 2019-07-07T17:04:10+08:00 ] /abcTest/admin.php/Card/index | INFO: Tag[ view_template ] --START--
+[ 2019-07-07T17:04:10+08:00 ] /abcTest/admin.php/Card/index | INFO: Run LocationTemplate Behavior [ RunTime:0.002166s ]
+[ 2019-07-07T17:04:10+08:00 ] /abcTest/admin.php/Card/index | INFO: Tag[ view_template ] --END-- [ RunTime:0.002314s ]
+[ 2019-07-07T17:04:10+08:00 ] /abcTest/admin.php/Card/index | INFO: Tag[ view_parse ] --START--
+[ 2019-07-07T17:04:10+08:00 ] /abcTest/admin.php/Card/index | NOTIC: [8] Undefined variable: title b25313e8e9308df3a7c3768fbe3d1422.php 第 5 行.
+[ 2019-07-07T17:04:10+08:00 ] /abcTest/admin.php/Card/index | INFO: Run ParseTemplate Behavior [ RunTime:0.019932s ]
+[ 2019-07-07T17:04:10+08:00 ] /abcTest/admin.php/Card/index | INFO: Tag[ view_parse ] --END-- [ RunTime:0.020123s ]
+[ 2019-07-07T17:04:10+08:00 ] /abcTest/admin.php/Card/index | INFO: Tag[ view_filter ] --START--
+[ 2019-07-07T17:04:10+08:00 ] /abcTest/admin.php/Card/index | INFO: Run ContentReplace Behavior [ RunTime:0.001180s ]
+[ 2019-07-07T17:04:10+08:00 ] /abcTest/admin.php/Card/index | INFO: Run TokenBuild Behavior [ RunTime:0.002177s ]
+[ 2019-07-07T17:04:10+08:00 ] /abcTest/admin.php/Card/index | INFO: Run WriteHtmlCache Behavior [ RunTime:0.000959s ]
+[ 2019-07-07T17:04:10+08:00 ] /abcTest/admin.php/Card/index | INFO: Run ShowRuntime Behavior [ RunTime:0.001189s ]
+[ 2019-07-07T17:04:10+08:00 ] /abcTest/admin.php/Card/index | INFO: Tag[ view_filter ] --END-- [ RunTime:0.005953s ]
+[ 2019-07-07T17:04:10+08:00 ] /abcTest/admin.php/Card/index | INFO: Tag[ view_end ] --START--
+[ 2019-07-07T17:04:10+08:00 ] /abcTest/admin.php/Card/index | INFO: Run ShowPageTrace Behavior [ RunTime:0.000971s ]
+[ 2019-07-07T17:04:10+08:00 ] /abcTest/admin.php/Card/index | INFO: Tag[ view_end ] --END-- [ RunTime:0.001101s ]
+[ 2019-07-07T17:04:15+08:00 ] /abcTest/admin.php/Card/resources/images/closelabel.gif | ERR: (ThinkException) 非法操作resources
+[ 2019-07-07T17:04:22+08:00 ] /abcTest/admin.php/Card/resources/images/closelabel.gif | ERR: (ThinkException) 非法操作resources
+[ 2019-07-07T17:04:26+08:00 ] /abcTest/admin.php/Card/resources/images/closelabel.gif | ERR: (ThinkException) 非法操作resources
+[ 2019-07-07T17:05:18+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ route_check ] --START--
+[ 2019-07-07T17:05:18+08:00 ] /abcTest/admin.php/Index/index | INFO: Run CheckRoute Behavior [ RunTime:0.001745s ]
+[ 2019-07-07T17:05:18+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ route_check ] --END-- [ RunTime:0.001939s ]
+[ 2019-07-07T17:05:18+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ app_begin ] --START--
+[ 2019-07-07T17:05:18+08:00 ] /abcTest/admin.php/Index/index | INFO: Run ReadHtmlCache Behavior [ RunTime:0.001428s ]
+[ 2019-07-07T17:05:18+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ app_begin ] --END-- [ RunTime:0.001590s ]
+[ 2019-07-07T17:05:18+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ view_template ] --START--
+[ 2019-07-07T17:05:18+08:00 ] /abcTest/admin.php/Index/index | INFO: Run LocationTemplate Behavior [ RunTime:0.001966s ]
+[ 2019-07-07T17:05:18+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ view_template ] --END-- [ RunTime:0.002141s ]
+[ 2019-07-07T17:05:18+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ view_parse ] --START--
+[ 2019-07-07T17:05:18+08:00 ] /abcTest/admin.php/Index/index | NOTIC: [8] Undefined variable: title 4c18d5952d0dbf1eedb8a1ec796fa788.php 第 5 行.
+[ 2019-07-07T17:05:18+08:00 ] /abcTest/admin.php/Index/index | INFO: Run ParseTemplate Behavior [ RunTime:0.016871s ]
+[ 2019-07-07T17:05:18+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ view_parse ] --END-- [ RunTime:0.017031s ]
+[ 2019-07-07T17:05:18+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ view_filter ] --START--
+[ 2019-07-07T17:05:18+08:00 ] /abcTest/admin.php/Index/index | INFO: Run ContentReplace Behavior [ RunTime:0.001385s ]
+[ 2019-07-07T17:05:18+08:00 ] /abcTest/admin.php/Index/index | INFO: Run TokenBuild Behavior [ RunTime:0.001398s ]
+[ 2019-07-07T17:05:18+08:00 ] /abcTest/admin.php/Index/index | INFO: Run WriteHtmlCache Behavior [ RunTime:0.001692s ]
+[ 2019-07-07T17:05:18+08:00 ] /abcTest/admin.php/Index/index | INFO: Run ShowRuntime Behavior [ RunTime:0.002059s ]
+[ 2019-07-07T17:05:18+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ view_filter ] --END-- [ RunTime:0.007007s ]
+[ 2019-07-07T17:05:18+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ view_end ] --START--
+[ 2019-07-07T17:05:18+08:00 ] /abcTest/admin.php/Index/index | INFO: Run ShowPageTrace Behavior [ RunTime:0.001396s ]
+[ 2019-07-07T17:05:18+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ view_end ] --END-- [ RunTime:0.001552s ]
+[ 2019-07-07T17:05:21+08:00 ] /abcTest/admin.php/Index/resources/images/closelabel.gif | ERR: (ThinkException) 非法操作resources
+[ 2019-07-07T17:05:24+08:00 ] /abcTest/admin.php/Card/index | INFO: Tag[ route_check ] --START--
+[ 2019-07-07T17:05:24+08:00 ] /abcTest/admin.php/Card/index | INFO: Run CheckRoute Behavior [ RunTime:0.004004s ]
+[ 2019-07-07T17:05:24+08:00 ] /abcTest/admin.php/Card/index | INFO: Tag[ route_check ] --END-- [ RunTime:0.004686s ]
+[ 2019-07-07T17:05:24+08:00 ] /abcTest/admin.php/Card/index | INFO: Tag[ app_begin ] --START--
+[ 2019-07-07T17:05:24+08:00 ] /abcTest/admin.php/Card/index | INFO: Run ReadHtmlCache Behavior [ RunTime:0.001569s ]
+[ 2019-07-07T17:05:24+08:00 ] /abcTest/admin.php/Card/index | INFO: Tag[ app_begin ] --END-- [ RunTime:0.001799s ]
+[ 2019-07-07T17:05:24+08:00 ] /abcTest/admin.php/Card/index | NOTIC: [8] Use of undefined constant Card - assumed 'Card' CardAction.class.php 第 4 行.
+[ 2019-07-07T17:05:24+08:00 ] /abcTest/admin.php/Card/index | SQL: SHOW COLUMNS FROM `t_card` [ RunTime:0.061936s ]
+[ 2019-07-07T17:05:24+08:00 ] /abcTest/admin.php/Card/index | SQL: SELECT `cardID`,`cardName`,`validTimes`,`cardPrice`,`cardDiscount`,`startTime`,`endTime` FROM `t_card` ORDER BY cardID asc  [ RunTime:0.000806s ]
+[ 2019-07-07T17:05:24+08:00 ] /abcTest/admin.php/Card/index | INFO: Tag[ view_template ] --START--
+[ 2019-07-07T17:05:24+08:00 ] /abcTest/admin.php/Card/index | INFO: Run LocationTemplate Behavior [ RunTime:0.002725s ]
+[ 2019-07-07T17:05:24+08:00 ] /abcTest/admin.php/Card/index | INFO: Tag[ view_template ] --END-- [ RunTime:0.003001s ]
+[ 2019-07-07T17:05:24+08:00 ] /abcTest/admin.php/Card/index | INFO: Tag[ view_parse ] --START--
+[ 2019-07-07T17:05:24+08:00 ] /abcTest/admin.php/Card/index | NOTIC: [8] Undefined variable: title b25313e8e9308df3a7c3768fbe3d1422.php 第 5 行.
+[ 2019-07-07T17:05:24+08:00 ] /abcTest/admin.php/Card/index | INFO: Run ParseTemplate Behavior [ RunTime:0.029082s ]
+[ 2019-07-07T17:05:24+08:00 ] /abcTest/admin.php/Card/index | INFO: Tag[ view_parse ] --END-- [ RunTime:0.029319s ]
+[ 2019-07-07T17:05:24+08:00 ] /abcTest/admin.php/Card/index | INFO: Tag[ view_filter ] --START--
+[ 2019-07-07T17:05:24+08:00 ] /abcTest/admin.php/Card/index | INFO: Run ContentReplace Behavior [ RunTime:0.001064s ]
+[ 2019-07-07T17:05:24+08:00 ] /abcTest/admin.php/Card/index | INFO: Run TokenBuild Behavior [ RunTime:0.001131s ]
+[ 2019-07-07T17:05:24+08:00 ] /abcTest/admin.php/Card/index | INFO: Run WriteHtmlCache Behavior [ RunTime:0.000695s ]
+[ 2019-07-07T17:05:24+08:00 ] /abcTest/admin.php/Card/index | INFO: Run ShowRuntime Behavior [ RunTime:0.001188s ]
+[ 2019-07-07T17:05:24+08:00 ] /abcTest/admin.php/Card/index | INFO: Tag[ view_filter ] --END-- [ RunTime:0.004523s ]
+[ 2019-07-07T17:05:24+08:00 ] /abcTest/admin.php/Card/index | INFO: Tag[ view_end ] --START--
+[ 2019-07-07T17:05:24+08:00 ] /abcTest/admin.php/Card/index | INFO: Run ShowPageTrace Behavior [ RunTime:0.000954s ]
+[ 2019-07-07T17:05:24+08:00 ] /abcTest/admin.php/Card/index | INFO: Tag[ view_end ] --END-- [ RunTime:0.001107s ]
+[ 2019-07-07T17:05:28+08:00 ] /abcTest/admin.php/Card/resources/images/closelabel.gif | ERR: (ThinkException) 非法操作resources
+[ 2019-07-07T17:05:53+08:00 ] /abcTest/admin.php/Card/resources/images/closelabel.gif | ERR: (ThinkException) 非法操作resources
+[ 2019-07-07T17:06:23+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ route_check ] --START--
+[ 2019-07-07T17:06:23+08:00 ] /abcTest/admin.php/Index/index | INFO: Run CheckRoute Behavior [ RunTime:0.002273s ]
+[ 2019-07-07T17:06:23+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ route_check ] --END-- [ RunTime:0.002597s ]
+[ 2019-07-07T17:06:23+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ app_begin ] --START--
+[ 2019-07-07T17:06:23+08:00 ] /abcTest/admin.php/Index/index | INFO: Run ReadHtmlCache Behavior [ RunTime:0.001919s ]
+[ 2019-07-07T17:06:23+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ app_begin ] --END-- [ RunTime:0.002160s ]
+[ 2019-07-07T17:06:23+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ view_template ] --START--
+[ 2019-07-07T17:06:23+08:00 ] /abcTest/admin.php/Index/index | INFO: Run LocationTemplate Behavior [ RunTime:0.003511s ]
+[ 2019-07-07T17:06:23+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ view_template ] --END-- [ RunTime:0.003790s ]
+[ 2019-07-07T17:06:23+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ view_parse ] --START--
+[ 2019-07-07T17:06:23+08:00 ] /abcTest/admin.php/Index/index | NOTIC: [8] Undefined variable: title 4c18d5952d0dbf1eedb8a1ec796fa788.php 第 5 行.
+[ 2019-07-07T17:06:23+08:00 ] /abcTest/admin.php/Index/index | INFO: Run ParseTemplate Behavior [ RunTime:0.017372s ]
+[ 2019-07-07T17:06:23+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ view_parse ] --END-- [ RunTime:0.017576s ]
+[ 2019-07-07T17:06:23+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ view_filter ] --START--
+[ 2019-07-07T17:06:23+08:00 ] /abcTest/admin.php/Index/index | INFO: Run ContentReplace Behavior [ RunTime:0.001158s ]
+[ 2019-07-07T17:06:23+08:00 ] /abcTest/admin.php/Index/index | INFO: Run TokenBuild Behavior [ RunTime:0.001140s ]
+[ 2019-07-07T17:06:23+08:00 ] /abcTest/admin.php/Index/index | INFO: Run WriteHtmlCache Behavior [ RunTime:0.000862s ]
+[ 2019-07-07T17:06:23+08:00 ] /abcTest/admin.php/Index/index | INFO: Run ShowRuntime Behavior [ RunTime:0.001299s ]
+[ 2019-07-07T17:06:23+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ view_filter ] --END-- [ RunTime:0.004872s ]
+[ 2019-07-07T17:06:23+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ view_end ] --START--
+[ 2019-07-07T17:06:23+08:00 ] /abcTest/admin.php/Index/index | INFO: Run ShowPageTrace Behavior [ RunTime:0.001045s ]
+[ 2019-07-07T17:06:23+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ view_end ] --END-- [ RunTime:0.001181s ]
+[ 2019-07-07T17:06:26+08:00 ] /abcTest/admin.php/Index/resources/images/closelabel.gif | ERR: (ThinkException) 非法操作resources
+[ 2019-07-07T17:06:27+08:00 ] /abcTest/admin.php/Card/index | INFO: Tag[ route_check ] --START--
+[ 2019-07-07T17:06:27+08:00 ] /abcTest/admin.php/Card/index | INFO: Run CheckRoute Behavior [ RunTime:0.001887s ]
+[ 2019-07-07T17:06:27+08:00 ] /abcTest/admin.php/Card/index | INFO: Tag[ route_check ] --END-- [ RunTime:0.002121s ]
+[ 2019-07-07T17:06:27+08:00 ] /abcTest/admin.php/Card/index | INFO: Tag[ app_begin ] --START--
+[ 2019-07-07T17:06:27+08:00 ] /abcTest/admin.php/Card/index | INFO: Run ReadHtmlCache Behavior [ RunTime:0.001346s ]
+[ 2019-07-07T17:06:27+08:00 ] /abcTest/admin.php/Card/index | INFO: Tag[ app_begin ] --END-- [ RunTime:0.001517s ]
+[ 2019-07-07T17:06:27+08:00 ] /abcTest/admin.php/Card/index | NOTIC: [8] Use of undefined constant Card - assumed 'Card' CardAction.class.php 第 4 行.
+[ 2019-07-07T17:06:27+08:00 ] /abcTest/admin.php/Card/index | SQL: SHOW COLUMNS FROM `t_card` [ RunTime:0.007092s ]
+[ 2019-07-07T17:06:27+08:00 ] /abcTest/admin.php/Card/index | SQL: SELECT `cardID`,`cardName`,`validTimes`,`cardPrice`,`cardDiscount`,`startTime`,`endTime` FROM `t_card` ORDER BY cardID asc  [ RunTime:0.000660s ]
+[ 2019-07-07T17:06:27+08:00 ] /abcTest/admin.php/Card/index | INFO: Tag[ view_template ] --START--
+[ 2019-07-07T17:06:27+08:00 ] /abcTest/admin.php/Card/index | INFO: Run LocationTemplate Behavior [ RunTime:0.001814s ]
+[ 2019-07-07T17:06:27+08:00 ] /abcTest/admin.php/Card/index | INFO: Tag[ view_template ] --END-- [ RunTime:0.001958s ]
+[ 2019-07-07T17:06:27+08:00 ] /abcTest/admin.php/Card/index | INFO: Tag[ view_parse ] --START--
+[ 2019-07-07T17:06:27+08:00 ] /abcTest/admin.php/Card/index | NOTIC: [8] Undefined variable: title b25313e8e9308df3a7c3768fbe3d1422.php 第 5 行.
+[ 2019-07-07T17:06:27+08:00 ] /abcTest/admin.php/Card/index | INFO: Run ParseTemplate Behavior [ RunTime:0.019690s ]
+[ 2019-07-07T17:06:27+08:00 ] /abcTest/admin.php/Card/index | INFO: Tag[ view_parse ] --END-- [ RunTime:0.019863s ]
+[ 2019-07-07T17:06:27+08:00 ] /abcTest/admin.php/Card/index | INFO: Tag[ view_filter ] --START--
+[ 2019-07-07T17:06:27+08:00 ] /abcTest/admin.php/Card/index | INFO: Run ContentReplace Behavior [ RunTime:0.001291s ]
+[ 2019-07-07T17:06:27+08:00 ] /abcTest/admin.php/Card/index | INFO: Run TokenBuild Behavior [ RunTime:0.001096s ]
+[ 2019-07-07T17:06:27+08:00 ] /abcTest/admin.php/Card/index | INFO: Run WriteHtmlCache Behavior [ RunTime:0.000735s ]
+[ 2019-07-07T17:06:27+08:00 ] /abcTest/admin.php/Card/index | INFO: Run ShowRuntime Behavior [ RunTime:0.001329s ]
+[ 2019-07-07T17:06:27+08:00 ] /abcTest/admin.php/Card/index | INFO: Tag[ view_filter ] --END-- [ RunTime:0.004822s ]
+[ 2019-07-07T17:06:27+08:00 ] /abcTest/admin.php/Card/index | INFO: Tag[ view_end ] --START--
+[ 2019-07-07T17:06:27+08:00 ] /abcTest/admin.php/Card/index | INFO: Run ShowPageTrace Behavior [ RunTime:0.001706s ]
+[ 2019-07-07T17:06:27+08:00 ] /abcTest/admin.php/Card/index | INFO: Tag[ view_end ] --END-- [ RunTime:0.001883s ]
+[ 2019-07-07T17:06:32+08:00 ] /abcTest/admin.php/Card/resources/images/closelabel.gif | ERR: (ThinkException) 非法操作resources
+[ 2019-07-07T17:06:45+08:00 ] /abcTest/admin.php/Card/resources/images/closelabel.gif | ERR: (ThinkException) 非法操作resources
+[ 2019-07-07T17:06:48+08:00 ] /abcTest/admin.php/Card/index | INFO: Tag[ route_check ] --START--
+[ 2019-07-07T17:06:48+08:00 ] /abcTest/admin.php/Card/index | INFO: Run CheckRoute Behavior [ RunTime:0.002956s ]
+[ 2019-07-07T17:06:48+08:00 ] /abcTest/admin.php/Card/index | INFO: Tag[ route_check ] --END-- [ RunTime:0.003264s ]
+[ 2019-07-07T17:06:48+08:00 ] /abcTest/admin.php/Card/index | INFO: Tag[ app_begin ] --START--
+[ 2019-07-07T17:06:48+08:00 ] /abcTest/admin.php/Card/index | INFO: Run ReadHtmlCache Behavior [ RunTime:0.001982s ]
+[ 2019-07-07T17:06:48+08:00 ] /abcTest/admin.php/Card/index | INFO: Tag[ app_begin ] --END-- [ RunTime:0.002140s ]
+[ 2019-07-07T17:06:48+08:00 ] /abcTest/admin.php/Card/index | NOTIC: [8] Use of undefined constant Card - assumed 'Card' CardAction.class.php 第 4 行.
+[ 2019-07-07T17:06:48+08:00 ] /abcTest/admin.php/Card/index | SQL: SHOW COLUMNS FROM `t_card` [ RunTime:0.007412s ]
+[ 2019-07-07T17:06:48+08:00 ] /abcTest/admin.php/Card/index | SQL: SELECT `cardID`,`cardName`,`validTimes`,`cardPrice`,`cardDiscount`,`startTime`,`endTime` FROM `t_card` ORDER BY cardID asc  [ RunTime:0.000413s ]
+[ 2019-07-07T17:06:48+08:00 ] /abcTest/admin.php/Card/index | INFO: Tag[ view_template ] --START--
+[ 2019-07-07T17:06:48+08:00 ] /abcTest/admin.php/Card/index | INFO: Run LocationTemplate Behavior [ RunTime:0.001853s ]
+[ 2019-07-07T17:06:48+08:00 ] /abcTest/admin.php/Card/index | INFO: Tag[ view_template ] --END-- [ RunTime:0.001992s ]
+[ 2019-07-07T17:06:48+08:00 ] /abcTest/admin.php/Card/index | INFO: Tag[ view_parse ] --START--
+[ 2019-07-07T17:06:48+08:00 ] /abcTest/admin.php/Card/index | NOTIC: [8] Undefined variable: title b25313e8e9308df3a7c3768fbe3d1422.php 第 5 行.
+[ 2019-07-07T17:06:48+08:00 ] /abcTest/admin.php/Card/index | INFO: Run ParseTemplate Behavior [ RunTime:0.018405s ]
+[ 2019-07-07T17:06:48+08:00 ] /abcTest/admin.php/Card/index | INFO: Tag[ view_parse ] --END-- [ RunTime:0.018586s ]
+[ 2019-07-07T17:06:48+08:00 ] /abcTest/admin.php/Card/index | INFO: Tag[ view_filter ] --START--
+[ 2019-07-07T17:06:48+08:00 ] /abcTest/admin.php/Card/index | INFO: Run ContentReplace Behavior [ RunTime:0.001154s ]
+[ 2019-07-07T17:06:48+08:00 ] /abcTest/admin.php/Card/index | INFO: Run TokenBuild Behavior [ RunTime:0.001198s ]
+[ 2019-07-07T17:06:48+08:00 ] /abcTest/admin.php/Card/index | INFO: Run WriteHtmlCache Behavior [ RunTime:0.000738s ]
+[ 2019-07-07T17:06:48+08:00 ] /abcTest/admin.php/Card/index | INFO: Run ShowRuntime Behavior [ RunTime:0.001146s ]
+[ 2019-07-07T17:06:48+08:00 ] /abcTest/admin.php/Card/index | INFO: Tag[ view_filter ] --END-- [ RunTime:0.004660s ]
+[ 2019-07-07T17:06:48+08:00 ] /abcTest/admin.php/Card/index | INFO: Tag[ view_end ] --START--
+[ 2019-07-07T17:06:48+08:00 ] /abcTest/admin.php/Card/index | INFO: Run ShowPageTrace Behavior [ RunTime:0.000884s ]
+[ 2019-07-07T17:06:48+08:00 ] /abcTest/admin.php/Card/index | INFO: Tag[ view_end ] --END-- [ RunTime:0.001012s ]
+[ 2019-07-07T17:06:52+08:00 ] /abcTest/admin.php/Card/resources/images/closelabel.gif | ERR: (ThinkException) 非法操作resources
+[ 2019-07-07T17:08:28+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ route_check ] --START--
+[ 2019-07-07T17:08:28+08:00 ] /abcTest/admin.php/Index/index | INFO: Run CheckRoute Behavior [ RunTime:0.001766s ]
+[ 2019-07-07T17:08:28+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ route_check ] --END-- [ RunTime:0.001961s ]
+[ 2019-07-07T17:08:28+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ app_begin ] --START--
+[ 2019-07-07T17:08:28+08:00 ] /abcTest/admin.php/Index/index | INFO: Run ReadHtmlCache Behavior [ RunTime:0.001395s ]
+[ 2019-07-07T17:08:28+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ app_begin ] --END-- [ RunTime:0.001538s ]
+[ 2019-07-07T17:08:28+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ view_template ] --START--
+[ 2019-07-07T17:08:28+08:00 ] /abcTest/admin.php/Index/index | INFO: Run LocationTemplate Behavior [ RunTime:0.001636s ]
+[ 2019-07-07T17:08:28+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ view_template ] --END-- [ RunTime:0.001813s ]
+[ 2019-07-07T17:08:28+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ view_parse ] --START--
+[ 2019-07-07T17:08:28+08:00 ] /abcTest/admin.php/Index/index | NOTIC: [8] Undefined variable: title 4c18d5952d0dbf1eedb8a1ec796fa788.php 第 5 行.
+[ 2019-07-07T17:08:28+08:00 ] /abcTest/admin.php/Index/index | INFO: Run ParseTemplate Behavior [ RunTime:0.015325s ]
+[ 2019-07-07T17:08:28+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ view_parse ] --END-- [ RunTime:0.015500s ]
+[ 2019-07-07T17:08:28+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ view_filter ] --START--
+[ 2019-07-07T17:08:28+08:00 ] /abcTest/admin.php/Index/index | INFO: Run ContentReplace Behavior [ RunTime:0.001256s ]
+[ 2019-07-07T17:08:28+08:00 ] /abcTest/admin.php/Index/index | INFO: Run TokenBuild Behavior [ RunTime:0.001158s ]
+[ 2019-07-07T17:08:28+08:00 ] /abcTest/admin.php/Index/index | INFO: Run WriteHtmlCache Behavior [ RunTime:0.001312s ]
+[ 2019-07-07T17:08:28+08:00 ] /abcTest/admin.php/Index/index | INFO: Run ShowRuntime Behavior [ RunTime:0.001798s ]
+[ 2019-07-07T17:08:28+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ view_filter ] --END-- [ RunTime:0.006002s ]
+[ 2019-07-07T17:08:28+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ view_end ] --START--
+[ 2019-07-07T17:08:28+08:00 ] /abcTest/admin.php/Index/index | INFO: Run ShowPageTrace Behavior [ RunTime:0.001279s ]
+[ 2019-07-07T17:08:28+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ view_end ] --END-- [ RunTime:0.001437s ]
+[ 2019-07-07T17:08:31+08:00 ] /abcTest/admin.php/Index/resources/images/closelabel.gif | ERR: (ThinkException) 非法操作resources
+[ 2019-07-07T17:08:33+08:00 ] /abcTest/admin.php/Card/index | INFO: Tag[ route_check ] --START--
+[ 2019-07-07T17:08:33+08:00 ] /abcTest/admin.php/Card/index | INFO: Run CheckRoute Behavior [ RunTime:0.001555s ]
+[ 2019-07-07T17:08:33+08:00 ] /abcTest/admin.php/Card/index | INFO: Tag[ route_check ] --END-- [ RunTime:0.001749s ]
+[ 2019-07-07T17:08:33+08:00 ] /abcTest/admin.php/Card/index | INFO: Tag[ app_begin ] --START--
+[ 2019-07-07T17:08:33+08:00 ] /abcTest/admin.php/Card/index | INFO: Run ReadHtmlCache Behavior [ RunTime:0.002685s ]
+[ 2019-07-07T17:08:33+08:00 ] /abcTest/admin.php/Card/index | INFO: Tag[ app_begin ] --END-- [ RunTime:0.002855s ]
+[ 2019-07-07T17:08:33+08:00 ] /abcTest/admin.php/Card/index | NOTIC: [8] Use of undefined constant Card - assumed 'Card' CardAction.class.php 第 4 行.
+[ 2019-07-07T17:08:33+08:00 ] /abcTest/admin.php/Card/index | SQL: SHOW COLUMNS FROM `t_card` [ RunTime:0.008022s ]
+[ 2019-07-07T17:08:33+08:00 ] /abcTest/admin.php/Card/index | SQL: SELECT `cardID`,`cardName`,`validTimes`,`cardPrice`,`cardDiscount`,`startTime`,`endTime` FROM `t_card` ORDER BY cardID asc  [ RunTime:0.000539s ]
+[ 2019-07-07T17:08:33+08:00 ] /abcTest/admin.php/Card/index | INFO: Tag[ view_template ] --START--
+[ 2019-07-07T17:08:33+08:00 ] /abcTest/admin.php/Card/index | INFO: Run LocationTemplate Behavior [ RunTime:0.001808s ]
+[ 2019-07-07T17:08:33+08:00 ] /abcTest/admin.php/Card/index | INFO: Tag[ view_template ] --END-- [ RunTime:0.001986s ]
+[ 2019-07-07T17:08:33+08:00 ] /abcTest/admin.php/Card/index | INFO: Tag[ view_parse ] --START--
+[ 2019-07-07T17:08:33+08:00 ] /abcTest/admin.php/Card/index | NOTIC: [8] Undefined variable: title b25313e8e9308df3a7c3768fbe3d1422.php 第 5 行.
+[ 2019-07-07T17:08:33+08:00 ] /abcTest/admin.php/Card/index | INFO: Run ParseTemplate Behavior [ RunTime:0.020960s ]
+[ 2019-07-07T17:08:33+08:00 ] /abcTest/admin.php/Card/index | INFO: Tag[ view_parse ] --END-- [ RunTime:0.021131s ]
+[ 2019-07-07T17:08:33+08:00 ] /abcTest/admin.php/Card/index | INFO: Tag[ view_filter ] --START--
+[ 2019-07-07T17:08:33+08:00 ] /abcTest/admin.php/Card/index | INFO: Run ContentReplace Behavior [ RunTime:0.001197s ]
+[ 2019-07-07T17:08:33+08:00 ] /abcTest/admin.php/Card/index | INFO: Run TokenBuild Behavior [ RunTime:0.001258s ]
+[ 2019-07-07T17:08:33+08:00 ] /abcTest/admin.php/Card/index | INFO: Run WriteHtmlCache Behavior [ RunTime:0.000923s ]
+[ 2019-07-07T17:08:33+08:00 ] /abcTest/admin.php/Card/index | INFO: Run ShowRuntime Behavior [ RunTime:0.002097s ]
+[ 2019-07-07T17:08:33+08:00 ] /abcTest/admin.php/Card/index | INFO: Tag[ view_filter ] --END-- [ RunTime:0.006094s ]
+[ 2019-07-07T17:08:33+08:00 ] /abcTest/admin.php/Card/index | INFO: Tag[ view_end ] --START--
+[ 2019-07-07T17:08:33+08:00 ] /abcTest/admin.php/Card/index | INFO: Run ShowPageTrace Behavior [ RunTime:0.001129s ]
+[ 2019-07-07T17:08:33+08:00 ] /abcTest/admin.php/Card/index | INFO: Tag[ view_end ] --END-- [ RunTime:0.001288s ]
+[ 2019-07-07T17:08:37+08:00 ] /abcTest/admin.php/Card/resources/images/closelabel.gif | ERR: (ThinkException) 非法操作resources
+[ 2019-07-07T17:09:14+08:00 ] /abcTest/admin.php/Card/resources/images/closelabel.gif | ERR: (ThinkException) 非法操作resources
+[ 2019-07-07T17:09:15+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ route_check ] --START--
+[ 2019-07-07T17:09:15+08:00 ] /abcTest/admin.php/Index/index | INFO: Run CheckRoute Behavior [ RunTime:0.001884s ]
+[ 2019-07-07T17:09:15+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ route_check ] --END-- [ RunTime:0.002104s ]
+[ 2019-07-07T17:09:15+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ app_begin ] --START--
+[ 2019-07-07T17:09:15+08:00 ] /abcTest/admin.php/Index/index | INFO: Run ReadHtmlCache Behavior [ RunTime:0.001636s ]
+[ 2019-07-07T17:09:15+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ app_begin ] --END-- [ RunTime:0.001822s ]
+[ 2019-07-07T17:09:15+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ view_template ] --START--
+[ 2019-07-07T17:09:15+08:00 ] /abcTest/admin.php/Index/index | INFO: Run LocationTemplate Behavior [ RunTime:0.002517s ]
+[ 2019-07-07T17:09:15+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ view_template ] --END-- [ RunTime:0.002894s ]
+[ 2019-07-07T17:09:15+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ view_parse ] --START--
+[ 2019-07-07T17:09:15+08:00 ] /abcTest/admin.php/Index/index | NOTIC: [8] Undefined variable: title 4c18d5952d0dbf1eedb8a1ec796fa788.php 第 5 行.
+[ 2019-07-07T17:09:15+08:00 ] /abcTest/admin.php/Index/index | INFO: Run ParseTemplate Behavior [ RunTime:0.018319s ]
+[ 2019-07-07T17:09:15+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ view_parse ] --END-- [ RunTime:0.018581s ]
+[ 2019-07-07T17:09:15+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ view_filter ] --START--
+[ 2019-07-07T17:09:15+08:00 ] /abcTest/admin.php/Index/index | INFO: Run ContentReplace Behavior [ RunTime:0.001789s ]
+[ 2019-07-07T17:09:15+08:00 ] /abcTest/admin.php/Index/index | INFO: Run TokenBuild Behavior [ RunTime:0.001293s ]
+[ 2019-07-07T17:09:15+08:00 ] /abcTest/admin.php/Index/index | INFO: Run WriteHtmlCache Behavior [ RunTime:0.001002s ]
+[ 2019-07-07T17:09:15+08:00 ] /abcTest/admin.php/Index/index | INFO: Run ShowRuntime Behavior [ RunTime:0.001808s ]
+[ 2019-07-07T17:09:15+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ view_filter ] --END-- [ RunTime:0.006446s ]
+[ 2019-07-07T17:09:15+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ view_end ] --START--
+[ 2019-07-07T17:09:15+08:00 ] /abcTest/admin.php/Index/index | INFO: Run ShowPageTrace Behavior [ RunTime:0.001219s ]
+[ 2019-07-07T17:09:15+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ view_end ] --END-- [ RunTime:0.001394s ]
+[ 2019-07-07T17:09:18+08:00 ] /abcTest/admin.php/Index/resources/images/closelabel.gif | ERR: (ThinkException) 非法操作resources
+[ 2019-07-07T17:09:19+08:00 ] /abcTest/admin.php/Card/index | INFO: Tag[ route_check ] --START--
+[ 2019-07-07T17:09:19+08:00 ] /abcTest/admin.php/Card/index | INFO: Run CheckRoute Behavior [ RunTime:0.001337s ]
+[ 2019-07-07T17:09:19+08:00 ] /abcTest/admin.php/Card/index | INFO: Tag[ route_check ] --END-- [ RunTime:0.001523s ]
+[ 2019-07-07T17:09:19+08:00 ] /abcTest/admin.php/Card/index | INFO: Tag[ app_begin ] --START--
+[ 2019-07-07T17:09:19+08:00 ] /abcTest/admin.php/Card/index | INFO: Run ReadHtmlCache Behavior [ RunTime:0.001125s ]
+[ 2019-07-07T17:09:19+08:00 ] /abcTest/admin.php/Card/index | INFO: Tag[ app_begin ] --END-- [ RunTime:0.001267s ]
+[ 2019-07-07T17:09:19+08:00 ] /abcTest/admin.php/Card/index | NOTIC: [8] Use of undefined constant Card - assumed 'Card' CardAction.class.php 第 4 行.
+[ 2019-07-07T17:09:19+08:00 ] /abcTest/admin.php/Card/index | SQL: SHOW COLUMNS FROM `t_card` [ RunTime:0.006008s ]
+[ 2019-07-07T17:09:19+08:00 ] /abcTest/admin.php/Card/index | SQL: SELECT `cardID`,`cardName`,`validTimes`,`cardPrice`,`cardDiscount`,`startTime`,`endTime` FROM `t_card` ORDER BY cardID asc  [ RunTime:0.000369s ]
+[ 2019-07-07T17:09:19+08:00 ] /abcTest/admin.php/Card/index | INFO: Tag[ view_template ] --START--
+[ 2019-07-07T17:09:19+08:00 ] /abcTest/admin.php/Card/index | INFO: Run LocationTemplate Behavior [ RunTime:0.002200s ]
+[ 2019-07-07T17:09:19+08:00 ] /abcTest/admin.php/Card/index | INFO: Tag[ view_template ] --END-- [ RunTime:0.002375s ]
+[ 2019-07-07T17:09:19+08:00 ] /abcTest/admin.php/Card/index | INFO: Tag[ view_parse ] --START--
+[ 2019-07-07T17:09:19+08:00 ] /abcTest/admin.php/Card/index | NOTIC: [8] Undefined variable: title b25313e8e9308df3a7c3768fbe3d1422.php 第 5 行.
+[ 2019-07-07T17:09:19+08:00 ] /abcTest/admin.php/Card/index | INFO: Run ParseTemplate Behavior [ RunTime:0.030690s ]
+[ 2019-07-07T17:09:19+08:00 ] /abcTest/admin.php/Card/index | INFO: Tag[ view_parse ] --END-- [ RunTime:0.030865s ]
+[ 2019-07-07T17:09:19+08:00 ] /abcTest/admin.php/Card/index | INFO: Tag[ view_filter ] --START--
+[ 2019-07-07T17:09:19+08:00 ] /abcTest/admin.php/Card/index | INFO: Run ContentReplace Behavior [ RunTime:0.001211s ]
+[ 2019-07-07T17:09:19+08:00 ] /abcTest/admin.php/Card/index | INFO: Run TokenBuild Behavior [ RunTime:0.001294s ]
+[ 2019-07-07T17:09:19+08:00 ] /abcTest/admin.php/Card/index | INFO: Run WriteHtmlCache Behavior [ RunTime:0.000859s ]
+[ 2019-07-07T17:09:19+08:00 ] /abcTest/admin.php/Card/index | INFO: Run ShowRuntime Behavior [ RunTime:0.001326s ]
+[ 2019-07-07T17:09:19+08:00 ] /abcTest/admin.php/Card/index | INFO: Tag[ view_filter ] --END-- [ RunTime:0.005112s ]
+[ 2019-07-07T17:09:19+08:00 ] /abcTest/admin.php/Card/index | INFO: Tag[ view_end ] --START--
+[ 2019-07-07T17:09:19+08:00 ] /abcTest/admin.php/Card/index | INFO: Run ShowPageTrace Behavior [ RunTime:0.001640s ]
+[ 2019-07-07T17:09:19+08:00 ] /abcTest/admin.php/Card/index | INFO: Tag[ view_end ] --END-- [ RunTime:0.001941s ]
+[ 2019-07-07T17:09:24+08:00 ] /abcTest/admin.php/Card/resources/images/closelabel.gif | ERR: (ThinkException) 非法操作resources
+[ 2019-07-07T17:09:30+08:00 ] /abcTest/admin.php/Card/resources/images/closelabel.gif | ERR: (ThinkException) 非法操作resources
+[ 2019-07-07T17:15:11+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ route_check ] --START--
+[ 2019-07-07T17:15:11+08:00 ] /abcTest/admin.php/Index/index | INFO: Run CheckRoute Behavior [ RunTime:0.001931s ]
+[ 2019-07-07T17:15:11+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ route_check ] --END-- [ RunTime:0.002111s ]
+[ 2019-07-07T17:15:11+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ app_begin ] --START--
+[ 2019-07-07T17:15:11+08:00 ] /abcTest/admin.php/Index/index | INFO: Run ReadHtmlCache Behavior [ RunTime:0.001316s ]
+[ 2019-07-07T17:15:11+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ app_begin ] --END-- [ RunTime:0.001448s ]
+[ 2019-07-07T17:15:11+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ view_template ] --START--
+[ 2019-07-07T17:15:11+08:00 ] /abcTest/admin.php/Index/index | INFO: Run LocationTemplate Behavior [ RunTime:0.001326s ]
+[ 2019-07-07T17:15:11+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ view_template ] --END-- [ RunTime:0.001463s ]
+[ 2019-07-07T17:15:11+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ view_parse ] --START--
+[ 2019-07-07T17:15:11+08:00 ] /abcTest/admin.php/Index/index | NOTIC: [8] Undefined variable: title 4c18d5952d0dbf1eedb8a1ec796fa788.php 第 5 行.
+[ 2019-07-07T17:15:11+08:00 ] /abcTest/admin.php/Index/index | INFO: Run ParseTemplate Behavior [ RunTime:0.015240s ]
+[ 2019-07-07T17:15:11+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ view_parse ] --END-- [ RunTime:0.015401s ]
+[ 2019-07-07T17:15:11+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ view_filter ] --START--
+[ 2019-07-07T17:15:11+08:00 ] /abcTest/admin.php/Index/index | INFO: Run ContentReplace Behavior [ RunTime:0.001195s ]
+[ 2019-07-07T17:15:11+08:00 ] /abcTest/admin.php/Index/index | INFO: Run TokenBuild Behavior [ RunTime:0.001176s ]
+[ 2019-07-07T17:15:11+08:00 ] /abcTest/admin.php/Index/index | INFO: Run WriteHtmlCache Behavior [ RunTime:0.000738s ]
+[ 2019-07-07T17:15:11+08:00 ] /abcTest/admin.php/Index/index | INFO: Run ShowRuntime Behavior [ RunTime:0.001647s ]
+[ 2019-07-07T17:15:11+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ view_filter ] --END-- [ RunTime:0.005233s ]
+[ 2019-07-07T17:15:11+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ view_end ] --START--
+[ 2019-07-07T17:15:11+08:00 ] /abcTest/admin.php/Index/index | INFO: Run ShowPageTrace Behavior [ RunTime:0.001713s ]
+[ 2019-07-07T17:15:11+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ view_end ] --END-- [ RunTime:0.001896s ]
+[ 2019-07-07T17:15:14+08:00 ] /abcTest/admin.php/Index/resources/images/closelabel.gif | ERR: (ThinkException) 非法操作resources
+[ 2019-07-07T17:15:37+08:00 ] /abcTest/admin.php/Card/index | INFO: Tag[ route_check ] --START--
+[ 2019-07-07T17:15:37+08:00 ] /abcTest/admin.php/Card/index | INFO: Run CheckRoute Behavior [ RunTime:0.005145s ]
+[ 2019-07-07T17:15:37+08:00 ] /abcTest/admin.php/Card/index | INFO: Tag[ route_check ] --END-- [ RunTime:0.005656s ]
+[ 2019-07-07T17:15:37+08:00 ] /abcTest/admin.php/Card/index | INFO: Tag[ app_begin ] --START--
+[ 2019-07-07T17:15:37+08:00 ] /abcTest/admin.php/Card/index | INFO: Run ReadHtmlCache Behavior [ RunTime:0.002018s ]
+[ 2019-07-07T17:15:37+08:00 ] /abcTest/admin.php/Card/index | INFO: Tag[ app_begin ] --END-- [ RunTime:0.002291s ]
+[ 2019-07-07T17:15:37+08:00 ] /abcTest/admin.php/Card/index | NOTIC: [8] Use of undefined constant Card - assumed 'Card' CardAction.class.php 第 4 行.
+[ 2019-07-07T17:15:37+08:00 ] /abcTest/admin.php/Card/index | SQL: SHOW COLUMNS FROM `t_card` [ RunTime:0.007655s ]
+[ 2019-07-07T17:15:37+08:00 ] /abcTest/admin.php/Card/index | SQL: SELECT `cardID`,`cardName`,`validTimes`,`cardPrice`,`cardDiscount`,`startTime`,`endTime` FROM `t_card` ORDER BY cardID asc  [ RunTime:0.000471s ]
+[ 2019-07-07T17:15:37+08:00 ] /abcTest/admin.php/Card/index | INFO: Tag[ view_template ] --START--
+[ 2019-07-07T17:15:37+08:00 ] /abcTest/admin.php/Card/index | INFO: Run LocationTemplate Behavior [ RunTime:0.001934s ]
+[ 2019-07-07T17:15:37+08:00 ] /abcTest/admin.php/Card/index | INFO: Tag[ view_template ] --END-- [ RunTime:0.002083s ]
+[ 2019-07-07T17:15:37+08:00 ] /abcTest/admin.php/Card/index | INFO: Tag[ view_parse ] --START--
+[ 2019-07-07T17:15:37+08:00 ] /abcTest/admin.php/Card/index | NOTIC: [8] Undefined variable: title b25313e8e9308df3a7c3768fbe3d1422.php 第 5 行.
+[ 2019-07-07T17:15:37+08:00 ] /abcTest/admin.php/Card/index | INFO: Run ParseTemplate Behavior [ RunTime:0.019895s ]
+[ 2019-07-07T17:15:37+08:00 ] /abcTest/admin.php/Card/index | INFO: Tag[ view_parse ] --END-- [ RunTime:0.020055s ]
+[ 2019-07-07T17:15:37+08:00 ] /abcTest/admin.php/Card/index | INFO: Tag[ view_filter ] --START--
+[ 2019-07-07T17:15:37+08:00 ] /abcTest/admin.php/Card/index | INFO: Run ContentReplace Behavior [ RunTime:0.001166s ]
+[ 2019-07-07T17:15:37+08:00 ] /abcTest/admin.php/Card/index | INFO: Run TokenBuild Behavior [ RunTime:0.001288s ]
+[ 2019-07-07T17:15:37+08:00 ] /abcTest/admin.php/Card/index | INFO: Run WriteHtmlCache Behavior [ RunTime:0.000948s ]
+[ 2019-07-07T17:15:37+08:00 ] /abcTest/admin.php/Card/index | INFO: Run ShowRuntime Behavior [ RunTime:0.001380s ]
+[ 2019-07-07T17:15:37+08:00 ] /abcTest/admin.php/Card/index | INFO: Tag[ view_filter ] --END-- [ RunTime:0.005210s ]
+[ 2019-07-07T17:15:37+08:00 ] /abcTest/admin.php/Card/index | INFO: Tag[ view_end ] --START--
+[ 2019-07-07T17:15:37+08:00 ] /abcTest/admin.php/Card/index | INFO: Run ShowPageTrace Behavior [ RunTime:0.001116s ]
+[ 2019-07-07T17:15:37+08:00 ] /abcTest/admin.php/Card/index | INFO: Tag[ view_end ] --END-- [ RunTime:0.001257s ]
+[ 2019-07-07T17:15:42+08:00 ] /abcTest/admin.php/Card/resources/images/closelabel.gif | ERR: (ThinkException) 非法操作resources
+[ 2019-07-07T17:16:20+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ route_check ] --START--
+[ 2019-07-07T17:16:20+08:00 ] /abcTest/admin.php/Index/index | INFO: Run CheckRoute Behavior [ RunTime:0.002398s ]
+[ 2019-07-07T17:16:20+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ route_check ] --END-- [ RunTime:0.002675s ]
+[ 2019-07-07T17:16:20+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ app_begin ] --START--
+[ 2019-07-07T17:16:20+08:00 ] /abcTest/admin.php/Index/index | INFO: Run ReadHtmlCache Behavior [ RunTime:0.002047s ]
+[ 2019-07-07T17:16:20+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ app_begin ] --END-- [ RunTime:0.002293s ]
+[ 2019-07-07T17:16:20+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ view_template ] --START--
+[ 2019-07-07T17:16:20+08:00 ] /abcTest/admin.php/Index/index | INFO: Run LocationTemplate Behavior [ RunTime:0.001913s ]
+[ 2019-07-07T17:16:20+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ view_template ] --END-- [ RunTime:0.002148s ]
+[ 2019-07-07T17:16:20+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ view_parse ] --START--
+[ 2019-07-07T17:16:20+08:00 ] /abcTest/admin.php/Index/index | NOTIC: [8] Undefined variable: title 4c18d5952d0dbf1eedb8a1ec796fa788.php 第 5 行.
+[ 2019-07-07T17:16:20+08:00 ] /abcTest/admin.php/Index/index | INFO: Run ParseTemplate Behavior [ RunTime:0.024041s ]
+[ 2019-07-07T17:16:20+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ view_parse ] --END-- [ RunTime:0.024359s ]
+[ 2019-07-07T17:16:20+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ view_filter ] --START--
+[ 2019-07-07T17:16:20+08:00 ] /abcTest/admin.php/Index/index | INFO: Run ContentReplace Behavior [ RunTime:0.002086s ]
+[ 2019-07-07T17:16:20+08:00 ] /abcTest/admin.php/Index/index | INFO: Run TokenBuild Behavior [ RunTime:0.001754s ]
+[ 2019-07-07T17:16:20+08:00 ] /abcTest/admin.php/Index/index | INFO: Run WriteHtmlCache Behavior [ RunTime:0.001303s ]
+[ 2019-07-07T17:16:20+08:00 ] /abcTest/admin.php/Index/index | INFO: Run ShowRuntime Behavior [ RunTime:0.002300s ]
+[ 2019-07-07T17:16:20+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ view_filter ] --END-- [ RunTime:0.008122s ]
+[ 2019-07-07T17:16:20+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ view_end ] --START--
+[ 2019-07-07T17:16:20+08:00 ] /abcTest/admin.php/Index/index | INFO: Run ShowPageTrace Behavior [ RunTime:0.001193s ]
+[ 2019-07-07T17:16:20+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ view_end ] --END-- [ RunTime:0.001496s ]
+[ 2019-07-07T17:16:23+08:00 ] /abcTest/admin.php/Index/resources/images/closelabel.gif | ERR: (ThinkException) 非法操作resources
+[ 2019-07-07T17:16:32+08:00 ] /abcTest/admin.php/Card/index | INFO: Tag[ route_check ] --START--
+[ 2019-07-07T17:16:32+08:00 ] /abcTest/admin.php/Card/index | INFO: Run CheckRoute Behavior [ RunTime:0.002327s ]
+[ 2019-07-07T17:16:32+08:00 ] /abcTest/admin.php/Card/index | INFO: Tag[ route_check ] --END-- [ RunTime:0.002610s ]
+[ 2019-07-07T17:16:32+08:00 ] /abcTest/admin.php/Card/index | INFO: Tag[ app_begin ] --START--
+[ 2019-07-07T17:16:32+08:00 ] /abcTest/admin.php/Card/index | INFO: Run ReadHtmlCache Behavior [ RunTime:0.001265s ]
+[ 2019-07-07T17:16:32+08:00 ] /abcTest/admin.php/Card/index | INFO: Tag[ app_begin ] --END-- [ RunTime:0.001428s ]
+[ 2019-07-07T17:16:32+08:00 ] /abcTest/admin.php/Card/index | NOTIC: [8] Use of undefined constant Card - assumed 'Card' CardAction.class.php 第 4 行.
+[ 2019-07-07T17:16:32+08:00 ] /abcTest/admin.php/Card/index | SQL: SHOW COLUMNS FROM `t_card` [ RunTime:0.007373s ]
+[ 2019-07-07T17:16:32+08:00 ] /abcTest/admin.php/Card/index | SQL: SELECT `cardID`,`cardName`,`validTimes`,`cardPrice`,`cardDiscount`,`startTime`,`endTime` FROM `t_card` ORDER BY cardID asc  [ RunTime:0.000628s ]
+[ 2019-07-07T17:16:32+08:00 ] /abcTest/admin.php/Card/index | INFO: Tag[ view_template ] --START--
+[ 2019-07-07T17:16:32+08:00 ] /abcTest/admin.php/Card/index | INFO: Run LocationTemplate Behavior [ RunTime:0.001912s ]
+[ 2019-07-07T17:16:32+08:00 ] /abcTest/admin.php/Card/index | INFO: Tag[ view_template ] --END-- [ RunTime:0.002083s ]
+[ 2019-07-07T17:16:32+08:00 ] /abcTest/admin.php/Card/index | INFO: Tag[ view_parse ] --START--
+[ 2019-07-07T17:16:32+08:00 ] /abcTest/admin.php/Card/index | NOTIC: [8] Undefined variable: title b25313e8e9308df3a7c3768fbe3d1422.php 第 5 行.
+[ 2019-07-07T17:16:32+08:00 ] /abcTest/admin.php/Card/index | INFO: Run ParseTemplate Behavior [ RunTime:0.020219s ]
+[ 2019-07-07T17:16:32+08:00 ] /abcTest/admin.php/Card/index | INFO: Tag[ view_parse ] --END-- [ RunTime:0.020426s ]
+[ 2019-07-07T17:16:32+08:00 ] /abcTest/admin.php/Card/index | INFO: Tag[ view_filter ] --START--
+[ 2019-07-07T17:16:32+08:00 ] /abcTest/admin.php/Card/index | INFO: Run ContentReplace Behavior [ RunTime:0.001782s ]
+[ 2019-07-07T17:16:32+08:00 ] /abcTest/admin.php/Card/index | INFO: Run TokenBuild Behavior [ RunTime:0.001364s ]
+[ 2019-07-07T17:16:32+08:00 ] /abcTest/admin.php/Card/index | INFO: Run WriteHtmlCache Behavior [ RunTime:0.000936s ]
+[ 2019-07-07T17:16:32+08:00 ] /abcTest/admin.php/Card/index | INFO: Run ShowRuntime Behavior [ RunTime:0.001344s ]
+[ 2019-07-07T17:16:32+08:00 ] /abcTest/admin.php/Card/index | INFO: Tag[ view_filter ] --END-- [ RunTime:0.005914s ]
+[ 2019-07-07T17:16:32+08:00 ] /abcTest/admin.php/Card/index | INFO: Tag[ view_end ] --START--
+[ 2019-07-07T17:16:32+08:00 ] /abcTest/admin.php/Card/index | INFO: Run ShowPageTrace Behavior [ RunTime:0.001052s ]
+[ 2019-07-07T17:16:32+08:00 ] /abcTest/admin.php/Card/index | INFO: Tag[ view_end ] --END-- [ RunTime:0.001193s ]
+[ 2019-07-07T17:16:36+08:00 ] /abcTest/admin.php/Card/resources/images/closelabel.gif | ERR: (ThinkException) 非法操作resources
+[ 2019-07-07T17:16:42+08:00 ] /abcTest/admin.php/Card/resources/images/closelabel.gif | ERR: (ThinkException) 非法操作resources
+[ 2019-07-07T17:17:51+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ route_check ] --START--
+[ 2019-07-07T17:17:51+08:00 ] /abcTest/admin.php/Index/index | INFO: Run CheckRoute Behavior [ RunTime:0.002219s ]
+[ 2019-07-07T17:17:51+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ route_check ] --END-- [ RunTime:0.002415s ]
+[ 2019-07-07T17:17:51+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ app_begin ] --START--
+[ 2019-07-07T17:17:51+08:00 ] /abcTest/admin.php/Index/index | INFO: Run ReadHtmlCache Behavior [ RunTime:0.001693s ]
+[ 2019-07-07T17:17:51+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ app_begin ] --END-- [ RunTime:0.001863s ]
+[ 2019-07-07T17:17:51+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ view_template ] --START--
+[ 2019-07-07T17:17:51+08:00 ] /abcTest/admin.php/Index/index | INFO: Run LocationTemplate Behavior [ RunTime:0.002049s ]
+[ 2019-07-07T17:17:51+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ view_template ] --END-- [ RunTime:0.002240s ]
+[ 2019-07-07T17:17:51+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ view_parse ] --START--
+[ 2019-07-07T17:17:51+08:00 ] /abcTest/admin.php/Index/index | NOTIC: [8] Undefined variable: title 4c18d5952d0dbf1eedb8a1ec796fa788.php 第 5 行.
+[ 2019-07-07T17:17:51+08:00 ] /abcTest/admin.php/Index/index | INFO: Run ParseTemplate Behavior [ RunTime:0.017733s ]
+[ 2019-07-07T17:17:51+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ view_parse ] --END-- [ RunTime:0.017891s ]
+[ 2019-07-07T17:17:51+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ view_filter ] --START--
+[ 2019-07-07T17:17:51+08:00 ] /abcTest/admin.php/Index/index | INFO: Run ContentReplace Behavior [ RunTime:0.001708s ]
+[ 2019-07-07T17:17:51+08:00 ] /abcTest/admin.php/Index/index | INFO: Run TokenBuild Behavior [ RunTime:0.001585s ]
+[ 2019-07-07T17:17:51+08:00 ] /abcTest/admin.php/Index/index | INFO: Run WriteHtmlCache Behavior [ RunTime:0.001583s ]
+[ 2019-07-07T17:17:51+08:00 ] /abcTest/admin.php/Index/index | INFO: Run ShowRuntime Behavior [ RunTime:0.002459s ]
+[ 2019-07-07T17:17:51+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ view_filter ] --END-- [ RunTime:0.007904s ]
+[ 2019-07-07T17:17:51+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ view_end ] --START--
+[ 2019-07-07T17:17:51+08:00 ] /abcTest/admin.php/Index/index | INFO: Run ShowPageTrace Behavior [ RunTime:0.001515s ]
+[ 2019-07-07T17:17:51+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ view_end ] --END-- [ RunTime:0.001665s ]
+[ 2019-07-07T17:17:55+08:00 ] /abcTest/admin.php/Index/resources/images/closelabel.gif | ERR: (ThinkException) 非法操作resources
+[ 2019-07-07T17:17:56+08:00 ] /abcTest/admin.php/Card/index | INFO: Tag[ route_check ] --START--
+[ 2019-07-07T17:17:56+08:00 ] /abcTest/admin.php/Card/index | INFO: Run CheckRoute Behavior [ RunTime:0.002422s ]
+[ 2019-07-07T17:17:56+08:00 ] /abcTest/admin.php/Card/index | INFO: Tag[ route_check ] --END-- [ RunTime:0.002698s ]
+[ 2019-07-07T17:17:56+08:00 ] /abcTest/admin.php/Card/index | INFO: Tag[ app_begin ] --START--
+[ 2019-07-07T17:17:56+08:00 ] /abcTest/admin.php/Card/index | INFO: Run ReadHtmlCache Behavior [ RunTime:0.001742s ]
+[ 2019-07-07T17:17:56+08:00 ] /abcTest/admin.php/Card/index | INFO: Tag[ app_begin ] --END-- [ RunTime:0.001986s ]
+[ 2019-07-07T17:17:56+08:00 ] /abcTest/admin.php/Card/index | NOTIC: [8] Use of undefined constant Card - assumed 'Card' CardAction.class.php 第 4 行.
+[ 2019-07-07T17:17:56+08:00 ] /abcTest/admin.php/Card/index | SQL: SHOW COLUMNS FROM `t_card` [ RunTime:0.009141s ]
+[ 2019-07-07T17:17:56+08:00 ] /abcTest/admin.php/Card/index | SQL: SELECT `cardID`,`cardName`,`validTimes`,`cardPrice`,`cardDiscount`,`startTime`,`endTime` FROM `t_card` ORDER BY cardID asc  [ RunTime:0.000514s ]
+[ 2019-07-07T17:17:56+08:00 ] /abcTest/admin.php/Card/index | INFO: Tag[ view_template ] --START--
+[ 2019-07-07T17:17:56+08:00 ] /abcTest/admin.php/Card/index | INFO: Run LocationTemplate Behavior [ RunTime:0.002285s ]
+[ 2019-07-07T17:17:56+08:00 ] /abcTest/admin.php/Card/index | INFO: Tag[ view_template ] --END-- [ RunTime:0.002515s ]
+[ 2019-07-07T17:17:56+08:00 ] /abcTest/admin.php/Card/index | INFO: Tag[ view_parse ] --START--
+[ 2019-07-07T17:17:56+08:00 ] /abcTest/admin.php/Card/index | NOTIC: [8] Undefined variable: title b25313e8e9308df3a7c3768fbe3d1422.php 第 5 行.
+[ 2019-07-07T17:17:56+08:00 ] /abcTest/admin.php/Card/index | INFO: Run ParseTemplate Behavior [ RunTime:0.019603s ]
+[ 2019-07-07T17:17:56+08:00 ] /abcTest/admin.php/Card/index | INFO: Tag[ view_parse ] --END-- [ RunTime:0.019806s ]
+[ 2019-07-07T17:17:56+08:00 ] /abcTest/admin.php/Card/index | INFO: Tag[ view_filter ] --START--
+[ 2019-07-07T17:17:56+08:00 ] /abcTest/admin.php/Card/index | INFO: Run ContentReplace Behavior [ RunTime:0.001093s ]
+[ 2019-07-07T17:17:56+08:00 ] /abcTest/admin.php/Card/index | INFO: Run TokenBuild Behavior [ RunTime:0.001245s ]
+[ 2019-07-07T17:17:56+08:00 ] /abcTest/admin.php/Card/index | INFO: Run WriteHtmlCache Behavior [ RunTime:0.000746s ]
+[ 2019-07-07T17:17:56+08:00 ] /abcTest/admin.php/Card/index | INFO: Run ShowRuntime Behavior [ RunTime:0.001240s ]
+[ 2019-07-07T17:17:56+08:00 ] /abcTest/admin.php/Card/index | INFO: Tag[ view_filter ] --END-- [ RunTime:0.004838s ]
+[ 2019-07-07T17:17:56+08:00 ] /abcTest/admin.php/Card/index | INFO: Tag[ view_end ] --START--
+[ 2019-07-07T17:17:56+08:00 ] /abcTest/admin.php/Card/index | INFO: Run ShowPageTrace Behavior [ RunTime:0.000970s ]
+[ 2019-07-07T17:17:56+08:00 ] /abcTest/admin.php/Card/index | INFO: Tag[ view_end ] --END-- [ RunTime:0.001139s ]
+[ 2019-07-07T17:18:00+08:00 ] /abcTest/admin.php/Card/resources/images/closelabel.gif | ERR: (ThinkException) 非法操作resources
+[ 2019-07-07T17:18:07+08:00 ] /abcTest/admin.php/Card/resources/images/closelabel.gif | ERR: (ThinkException) 非法操作resources
+[ 2019-07-07T17:18:28+08:00 ] /abcTest/admin.php/Member/index | INFO: Tag[ route_check ] --START--
+[ 2019-07-07T17:18:28+08:00 ] /abcTest/admin.php/Member/index | INFO: Run CheckRoute Behavior [ RunTime:0.001534s ]
+[ 2019-07-07T17:18:28+08:00 ] /abcTest/admin.php/Member/index | INFO: Tag[ route_check ] --END-- [ RunTime:0.001775s ]
+[ 2019-07-07T17:18:28+08:00 ] /abcTest/admin.php/Member/index | INFO: Tag[ app_begin ] --START--
+[ 2019-07-07T17:18:28+08:00 ] /abcTest/admin.php/Member/index | INFO: Run ReadHtmlCache Behavior [ RunTime:0.001373s ]
+[ 2019-07-07T17:18:28+08:00 ] /abcTest/admin.php/Member/index | INFO: Tag[ app_begin ] --END-- [ RunTime:0.001542s ]
+[ 2019-07-07T17:18:28+08:00 ] /abcTest/admin.php/Member/index | NOTIC: [8] Use of undefined constant Member - assumed 'Member' MemberAction.class.php 第 6 行.
+[ 2019-07-07T17:18:28+08:00 ] /abcTest/admin.php/Member/index | SQL: SHOW COLUMNS FROM `t_member` [ RunTime:0.006209s ]
+[ 2019-07-07T17:18:28+08:00 ] /abcTest/admin.php/Member/index | SQL: SELECT COUNT(*) AS tp_count FROM `t_member` LIMIT 1   [ RunTime:0.000289s ]
+[ 2019-07-07T17:18:28+08:00 ] /abcTest/admin.php/Member/index | SQL: SELECT `memName`,`memSex`,`memAddr`,`memHealth`,`memIdCard`,`memTel`,`memRegisteDate` FROM `t_member` ORDER BY memId asc  [ RunTime:0.000222s ]
+[ 2019-07-07T17:18:28+08:00 ] /abcTest/admin.php/Member/index | INFO: Tag[ view_template ] --START--
+[ 2019-07-07T17:18:28+08:00 ] /abcTest/admin.php/Member/index | INFO: Run LocationTemplate Behavior [ RunTime:0.001831s ]
+[ 2019-07-07T17:18:28+08:00 ] /abcTest/admin.php/Member/index | INFO: Tag[ view_template ] --END-- [ RunTime:0.001989s ]
+[ 2019-07-07T17:18:28+08:00 ] /abcTest/admin.php/Member/index | INFO: Tag[ view_parse ] --START--
+[ 2019-07-07T17:18:28+08:00 ] /abcTest/admin.php/Member/index | NOTIC: [8] Undefined variable: title 3cee509fada8262edd7bf89285b287db.php 第 5 行.
+[ 2019-07-07T17:18:28+08:00 ] /abcTest/admin.php/Member/index | INFO: Run ParseTemplate Behavior [ RunTime:0.047932s ]
+[ 2019-07-07T17:18:28+08:00 ] /abcTest/admin.php/Member/index | INFO: Tag[ view_parse ] --END-- [ RunTime:0.048105s ]
+[ 2019-07-07T17:18:28+08:00 ] /abcTest/admin.php/Member/index | INFO: Tag[ view_filter ] --START--
+[ 2019-07-07T17:18:28+08:00 ] /abcTest/admin.php/Member/index | INFO: Run ContentReplace Behavior [ RunTime:0.001155s ]
+[ 2019-07-07T17:18:28+08:00 ] /abcTest/admin.php/Member/index | INFO: Run TokenBuild Behavior [ RunTime:0.001103s ]
+[ 2019-07-07T17:18:28+08:00 ] /abcTest/admin.php/Member/index | INFO: Run WriteHtmlCache Behavior [ RunTime:0.000766s ]
+[ 2019-07-07T17:18:28+08:00 ] /abcTest/admin.php/Member/index | INFO: Run ShowRuntime Behavior [ RunTime:0.001162s ]
+[ 2019-07-07T17:18:28+08:00 ] /abcTest/admin.php/Member/index | INFO: Tag[ view_filter ] --END-- [ RunTime:0.004566s ]
+[ 2019-07-07T17:18:28+08:00 ] /abcTest/admin.php/Member/index | INFO: Tag[ view_end ] --START--
+[ 2019-07-07T17:18:28+08:00 ] /abcTest/admin.php/Member/index | INFO: Run ShowPageTrace Behavior [ RunTime:0.000938s ]
+[ 2019-07-07T17:18:28+08:00 ] /abcTest/admin.php/Member/index | INFO: Tag[ view_end ] --END-- [ RunTime:0.001068s ]
+[ 2019-07-07T17:18:32+08:00 ] /abcTest/admin.php/Member/resources/images/closelabel.gif | ERR: (ThinkException) 非法操作resources

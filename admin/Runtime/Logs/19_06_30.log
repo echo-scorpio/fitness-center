@@ -1,0 +1,1293 @@
+[ 2019-06-30T10:47:59+08:00 ] /abcTest/admin.php/index/login/index | ERR: (ThinkException) 无法加载模块index
+[ 2019-06-30T10:51:10+08:00 ] /abcTest/admin.php/login/index | ERR: (ThinkException) 无法加载模块login
+[ 2019-06-30T10:51:34+08:00 ] /abcTest/admin.php/admin/login/index | ERR: (ThinkException) 无法加载模块admin
+[ 2019-06-30T10:54:59+08:00 ] /abcTest/admin.php/Login/index/ | INFO: Tag[ route_check ] --START--
+[ 2019-06-30T10:54:59+08:00 ] /abcTest/admin.php/Login/index/ | INFO: Run CheckRoute Behavior [ RunTime:0.001917s ]
+[ 2019-06-30T10:54:59+08:00 ] /abcTest/admin.php/Login/index/ | INFO: Tag[ route_check ] --END-- [ RunTime:0.002780s ]
+[ 2019-06-30T10:54:59+08:00 ] /abcTest/admin.php/Login/index/ | INFO: Tag[ app_begin ] --START--
+[ 2019-06-30T10:54:59+08:00 ] /abcTest/admin.php/Login/index/ | INFO: Run ReadHtmlCache Behavior [ RunTime:0.001422s ]
+[ 2019-06-30T10:54:59+08:00 ] /abcTest/admin.php/Login/index/ | INFO: Tag[ app_begin ] --END-- [ RunTime:0.001578s ]
+[ 2019-06-30T10:54:59+08:00 ] /abcTest/admin.php/Login/index/ | INFO: Tag[ view_template ] --START--
+[ 2019-06-30T10:54:59+08:00 ] /abcTest/admin.php/Login/index/ | INFO: Run LocationTemplate Behavior [ RunTime:0.001894s ]
+[ 2019-06-30T10:54:59+08:00 ] /abcTest/admin.php/Login/index/ | INFO: Tag[ view_template ] --END-- [ RunTime:0.002057s ]
+[ 2019-06-30T10:54:59+08:00 ] /abcTest/admin.php/Login/index/ | INFO: Tag[ view_parse ] --START--
+[ 2019-06-30T10:54:59+08:00 ] /abcTest/admin.php/Login/index/ | INFO: Run ParseTemplate Behavior [ RunTime:0.013779s ]
+[ 2019-06-30T10:54:59+08:00 ] /abcTest/admin.php/Login/index/ | INFO: Tag[ view_parse ] --END-- [ RunTime:0.013963s ]
+[ 2019-06-30T10:54:59+08:00 ] /abcTest/admin.php/Login/index/ | INFO: Tag[ view_filter ] --START--
+[ 2019-06-30T10:54:59+08:00 ] /abcTest/admin.php/Login/index/ | INFO: Run ContentReplace Behavior [ RunTime:0.001624s ]
+[ 2019-06-30T10:54:59+08:00 ] /abcTest/admin.php/Login/index/ | INFO: Run TokenBuild Behavior [ RunTime:0.001365s ]
+[ 2019-06-30T10:54:59+08:00 ] /abcTest/admin.php/Login/index/ | INFO: Run WriteHtmlCache Behavior [ RunTime:0.000922s ]
+[ 2019-06-30T10:54:59+08:00 ] /abcTest/admin.php/Login/index/ | INFO: Run ShowRuntime Behavior [ RunTime:0.001326s ]
+[ 2019-06-30T10:54:59+08:00 ] /abcTest/admin.php/Login/index/ | INFO: Tag[ view_filter ] --END-- [ RunTime:0.005655s ]
+[ 2019-06-30T10:54:59+08:00 ] /abcTest/admin.php/Login/index/ | INFO: Tag[ view_end ] --START--
+[ 2019-06-30T10:54:59+08:00 ] /abcTest/admin.php/Login/index/ | INFO: Run ShowPageTrace Behavior [ RunTime:0.001181s ]
+[ 2019-06-30T10:54:59+08:00 ] /abcTest/admin.php/Login/index/ | INFO: Tag[ view_end ] --END-- [ RunTime:0.001342s ]
+[ 2019-06-30T10:55:00+08:00 ] /abcTest/admin.php/Common/verify | INFO: Tag[ route_check ] --START--
+[ 2019-06-30T10:55:00+08:00 ] /abcTest/admin.php/Common/verify | INFO: Run CheckRoute Behavior [ RunTime:0.002226s ]
+[ 2019-06-30T10:55:00+08:00 ] /abcTest/admin.php/Common/verify | INFO: Tag[ route_check ] --END-- [ RunTime:0.002473s ]
+[ 2019-06-30T10:55:00+08:00 ] /abcTest/admin.php/Common/verify | INFO: Tag[ app_begin ] --START--
+[ 2019-06-30T10:55:00+08:00 ] /abcTest/admin.php/Common/verify | INFO: Run ReadHtmlCache Behavior [ RunTime:0.001652s ]
+[ 2019-06-30T10:55:00+08:00 ] /abcTest/admin.php/Common/verify | INFO: Tag[ app_begin ] --END-- [ RunTime:0.001820s ]
+[ 2019-06-30T10:55:00+08:00 ] /abcTest/admin.php/Login/index/resources/images/closelabel.gif | INFO: Tag[ route_check ] --START--
+[ 2019-06-30T10:55:00+08:00 ] /abcTest/admin.php/Login/index/resources/images/closelabel.gif | INFO: Run CheckRoute Behavior [ RunTime:0.002652s ]
+[ 2019-06-30T10:55:00+08:00 ] /abcTest/admin.php/Login/index/resources/images/closelabel.gif | INFO: Tag[ route_check ] --END-- [ RunTime:0.002918s ]
+[ 2019-06-30T10:55:00+08:00 ] /abcTest/admin.php/Login/index/resources/images/closelabel.gif | INFO: Tag[ app_begin ] --START--
+[ 2019-06-30T10:55:00+08:00 ] /abcTest/admin.php/Login/index/resources/images/closelabel.gif | INFO: Run ReadHtmlCache Behavior [ RunTime:0.003029s ]
+[ 2019-06-30T10:55:00+08:00 ] /abcTest/admin.php/Login/index/resources/images/closelabel.gif | INFO: Tag[ app_begin ] --END-- [ RunTime:0.003286s ]
+[ 2019-06-30T10:55:00+08:00 ] /abcTest/admin.php/Login/index/resources/images/closelabel.gif | INFO: Tag[ view_template ] --START--
+[ 2019-06-30T10:55:00+08:00 ] /abcTest/admin.php/Login/index/resources/images/closelabel.gif | INFO: Run LocationTemplate Behavior [ RunTime:0.002134s ]
+[ 2019-06-30T10:55:00+08:00 ] /abcTest/admin.php/Login/index/resources/images/closelabel.gif | INFO: Tag[ view_template ] --END-- [ RunTime:0.002347s ]
+[ 2019-06-30T10:55:00+08:00 ] /abcTest/admin.php/Login/index/resources/images/closelabel.gif | INFO: Tag[ view_parse ] --START--
+[ 2019-06-30T10:55:00+08:00 ] /abcTest/admin.php/Login/index/resources/images/closelabel.gif | INFO: Run ParseTemplate Behavior [ RunTime:0.017481s ]
+[ 2019-06-30T10:55:00+08:00 ] /abcTest/admin.php/Login/index/resources/images/closelabel.gif | INFO: Tag[ view_parse ] --END-- [ RunTime:0.017807s ]
+[ 2019-06-30T10:55:00+08:00 ] /abcTest/admin.php/Login/index/resources/images/closelabel.gif | INFO: Tag[ view_filter ] --START--
+[ 2019-06-30T10:55:00+08:00 ] /abcTest/admin.php/Login/index/resources/images/closelabel.gif | INFO: Run ContentReplace Behavior [ RunTime:0.001544s ]
+[ 2019-06-30T10:55:00+08:00 ] /abcTest/admin.php/Login/index/resources/images/closelabel.gif | INFO: Run TokenBuild Behavior [ RunTime:0.001516s ]
+[ 2019-06-30T10:55:00+08:00 ] /abcTest/admin.php/Login/index/resources/images/closelabel.gif | INFO: Run WriteHtmlCache Behavior [ RunTime:0.001035s ]
+[ 2019-06-30T10:55:00+08:00 ] /abcTest/admin.php/Login/index/resources/images/closelabel.gif | INFO: Run ShowRuntime Behavior [ RunTime:0.002966s ]
+[ 2019-06-30T10:55:00+08:00 ] /abcTest/admin.php/Login/index/resources/images/closelabel.gif | INFO: Tag[ view_filter ] --END-- [ RunTime:0.007640s ]
+[ 2019-06-30T10:55:00+08:00 ] /abcTest/admin.php/Login/index/resources/images/closelabel.gif | INFO: Tag[ view_end ] --START--
+[ 2019-06-30T10:55:00+08:00 ] /abcTest/admin.php/Login/index/resources/images/closelabel.gif | INFO: Run ShowPageTrace Behavior [ RunTime:0.002038s ]
+[ 2019-06-30T10:55:00+08:00 ] /abcTest/admin.php/Login/index/resources/images/closelabel.gif | INFO: Tag[ view_end ] --END-- [ RunTime:0.002297s ]
+[ 2019-06-30T10:56:01+08:00 ] /abcTest/admin.php/Login/index/ | INFO: Tag[ route_check ] --START--
+[ 2019-06-30T10:56:01+08:00 ] /abcTest/admin.php/Login/index/ | INFO: Run CheckRoute Behavior [ RunTime:0.001781s ]
+[ 2019-06-30T10:56:01+08:00 ] /abcTest/admin.php/Login/index/ | INFO: Tag[ route_check ] --END-- [ RunTime:0.001981s ]
+[ 2019-06-30T10:56:01+08:00 ] /abcTest/admin.php/Login/index/ | INFO: Tag[ app_begin ] --START--
+[ 2019-06-30T10:56:01+08:00 ] /abcTest/admin.php/Login/index/ | INFO: Run ReadHtmlCache Behavior [ RunTime:0.001605s ]
+[ 2019-06-30T10:56:01+08:00 ] /abcTest/admin.php/Login/index/ | INFO: Tag[ app_begin ] --END-- [ RunTime:0.001757s ]
+[ 2019-06-30T10:56:01+08:00 ] /abcTest/admin.php/Login/index/ | INFO: Tag[ view_template ] --START--
+[ 2019-06-30T10:56:01+08:00 ] /abcTest/admin.php/Login/index/ | INFO: Run LocationTemplate Behavior [ RunTime:0.001847s ]
+[ 2019-06-30T10:56:01+08:00 ] /abcTest/admin.php/Login/index/ | INFO: Tag[ view_template ] --END-- [ RunTime:0.002027s ]
+[ 2019-06-30T10:56:01+08:00 ] /abcTest/admin.php/Login/index/ | INFO: Tag[ view_parse ] --START--
+[ 2019-06-30T10:56:01+08:00 ] /abcTest/admin.php/Login/index/ | INFO: Run ParseTemplate Behavior [ RunTime:0.016791s ]
+[ 2019-06-30T10:56:01+08:00 ] /abcTest/admin.php/Login/index/ | INFO: Tag[ view_parse ] --END-- [ RunTime:0.017009s ]
+[ 2019-06-30T10:56:01+08:00 ] /abcTest/admin.php/Login/index/ | INFO: Tag[ view_filter ] --START--
+[ 2019-06-30T10:56:01+08:00 ] /abcTest/admin.php/Login/index/ | INFO: Run ContentReplace Behavior [ RunTime:0.002015s ]
+[ 2019-06-30T10:56:01+08:00 ] /abcTest/admin.php/Login/index/ | INFO: Run TokenBuild Behavior [ RunTime:0.002454s ]
+[ 2019-06-30T10:56:01+08:00 ] /abcTest/admin.php/Login/index/ | INFO: Run WriteHtmlCache Behavior [ RunTime:0.001209s ]
+[ 2019-06-30T10:56:01+08:00 ] /abcTest/admin.php/Login/index/ | INFO: Run ShowRuntime Behavior [ RunTime:0.001545s ]
+[ 2019-06-30T10:56:01+08:00 ] /abcTest/admin.php/Login/index/ | INFO: Tag[ view_filter ] --END-- [ RunTime:0.007879s ]
+[ 2019-06-30T10:56:01+08:00 ] /abcTest/admin.php/Login/index/ | INFO: Tag[ view_end ] --START--
+[ 2019-06-30T10:56:01+08:00 ] /abcTest/admin.php/Login/index/ | INFO: Run ShowPageTrace Behavior [ RunTime:0.001268s ]
+[ 2019-06-30T10:56:01+08:00 ] /abcTest/admin.php/Login/index/ | INFO: Tag[ view_end ] --END-- [ RunTime:0.001444s ]
+[ 2019-06-30T10:56:01+08:00 ] /abcTest/admin.php/Common/verify | INFO: Tag[ route_check ] --START--
+[ 2019-06-30T10:56:01+08:00 ] /abcTest/admin.php/Common/verify | INFO: Run CheckRoute Behavior [ RunTime:0.008712s ]
+[ 2019-06-30T10:56:01+08:00 ] /abcTest/admin.php/Common/verify | INFO: Tag[ route_check ] --END-- [ RunTime:0.009070s ]
+[ 2019-06-30T10:56:01+08:00 ] /abcTest/admin.php/Common/verify | INFO: Tag[ app_begin ] --START--
+[ 2019-06-30T10:56:01+08:00 ] /abcTest/admin.php/Common/verify | INFO: Run ReadHtmlCache Behavior [ RunTime:0.007501s ]
+[ 2019-06-30T10:56:01+08:00 ] /abcTest/admin.php/Common/verify | INFO: Tag[ app_begin ] --END-- [ RunTime:0.007788s ]
+[ 2019-06-30T10:56:01+08:00 ] /abcTest/admin.php/Login/index/resources/images/closelabel.gif | INFO: Tag[ route_check ] --START--
+[ 2019-06-30T10:56:01+08:00 ] /abcTest/admin.php/Login/index/resources/images/closelabel.gif | INFO: Run CheckRoute Behavior [ RunTime:0.014275s ]
+[ 2019-06-30T10:56:01+08:00 ] /abcTest/admin.php/Login/index/resources/images/closelabel.gif | INFO: Tag[ route_check ] --END-- [ RunTime:0.014633s ]
+[ 2019-06-30T10:56:01+08:00 ] /abcTest/admin.php/Login/index/resources/images/closelabel.gif | INFO: Tag[ app_begin ] --START--
+[ 2019-06-30T10:56:01+08:00 ] /abcTest/admin.php/Login/index/resources/images/closelabel.gif | INFO: Run ReadHtmlCache Behavior [ RunTime:0.004210s ]
+[ 2019-06-30T10:56:01+08:00 ] /abcTest/admin.php/Login/index/resources/images/closelabel.gif | INFO: Tag[ app_begin ] --END-- [ RunTime:0.004519s ]
+[ 2019-06-30T10:56:01+08:00 ] /abcTest/admin.php/Login/index/resources/images/closelabel.gif | INFO: Tag[ view_template ] --START--
+[ 2019-06-30T10:56:01+08:00 ] /abcTest/admin.php/Login/index/resources/images/closelabel.gif | INFO: Run LocationTemplate Behavior [ RunTime:0.020196s ]
+[ 2019-06-30T10:56:01+08:00 ] /abcTest/admin.php/Login/index/resources/images/closelabel.gif | INFO: Tag[ view_template ] --END-- [ RunTime:0.022303s ]
+[ 2019-06-30T10:56:01+08:00 ] /abcTest/admin.php/Login/index/resources/images/closelabel.gif | INFO: Tag[ view_parse ] --START--
+[ 2019-06-30T10:56:01+08:00 ] /abcTest/admin.php/Login/index/resources/images/closelabel.gif | INFO: Run ParseTemplate Behavior [ RunTime:0.056519s ]
+[ 2019-06-30T10:56:01+08:00 ] /abcTest/admin.php/Login/index/resources/images/closelabel.gif | INFO: Tag[ view_parse ] --END-- [ RunTime:0.056891s ]
+[ 2019-06-30T10:56:01+08:00 ] /abcTest/admin.php/Login/index/resources/images/closelabel.gif | INFO: Tag[ view_filter ] --START--
+[ 2019-06-30T10:56:01+08:00 ] /abcTest/admin.php/Login/index/resources/images/closelabel.gif | INFO: Run ContentReplace Behavior [ RunTime:0.001702s ]
+[ 2019-06-30T10:56:01+08:00 ] /abcTest/admin.php/Login/index/resources/images/closelabel.gif | INFO: Run TokenBuild Behavior [ RunTime:0.004592s ]
+[ 2019-06-30T10:56:01+08:00 ] /abcTest/admin.php/Login/index/resources/images/closelabel.gif | INFO: Run WriteHtmlCache Behavior [ RunTime:0.006145s ]
+[ 2019-06-30T10:56:01+08:00 ] /abcTest/admin.php/Login/index/resources/images/closelabel.gif | INFO: Run ShowRuntime Behavior [ RunTime:0.005309s ]
+[ 2019-06-30T10:56:01+08:00 ] /abcTest/admin.php/Login/index/resources/images/closelabel.gif | INFO: Tag[ view_filter ] --END-- [ RunTime:0.018568s ]
+[ 2019-06-30T10:56:01+08:00 ] /abcTest/admin.php/Login/index/resources/images/closelabel.gif | INFO: Tag[ view_end ] --START--
+[ 2019-06-30T10:56:01+08:00 ] /abcTest/admin.php/Login/index/resources/images/closelabel.gif | INFO: Run ShowPageTrace Behavior [ RunTime:0.004286s ]
+[ 2019-06-30T10:56:01+08:00 ] /abcTest/admin.php/Login/index/resources/images/closelabel.gif | INFO: Tag[ view_end ] --END-- [ RunTime:0.005697s ]
+[ 2019-06-30T10:56:12+08:00 ] /abcTest/admin.php/Login/index | INFO: Tag[ route_check ] --START--
+[ 2019-06-30T10:56:12+08:00 ] /abcTest/admin.php/Login/index | INFO: Run CheckRoute Behavior [ RunTime:0.003817s ]
+[ 2019-06-30T10:56:12+08:00 ] /abcTest/admin.php/Login/index | INFO: Tag[ route_check ] --END-- [ RunTime:0.004481s ]
+[ 2019-06-30T10:56:12+08:00 ] /abcTest/admin.php/Login/index | INFO: Tag[ app_begin ] --START--
+[ 2019-06-30T10:56:12+08:00 ] /abcTest/admin.php/Login/index | INFO: Run ReadHtmlCache Behavior [ RunTime:0.002837s ]
+[ 2019-06-30T10:56:12+08:00 ] /abcTest/admin.php/Login/index | INFO: Tag[ app_begin ] --END-- [ RunTime:0.003065s ]
+[ 2019-06-30T10:56:12+08:00 ] /abcTest/admin.php/Login/index | INFO: Tag[ view_template ] --START--
+[ 2019-06-30T10:56:12+08:00 ] /abcTest/admin.php/Login/index | INFO: Run LocationTemplate Behavior [ RunTime:0.002620s ]
+[ 2019-06-30T10:56:12+08:00 ] /abcTest/admin.php/Login/index | INFO: Tag[ view_template ] --END-- [ RunTime:0.002884s ]
+[ 2019-06-30T10:56:12+08:00 ] /abcTest/admin.php/Login/index | INFO: Tag[ view_parse ] --START--
+[ 2019-06-30T10:56:12+08:00 ] /abcTest/admin.php/Login/index | INFO: Run ParseTemplate Behavior [ RunTime:0.019904s ]
+[ 2019-06-30T10:56:12+08:00 ] /abcTest/admin.php/Login/index | INFO: Tag[ view_parse ] --END-- [ RunTime:0.020178s ]
+[ 2019-06-30T10:56:12+08:00 ] /abcTest/admin.php/Login/index | INFO: Tag[ view_filter ] --START--
+[ 2019-06-30T10:56:12+08:00 ] /abcTest/admin.php/Login/index | INFO: Run ContentReplace Behavior [ RunTime:0.001440s ]
+[ 2019-06-30T10:56:12+08:00 ] /abcTest/admin.php/Login/index | INFO: Run TokenBuild Behavior [ RunTime:0.001495s ]
+[ 2019-06-30T10:56:12+08:00 ] /abcTest/admin.php/Login/index | INFO: Run WriteHtmlCache Behavior [ RunTime:0.001054s ]
+[ 2019-06-30T10:56:12+08:00 ] /abcTest/admin.php/Login/index | INFO: Run ShowRuntime Behavior [ RunTime:0.001553s ]
+[ 2019-06-30T10:56:12+08:00 ] /abcTest/admin.php/Login/index | INFO: Tag[ view_filter ] --END-- [ RunTime:0.006074s ]
+[ 2019-06-30T10:56:12+08:00 ] /abcTest/admin.php/Login/index | INFO: Tag[ view_end ] --START--
+[ 2019-06-30T10:56:12+08:00 ] /abcTest/admin.php/Login/index | INFO: Run ShowPageTrace Behavior [ RunTime:0.001333s ]
+[ 2019-06-30T10:56:12+08:00 ] /abcTest/admin.php/Login/index | INFO: Tag[ view_end ] --END-- [ RunTime:0.001527s ]
+[ 2019-06-30T10:56:12+08:00 ] /abcTest/admin.php/Common/verify | INFO: Tag[ route_check ] --START--
+[ 2019-06-30T10:56:12+08:00 ] /abcTest/admin.php/Common/verify | INFO: Run CheckRoute Behavior [ RunTime:0.002732s ]
+[ 2019-06-30T10:56:12+08:00 ] /abcTest/admin.php/Common/verify | INFO: Tag[ route_check ] --END-- [ RunTime:0.003029s ]
+[ 2019-06-30T10:56:12+08:00 ] /abcTest/admin.php/Common/verify | INFO: Tag[ app_begin ] --START--
+[ 2019-06-30T10:56:12+08:00 ] /abcTest/admin.php/Common/verify | INFO: Run ReadHtmlCache Behavior [ RunTime:0.002626s ]
+[ 2019-06-30T10:56:12+08:00 ] /abcTest/admin.php/Common/verify | INFO: Tag[ app_begin ] --END-- [ RunTime:0.002897s ]
+[ 2019-06-30T10:56:12+08:00 ] /abcTest/admin.php/Login/resources/images/closelabel.gif | ERR: (ThinkException) 非法操作resources
+[ 2019-06-30T10:58:16+08:00 ] /abcTest/admin.php/Index/index | ERR: (ThinkException) 无法加载模块Index
+[ 2019-06-30T10:58:32+08:00 ] /abcTest/admin.php/Login/index | INFO: Tag[ route_check ] --START--
+[ 2019-06-30T10:58:32+08:00 ] /abcTest/admin.php/Login/index | INFO: Run CheckRoute Behavior [ RunTime:0.019418s ]
+[ 2019-06-30T10:58:32+08:00 ] /abcTest/admin.php/Login/index | INFO: Tag[ route_check ] --END-- [ RunTime:0.020025s ]
+[ 2019-06-30T10:58:32+08:00 ] /abcTest/admin.php/Login/index | INFO: Tag[ app_begin ] --START--
+[ 2019-06-30T10:58:32+08:00 ] /abcTest/admin.php/Login/index | INFO: Run ReadHtmlCache Behavior [ RunTime:0.002240s ]
+[ 2019-06-30T10:58:32+08:00 ] /abcTest/admin.php/Login/index | INFO: Tag[ app_begin ] --END-- [ RunTime:0.002796s ]
+[ 2019-06-30T10:58:32+08:00 ] /abcTest/admin.php/Login/index | INFO: Tag[ view_template ] --START--
+[ 2019-06-30T10:58:32+08:00 ] /abcTest/admin.php/Login/index | INFO: Run LocationTemplate Behavior [ RunTime:0.002298s ]
+[ 2019-06-30T10:58:32+08:00 ] /abcTest/admin.php/Login/index | INFO: Tag[ view_template ] --END-- [ RunTime:0.002595s ]
+[ 2019-06-30T10:58:32+08:00 ] /abcTest/admin.php/Login/index | INFO: Tag[ view_parse ] --START--
+[ 2019-06-30T10:58:32+08:00 ] /abcTest/admin.php/Login/index | INFO: Run ParseTemplate Behavior [ RunTime:0.022747s ]
+[ 2019-06-30T10:58:32+08:00 ] /abcTest/admin.php/Login/index | INFO: Tag[ view_parse ] --END-- [ RunTime:0.023010s ]
+[ 2019-06-30T10:58:32+08:00 ] /abcTest/admin.php/Login/index | INFO: Tag[ view_filter ] --START--
+[ 2019-06-30T10:58:32+08:00 ] /abcTest/admin.php/Login/index | INFO: Run ContentReplace Behavior [ RunTime:0.004257s ]
+[ 2019-06-30T10:58:32+08:00 ] /abcTest/admin.php/Login/index | INFO: Run TokenBuild Behavior [ RunTime:0.001748s ]
+[ 2019-06-30T10:58:32+08:00 ] /abcTest/admin.php/Login/index | INFO: Run WriteHtmlCache Behavior [ RunTime:0.000900s ]
+[ 2019-06-30T10:58:32+08:00 ] /abcTest/admin.php/Login/index | INFO: Run ShowRuntime Behavior [ RunTime:0.001369s ]
+[ 2019-06-30T10:58:32+08:00 ] /abcTest/admin.php/Login/index | INFO: Tag[ view_filter ] --END-- [ RunTime:0.009133s ]
+[ 2019-06-30T10:58:32+08:00 ] /abcTest/admin.php/Login/index | INFO: Tag[ view_end ] --START--
+[ 2019-06-30T10:58:32+08:00 ] /abcTest/admin.php/Login/index | INFO: Run ShowPageTrace Behavior [ RunTime:0.001192s ]
+[ 2019-06-30T10:58:32+08:00 ] /abcTest/admin.php/Login/index | INFO: Tag[ view_end ] --END-- [ RunTime:0.001380s ]
+[ 2019-06-30T10:58:32+08:00 ] /abcTest/admin.php/Common/verify | INFO: Tag[ route_check ] --START--
+[ 2019-06-30T10:58:32+08:00 ] /abcTest/admin.php/Common/verify | INFO: Run CheckRoute Behavior [ RunTime:0.001877s ]
+[ 2019-06-30T10:58:32+08:00 ] /abcTest/admin.php/Common/verify | INFO: Tag[ route_check ] --END-- [ RunTime:0.002169s ]
+[ 2019-06-30T10:58:32+08:00 ] /abcTest/admin.php/Common/verify | INFO: Tag[ app_begin ] --START--
+[ 2019-06-30T10:58:32+08:00 ] /abcTest/admin.php/Common/verify | INFO: Run ReadHtmlCache Behavior [ RunTime:0.001759s ]
+[ 2019-06-30T10:58:32+08:00 ] /abcTest/admin.php/Common/verify | INFO: Tag[ app_begin ] --END-- [ RunTime:0.002037s ]
+[ 2019-06-30T10:58:32+08:00 ] /abcTest/admin.php/Login/resources/images/closelabel.gif | ERR: (ThinkException) 非法操作resources
+[ 2019-06-30T14:27:30+08:00 ] /abcTest/admin.php/Login/index/ | INFO: Tag[ route_check ] --START--
+[ 2019-06-30T14:27:30+08:00 ] /abcTest/admin.php/Login/index/ | INFO: Run CheckRoute Behavior [ RunTime:0.002413s ]
+[ 2019-06-30T14:27:30+08:00 ] /abcTest/admin.php/Login/index/ | INFO: Tag[ route_check ] --END-- [ RunTime:0.002680s ]
+[ 2019-06-30T14:27:30+08:00 ] /abcTest/admin.php/Login/index/ | INFO: Tag[ app_begin ] --START--
+[ 2019-06-30T14:27:30+08:00 ] /abcTest/admin.php/Login/index/ | INFO: Run ReadHtmlCache Behavior [ RunTime:0.001282s ]
+[ 2019-06-30T14:27:30+08:00 ] /abcTest/admin.php/Login/index/ | INFO: Tag[ app_begin ] --END-- [ RunTime:0.001441s ]
+[ 2019-06-30T14:27:30+08:00 ] /abcTest/admin.php/Login/index/ | INFO: Tag[ view_template ] --START--
+[ 2019-06-30T14:27:30+08:00 ] /abcTest/admin.php/Login/index/ | INFO: Run LocationTemplate Behavior [ RunTime:0.001867s ]
+[ 2019-06-30T14:27:30+08:00 ] /abcTest/admin.php/Login/index/ | INFO: Tag[ view_template ] --END-- [ RunTime:0.002060s ]
+[ 2019-06-30T14:27:30+08:00 ] /abcTest/admin.php/Login/index/ | INFO: Tag[ view_parse ] --START--
+[ 2019-06-30T14:27:30+08:00 ] /abcTest/admin.php/Login/index/ | INFO: Run ParseTemplate Behavior [ RunTime:0.016990s ]
+[ 2019-06-30T14:27:30+08:00 ] /abcTest/admin.php/Login/index/ | INFO: Tag[ view_parse ] --END-- [ RunTime:0.017225s ]
+[ 2019-06-30T14:27:30+08:00 ] /abcTest/admin.php/Login/index/ | INFO: Tag[ view_filter ] --START--
+[ 2019-06-30T14:27:30+08:00 ] /abcTest/admin.php/Login/index/ | INFO: Run ContentReplace Behavior [ RunTime:0.001211s ]
+[ 2019-06-30T14:27:30+08:00 ] /abcTest/admin.php/Login/index/ | INFO: Run TokenBuild Behavior [ RunTime:0.001497s ]
+[ 2019-06-30T14:27:30+08:00 ] /abcTest/admin.php/Login/index/ | INFO: Run WriteHtmlCache Behavior [ RunTime:0.001512s ]
+[ 2019-06-30T14:27:30+08:00 ] /abcTest/admin.php/Login/index/ | INFO: Run ShowRuntime Behavior [ RunTime:0.001417s ]
+[ 2019-06-30T14:27:30+08:00 ] /abcTest/admin.php/Login/index/ | INFO: Tag[ view_filter ] --END-- [ RunTime:0.006192s ]
+[ 2019-06-30T14:27:30+08:00 ] /abcTest/admin.php/Login/index/ | INFO: Tag[ view_end ] --START--
+[ 2019-06-30T14:27:30+08:00 ] /abcTest/admin.php/Login/index/ | INFO: Run ShowPageTrace Behavior [ RunTime:0.001384s ]
+[ 2019-06-30T14:27:30+08:00 ] /abcTest/admin.php/Login/index/ | INFO: Tag[ view_end ] --END-- [ RunTime:0.001560s ]
+[ 2019-06-30T14:27:30+08:00 ] /abcTest/admin.php/Common/verify | INFO: Tag[ route_check ] --START--
+[ 2019-06-30T14:27:30+08:00 ] /abcTest/admin.php/Common/verify | INFO: Run CheckRoute Behavior [ RunTime:0.003725s ]
+[ 2019-06-30T14:27:30+08:00 ] /abcTest/admin.php/Common/verify | INFO: Tag[ route_check ] --END-- [ RunTime:0.004032s ]
+[ 2019-06-30T14:27:30+08:00 ] /abcTest/admin.php/Common/verify | INFO: Tag[ app_begin ] --START--
+[ 2019-06-30T14:27:30+08:00 ] /abcTest/admin.php/Common/verify | INFO: Run ReadHtmlCache Behavior [ RunTime:0.002627s ]
+[ 2019-06-30T14:27:30+08:00 ] /abcTest/admin.php/Common/verify | INFO: Tag[ app_begin ] --END-- [ RunTime:0.002897s ]
+[ 2019-06-30T14:27:30+08:00 ] /abcTest/admin.php/Login/index/resources/images/closelabel.gif | INFO: Tag[ route_check ] --START--
+[ 2019-06-30T14:27:30+08:00 ] /abcTest/admin.php/Login/index/resources/images/closelabel.gif | INFO: Run CheckRoute Behavior [ RunTime:0.023477s ]
+[ 2019-06-30T14:27:30+08:00 ] /abcTest/admin.php/Login/index/resources/images/closelabel.gif | INFO: Tag[ route_check ] --END-- [ RunTime:0.023796s ]
+[ 2019-06-30T14:27:30+08:00 ] /abcTest/admin.php/Login/index/resources/images/closelabel.gif | INFO: Tag[ app_begin ] --START--
+[ 2019-06-30T14:27:30+08:00 ] /abcTest/admin.php/Login/index/resources/images/closelabel.gif | INFO: Run ReadHtmlCache Behavior [ RunTime:0.003372s ]
+[ 2019-06-30T14:27:30+08:00 ] /abcTest/admin.php/Login/index/resources/images/closelabel.gif | INFO: Tag[ app_begin ] --END-- [ RunTime:0.003683s ]
+[ 2019-06-30T14:27:30+08:00 ] /abcTest/admin.php/Login/index/resources/images/closelabel.gif | INFO: Tag[ view_template ] --START--
+[ 2019-06-30T14:27:30+08:00 ] /abcTest/admin.php/Login/index/resources/images/closelabel.gif | INFO: Run LocationTemplate Behavior [ RunTime:0.004264s ]
+[ 2019-06-30T14:27:30+08:00 ] /abcTest/admin.php/Login/index/resources/images/closelabel.gif | INFO: Tag[ view_template ] --END-- [ RunTime:0.004580s ]
+[ 2019-06-30T14:27:30+08:00 ] /abcTest/admin.php/Login/index/resources/images/closelabel.gif | INFO: Tag[ view_parse ] --START--
+[ 2019-06-30T14:27:30+08:00 ] /abcTest/admin.php/Login/index/resources/images/closelabel.gif | INFO: Run ParseTemplate Behavior [ RunTime:0.129256s ]
+[ 2019-06-30T14:27:30+08:00 ] /abcTest/admin.php/Login/index/resources/images/closelabel.gif | INFO: Tag[ view_parse ] --END-- [ RunTime:0.130259s ]
+[ 2019-06-30T14:27:30+08:00 ] /abcTest/admin.php/Login/index/resources/images/closelabel.gif | INFO: Tag[ view_filter ] --START--
+[ 2019-06-30T14:27:30+08:00 ] /abcTest/admin.php/Login/index/resources/images/closelabel.gif | INFO: Run ContentReplace Behavior [ RunTime:0.002502s ]
+[ 2019-06-30T14:27:30+08:00 ] /abcTest/admin.php/Login/index/resources/images/closelabel.gif | INFO: Run TokenBuild Behavior [ RunTime:0.002771s ]
+[ 2019-06-30T14:27:30+08:00 ] /abcTest/admin.php/Login/index/resources/images/closelabel.gif | INFO: Run WriteHtmlCache Behavior [ RunTime:0.001353s ]
+[ 2019-06-30T14:27:30+08:00 ] /abcTest/admin.php/Login/index/resources/images/closelabel.gif | INFO: Run ShowRuntime Behavior [ RunTime:0.002107s ]
+[ 2019-06-30T14:27:30+08:00 ] /abcTest/admin.php/Login/index/resources/images/closelabel.gif | INFO: Tag[ view_filter ] --END-- [ RunTime:0.009493s ]
+[ 2019-06-30T14:27:30+08:00 ] /abcTest/admin.php/Login/index/resources/images/closelabel.gif | INFO: Tag[ view_end ] --START--
+[ 2019-06-30T14:27:30+08:00 ] /abcTest/admin.php/Login/index/resources/images/closelabel.gif | INFO: Run ShowPageTrace Behavior [ RunTime:0.001790s ]
+[ 2019-06-30T14:27:30+08:00 ] /abcTest/admin.php/Login/index/resources/images/closelabel.gif | INFO: Tag[ view_end ] --END-- [ RunTime:0.002044s ]
+[ 2019-06-30T15:31:51+08:00 ] /abcTest/admin.php/ | ERR: (ThinkException) 无法加载模块Index
+[ 2019-06-30T15:32:17+08:00 ] /abcTest/admin.php/Index/index | ERR: (ThinkException) 无法加载模块Index
+[ 2019-06-30T15:32:25+08:00 ] /abcTest/admin.php/Index/index | ERR: (ThinkException) 无法加载模块Index
+[ 2019-06-30T15:34:25+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ route_check ] --START--
+[ 2019-06-30T15:34:25+08:00 ] /abcTest/admin.php/Index/index | INFO: Run CheckRoute Behavior [ RunTime:0.002061s ]
+[ 2019-06-30T15:34:25+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ route_check ] --END-- [ RunTime:0.002326s ]
+[ 2019-06-30T15:34:25+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ app_begin ] --START--
+[ 2019-06-30T15:34:25+08:00 ] /abcTest/admin.php/Index/index | INFO: Run ReadHtmlCache Behavior [ RunTime:0.001699s ]
+[ 2019-06-30T15:34:25+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ app_begin ] --END-- [ RunTime:0.001920s ]
+[ 2019-06-30T15:34:25+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ view_template ] --START--
+[ 2019-06-30T15:34:25+08:00 ] /abcTest/admin.php/Index/index | INFO: Run LocationTemplate Behavior [ RunTime:0.001388s ]
+[ 2019-06-30T15:34:25+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ view_template ] --END-- [ RunTime:0.001573s ]
+[ 2019-06-30T15:34:25+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ view_parse ] --START--
+[ 2019-06-30T15:34:25+08:00 ] /abcTest/admin.php/Index/index | NOTIC: [8] Undefined variable: title 4c18d5952d0dbf1eedb8a1ec796fa788.php 第 5 行.
+[ 2019-06-30T15:34:25+08:00 ] /abcTest/admin.php/Index/index | INFO: Run ParseTemplate Behavior [ RunTime:0.012085s ]
+[ 2019-06-30T15:34:25+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ view_parse ] --END-- [ RunTime:0.012281s ]
+[ 2019-06-30T15:34:25+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ view_filter ] --START--
+[ 2019-06-30T15:34:25+08:00 ] /abcTest/admin.php/Index/index | INFO: Run ContentReplace Behavior [ RunTime:0.000992s ]
+[ 2019-06-30T15:34:25+08:00 ] /abcTest/admin.php/Index/index | INFO: Run TokenBuild Behavior [ RunTime:0.001021s ]
+[ 2019-06-30T15:34:25+08:00 ] /abcTest/admin.php/Index/index | INFO: Run WriteHtmlCache Behavior [ RunTime:0.000751s ]
+[ 2019-06-30T15:34:25+08:00 ] /abcTest/admin.php/Index/index | INFO: Run ShowRuntime Behavior [ RunTime:0.001222s ]
+[ 2019-06-30T15:34:25+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ view_filter ] --END-- [ RunTime:0.004489s ]
+[ 2019-06-30T15:34:25+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ view_end ] --START--
+[ 2019-06-30T15:34:25+08:00 ] /abcTest/admin.php/Index/index | INFO: Run ShowPageTrace Behavior [ RunTime:0.000981s ]
+[ 2019-06-30T15:34:25+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ view_end ] --END-- [ RunTime:0.001160s ]
+[ 2019-06-30T15:34:26+08:00 ] /abcTest/admin.php/Index/resources/images/closelabel.gif | ERR: (ThinkException) 非法操作resources
+[ 2019-06-30T15:37:08+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ route_check ] --START--
+[ 2019-06-30T15:37:08+08:00 ] /abcTest/admin.php/Index/index | INFO: Run CheckRoute Behavior [ RunTime:0.003540s ]
+[ 2019-06-30T15:37:08+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ route_check ] --END-- [ RunTime:0.003784s ]
+[ 2019-06-30T15:37:08+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ app_begin ] --START--
+[ 2019-06-30T15:37:08+08:00 ] /abcTest/admin.php/Index/index | INFO: Run ReadHtmlCache Behavior [ RunTime:0.001436s ]
+[ 2019-06-30T15:37:08+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ app_begin ] --END-- [ RunTime:0.001618s ]
+[ 2019-06-30T15:37:08+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ view_template ] --START--
+[ 2019-06-30T15:37:08+08:00 ] /abcTest/admin.php/Index/index | INFO: Run LocationTemplate Behavior [ RunTime:0.001842s ]
+[ 2019-06-30T15:37:08+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ view_template ] --END-- [ RunTime:0.002016s ]
+[ 2019-06-30T15:37:08+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ view_parse ] --START--
+[ 2019-06-30T15:37:08+08:00 ] /abcTest/admin.php/Index/index | NOTIC: [8] Undefined variable: title 4c18d5952d0dbf1eedb8a1ec796fa788.php 第 5 行.
+[ 2019-06-30T15:37:08+08:00 ] /abcTest/admin.php/Index/index | INFO: Run ParseTemplate Behavior [ RunTime:0.022230s ]
+[ 2019-06-30T15:37:08+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ view_parse ] --END-- [ RunTime:0.022438s ]
+[ 2019-06-30T15:37:08+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ view_filter ] --START--
+[ 2019-06-30T15:37:08+08:00 ] /abcTest/admin.php/Index/index | INFO: Run ContentReplace Behavior [ RunTime:0.001768s ]
+[ 2019-06-30T15:37:08+08:00 ] /abcTest/admin.php/Index/index | INFO: Run TokenBuild Behavior [ RunTime:0.001347s ]
+[ 2019-06-30T15:37:08+08:00 ] /abcTest/admin.php/Index/index | INFO: Run WriteHtmlCache Behavior [ RunTime:0.000868s ]
+[ 2019-06-30T15:37:08+08:00 ] /abcTest/admin.php/Index/index | INFO: Run ShowRuntime Behavior [ RunTime:0.001439s ]
+[ 2019-06-30T15:37:08+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ view_filter ] --END-- [ RunTime:0.005955s ]
+[ 2019-06-30T15:37:08+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ view_end ] --START--
+[ 2019-06-30T15:37:08+08:00 ] /abcTest/admin.php/Index/index | INFO: Run ShowPageTrace Behavior [ RunTime:0.001253s ]
+[ 2019-06-30T15:37:08+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ view_end ] --END-- [ RunTime:0.001436s ]
+[ 2019-06-30T15:37:09+08:00 ] /abcTest/admin.php/Index/resources/images/closelabel.gif | ERR: (ThinkException) 非法操作resources
+[ 2019-06-30T15:39:49+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ route_check ] --START--
+[ 2019-06-30T15:39:49+08:00 ] /abcTest/admin.php/Index/index | INFO: Run CheckRoute Behavior [ RunTime:0.001903s ]
+[ 2019-06-30T15:39:49+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ route_check ] --END-- [ RunTime:0.002100s ]
+[ 2019-06-30T15:39:49+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ app_begin ] --START--
+[ 2019-06-30T15:39:49+08:00 ] /abcTest/admin.php/Index/index | INFO: Run ReadHtmlCache Behavior [ RunTime:0.002058s ]
+[ 2019-06-30T15:39:49+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ app_begin ] --END-- [ RunTime:0.002249s ]
+[ 2019-06-30T15:39:49+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ view_template ] --START--
+[ 2019-06-30T15:39:49+08:00 ] /abcTest/admin.php/Index/index | INFO: Run LocationTemplate Behavior [ RunTime:0.001969s ]
+[ 2019-06-30T15:39:49+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ view_template ] --END-- [ RunTime:0.002175s ]
+[ 2019-06-30T15:39:49+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ view_parse ] --START--
+[ 2019-06-30T15:39:49+08:00 ] /abcTest/admin.php/Index/index | NOTIC: [8] Undefined variable: title 4c18d5952d0dbf1eedb8a1ec796fa788.php 第 5 行.
+[ 2019-06-30T15:39:49+08:00 ] /abcTest/admin.php/Index/index | INFO: Run ParseTemplate Behavior [ RunTime:0.014676s ]
+[ 2019-06-30T15:39:49+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ view_parse ] --END-- [ RunTime:0.014845s ]
+[ 2019-06-30T15:39:49+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ view_filter ] --START--
+[ 2019-06-30T15:39:49+08:00 ] /abcTest/admin.php/Index/index | INFO: Run ContentReplace Behavior [ RunTime:0.001062s ]
+[ 2019-06-30T15:39:49+08:00 ] /abcTest/admin.php/Index/index | INFO: Run TokenBuild Behavior [ RunTime:0.001100s ]
+[ 2019-06-30T15:39:49+08:00 ] /abcTest/admin.php/Index/index | INFO: Run WriteHtmlCache Behavior [ RunTime:0.000828s ]
+[ 2019-06-30T15:39:49+08:00 ] /abcTest/admin.php/Index/index | INFO: Run ShowRuntime Behavior [ RunTime:0.001417s ]
+[ 2019-06-30T15:39:49+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ view_filter ] --END-- [ RunTime:0.004869s ]
+[ 2019-06-30T15:39:49+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ view_end ] --START--
+[ 2019-06-30T15:39:49+08:00 ] /abcTest/admin.php/Index/index | INFO: Run ShowPageTrace Behavior [ RunTime:0.001215s ]
+[ 2019-06-30T15:39:49+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ view_end ] --END-- [ RunTime:0.001399s ]
+[ 2019-06-30T15:45:24+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ route_check ] --START--
+[ 2019-06-30T15:45:24+08:00 ] /abcTest/admin.php/Index/index | INFO: Run CheckRoute Behavior [ RunTime:0.001441s ]
+[ 2019-06-30T15:45:24+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ route_check ] --END-- [ RunTime:0.001732s ]
+[ 2019-06-30T15:45:24+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ app_begin ] --START--
+[ 2019-06-30T15:45:24+08:00 ] /abcTest/admin.php/Index/index | INFO: Run ReadHtmlCache Behavior [ RunTime:0.001233s ]
+[ 2019-06-30T15:45:24+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ app_begin ] --END-- [ RunTime:0.001384s ]
+[ 2019-06-30T15:45:24+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ view_template ] --START--
+[ 2019-06-30T15:45:24+08:00 ] /abcTest/admin.php/Index/index | INFO: Run LocationTemplate Behavior [ RunTime:0.001931s ]
+[ 2019-06-30T15:45:24+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ view_template ] --END-- [ RunTime:0.002203s ]
+[ 2019-06-30T15:45:24+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ view_parse ] --START--
+[ 2019-06-30T15:45:24+08:00 ] /abcTest/admin.php/Index/index | NOTIC: [8] Undefined variable: title 4c18d5952d0dbf1eedb8a1ec796fa788.php 第 5 行.
+[ 2019-06-30T15:45:24+08:00 ] /abcTest/admin.php/Index/index | INFO: Run ParseTemplate Behavior [ RunTime:0.014685s ]
+[ 2019-06-30T15:45:24+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ view_parse ] --END-- [ RunTime:0.014867s ]
+[ 2019-06-30T15:45:24+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ view_filter ] --START--
+[ 2019-06-30T15:45:24+08:00 ] /abcTest/admin.php/Index/index | INFO: Run ContentReplace Behavior [ RunTime:0.001122s ]
+[ 2019-06-30T15:45:24+08:00 ] /abcTest/admin.php/Index/index | INFO: Run TokenBuild Behavior [ RunTime:0.001095s ]
+[ 2019-06-30T15:45:24+08:00 ] /abcTest/admin.php/Index/index | INFO: Run WriteHtmlCache Behavior [ RunTime:0.000753s ]
+[ 2019-06-30T15:45:24+08:00 ] /abcTest/admin.php/Index/index | INFO: Run ShowRuntime Behavior [ RunTime:0.001204s ]
+[ 2019-06-30T15:45:24+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ view_filter ] --END-- [ RunTime:0.004684s ]
+[ 2019-06-30T15:45:24+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ view_end ] --START--
+[ 2019-06-30T15:45:24+08:00 ] /abcTest/admin.php/Index/index | INFO: Run ShowPageTrace Behavior [ RunTime:0.000931s ]
+[ 2019-06-30T15:45:24+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ view_end ] --END-- [ RunTime:0.001076s ]
+[ 2019-06-30T15:47:44+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ route_check ] --START--
+[ 2019-06-30T15:47:44+08:00 ] /abcTest/admin.php/Index/index | INFO: Run CheckRoute Behavior [ RunTime:0.002097s ]
+[ 2019-06-30T15:47:44+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ route_check ] --END-- [ RunTime:0.002350s ]
+[ 2019-06-30T15:47:44+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ app_begin ] --START--
+[ 2019-06-30T15:47:44+08:00 ] /abcTest/admin.php/Index/index | INFO: Run ReadHtmlCache Behavior [ RunTime:0.002407s ]
+[ 2019-06-30T15:47:44+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ app_begin ] --END-- [ RunTime:0.002744s ]
+[ 2019-06-30T15:47:44+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ view_template ] --START--
+[ 2019-06-30T15:47:44+08:00 ] /abcTest/admin.php/Index/index | INFO: Run LocationTemplate Behavior [ RunTime:0.002163s ]
+[ 2019-06-30T15:47:44+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ view_template ] --END-- [ RunTime:0.002352s ]
+[ 2019-06-30T15:47:44+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ view_parse ] --START--
+[ 2019-06-30T15:47:44+08:00 ] /abcTest/admin.php/Index/index | NOTIC: [8] Undefined variable: title 4c18d5952d0dbf1eedb8a1ec796fa788.php 第 5 行.
+[ 2019-06-30T15:47:44+08:00 ] /abcTest/admin.php/Index/index | INFO: Run ParseTemplate Behavior [ RunTime:0.019601s ]
+[ 2019-06-30T15:47:44+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ view_parse ] --END-- [ RunTime:0.019787s ]
+[ 2019-06-30T15:47:44+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ view_filter ] --START--
+[ 2019-06-30T15:47:44+08:00 ] /abcTest/admin.php/Index/index | INFO: Run ContentReplace Behavior [ RunTime:0.001273s ]
+[ 2019-06-30T15:47:44+08:00 ] /abcTest/admin.php/Index/index | INFO: Run TokenBuild Behavior [ RunTime:0.002017s ]
+[ 2019-06-30T15:47:44+08:00 ] /abcTest/admin.php/Index/index | INFO: Run WriteHtmlCache Behavior [ RunTime:0.001911s ]
+[ 2019-06-30T15:47:44+08:00 ] /abcTest/admin.php/Index/index | INFO: Run ShowRuntime Behavior [ RunTime:0.002104s ]
+[ 2019-06-30T15:47:44+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ view_filter ] --END-- [ RunTime:0.008080s ]
+[ 2019-06-30T15:47:44+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ view_end ] --START--
+[ 2019-06-30T15:47:44+08:00 ] /abcTest/admin.php/Index/index | INFO: Run ShowPageTrace Behavior [ RunTime:0.001286s ]
+[ 2019-06-30T15:47:44+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ view_end ] --END-- [ RunTime:0.001518s ]
+[ 2019-06-30T15:47:51+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ route_check ] --START--
+[ 2019-06-30T15:47:51+08:00 ] /abcTest/admin.php/Index/index | INFO: Run CheckRoute Behavior [ RunTime:0.001856s ]
+[ 2019-06-30T15:47:51+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ route_check ] --END-- [ RunTime:0.002114s ]
+[ 2019-06-30T15:47:51+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ app_begin ] --START--
+[ 2019-06-30T15:47:51+08:00 ] /abcTest/admin.php/Index/index | INFO: Run ReadHtmlCache Behavior [ RunTime:0.001431s ]
+[ 2019-06-30T15:47:51+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ app_begin ] --END-- [ RunTime:0.001603s ]
+[ 2019-06-30T15:47:51+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ view_template ] --START--
+[ 2019-06-30T15:47:51+08:00 ] /abcTest/admin.php/Index/index | INFO: Run LocationTemplate Behavior [ RunTime:0.001528s ]
+[ 2019-06-30T15:47:51+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ view_template ] --END-- [ RunTime:0.001705s ]
+[ 2019-06-30T15:47:51+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ view_parse ] --START--
+[ 2019-06-30T15:47:51+08:00 ] /abcTest/admin.php/Index/index | NOTIC: [8] Undefined variable: title 4c18d5952d0dbf1eedb8a1ec796fa788.php 第 5 行.
+[ 2019-06-30T15:47:51+08:00 ] /abcTest/admin.php/Index/index | INFO: Run ParseTemplate Behavior [ RunTime:0.012684s ]
+[ 2019-06-30T15:47:51+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ view_parse ] --END-- [ RunTime:0.012838s ]
+[ 2019-06-30T15:47:51+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ view_filter ] --START--
+[ 2019-06-30T15:47:51+08:00 ] /abcTest/admin.php/Index/index | INFO: Run ContentReplace Behavior [ RunTime:0.000973s ]
+[ 2019-06-30T15:47:51+08:00 ] /abcTest/admin.php/Index/index | INFO: Run TokenBuild Behavior [ RunTime:0.001005s ]
+[ 2019-06-30T15:47:51+08:00 ] /abcTest/admin.php/Index/index | INFO: Run WriteHtmlCache Behavior [ RunTime:0.001381s ]
+[ 2019-06-30T15:47:51+08:00 ] /abcTest/admin.php/Index/index | INFO: Run ShowRuntime Behavior [ RunTime:0.001491s ]
+[ 2019-06-30T15:47:51+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ view_filter ] --END-- [ RunTime:0.005333s ]
+[ 2019-06-30T15:47:51+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ view_end ] --START--
+[ 2019-06-30T15:47:51+08:00 ] /abcTest/admin.php/Index/index | INFO: Run ShowPageTrace Behavior [ RunTime:0.001248s ]
+[ 2019-06-30T15:47:51+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ view_end ] --END-- [ RunTime:0.001432s ]
+[ 2019-06-30T16:09:46+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ route_check ] --START--
+[ 2019-06-30T16:09:46+08:00 ] /abcTest/admin.php/Index/index | INFO: Run CheckRoute Behavior [ RunTime:0.002163s ]
+[ 2019-06-30T16:09:46+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ route_check ] --END-- [ RunTime:0.002377s ]
+[ 2019-06-30T16:09:46+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ app_begin ] --START--
+[ 2019-06-30T16:09:46+08:00 ] /abcTest/admin.php/Index/index | INFO: Run ReadHtmlCache Behavior [ RunTime:0.001610s ]
+[ 2019-06-30T16:09:46+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ app_begin ] --END-- [ RunTime:0.001791s ]
+[ 2019-06-30T16:09:46+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ view_template ] --START--
+[ 2019-06-30T16:09:46+08:00 ] /abcTest/admin.php/Index/index | INFO: Run LocationTemplate Behavior [ RunTime:0.001955s ]
+[ 2019-06-30T16:09:46+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ view_template ] --END-- [ RunTime:0.002136s ]
+[ 2019-06-30T16:09:46+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ view_parse ] --START--
+[ 2019-06-30T16:09:46+08:00 ] /abcTest/admin.php/Index/index | NOTIC: [8] Undefined variable: title 4c18d5952d0dbf1eedb8a1ec796fa788.php 第 5 行.
+[ 2019-06-30T16:09:46+08:00 ] /abcTest/admin.php/Index/index | NOTIC: [8] Undefined variable: username 4c18d5952d0dbf1eedb8a1ec796fa788.php 第 31 行.
+[ 2019-06-30T16:09:46+08:00 ] /abcTest/admin.php/Index/index | NOTIC: [8] Undefined variable: username 4c18d5952d0dbf1eedb8a1ec796fa788.php 第 31 行.
+[ 2019-06-30T16:09:46+08:00 ] /abcTest/admin.php/Index/index | NOTIC: [8] Undefined variable: news_count 4c18d5952d0dbf1eedb8a1ec796fa788.php 第 125 行.
+[ 2019-06-30T16:09:46+08:00 ] /abcTest/admin.php/Index/index | NOTIC: [8] Undefined variable: username 4c18d5952d0dbf1eedb8a1ec796fa788.php 第 136 行.
+[ 2019-06-30T16:09:46+08:00 ] /abcTest/admin.php/Index/index | NOTIC: [8] Undefined variable: news_list 4c18d5952d0dbf1eedb8a1ec796fa788.php 第 156 行.
+[ 2019-06-30T16:09:46+08:00 ] /abcTest/admin.php/Index/index | NOTIC: [8] Undefined variable: page_method 4c18d5952d0dbf1eedb8a1ec796fa788.php 第 175 行.
+[ 2019-06-30T16:09:46+08:00 ] /abcTest/admin.php/Index/index | INFO: Run ParseTemplate Behavior [ RunTime:0.021707s ]
+[ 2019-06-30T16:09:46+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ view_parse ] --END-- [ RunTime:0.021887s ]
+[ 2019-06-30T16:09:46+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ view_filter ] --START--
+[ 2019-06-30T16:09:46+08:00 ] /abcTest/admin.php/Index/index | INFO: Run ContentReplace Behavior [ RunTime:0.001686s ]
+[ 2019-06-30T16:09:46+08:00 ] /abcTest/admin.php/Index/index | INFO: Run TokenBuild Behavior [ RunTime:0.001383s ]
+[ 2019-06-30T16:09:46+08:00 ] /abcTest/admin.php/Index/index | INFO: Run WriteHtmlCache Behavior [ RunTime:0.000819s ]
+[ 2019-06-30T16:09:46+08:00 ] /abcTest/admin.php/Index/index | INFO: Run ShowRuntime Behavior [ RunTime:0.001253s ]
+[ 2019-06-30T16:09:46+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ view_filter ] --END-- [ RunTime:0.005576s ]
+[ 2019-06-30T16:09:46+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ view_end ] --START--
+[ 2019-06-30T16:09:46+08:00 ] /abcTest/admin.php/Index/index | INFO: Run ShowPageTrace Behavior [ RunTime:0.000896s ]
+[ 2019-06-30T16:09:46+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ view_end ] --END-- [ RunTime:0.001028s ]
+[ 2019-06-30T16:09:46+08:00 ] /abcTest/admin.php/Index/resources/images/closelabel.gif | ERR: (ThinkException) 非法操作resources
+[ 2019-06-30T16:16:29+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ route_check ] --START--
+[ 2019-06-30T16:16:29+08:00 ] /abcTest/admin.php/Index/index | INFO: Run CheckRoute Behavior [ RunTime:0.001919s ]
+[ 2019-06-30T16:16:29+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ route_check ] --END-- [ RunTime:0.002109s ]
+[ 2019-06-30T16:16:29+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ app_begin ] --START--
+[ 2019-06-30T16:16:29+08:00 ] /abcTest/admin.php/Index/index | INFO: Run ReadHtmlCache Behavior [ RunTime:0.001976s ]
+[ 2019-06-30T16:16:29+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ app_begin ] --END-- [ RunTime:0.002168s ]
+[ 2019-06-30T16:16:29+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ view_template ] --START--
+[ 2019-06-30T16:16:29+08:00 ] /abcTest/admin.php/Index/index | INFO: Run LocationTemplate Behavior [ RunTime:0.001893s ]
+[ 2019-06-30T16:16:29+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ view_template ] --END-- [ RunTime:0.002267s ]
+[ 2019-06-30T16:16:29+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ view_parse ] --START--
+[ 2019-06-30T16:16:29+08:00 ] /abcTest/admin.php/Index/index | NOTIC: [8] Undefined variable: title 4c18d5952d0dbf1eedb8a1ec796fa788.php 第 5 行.
+[ 2019-06-30T16:16:29+08:00 ] /abcTest/admin.php/Index/index | NOTIC: [8] Undefined variable: username 4c18d5952d0dbf1eedb8a1ec796fa788.php 第 31 行.
+[ 2019-06-30T16:16:29+08:00 ] /abcTest/admin.php/Index/index | NOTIC: [8] Undefined variable: username 4c18d5952d0dbf1eedb8a1ec796fa788.php 第 31 行.
+[ 2019-06-30T16:16:29+08:00 ] /abcTest/admin.php/Index/index | NOTIC: [8] Undefined variable: news_count 4c18d5952d0dbf1eedb8a1ec796fa788.php 第 125 行.
+[ 2019-06-30T16:16:29+08:00 ] /abcTest/admin.php/Index/index | NOTIC: [8] Undefined variable: username 4c18d5952d0dbf1eedb8a1ec796fa788.php 第 136 行.
+[ 2019-06-30T16:16:29+08:00 ] /abcTest/admin.php/Index/index | NOTIC: [8] Undefined variable: news_list 4c18d5952d0dbf1eedb8a1ec796fa788.php 第 156 行.
+[ 2019-06-30T16:16:29+08:00 ] /abcTest/admin.php/Index/index | NOTIC: [8] Undefined variable: page_method 4c18d5952d0dbf1eedb8a1ec796fa788.php 第 175 行.
+[ 2019-06-30T16:16:29+08:00 ] /abcTest/admin.php/Index/index | INFO: Run ParseTemplate Behavior [ RunTime:0.023891s ]
+[ 2019-06-30T16:16:29+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ view_parse ] --END-- [ RunTime:0.024052s ]
+[ 2019-06-30T16:16:29+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ view_filter ] --START--
+[ 2019-06-30T16:16:29+08:00 ] /abcTest/admin.php/Index/index | INFO: Run ContentReplace Behavior [ RunTime:0.001253s ]
+[ 2019-06-30T16:16:29+08:00 ] /abcTest/admin.php/Index/index | INFO: Run TokenBuild Behavior [ RunTime:0.001241s ]
+[ 2019-06-30T16:16:29+08:00 ] /abcTest/admin.php/Index/index | INFO: Run WriteHtmlCache Behavior [ RunTime:0.000807s ]
+[ 2019-06-30T16:16:29+08:00 ] /abcTest/admin.php/Index/index | INFO: Run ShowRuntime Behavior [ RunTime:0.001270s ]
+[ 2019-06-30T16:16:29+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ view_filter ] --END-- [ RunTime:0.005055s ]
+[ 2019-06-30T16:16:29+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ view_end ] --START--
+[ 2019-06-30T16:16:29+08:00 ] /abcTest/admin.php/Index/index | INFO: Run ShowPageTrace Behavior [ RunTime:0.001100s ]
+[ 2019-06-30T16:16:29+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ view_end ] --END-- [ RunTime:0.001253s ]
+[ 2019-06-30T16:16:30+08:00 ] /abcTest/admin.php/Index/resources/images/closelabel.gif | ERR: (ThinkException) 非法操作resources
+[ 2019-06-30T16:17:03+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ route_check ] --START--
+[ 2019-06-30T16:17:03+08:00 ] /abcTest/admin.php/Index/index | INFO: Run CheckRoute Behavior [ RunTime:0.001523s ]
+[ 2019-06-30T16:17:03+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ route_check ] --END-- [ RunTime:0.001720s ]
+[ 2019-06-30T16:17:03+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ app_begin ] --START--
+[ 2019-06-30T16:17:03+08:00 ] /abcTest/admin.php/Index/index | INFO: Run ReadHtmlCache Behavior [ RunTime:0.001216s ]
+[ 2019-06-30T16:17:03+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ app_begin ] --END-- [ RunTime:0.001359s ]
+[ 2019-06-30T16:17:03+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ view_template ] --START--
+[ 2019-06-30T16:17:03+08:00 ] /abcTest/admin.php/Index/index | INFO: Run LocationTemplate Behavior [ RunTime:0.001390s ]
+[ 2019-06-30T16:17:03+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ view_template ] --END-- [ RunTime:0.001535s ]
+[ 2019-06-30T16:17:03+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ view_parse ] --START--
+[ 2019-06-30T16:17:03+08:00 ] /abcTest/admin.php/Index/index | NOTIC: [8] Undefined variable: title 4c18d5952d0dbf1eedb8a1ec796fa788.php 第 5 行.
+[ 2019-06-30T16:17:03+08:00 ] /abcTest/admin.php/Index/index | NOTIC: [8] Undefined variable: username 4c18d5952d0dbf1eedb8a1ec796fa788.php 第 31 行.
+[ 2019-06-30T16:17:03+08:00 ] /abcTest/admin.php/Index/index | NOTIC: [8] Undefined variable: username 4c18d5952d0dbf1eedb8a1ec796fa788.php 第 31 行.
+[ 2019-06-30T16:17:03+08:00 ] /abcTest/admin.php/Index/index | NOTIC: [8] Undefined variable: news_count 4c18d5952d0dbf1eedb8a1ec796fa788.php 第 125 行.
+[ 2019-06-30T16:17:03+08:00 ] /abcTest/admin.php/Index/index | NOTIC: [8] Undefined variable: username 4c18d5952d0dbf1eedb8a1ec796fa788.php 第 136 行.
+[ 2019-06-30T16:17:03+08:00 ] /abcTest/admin.php/Index/index | NOTIC: [8] Undefined variable: news_list 4c18d5952d0dbf1eedb8a1ec796fa788.php 第 156 行.
+[ 2019-06-30T16:17:03+08:00 ] /abcTest/admin.php/Index/index | NOTIC: [8] Undefined variable: page_method 4c18d5952d0dbf1eedb8a1ec796fa788.php 第 175 行.
+[ 2019-06-30T16:17:03+08:00 ] /abcTest/admin.php/Index/index | INFO: Run ParseTemplate Behavior [ RunTime:0.021720s ]
+[ 2019-06-30T16:17:03+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ view_parse ] --END-- [ RunTime:0.021891s ]
+[ 2019-06-30T16:17:03+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ view_filter ] --START--
+[ 2019-06-30T16:17:03+08:00 ] /abcTest/admin.php/Index/index | INFO: Run ContentReplace Behavior [ RunTime:0.001134s ]
+[ 2019-06-30T16:17:03+08:00 ] /abcTest/admin.php/Index/index | INFO: Run TokenBuild Behavior [ RunTime:0.001184s ]
+[ 2019-06-30T16:17:03+08:00 ] /abcTest/admin.php/Index/index | INFO: Run WriteHtmlCache Behavior [ RunTime:0.000747s ]
+[ 2019-06-30T16:17:03+08:00 ] /abcTest/admin.php/Index/index | INFO: Run ShowRuntime Behavior [ RunTime:0.001196s ]
+[ 2019-06-30T16:17:03+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ view_filter ] --END-- [ RunTime:0.004681s ]
+[ 2019-06-30T16:17:03+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ view_end ] --START--
+[ 2019-06-30T16:17:03+08:00 ] /abcTest/admin.php/Index/index | INFO: Run ShowPageTrace Behavior [ RunTime:0.001358s ]
+[ 2019-06-30T16:17:03+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ view_end ] --END-- [ RunTime:0.001663s ]
+[ 2019-06-30T16:17:03+08:00 ] /abcTest/admin.php/Index/resources/images/closelabel.gif | ERR: (ThinkException) 非法操作resources
+[ 2019-06-30T16:19:06+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ route_check ] --START--
+[ 2019-06-30T16:19:06+08:00 ] /abcTest/admin.php/Index/index | INFO: Run CheckRoute Behavior [ RunTime:0.002044s ]
+[ 2019-06-30T16:19:06+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ route_check ] --END-- [ RunTime:0.002263s ]
+[ 2019-06-30T16:19:06+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ app_begin ] --START--
+[ 2019-06-30T16:19:06+08:00 ] /abcTest/admin.php/Index/index | INFO: Run ReadHtmlCache Behavior [ RunTime:0.001577s ]
+[ 2019-06-30T16:19:06+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ app_begin ] --END-- [ RunTime:0.001748s ]
+[ 2019-06-30T16:19:06+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ view_template ] --START--
+[ 2019-06-30T16:19:06+08:00 ] /abcTest/admin.php/Index/index | INFO: Run LocationTemplate Behavior [ RunTime:0.001610s ]
+[ 2019-06-30T16:19:06+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ view_template ] --END-- [ RunTime:0.001771s ]
+[ 2019-06-30T16:19:06+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ view_parse ] --START--
+[ 2019-06-30T16:19:06+08:00 ] /abcTest/admin.php/Index/index | NOTIC: [8] Undefined variable: title 4c18d5952d0dbf1eedb8a1ec796fa788.php 第 5 行.
+[ 2019-06-30T16:19:06+08:00 ] /abcTest/admin.php/Index/index | NOTIC: [8] Undefined variable: username 4c18d5952d0dbf1eedb8a1ec796fa788.php 第 31 行.
+[ 2019-06-30T16:19:06+08:00 ] /abcTest/admin.php/Index/index | NOTIC: [8] Undefined variable: username 4c18d5952d0dbf1eedb8a1ec796fa788.php 第 31 行.
+[ 2019-06-30T16:19:06+08:00 ] /abcTest/admin.php/Index/index | NOTIC: [8] Undefined variable: news_count 4c18d5952d0dbf1eedb8a1ec796fa788.php 第 125 行.
+[ 2019-06-30T16:19:06+08:00 ] /abcTest/admin.php/Index/index | NOTIC: [8] Undefined variable: username 4c18d5952d0dbf1eedb8a1ec796fa788.php 第 136 行.
+[ 2019-06-30T16:19:06+08:00 ] /abcTest/admin.php/Index/index | NOTIC: [8] Undefined variable: news_list 4c18d5952d0dbf1eedb8a1ec796fa788.php 第 156 行.
+[ 2019-06-30T16:19:06+08:00 ] /abcTest/admin.php/Index/index | NOTIC: [8] Undefined variable: page_method 4c18d5952d0dbf1eedb8a1ec796fa788.php 第 175 行.
+[ 2019-06-30T16:19:06+08:00 ] /abcTest/admin.php/Index/index | INFO: Run ParseTemplate Behavior [ RunTime:0.024284s ]
+[ 2019-06-30T16:19:06+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ view_parse ] --END-- [ RunTime:0.024465s ]
+[ 2019-06-30T16:19:06+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ view_filter ] --START--
+[ 2019-06-30T16:19:06+08:00 ] /abcTest/admin.php/Index/index | INFO: Run ContentReplace Behavior [ RunTime:0.001380s ]
+[ 2019-06-30T16:19:06+08:00 ] /abcTest/admin.php/Index/index | INFO: Run TokenBuild Behavior [ RunTime:0.001398s ]
+[ 2019-06-30T16:19:06+08:00 ] /abcTest/admin.php/Index/index | INFO: Run WriteHtmlCache Behavior [ RunTime:0.001016s ]
+[ 2019-06-30T16:19:06+08:00 ] /abcTest/admin.php/Index/index | INFO: Run ShowRuntime Behavior [ RunTime:0.002296s ]
+[ 2019-06-30T16:19:06+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ view_filter ] --END-- [ RunTime:0.006635s ]
+[ 2019-06-30T16:19:06+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ view_end ] --START--
+[ 2019-06-30T16:19:06+08:00 ] /abcTest/admin.php/Index/index | INFO: Run ShowPageTrace Behavior [ RunTime:0.001550s ]
+[ 2019-06-30T16:19:06+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ view_end ] --END-- [ RunTime:0.001751s ]
+[ 2019-06-30T16:19:07+08:00 ] /abcTest/admin.php/Index/resources/images/closelabel.gif | ERR: (ThinkException) 非法操作resources
+[ 2019-06-30T16:20:23+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ route_check ] --START--
+[ 2019-06-30T16:20:23+08:00 ] /abcTest/admin.php/Index/index | INFO: Run CheckRoute Behavior [ RunTime:0.003542s ]
+[ 2019-06-30T16:20:23+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ route_check ] --END-- [ RunTime:0.003955s ]
+[ 2019-06-30T16:20:23+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ app_begin ] --START--
+[ 2019-06-30T16:20:23+08:00 ] /abcTest/admin.php/Index/index | INFO: Run ReadHtmlCache Behavior [ RunTime:0.003274s ]
+[ 2019-06-30T16:20:23+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ app_begin ] --END-- [ RunTime:0.003712s ]
+[ 2019-06-30T16:20:23+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ view_template ] --START--
+[ 2019-06-30T16:20:23+08:00 ] /abcTest/admin.php/Index/index | INFO: Run LocationTemplate Behavior [ RunTime:0.014338s ]
+[ 2019-06-30T16:20:23+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ view_template ] --END-- [ RunTime:0.017067s ]
+[ 2019-06-30T16:20:23+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ view_parse ] --START--
+[ 2019-06-30T16:20:23+08:00 ] /abcTest/admin.php/Index/index | NOTIC: [8] Undefined variable: title 4c18d5952d0dbf1eedb8a1ec796fa788.php 第 5 行.
+[ 2019-06-30T16:20:23+08:00 ] /abcTest/admin.php/Index/index | NOTIC: [8] Undefined variable: username 4c18d5952d0dbf1eedb8a1ec796fa788.php 第 31 行.
+[ 2019-06-30T16:20:23+08:00 ] /abcTest/admin.php/Index/index | NOTIC: [8] Undefined variable: username 4c18d5952d0dbf1eedb8a1ec796fa788.php 第 31 行.
+[ 2019-06-30T16:20:23+08:00 ] /abcTest/admin.php/Index/index | NOTIC: [8] Undefined variable: news_count 4c18d5952d0dbf1eedb8a1ec796fa788.php 第 125 行.
+[ 2019-06-30T16:20:23+08:00 ] /abcTest/admin.php/Index/index | NOTIC: [8] Undefined variable: username 4c18d5952d0dbf1eedb8a1ec796fa788.php 第 136 行.
+[ 2019-06-30T16:20:23+08:00 ] /abcTest/admin.php/Index/index | NOTIC: [8] Undefined variable: news_list 4c18d5952d0dbf1eedb8a1ec796fa788.php 第 156 行.
+[ 2019-06-30T16:20:23+08:00 ] /abcTest/admin.php/Index/index | NOTIC: [8] Undefined variable: page_method 4c18d5952d0dbf1eedb8a1ec796fa788.php 第 175 行.
+[ 2019-06-30T16:20:23+08:00 ] /abcTest/admin.php/Index/index | INFO: Run ParseTemplate Behavior [ RunTime:0.080598s ]
+[ 2019-06-30T16:20:23+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ view_parse ] --END-- [ RunTime:0.080861s ]
+[ 2019-06-30T16:20:23+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ view_filter ] --START--
+[ 2019-06-30T16:20:23+08:00 ] /abcTest/admin.php/Index/index | INFO: Run ContentReplace Behavior [ RunTime:0.001759s ]
+[ 2019-06-30T16:20:23+08:00 ] /abcTest/admin.php/Index/index | INFO: Run TokenBuild Behavior [ RunTime:0.001737s ]
+[ 2019-06-30T16:20:23+08:00 ] /abcTest/admin.php/Index/index | INFO: Run WriteHtmlCache Behavior [ RunTime:0.001093s ]
+[ 2019-06-30T16:20:23+08:00 ] /abcTest/admin.php/Index/index | INFO: Run ShowRuntime Behavior [ RunTime:0.002295s ]
+[ 2019-06-30T16:20:23+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ view_filter ] --END-- [ RunTime:0.008468s ]
+[ 2019-06-30T16:20:23+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ view_end ] --START--
+[ 2019-06-30T16:20:23+08:00 ] /abcTest/admin.php/Index/index | INFO: Run ShowPageTrace Behavior [ RunTime:0.002616s ]
+[ 2019-06-30T16:20:23+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ view_end ] --END-- [ RunTime:0.002883s ]
+[ 2019-06-30T16:21:51+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ route_check ] --START--
+[ 2019-06-30T16:21:51+08:00 ] /abcTest/admin.php/Index/index | INFO: Run CheckRoute Behavior [ RunTime:0.003034s ]
+[ 2019-06-30T16:21:51+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ route_check ] --END-- [ RunTime:0.003311s ]
+[ 2019-06-30T16:21:51+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ app_begin ] --START--
+[ 2019-06-30T16:21:51+08:00 ] /abcTest/admin.php/Index/index | INFO: Run ReadHtmlCache Behavior [ RunTime:0.002330s ]
+[ 2019-06-30T16:21:51+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ app_begin ] --END-- [ RunTime:0.002614s ]
+[ 2019-06-30T16:21:51+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ view_template ] --START--
+[ 2019-06-30T16:21:51+08:00 ] /abcTest/admin.php/Index/index | INFO: Run LocationTemplate Behavior [ RunTime:0.002924s ]
+[ 2019-06-30T16:21:51+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ view_template ] --END-- [ RunTime:0.003163s ]
+[ 2019-06-30T16:21:51+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ view_parse ] --START--
+[ 2019-06-30T16:21:51+08:00 ] /abcTest/admin.php/Index/index | NOTIC: [8] Undefined variable: title 4c18d5952d0dbf1eedb8a1ec796fa788.php 第 5 行.
+[ 2019-06-30T16:21:51+08:00 ] /abcTest/admin.php/Index/index | NOTIC: [8] Undefined variable: username 4c18d5952d0dbf1eedb8a1ec796fa788.php 第 31 行.
+[ 2019-06-30T16:21:51+08:00 ] /abcTest/admin.php/Index/index | NOTIC: [8] Undefined variable: username 4c18d5952d0dbf1eedb8a1ec796fa788.php 第 31 行.
+[ 2019-06-30T16:21:51+08:00 ] /abcTest/admin.php/Index/index | NOTIC: [8] Undefined variable: news_count 4c18d5952d0dbf1eedb8a1ec796fa788.php 第 125 行.
+[ 2019-06-30T16:21:51+08:00 ] /abcTest/admin.php/Index/index | NOTIC: [8] Undefined variable: username 4c18d5952d0dbf1eedb8a1ec796fa788.php 第 136 行.
+[ 2019-06-30T16:21:51+08:00 ] /abcTest/admin.php/Index/index | NOTIC: [8] Undefined variable: news_list 4c18d5952d0dbf1eedb8a1ec796fa788.php 第 156 行.
+[ 2019-06-30T16:21:51+08:00 ] /abcTest/admin.php/Index/index | NOTIC: [8] Undefined variable: page_method 4c18d5952d0dbf1eedb8a1ec796fa788.php 第 175 行.
+[ 2019-06-30T16:21:51+08:00 ] /abcTest/admin.php/Index/index | INFO: Run ParseTemplate Behavior [ RunTime:0.027003s ]
+[ 2019-06-30T16:21:51+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ view_parse ] --END-- [ RunTime:0.027233s ]
+[ 2019-06-30T16:21:51+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ view_filter ] --START--
+[ 2019-06-30T16:21:51+08:00 ] /abcTest/admin.php/Index/index | INFO: Run ContentReplace Behavior [ RunTime:0.001854s ]
+[ 2019-06-30T16:21:51+08:00 ] /abcTest/admin.php/Index/index | INFO: Run TokenBuild Behavior [ RunTime:0.001693s ]
+[ 2019-06-30T16:21:51+08:00 ] /abcTest/admin.php/Index/index | INFO: Run WriteHtmlCache Behavior [ RunTime:0.001613s ]
+[ 2019-06-30T16:21:51+08:00 ] /abcTest/admin.php/Index/index | INFO: Run ShowRuntime Behavior [ RunTime:0.001894s ]
+[ 2019-06-30T16:21:51+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ view_filter ] --END-- [ RunTime:0.007711s ]
+[ 2019-06-30T16:21:51+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ view_end ] --START--
+[ 2019-06-30T16:21:51+08:00 ] /abcTest/admin.php/Index/index | INFO: Run ShowPageTrace Behavior [ RunTime:0.001529s ]
+[ 2019-06-30T16:21:51+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ view_end ] --END-- [ RunTime:0.001706s ]
+[ 2019-06-30T16:21:51+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ route_check ] --START--
+[ 2019-06-30T16:21:51+08:00 ] /abcTest/admin.php/Index/index | INFO: Run CheckRoute Behavior [ RunTime:0.002060s ]
+[ 2019-06-30T16:21:51+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ route_check ] --END-- [ RunTime:0.002346s ]
+[ 2019-06-30T16:21:51+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ app_begin ] --START--
+[ 2019-06-30T16:21:51+08:00 ] /abcTest/admin.php/Index/index | INFO: Run ReadHtmlCache Behavior [ RunTime:0.001492s ]
+[ 2019-06-30T16:21:51+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ app_begin ] --END-- [ RunTime:0.001673s ]
+[ 2019-06-30T16:21:51+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ view_template ] --START--
+[ 2019-06-30T16:21:51+08:00 ] /abcTest/admin.php/Index/index | INFO: Run LocationTemplate Behavior [ RunTime:0.001945s ]
+[ 2019-06-30T16:21:51+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ view_template ] --END-- [ RunTime:0.002158s ]
+[ 2019-06-30T16:21:51+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ view_parse ] --START--
+[ 2019-06-30T16:21:51+08:00 ] /abcTest/admin.php/Index/index | NOTIC: [8] Undefined variable: title 4c18d5952d0dbf1eedb8a1ec796fa788.php 第 5 行.
+[ 2019-06-30T16:21:51+08:00 ] /abcTest/admin.php/Index/index | NOTIC: [8] Undefined variable: username 4c18d5952d0dbf1eedb8a1ec796fa788.php 第 31 行.
+[ 2019-06-30T16:21:51+08:00 ] /abcTest/admin.php/Index/index | NOTIC: [8] Undefined variable: username 4c18d5952d0dbf1eedb8a1ec796fa788.php 第 31 行.
+[ 2019-06-30T16:21:51+08:00 ] /abcTest/admin.php/Index/index | NOTIC: [8] Undefined variable: news_count 4c18d5952d0dbf1eedb8a1ec796fa788.php 第 125 行.
+[ 2019-06-30T16:21:51+08:00 ] /abcTest/admin.php/Index/index | NOTIC: [8] Undefined variable: username 4c18d5952d0dbf1eedb8a1ec796fa788.php 第 136 行.
+[ 2019-06-30T16:21:51+08:00 ] /abcTest/admin.php/Index/index | NOTIC: [8] Undefined variable: news_list 4c18d5952d0dbf1eedb8a1ec796fa788.php 第 156 行.
+[ 2019-06-30T16:21:51+08:00 ] /abcTest/admin.php/Index/index | NOTIC: [8] Undefined variable: page_method 4c18d5952d0dbf1eedb8a1ec796fa788.php 第 175 行.
+[ 2019-06-30T16:21:51+08:00 ] /abcTest/admin.php/Index/index | INFO: Run ParseTemplate Behavior [ RunTime:0.067388s ]
+[ 2019-06-30T16:21:51+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ view_parse ] --END-- [ RunTime:0.067634s ]
+[ 2019-06-30T16:21:51+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ view_filter ] --START--
+[ 2019-06-30T16:21:51+08:00 ] /abcTest/admin.php/Index/index | INFO: Run ContentReplace Behavior [ RunTime:0.002524s ]
+[ 2019-06-30T16:21:51+08:00 ] /abcTest/admin.php/Index/index | INFO: Run TokenBuild Behavior [ RunTime:0.003703s ]
+[ 2019-06-30T16:21:51+08:00 ] /abcTest/admin.php/Index/index | INFO: Run WriteHtmlCache Behavior [ RunTime:0.001627s ]
+[ 2019-06-30T16:21:51+08:00 ] /abcTest/admin.php/Index/index | INFO: Run ShowRuntime Behavior [ RunTime:0.014268s ]
+[ 2019-06-30T16:21:51+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ view_filter ] --END-- [ RunTime:0.023504s ]
+[ 2019-06-30T16:21:51+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ view_end ] --START--
+[ 2019-06-30T16:21:51+08:00 ] /abcTest/admin.php/Index/index | INFO: Run ShowPageTrace Behavior [ RunTime:0.002344s ]
+[ 2019-06-30T16:21:51+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ view_end ] --END-- [ RunTime:0.002629s ]
+[ 2019-06-30T16:21:52+08:00 ] /abcTest/admin.php/Index/resources/images/closelabel.gif | ERR: (ThinkException) 非法操作resources
+[ 2019-06-30T16:26:50+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ route_check ] --START--
+[ 2019-06-30T16:26:50+08:00 ] /abcTest/admin.php/Index/index | INFO: Run CheckRoute Behavior [ RunTime:0.002855s ]
+[ 2019-06-30T16:26:50+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ route_check ] --END-- [ RunTime:0.003087s ]
+[ 2019-06-30T16:26:50+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ app_begin ] --START--
+[ 2019-06-30T16:26:50+08:00 ] /abcTest/admin.php/Index/index | INFO: Run ReadHtmlCache Behavior [ RunTime:0.001736s ]
+[ 2019-06-30T16:26:50+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ app_begin ] --END-- [ RunTime:0.001901s ]
+[ 2019-06-30T16:26:50+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ view_template ] --START--
+[ 2019-06-30T16:26:50+08:00 ] /abcTest/admin.php/Index/index | INFO: Run LocationTemplate Behavior [ RunTime:0.001933s ]
+[ 2019-06-30T16:26:50+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ view_template ] --END-- [ RunTime:0.002095s ]
+[ 2019-06-30T16:26:50+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ view_parse ] --START--
+[ 2019-06-30T16:26:51+08:00 ] /abcTest/admin.php/Index/index | NOTIC: [8] Undefined variable: title 4c18d5952d0dbf1eedb8a1ec796fa788.php 第 5 行.
+[ 2019-06-30T16:26:51+08:00 ] /abcTest/admin.php/Index/index | NOTIC: [8] Undefined variable: username 4c18d5952d0dbf1eedb8a1ec796fa788.php 第 31 行.
+[ 2019-06-30T16:26:51+08:00 ] /abcTest/admin.php/Index/index | NOTIC: [8] Undefined variable: username 4c18d5952d0dbf1eedb8a1ec796fa788.php 第 31 行.
+[ 2019-06-30T16:26:51+08:00 ] /abcTest/admin.php/Index/index | NOTIC: [8] Undefined variable: news_count 4c18d5952d0dbf1eedb8a1ec796fa788.php 第 125 行.
+[ 2019-06-30T16:26:51+08:00 ] /abcTest/admin.php/Index/index | NOTIC: [8] Undefined variable: username 4c18d5952d0dbf1eedb8a1ec796fa788.php 第 136 行.
+[ 2019-06-30T16:26:51+08:00 ] /abcTest/admin.php/Index/index | NOTIC: [8] Undefined variable: news_list 4c18d5952d0dbf1eedb8a1ec796fa788.php 第 156 行.
+[ 2019-06-30T16:26:51+08:00 ] /abcTest/admin.php/Index/index | NOTIC: [8] Undefined variable: page_method 4c18d5952d0dbf1eedb8a1ec796fa788.php 第 175 行.
+[ 2019-06-30T16:26:51+08:00 ] /abcTest/admin.php/Index/index | INFO: Run ParseTemplate Behavior [ RunTime:0.025603s ]
+[ 2019-06-30T16:26:51+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ view_parse ] --END-- [ RunTime:0.025783s ]
+[ 2019-06-30T16:26:51+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ view_filter ] --START--
+[ 2019-06-30T16:26:51+08:00 ] /abcTest/admin.php/Index/index | INFO: Run ContentReplace Behavior [ RunTime:0.001808s ]
+[ 2019-06-30T16:26:51+08:00 ] /abcTest/admin.php/Index/index | INFO: Run TokenBuild Behavior [ RunTime:0.001663s ]
+[ 2019-06-30T16:26:51+08:00 ] /abcTest/admin.php/Index/index | INFO: Run WriteHtmlCache Behavior [ RunTime:0.001016s ]
+[ 2019-06-30T16:26:51+08:00 ] /abcTest/admin.php/Index/index | INFO: Run ShowRuntime Behavior [ RunTime:0.001497s ]
+[ 2019-06-30T16:26:51+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ view_filter ] --END-- [ RunTime:0.006451s ]
+[ 2019-06-30T16:26:51+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ view_end ] --START--
+[ 2019-06-30T16:26:51+08:00 ] /abcTest/admin.php/Index/index | INFO: Run ShowPageTrace Behavior [ RunTime:0.001518s ]
+[ 2019-06-30T16:26:51+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ view_end ] --END-- [ RunTime:0.001701s ]
+[ 2019-06-30T16:26:51+08:00 ] /abcTest/admin.php/Index/resources/images/closelabel.gif | ERR: (ThinkException) 非法操作resources
+[ 2019-06-30T16:37:16+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ route_check ] --START--
+[ 2019-06-30T16:37:16+08:00 ] /abcTest/admin.php/Index/index | INFO: Run CheckRoute Behavior [ RunTime:0.002081s ]
+[ 2019-06-30T16:37:16+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ route_check ] --END-- [ RunTime:0.002306s ]
+[ 2019-06-30T16:37:16+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ app_begin ] --START--
+[ 2019-06-30T16:37:16+08:00 ] /abcTest/admin.php/Index/index | INFO: Run ReadHtmlCache Behavior [ RunTime:0.001530s ]
+[ 2019-06-30T16:37:16+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ app_begin ] --END-- [ RunTime:0.001687s ]
+[ 2019-06-30T16:37:16+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ view_template ] --START--
+[ 2019-06-30T16:37:16+08:00 ] /abcTest/admin.php/Index/index | INFO: Run LocationTemplate Behavior [ RunTime:0.001969s ]
+[ 2019-06-30T16:37:16+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ view_template ] --END-- [ RunTime:0.002167s ]
+[ 2019-06-30T16:37:16+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ view_parse ] --START--
+[ 2019-06-30T16:37:16+08:00 ] /abcTest/admin.php/Index/index | NOTIC: [8] Undefined variable: title 4c18d5952d0dbf1eedb8a1ec796fa788.php 第 5 行.
+[ 2019-06-30T16:37:16+08:00 ] /abcTest/admin.php/Index/index | NOTIC: [8] Undefined variable: username 4c18d5952d0dbf1eedb8a1ec796fa788.php 第 31 行.
+[ 2019-06-30T16:37:16+08:00 ] /abcTest/admin.php/Index/index | NOTIC: [8] Undefined variable: username 4c18d5952d0dbf1eedb8a1ec796fa788.php 第 31 行.
+[ 2019-06-30T16:37:16+08:00 ] /abcTest/admin.php/Index/index | NOTIC: [8] Undefined variable: news_count 4c18d5952d0dbf1eedb8a1ec796fa788.php 第 125 行.
+[ 2019-06-30T16:37:16+08:00 ] /abcTest/admin.php/Index/index | NOTIC: [8] Undefined variable: username 4c18d5952d0dbf1eedb8a1ec796fa788.php 第 136 行.
+[ 2019-06-30T16:37:16+08:00 ] /abcTest/admin.php/Index/index | NOTIC: [8] Undefined variable: news_list 4c18d5952d0dbf1eedb8a1ec796fa788.php 第 156 行.
+[ 2019-06-30T16:37:16+08:00 ] /abcTest/admin.php/Index/index | NOTIC: [8] Undefined variable: page_method 4c18d5952d0dbf1eedb8a1ec796fa788.php 第 175 行.
+[ 2019-06-30T16:37:16+08:00 ] /abcTest/admin.php/Index/index | INFO: Run ParseTemplate Behavior [ RunTime:0.022038s ]
+[ 2019-06-30T16:37:16+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ view_parse ] --END-- [ RunTime:0.022207s ]
+[ 2019-06-30T16:37:16+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ view_filter ] --START--
+[ 2019-06-30T16:37:16+08:00 ] /abcTest/admin.php/Index/index | INFO: Run ContentReplace Behavior [ RunTime:0.001420s ]
+[ 2019-06-30T16:37:16+08:00 ] /abcTest/admin.php/Index/index | INFO: Run TokenBuild Behavior [ RunTime:0.001769s ]
+[ 2019-06-30T16:37:16+08:00 ] /abcTest/admin.php/Index/index | INFO: Run WriteHtmlCache Behavior [ RunTime:0.001009s ]
+[ 2019-06-30T16:37:16+08:00 ] /abcTest/admin.php/Index/index | INFO: Run ShowRuntime Behavior [ RunTime:0.001492s ]
+[ 2019-06-30T16:37:16+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ view_filter ] --END-- [ RunTime:0.006129s ]
+[ 2019-06-30T16:37:16+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ view_end ] --START--
+[ 2019-06-30T16:37:16+08:00 ] /abcTest/admin.php/Index/index | INFO: Run ShowPageTrace Behavior [ RunTime:0.001267s ]
+[ 2019-06-30T16:37:16+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ view_end ] --END-- [ RunTime:0.001418s ]
+[ 2019-06-30T16:37:17+08:00 ] /abcTest/admin.php/Index/resources/images/closelabel.gif | ERR: (ThinkException) 非法操作resources
+[ 2019-06-30T16:37:39+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ route_check ] --START--
+[ 2019-06-30T16:37:39+08:00 ] /abcTest/admin.php/Index/index | INFO: Run CheckRoute Behavior [ RunTime:0.002088s ]
+[ 2019-06-30T16:37:39+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ route_check ] --END-- [ RunTime:0.002295s ]
+[ 2019-06-30T16:37:39+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ app_begin ] --START--
+[ 2019-06-30T16:37:39+08:00 ] /abcTest/admin.php/Index/index | INFO: Run ReadHtmlCache Behavior [ RunTime:0.001628s ]
+[ 2019-06-30T16:37:39+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ app_begin ] --END-- [ RunTime:0.001802s ]
+[ 2019-06-30T16:37:39+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ view_template ] --START--
+[ 2019-06-30T16:37:39+08:00 ] /abcTest/admin.php/Index/index | INFO: Run LocationTemplate Behavior [ RunTime:0.002054s ]
+[ 2019-06-30T16:37:39+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ view_template ] --END-- [ RunTime:0.002239s ]
+[ 2019-06-30T16:37:39+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ view_parse ] --START--
+[ 2019-06-30T16:37:39+08:00 ] /abcTest/admin.php/Index/index | NOTIC: [8] Undefined variable: title 4c18d5952d0dbf1eedb8a1ec796fa788.php 第 5 行.
+[ 2019-06-30T16:37:39+08:00 ] /abcTest/admin.php/Index/index | NOTIC: [8] Undefined variable: username 4c18d5952d0dbf1eedb8a1ec796fa788.php 第 31 行.
+[ 2019-06-30T16:37:39+08:00 ] /abcTest/admin.php/Index/index | NOTIC: [8] Undefined variable: username 4c18d5952d0dbf1eedb8a1ec796fa788.php 第 31 行.
+[ 2019-06-30T16:37:39+08:00 ] /abcTest/admin.php/Index/index | NOTIC: [8] Undefined variable: news_count 4c18d5952d0dbf1eedb8a1ec796fa788.php 第 125 行.
+[ 2019-06-30T16:37:39+08:00 ] /abcTest/admin.php/Index/index | NOTIC: [8] Undefined variable: username 4c18d5952d0dbf1eedb8a1ec796fa788.php 第 136 行.
+[ 2019-06-30T16:37:39+08:00 ] /abcTest/admin.php/Index/index | NOTIC: [8] Undefined variable: news_list 4c18d5952d0dbf1eedb8a1ec796fa788.php 第 156 行.
+[ 2019-06-30T16:37:39+08:00 ] /abcTest/admin.php/Index/index | NOTIC: [8] Undefined variable: page_method 4c18d5952d0dbf1eedb8a1ec796fa788.php 第 175 行.
+[ 2019-06-30T16:37:39+08:00 ] /abcTest/admin.php/Index/index | INFO: Run ParseTemplate Behavior [ RunTime:0.024686s ]
+[ 2019-06-30T16:37:39+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ view_parse ] --END-- [ RunTime:0.024930s ]
+[ 2019-06-30T16:37:39+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ view_filter ] --START--
+[ 2019-06-30T16:37:39+08:00 ] /abcTest/admin.php/Index/index | INFO: Run ContentReplace Behavior [ RunTime:0.001529s ]
+[ 2019-06-30T16:37:39+08:00 ] /abcTest/admin.php/Index/index | INFO: Run TokenBuild Behavior [ RunTime:0.002156s ]
+[ 2019-06-30T16:37:39+08:00 ] /abcTest/admin.php/Index/index | INFO: Run WriteHtmlCache Behavior [ RunTime:0.001848s ]
+[ 2019-06-30T16:37:39+08:00 ] /abcTest/admin.php/Index/index | INFO: Run ShowRuntime Behavior [ RunTime:0.001693s ]
+[ 2019-06-30T16:37:39+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ view_filter ] --END-- [ RunTime:0.007824s ]
+[ 2019-06-30T16:37:39+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ view_end ] --START--
+[ 2019-06-30T16:37:39+08:00 ] /abcTest/admin.php/Index/index | INFO: Run ShowPageTrace Behavior [ RunTime:0.001245s ]
+[ 2019-06-30T16:37:39+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ view_end ] --END-- [ RunTime:0.001393s ]
+[ 2019-06-30T16:37:39+08:00 ] /abcTest/admin.php/Index/resources/images/closelabel.gif | ERR: (ThinkException) 非法操作resources
+[ 2019-06-30T16:38:19+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ route_check ] --START--
+[ 2019-06-30T16:38:19+08:00 ] /abcTest/admin.php/Index/index | INFO: Run CheckRoute Behavior [ RunTime:0.002063s ]
+[ 2019-06-30T16:38:19+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ route_check ] --END-- [ RunTime:0.002284s ]
+[ 2019-06-30T16:38:19+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ app_begin ] --START--
+[ 2019-06-30T16:38:19+08:00 ] /abcTest/admin.php/Index/index | INFO: Run ReadHtmlCache Behavior [ RunTime:0.002297s ]
+[ 2019-06-30T16:38:19+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ app_begin ] --END-- [ RunTime:0.002495s ]
+[ 2019-06-30T16:38:19+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ view_template ] --START--
+[ 2019-06-30T16:38:19+08:00 ] /abcTest/admin.php/Index/index | INFO: Run LocationTemplate Behavior [ RunTime:0.002635s ]
+[ 2019-06-30T16:38:19+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ view_template ] --END-- [ RunTime:0.002866s ]
+[ 2019-06-30T16:38:19+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ view_parse ] --START--
+[ 2019-06-30T16:38:19+08:00 ] /abcTest/admin.php/Index/index | NOTIC: [8] Undefined variable: title 4c18d5952d0dbf1eedb8a1ec796fa788.php 第 5 行.
+[ 2019-06-30T16:38:19+08:00 ] /abcTest/admin.php/Index/index | NOTIC: [8] Undefined variable: username 4c18d5952d0dbf1eedb8a1ec796fa788.php 第 31 行.
+[ 2019-06-30T16:38:19+08:00 ] /abcTest/admin.php/Index/index | NOTIC: [8] Undefined variable: username 4c18d5952d0dbf1eedb8a1ec796fa788.php 第 31 行.
+[ 2019-06-30T16:38:19+08:00 ] /abcTest/admin.php/Index/index | NOTIC: [8] Undefined variable: news_count 4c18d5952d0dbf1eedb8a1ec796fa788.php 第 125 行.
+[ 2019-06-30T16:38:19+08:00 ] /abcTest/admin.php/Index/index | NOTIC: [8] Undefined variable: username 4c18d5952d0dbf1eedb8a1ec796fa788.php 第 136 行.
+[ 2019-06-30T16:38:19+08:00 ] /abcTest/admin.php/Index/index | NOTIC: [8] Undefined variable: news_list 4c18d5952d0dbf1eedb8a1ec796fa788.php 第 156 行.
+[ 2019-06-30T16:38:19+08:00 ] /abcTest/admin.php/Index/index | NOTIC: [8] Undefined variable: page_method 4c18d5952d0dbf1eedb8a1ec796fa788.php 第 175 行.
+[ 2019-06-30T16:38:19+08:00 ] /abcTest/admin.php/Index/index | INFO: Run ParseTemplate Behavior [ RunTime:0.024661s ]
+[ 2019-06-30T16:38:19+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ view_parse ] --END-- [ RunTime:0.024833s ]
+[ 2019-06-30T16:38:19+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ view_filter ] --START--
+[ 2019-06-30T16:38:19+08:00 ] /abcTest/admin.php/Index/index | INFO: Run ContentReplace Behavior [ RunTime:0.001448s ]
+[ 2019-06-30T16:38:19+08:00 ] /abcTest/admin.php/Index/index | INFO: Run TokenBuild Behavior [ RunTime:0.001664s ]
+[ 2019-06-30T16:38:19+08:00 ] /abcTest/admin.php/Index/index | INFO: Run WriteHtmlCache Behavior [ RunTime:0.001115s ]
+[ 2019-06-30T16:38:19+08:00 ] /abcTest/admin.php/Index/index | INFO: Run ShowRuntime Behavior [ RunTime:0.001700s ]
+[ 2019-06-30T16:38:19+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ view_filter ] --END-- [ RunTime:0.006415s ]
+[ 2019-06-30T16:38:19+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ view_end ] --START--
+[ 2019-06-30T16:38:19+08:00 ] /abcTest/admin.php/Index/index | INFO: Run ShowPageTrace Behavior [ RunTime:0.001322s ]
+[ 2019-06-30T16:38:19+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ view_end ] --END-- [ RunTime:0.001487s ]
+[ 2019-06-30T16:38:19+08:00 ] /abcTest/admin.php/Index/resources/images/closelabel.gif | ERR: (ThinkException) 非法操作resources
+[ 2019-06-30T16:39:28+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ route_check ] --START--
+[ 2019-06-30T16:39:28+08:00 ] /abcTest/admin.php/Index/index | INFO: Run CheckRoute Behavior [ RunTime:0.001734s ]
+[ 2019-06-30T16:39:28+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ route_check ] --END-- [ RunTime:0.001952s ]
+[ 2019-06-30T16:39:28+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ app_begin ] --START--
+[ 2019-06-30T16:39:28+08:00 ] /abcTest/admin.php/Index/index | INFO: Run ReadHtmlCache Behavior [ RunTime:0.001475s ]
+[ 2019-06-30T16:39:28+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ app_begin ] --END-- [ RunTime:0.001637s ]
+[ 2019-06-30T16:39:28+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ view_template ] --START--
+[ 2019-06-30T16:39:28+08:00 ] /abcTest/admin.php/Index/index | INFO: Run LocationTemplate Behavior [ RunTime:0.002759s ]
+[ 2019-06-30T16:39:28+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ view_template ] --END-- [ RunTime:0.002979s ]
+[ 2019-06-30T16:39:28+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ view_parse ] --START--
+[ 2019-06-30T16:39:28+08:00 ] /abcTest/admin.php/Index/index | NOTIC: [8] Undefined variable: title 4c18d5952d0dbf1eedb8a1ec796fa788.php 第 5 行.
+[ 2019-06-30T16:39:28+08:00 ] /abcTest/admin.php/Index/index | NOTIC: [8] Undefined variable: username 4c18d5952d0dbf1eedb8a1ec796fa788.php 第 31 行.
+[ 2019-06-30T16:39:28+08:00 ] /abcTest/admin.php/Index/index | NOTIC: [8] Undefined variable: username 4c18d5952d0dbf1eedb8a1ec796fa788.php 第 31 行.
+[ 2019-06-30T16:39:28+08:00 ] /abcTest/admin.php/Index/index | NOTIC: [8] Undefined variable: news_count 4c18d5952d0dbf1eedb8a1ec796fa788.php 第 125 行.
+[ 2019-06-30T16:39:28+08:00 ] /abcTest/admin.php/Index/index | NOTIC: [8] Undefined variable: username 4c18d5952d0dbf1eedb8a1ec796fa788.php 第 136 行.
+[ 2019-06-30T16:39:28+08:00 ] /abcTest/admin.php/Index/index | NOTIC: [8] Undefined variable: news_list 4c18d5952d0dbf1eedb8a1ec796fa788.php 第 156 行.
+[ 2019-06-30T16:39:28+08:00 ] /abcTest/admin.php/Index/index | NOTIC: [8] Undefined variable: page_method 4c18d5952d0dbf1eedb8a1ec796fa788.php 第 175 行.
+[ 2019-06-30T16:39:28+08:00 ] /abcTest/admin.php/Index/index | INFO: Run ParseTemplate Behavior [ RunTime:0.025087s ]
+[ 2019-06-30T16:39:28+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ view_parse ] --END-- [ RunTime:0.025295s ]
+[ 2019-06-30T16:39:28+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ view_filter ] --START--
+[ 2019-06-30T16:39:28+08:00 ] /abcTest/admin.php/Index/index | INFO: Run ContentReplace Behavior [ RunTime:0.001970s ]
+[ 2019-06-30T16:39:28+08:00 ] /abcTest/admin.php/Index/index | INFO: Run TokenBuild Behavior [ RunTime:0.002024s ]
+[ 2019-06-30T16:39:28+08:00 ] /abcTest/admin.php/Index/index | INFO: Run WriteHtmlCache Behavior [ RunTime:0.001672s ]
+[ 2019-06-30T16:39:28+08:00 ] /abcTest/admin.php/Index/index | INFO: Run ShowRuntime Behavior [ RunTime:0.003150s ]
+[ 2019-06-30T16:39:28+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ view_filter ] --END-- [ RunTime:0.009429s ]
+[ 2019-06-30T16:39:28+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ view_end ] --START--
+[ 2019-06-30T16:39:28+08:00 ] /abcTest/admin.php/Index/index | INFO: Run ShowPageTrace Behavior [ RunTime:0.001437s ]
+[ 2019-06-30T16:39:28+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ view_end ] --END-- [ RunTime:0.001596s ]
+[ 2019-06-30T16:39:28+08:00 ] /abcTest/admin.php/Index/resources/images/closelabel.gif | ERR: (ThinkException) 非法操作resources
+[ 2019-06-30T16:40:17+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ route_check ] --START--
+[ 2019-06-30T16:40:17+08:00 ] /abcTest/admin.php/Index/index | INFO: Run CheckRoute Behavior [ RunTime:0.002368s ]
+[ 2019-06-30T16:40:17+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ route_check ] --END-- [ RunTime:0.002563s ]
+[ 2019-06-30T16:40:17+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ app_begin ] --START--
+[ 2019-06-30T16:40:17+08:00 ] /abcTest/admin.php/Index/index | INFO: Run ReadHtmlCache Behavior [ RunTime:0.001400s ]
+[ 2019-06-30T16:40:17+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ app_begin ] --END-- [ RunTime:0.001550s ]
+[ 2019-06-30T16:40:17+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ view_template ] --START--
+[ 2019-06-30T16:40:17+08:00 ] /abcTest/admin.php/Index/index | INFO: Run LocationTemplate Behavior [ RunTime:0.001865s ]
+[ 2019-06-30T16:40:17+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ view_template ] --END-- [ RunTime:0.002079s ]
+[ 2019-06-30T16:40:17+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ view_parse ] --START--
+[ 2019-06-30T16:40:17+08:00 ] /abcTest/admin.php/Index/index | NOTIC: [8] Undefined variable: title 4c18d5952d0dbf1eedb8a1ec796fa788.php 第 5 行.
+[ 2019-06-30T16:40:17+08:00 ] /abcTest/admin.php/Index/index | NOTIC: [8] Undefined variable: username 4c18d5952d0dbf1eedb8a1ec796fa788.php 第 31 行.
+[ 2019-06-30T16:40:17+08:00 ] /abcTest/admin.php/Index/index | NOTIC: [8] Undefined variable: username 4c18d5952d0dbf1eedb8a1ec796fa788.php 第 31 行.
+[ 2019-06-30T16:40:17+08:00 ] /abcTest/admin.php/Index/index | NOTIC: [8] Undefined variable: news_count 4c18d5952d0dbf1eedb8a1ec796fa788.php 第 125 行.
+[ 2019-06-30T16:40:17+08:00 ] /abcTest/admin.php/Index/index | NOTIC: [8] Undefined variable: username 4c18d5952d0dbf1eedb8a1ec796fa788.php 第 136 行.
+[ 2019-06-30T16:40:17+08:00 ] /abcTest/admin.php/Index/index | NOTIC: [8] Undefined variable: news_list 4c18d5952d0dbf1eedb8a1ec796fa788.php 第 156 行.
+[ 2019-06-30T16:40:17+08:00 ] /abcTest/admin.php/Index/index | NOTIC: [8] Undefined variable: page_method 4c18d5952d0dbf1eedb8a1ec796fa788.php 第 175 行.
+[ 2019-06-30T16:40:17+08:00 ] /abcTest/admin.php/Index/index | INFO: Run ParseTemplate Behavior [ RunTime:0.026102s ]
+[ 2019-06-30T16:40:17+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ view_parse ] --END-- [ RunTime:0.026293s ]
+[ 2019-06-30T16:40:17+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ view_filter ] --START--
+[ 2019-06-30T16:40:17+08:00 ] /abcTest/admin.php/Index/index | INFO: Run ContentReplace Behavior [ RunTime:0.001349s ]
+[ 2019-06-30T16:40:17+08:00 ] /abcTest/admin.php/Index/index | INFO: Run TokenBuild Behavior [ RunTime:0.001438s ]
+[ 2019-06-30T16:40:17+08:00 ] /abcTest/admin.php/Index/index | INFO: Run WriteHtmlCache Behavior [ RunTime:0.001079s ]
+[ 2019-06-30T16:40:17+08:00 ] /abcTest/admin.php/Index/index | INFO: Run ShowRuntime Behavior [ RunTime:0.001610s ]
+[ 2019-06-30T16:40:17+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ view_filter ] --END-- [ RunTime:0.006011s ]
+[ 2019-06-30T16:40:17+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ view_end ] --START--
+[ 2019-06-30T16:40:17+08:00 ] /abcTest/admin.php/Index/index | INFO: Run ShowPageTrace Behavior [ RunTime:0.001368s ]
+[ 2019-06-30T16:40:17+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ view_end ] --END-- [ RunTime:0.001572s ]
+[ 2019-06-30T16:40:18+08:00 ] /abcTest/admin.php/Index/resources/images/closelabel.gif | ERR: (ThinkException) 非法操作resources
+[ 2019-06-30T16:40:36+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ route_check ] --START--
+[ 2019-06-30T16:40:36+08:00 ] /abcTest/admin.php/Index/index | INFO: Run CheckRoute Behavior [ RunTime:0.002143s ]
+[ 2019-06-30T16:40:36+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ route_check ] --END-- [ RunTime:0.002338s ]
+[ 2019-06-30T16:40:36+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ app_begin ] --START--
+[ 2019-06-30T16:40:36+08:00 ] /abcTest/admin.php/Index/index | INFO: Run ReadHtmlCache Behavior [ RunTime:0.001959s ]
+[ 2019-06-30T16:40:36+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ app_begin ] --END-- [ RunTime:0.002137s ]
+[ 2019-06-30T16:40:36+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ view_template ] --START--
+[ 2019-06-30T16:40:36+08:00 ] /abcTest/admin.php/Index/index | INFO: Run LocationTemplate Behavior [ RunTime:0.001869s ]
+[ 2019-06-30T16:40:36+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ view_template ] --END-- [ RunTime:0.002039s ]
+[ 2019-06-30T16:40:36+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ view_parse ] --START--
+[ 2019-06-30T16:40:36+08:00 ] /abcTest/admin.php/Index/index | NOTIC: [8] Undefined variable: title 4c18d5952d0dbf1eedb8a1ec796fa788.php 第 5 行.
+[ 2019-06-30T16:40:36+08:00 ] /abcTest/admin.php/Index/index | NOTIC: [8] Undefined variable: username 4c18d5952d0dbf1eedb8a1ec796fa788.php 第 31 行.
+[ 2019-06-30T16:40:36+08:00 ] /abcTest/admin.php/Index/index | NOTIC: [8] Undefined variable: username 4c18d5952d0dbf1eedb8a1ec796fa788.php 第 31 行.
+[ 2019-06-30T16:40:36+08:00 ] /abcTest/admin.php/Index/index | NOTIC: [8] Undefined variable: news_count 4c18d5952d0dbf1eedb8a1ec796fa788.php 第 125 行.
+[ 2019-06-30T16:40:36+08:00 ] /abcTest/admin.php/Index/index | NOTIC: [8] Undefined variable: username 4c18d5952d0dbf1eedb8a1ec796fa788.php 第 136 行.
+[ 2019-06-30T16:40:36+08:00 ] /abcTest/admin.php/Index/index | NOTIC: [8] Undefined variable: news_list 4c18d5952d0dbf1eedb8a1ec796fa788.php 第 156 行.
+[ 2019-06-30T16:40:36+08:00 ] /abcTest/admin.php/Index/index | NOTIC: [8] Undefined variable: page_method 4c18d5952d0dbf1eedb8a1ec796fa788.php 第 175 行.
+[ 2019-06-30T16:40:36+08:00 ] /abcTest/admin.php/Index/index | INFO: Run ParseTemplate Behavior [ RunTime:0.022317s ]
+[ 2019-06-30T16:40:36+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ view_parse ] --END-- [ RunTime:0.022480s ]
+[ 2019-06-30T16:40:36+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ view_filter ] --START--
+[ 2019-06-30T16:40:36+08:00 ] /abcTest/admin.php/Index/index | INFO: Run ContentReplace Behavior [ RunTime:0.001388s ]
+[ 2019-06-30T16:40:36+08:00 ] /abcTest/admin.php/Index/index | INFO: Run TokenBuild Behavior [ RunTime:0.003441s ]
+[ 2019-06-30T16:40:36+08:00 ] /abcTest/admin.php/Index/index | INFO: Run WriteHtmlCache Behavior [ RunTime:0.001310s ]
+[ 2019-06-30T16:40:36+08:00 ] /abcTest/admin.php/Index/index | INFO: Run ShowRuntime Behavior [ RunTime:0.001545s ]
+[ 2019-06-30T16:40:36+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ view_filter ] --END-- [ RunTime:0.008206s ]
+[ 2019-06-30T16:40:36+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ view_end ] --START--
+[ 2019-06-30T16:40:36+08:00 ] /abcTest/admin.php/Index/index | INFO: Run ShowPageTrace Behavior [ RunTime:0.001381s ]
+[ 2019-06-30T16:40:36+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ view_end ] --END-- [ RunTime:0.001541s ]
+[ 2019-06-30T16:40:36+08:00 ] /abcTest/admin.php/Index/resources/images/closelabel.gif | ERR: (ThinkException) 非法操作resources
+[ 2019-06-30T16:43:21+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ route_check ] --START--
+[ 2019-06-30T16:43:21+08:00 ] /abcTest/admin.php/Index/index | INFO: Run CheckRoute Behavior [ RunTime:0.001716s ]
+[ 2019-06-30T16:43:21+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ route_check ] --END-- [ RunTime:0.001921s ]
+[ 2019-06-30T16:43:21+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ app_begin ] --START--
+[ 2019-06-30T16:43:21+08:00 ] /abcTest/admin.php/Index/index | INFO: Run ReadHtmlCache Behavior [ RunTime:0.001595s ]
+[ 2019-06-30T16:43:21+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ app_begin ] --END-- [ RunTime:0.001782s ]
+[ 2019-06-30T16:43:21+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ view_template ] --START--
+[ 2019-06-30T16:43:21+08:00 ] /abcTest/admin.php/Index/index | INFO: Run LocationTemplate Behavior [ RunTime:0.001970s ]
+[ 2019-06-30T16:43:21+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ view_template ] --END-- [ RunTime:0.002167s ]
+[ 2019-06-30T16:43:21+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ view_parse ] --START--
+[ 2019-06-30T16:43:21+08:00 ] /abcTest/admin.php/Index/index | NOTIC: [8] Undefined variable: title 4c18d5952d0dbf1eedb8a1ec796fa788.php 第 5 行.
+[ 2019-06-30T16:43:21+08:00 ] /abcTest/admin.php/Index/index | NOTIC: [8] Undefined variable: username 4c18d5952d0dbf1eedb8a1ec796fa788.php 第 31 行.
+[ 2019-06-30T16:43:21+08:00 ] /abcTest/admin.php/Index/index | NOTIC: [8] Undefined variable: username 4c18d5952d0dbf1eedb8a1ec796fa788.php 第 31 行.
+[ 2019-06-30T16:43:21+08:00 ] /abcTest/admin.php/Index/index | NOTIC: [8] Undefined variable: news_count 4c18d5952d0dbf1eedb8a1ec796fa788.php 第 125 行.
+[ 2019-06-30T16:43:21+08:00 ] /abcTest/admin.php/Index/index | NOTIC: [8] Undefined variable: username 4c18d5952d0dbf1eedb8a1ec796fa788.php 第 136 行.
+[ 2019-06-30T16:43:21+08:00 ] /abcTest/admin.php/Index/index | NOTIC: [8] Undefined variable: news_list 4c18d5952d0dbf1eedb8a1ec796fa788.php 第 156 行.
+[ 2019-06-30T16:43:21+08:00 ] /abcTest/admin.php/Index/index | NOTIC: [8] Undefined variable: page_method 4c18d5952d0dbf1eedb8a1ec796fa788.php 第 175 行.
+[ 2019-06-30T16:43:21+08:00 ] /abcTest/admin.php/Index/index | INFO: Run ParseTemplate Behavior [ RunTime:0.024469s ]
+[ 2019-06-30T16:43:21+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ view_parse ] --END-- [ RunTime:0.024645s ]
+[ 2019-06-30T16:43:21+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ view_filter ] --START--
+[ 2019-06-30T16:43:21+08:00 ] /abcTest/admin.php/Index/index | INFO: Run ContentReplace Behavior [ RunTime:0.001467s ]
+[ 2019-06-30T16:43:21+08:00 ] /abcTest/admin.php/Index/index | INFO: Run TokenBuild Behavior [ RunTime:0.001503s ]
+[ 2019-06-30T16:43:21+08:00 ] /abcTest/admin.php/Index/index | INFO: Run WriteHtmlCache Behavior [ RunTime:0.001253s ]
+[ 2019-06-30T16:43:21+08:00 ] /abcTest/admin.php/Index/index | INFO: Run ShowRuntime Behavior [ RunTime:0.002098s ]
+[ 2019-06-30T16:43:21+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ view_filter ] --END-- [ RunTime:0.006986s ]
+[ 2019-06-30T16:43:21+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ view_end ] --START--
+[ 2019-06-30T16:43:21+08:00 ] /abcTest/admin.php/Index/index | INFO: Run ShowPageTrace Behavior [ RunTime:0.001769s ]
+[ 2019-06-30T16:43:21+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ view_end ] --END-- [ RunTime:0.001994s ]
+[ 2019-06-30T16:43:21+08:00 ] /abcTest/admin.php/Index/resources/images/closelabel.gif | ERR: (ThinkException) 非法操作resources
+[ 2019-06-30T16:44:19+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ route_check ] --START--
+[ 2019-06-30T16:44:19+08:00 ] /abcTest/admin.php/Index/index | INFO: Run CheckRoute Behavior [ RunTime:0.001986s ]
+[ 2019-06-30T16:44:19+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ route_check ] --END-- [ RunTime:0.002193s ]
+[ 2019-06-30T16:44:19+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ app_begin ] --START--
+[ 2019-06-30T16:44:19+08:00 ] /abcTest/admin.php/Index/index | INFO: Run ReadHtmlCache Behavior [ RunTime:0.001401s ]
+[ 2019-06-30T16:44:19+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ app_begin ] --END-- [ RunTime:0.001554s ]
+[ 2019-06-30T16:44:19+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ view_template ] --START--
+[ 2019-06-30T16:44:19+08:00 ] /abcTest/admin.php/Index/index | INFO: Run LocationTemplate Behavior [ RunTime:0.001805s ]
+[ 2019-06-30T16:44:19+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ view_template ] --END-- [ RunTime:0.002001s ]
+[ 2019-06-30T16:44:19+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ view_parse ] --START--
+[ 2019-06-30T16:44:19+08:00 ] /abcTest/admin.php/Index/index | NOTIC: [8] Undefined variable: title 4c18d5952d0dbf1eedb8a1ec796fa788.php 第 5 行.
+[ 2019-06-30T16:44:19+08:00 ] /abcTest/admin.php/Index/index | NOTIC: [8] Undefined variable: username 4c18d5952d0dbf1eedb8a1ec796fa788.php 第 31 行.
+[ 2019-06-30T16:44:19+08:00 ] /abcTest/admin.php/Index/index | NOTIC: [8] Undefined variable: username 4c18d5952d0dbf1eedb8a1ec796fa788.php 第 31 行.
+[ 2019-06-30T16:44:19+08:00 ] /abcTest/admin.php/Index/index | NOTIC: [8] Undefined variable: news_count 4c18d5952d0dbf1eedb8a1ec796fa788.php 第 125 行.
+[ 2019-06-30T16:44:19+08:00 ] /abcTest/admin.php/Index/index | NOTIC: [8] Undefined variable: username 4c18d5952d0dbf1eedb8a1ec796fa788.php 第 136 行.
+[ 2019-06-30T16:44:19+08:00 ] /abcTest/admin.php/Index/index | NOTIC: [8] Undefined variable: news_list 4c18d5952d0dbf1eedb8a1ec796fa788.php 第 156 行.
+[ 2019-06-30T16:44:19+08:00 ] /abcTest/admin.php/Index/index | NOTIC: [8] Undefined variable: page_method 4c18d5952d0dbf1eedb8a1ec796fa788.php 第 175 行.
+[ 2019-06-30T16:44:19+08:00 ] /abcTest/admin.php/Index/index | INFO: Run ParseTemplate Behavior [ RunTime:0.022969s ]
+[ 2019-06-30T16:44:19+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ view_parse ] --END-- [ RunTime:0.023157s ]
+[ 2019-06-30T16:44:19+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ view_filter ] --START--
+[ 2019-06-30T16:44:19+08:00 ] /abcTest/admin.php/Index/index | INFO: Run ContentReplace Behavior [ RunTime:0.001464s ]
+[ 2019-06-30T16:44:19+08:00 ] /abcTest/admin.php/Index/index | INFO: Run TokenBuild Behavior [ RunTime:0.001455s ]
+[ 2019-06-30T16:44:19+08:00 ] /abcTest/admin.php/Index/index | INFO: Run WriteHtmlCache Behavior [ RunTime:0.001830s ]
+[ 2019-06-30T16:44:19+08:00 ] /abcTest/admin.php/Index/index | INFO: Run ShowRuntime Behavior [ RunTime:0.001721s ]
+[ 2019-06-30T16:44:19+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ view_filter ] --END-- [ RunTime:0.007065s ]
+[ 2019-06-30T16:44:19+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ view_end ] --START--
+[ 2019-06-30T16:44:19+08:00 ] /abcTest/admin.php/Index/index | INFO: Run ShowPageTrace Behavior [ RunTime:0.001401s ]
+[ 2019-06-30T16:44:19+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ view_end ] --END-- [ RunTime:0.001590s ]
+[ 2019-06-30T16:44:19+08:00 ] /abcTest/admin.php/Index/resources/images/closelabel.gif | ERR: (ThinkException) 非法操作resources
+[ 2019-06-30T16:44:30+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ route_check ] --START--
+[ 2019-06-30T16:44:30+08:00 ] /abcTest/admin.php/Index/index | INFO: Run CheckRoute Behavior [ RunTime:0.002496s ]
+[ 2019-06-30T16:44:30+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ route_check ] --END-- [ RunTime:0.002744s ]
+[ 2019-06-30T16:44:30+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ app_begin ] --START--
+[ 2019-06-30T16:44:30+08:00 ] /abcTest/admin.php/Index/index | INFO: Run ReadHtmlCache Behavior [ RunTime:0.001538s ]
+[ 2019-06-30T16:44:30+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ app_begin ] --END-- [ RunTime:0.001726s ]
+[ 2019-06-30T16:44:30+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ view_template ] --START--
+[ 2019-06-30T16:44:30+08:00 ] /abcTest/admin.php/Index/index | INFO: Run LocationTemplate Behavior [ RunTime:0.002707s ]
+[ 2019-06-30T16:44:30+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ view_template ] --END-- [ RunTime:0.003041s ]
+[ 2019-06-30T16:44:30+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ view_parse ] --START--
+[ 2019-06-30T16:44:30+08:00 ] /abcTest/admin.php/Index/index | NOTIC: [8] Undefined variable: title 4c18d5952d0dbf1eedb8a1ec796fa788.php 第 5 行.
+[ 2019-06-30T16:44:30+08:00 ] /abcTest/admin.php/Index/index | NOTIC: [8] Undefined variable: username 4c18d5952d0dbf1eedb8a1ec796fa788.php 第 31 行.
+[ 2019-06-30T16:44:30+08:00 ] /abcTest/admin.php/Index/index | NOTIC: [8] Undefined variable: username 4c18d5952d0dbf1eedb8a1ec796fa788.php 第 31 行.
+[ 2019-06-30T16:44:30+08:00 ] /abcTest/admin.php/Index/index | NOTIC: [8] Undefined variable: news_count 4c18d5952d0dbf1eedb8a1ec796fa788.php 第 125 行.
+[ 2019-06-30T16:44:30+08:00 ] /abcTest/admin.php/Index/index | NOTIC: [8] Undefined variable: username 4c18d5952d0dbf1eedb8a1ec796fa788.php 第 136 行.
+[ 2019-06-30T16:44:30+08:00 ] /abcTest/admin.php/Index/index | NOTIC: [8] Undefined variable: news_list 4c18d5952d0dbf1eedb8a1ec796fa788.php 第 156 行.
+[ 2019-06-30T16:44:30+08:00 ] /abcTest/admin.php/Index/index | NOTIC: [8] Undefined variable: page_method 4c18d5952d0dbf1eedb8a1ec796fa788.php 第 175 行.
+[ 2019-06-30T16:44:30+08:00 ] /abcTest/admin.php/Index/index | INFO: Run ParseTemplate Behavior [ RunTime:0.031569s ]
+[ 2019-06-30T16:44:30+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ view_parse ] --END-- [ RunTime:0.031865s ]
+[ 2019-06-30T16:44:30+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ view_filter ] --START--
+[ 2019-06-30T16:44:30+08:00 ] /abcTest/admin.php/Index/index | INFO: Run ContentReplace Behavior [ RunTime:0.001836s ]
+[ 2019-06-30T16:44:30+08:00 ] /abcTest/admin.php/Index/index | INFO: Run TokenBuild Behavior [ RunTime:0.001911s ]
+[ 2019-06-30T16:44:30+08:00 ] /abcTest/admin.php/Index/index | INFO: Run WriteHtmlCache Behavior [ RunTime:0.000892s ]
+[ 2019-06-30T16:44:30+08:00 ] /abcTest/admin.php/Index/index | INFO: Run ShowRuntime Behavior [ RunTime:0.001597s ]
+[ 2019-06-30T16:44:30+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ view_filter ] --END-- [ RunTime:0.006913s ]
+[ 2019-06-30T16:44:30+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ view_end ] --START--
+[ 2019-06-30T16:44:30+08:00 ] /abcTest/admin.php/Index/index | INFO: Run ShowPageTrace Behavior [ RunTime:0.001341s ]
+[ 2019-06-30T16:44:30+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ view_end ] --END-- [ RunTime:0.001561s ]
+[ 2019-06-30T16:44:30+08:00 ] /abcTest/admin.php/Index/resources/images/closelabel.gif | ERR: (ThinkException) 非法操作resources
+[ 2019-06-30T16:44:42+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ route_check ] --START--
+[ 2019-06-30T16:44:42+08:00 ] /abcTest/admin.php/Index/index | INFO: Run CheckRoute Behavior [ RunTime:0.001668s ]
+[ 2019-06-30T16:44:42+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ route_check ] --END-- [ RunTime:0.001868s ]
+[ 2019-06-30T16:44:42+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ app_begin ] --START--
+[ 2019-06-30T16:44:42+08:00 ] /abcTest/admin.php/Index/index | INFO: Run ReadHtmlCache Behavior [ RunTime:0.001466s ]
+[ 2019-06-30T16:44:42+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ app_begin ] --END-- [ RunTime:0.001616s ]
+[ 2019-06-30T16:44:42+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ view_template ] --START--
+[ 2019-06-30T16:44:42+08:00 ] /abcTest/admin.php/Index/index | INFO: Run LocationTemplate Behavior [ RunTime:0.002374s ]
+[ 2019-06-30T16:44:42+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ view_template ] --END-- [ RunTime:0.002560s ]
+[ 2019-06-30T16:44:42+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ view_parse ] --START--
+[ 2019-06-30T16:44:43+08:00 ] /abcTest/admin.php/Index/index | NOTIC: [8] Undefined variable: title 4c18d5952d0dbf1eedb8a1ec796fa788.php 第 5 行.
+[ 2019-06-30T16:44:43+08:00 ] /abcTest/admin.php/Index/index | NOTIC: [8] Undefined variable: username 4c18d5952d0dbf1eedb8a1ec796fa788.php 第 31 行.
+[ 2019-06-30T16:44:43+08:00 ] /abcTest/admin.php/Index/index | NOTIC: [8] Undefined variable: username 4c18d5952d0dbf1eedb8a1ec796fa788.php 第 31 行.
+[ 2019-06-30T16:44:43+08:00 ] /abcTest/admin.php/Index/index | NOTIC: [8] Undefined variable: news_count 4c18d5952d0dbf1eedb8a1ec796fa788.php 第 125 行.
+[ 2019-06-30T16:44:43+08:00 ] /abcTest/admin.php/Index/index | NOTIC: [8] Undefined variable: username 4c18d5952d0dbf1eedb8a1ec796fa788.php 第 136 行.
+[ 2019-06-30T16:44:43+08:00 ] /abcTest/admin.php/Index/index | NOTIC: [8] Undefined variable: news_list 4c18d5952d0dbf1eedb8a1ec796fa788.php 第 156 行.
+[ 2019-06-30T16:44:43+08:00 ] /abcTest/admin.php/Index/index | NOTIC: [8] Undefined variable: page_method 4c18d5952d0dbf1eedb8a1ec796fa788.php 第 175 行.
+[ 2019-06-30T16:44:43+08:00 ] /abcTest/admin.php/Index/index | INFO: Run ParseTemplate Behavior [ RunTime:0.025552s ]
+[ 2019-06-30T16:44:43+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ view_parse ] --END-- [ RunTime:0.025726s ]
+[ 2019-06-30T16:44:43+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ view_filter ] --START--
+[ 2019-06-30T16:44:43+08:00 ] /abcTest/admin.php/Index/index | INFO: Run ContentReplace Behavior [ RunTime:0.001505s ]
+[ 2019-06-30T16:44:43+08:00 ] /abcTest/admin.php/Index/index | INFO: Run TokenBuild Behavior [ RunTime:0.001529s ]
+[ 2019-06-30T16:44:43+08:00 ] /abcTest/admin.php/Index/index | INFO: Run WriteHtmlCache Behavior [ RunTime:0.001069s ]
+[ 2019-06-30T16:44:43+08:00 ] /abcTest/admin.php/Index/index | INFO: Run ShowRuntime Behavior [ RunTime:0.001509s ]
+[ 2019-06-30T16:44:43+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ view_filter ] --END-- [ RunTime:0.006051s ]
+[ 2019-06-30T16:44:43+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ view_end ] --START--
+[ 2019-06-30T16:44:43+08:00 ] /abcTest/admin.php/Index/index | INFO: Run ShowPageTrace Behavior [ RunTime:0.002307s ]
+[ 2019-06-30T16:44:43+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ view_end ] --END-- [ RunTime:0.002527s ]
+[ 2019-06-30T16:44:43+08:00 ] /abcTest/admin.php/Index/resources/images/closelabel.gif | ERR: (ThinkException) 非法操作resources
+[ 2019-06-30T16:49:41+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ route_check ] --START--
+[ 2019-06-30T16:49:41+08:00 ] /abcTest/admin.php/Index/index | INFO: Run CheckRoute Behavior [ RunTime:0.002153s ]
+[ 2019-06-30T16:49:41+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ route_check ] --END-- [ RunTime:0.002364s ]
+[ 2019-06-30T16:49:41+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ app_begin ] --START--
+[ 2019-06-30T16:49:41+08:00 ] /abcTest/admin.php/Index/index | INFO: Run ReadHtmlCache Behavior [ RunTime:0.001631s ]
+[ 2019-06-30T16:49:41+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ app_begin ] --END-- [ RunTime:0.001799s ]
+[ 2019-06-30T16:49:41+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ view_template ] --START--
+[ 2019-06-30T16:49:41+08:00 ] /abcTest/admin.php/Index/index | INFO: Run LocationTemplate Behavior [ RunTime:0.001953s ]
+[ 2019-06-30T16:49:41+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ view_template ] --END-- [ RunTime:0.002123s ]
+[ 2019-06-30T16:49:41+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ view_parse ] --START--
+[ 2019-06-30T16:49:41+08:00 ] /abcTest/admin.php/Index/index | NOTIC: [8] Undefined variable: title 4c18d5952d0dbf1eedb8a1ec796fa788.php 第 5 行.
+[ 2019-06-30T16:49:41+08:00 ] /abcTest/admin.php/Index/index | NOTIC: [8] Undefined variable: username 4c18d5952d0dbf1eedb8a1ec796fa788.php 第 31 行.
+[ 2019-06-30T16:49:41+08:00 ] /abcTest/admin.php/Index/index | NOTIC: [8] Undefined variable: username 4c18d5952d0dbf1eedb8a1ec796fa788.php 第 31 行.
+[ 2019-06-30T16:49:41+08:00 ] /abcTest/admin.php/Index/index | NOTIC: [8] Undefined variable: news_count 4c18d5952d0dbf1eedb8a1ec796fa788.php 第 125 行.
+[ 2019-06-30T16:49:41+08:00 ] /abcTest/admin.php/Index/index | NOTIC: [8] Undefined variable: username 4c18d5952d0dbf1eedb8a1ec796fa788.php 第 136 行.
+[ 2019-06-30T16:49:41+08:00 ] /abcTest/admin.php/Index/index | NOTIC: [8] Undefined variable: news_list 4c18d5952d0dbf1eedb8a1ec796fa788.php 第 156 行.
+[ 2019-06-30T16:49:41+08:00 ] /abcTest/admin.php/Index/index | NOTIC: [8] Undefined variable: page_method 4c18d5952d0dbf1eedb8a1ec796fa788.php 第 175 行.
+[ 2019-06-30T16:49:41+08:00 ] /abcTest/admin.php/Index/index | INFO: Run ParseTemplate Behavior [ RunTime:0.025093s ]
+[ 2019-06-30T16:49:41+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ view_parse ] --END-- [ RunTime:0.025264s ]
+[ 2019-06-30T16:49:41+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ view_filter ] --START--
+[ 2019-06-30T16:49:41+08:00 ] /abcTest/admin.php/Index/index | INFO: Run ContentReplace Behavior [ RunTime:0.001420s ]
+[ 2019-06-30T16:49:41+08:00 ] /abcTest/admin.php/Index/index | INFO: Run TokenBuild Behavior [ RunTime:0.001440s ]
+[ 2019-06-30T16:49:41+08:00 ] /abcTest/admin.php/Index/index | INFO: Run WriteHtmlCache Behavior [ RunTime:0.000999s ]
+[ 2019-06-30T16:49:41+08:00 ] /abcTest/admin.php/Index/index | INFO: Run ShowRuntime Behavior [ RunTime:0.001470s ]
+[ 2019-06-30T16:49:41+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ view_filter ] --END-- [ RunTime:0.005753s ]
+[ 2019-06-30T16:49:41+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ view_end ] --START--
+[ 2019-06-30T16:49:41+08:00 ] /abcTest/admin.php/Index/index | INFO: Run ShowPageTrace Behavior [ RunTime:0.001228s ]
+[ 2019-06-30T16:49:41+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ view_end ] --END-- [ RunTime:0.001383s ]
+[ 2019-06-30T16:49:41+08:00 ] /abcTest/admin.php/Index/resources/images/closelabel.gif | ERR: (ThinkException) 非法操作resources
+[ 2019-06-30T16:49:56+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ route_check ] --START--
+[ 2019-06-30T16:49:56+08:00 ] /abcTest/admin.php/Index/index | INFO: Run CheckRoute Behavior [ RunTime:0.001561s ]
+[ 2019-06-30T16:49:56+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ route_check ] --END-- [ RunTime:0.001754s ]
+[ 2019-06-30T16:49:56+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ app_begin ] --START--
+[ 2019-06-30T16:49:56+08:00 ] /abcTest/admin.php/Index/index | INFO: Run ReadHtmlCache Behavior [ RunTime:0.001432s ]
+[ 2019-06-30T16:49:56+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ app_begin ] --END-- [ RunTime:0.001574s ]
+[ 2019-06-30T16:49:56+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ view_template ] --START--
+[ 2019-06-30T16:49:56+08:00 ] /abcTest/admin.php/Index/index | INFO: Run LocationTemplate Behavior [ RunTime:0.001501s ]
+[ 2019-06-30T16:49:56+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ view_template ] --END-- [ RunTime:0.001645s ]
+[ 2019-06-30T16:49:56+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ view_parse ] --START--
+[ 2019-06-30T16:49:56+08:00 ] /abcTest/admin.php/Index/index | NOTIC: [8] Undefined variable: title 4c18d5952d0dbf1eedb8a1ec796fa788.php 第 5 行.
+[ 2019-06-30T16:49:56+08:00 ] /abcTest/admin.php/Index/index | NOTIC: [8] Undefined variable: username 4c18d5952d0dbf1eedb8a1ec796fa788.php 第 31 行.
+[ 2019-06-30T16:49:56+08:00 ] /abcTest/admin.php/Index/index | NOTIC: [8] Undefined variable: username 4c18d5952d0dbf1eedb8a1ec796fa788.php 第 31 行.
+[ 2019-06-30T16:49:56+08:00 ] /abcTest/admin.php/Index/index | NOTIC: [8] Undefined variable: news_count 4c18d5952d0dbf1eedb8a1ec796fa788.php 第 125 行.
+[ 2019-06-30T16:49:56+08:00 ] /abcTest/admin.php/Index/index | NOTIC: [8] Undefined variable: username 4c18d5952d0dbf1eedb8a1ec796fa788.php 第 136 行.
+[ 2019-06-30T16:49:56+08:00 ] /abcTest/admin.php/Index/index | NOTIC: [8] Undefined variable: news_list 4c18d5952d0dbf1eedb8a1ec796fa788.php 第 156 行.
+[ 2019-06-30T16:49:56+08:00 ] /abcTest/admin.php/Index/index | NOTIC: [8] Undefined variable: page_method 4c18d5952d0dbf1eedb8a1ec796fa788.php 第 175 行.
+[ 2019-06-30T16:49:56+08:00 ] /abcTest/admin.php/Index/index | INFO: Run ParseTemplate Behavior [ RunTime:0.021349s ]
+[ 2019-06-30T16:49:56+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ view_parse ] --END-- [ RunTime:0.021502s ]
+[ 2019-06-30T16:49:56+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ view_filter ] --START--
+[ 2019-06-30T16:49:56+08:00 ] /abcTest/admin.php/Index/index | INFO: Run ContentReplace Behavior [ RunTime:0.001452s ]
+[ 2019-06-30T16:49:56+08:00 ] /abcTest/admin.php/Index/index | INFO: Run TokenBuild Behavior [ RunTime:0.001448s ]
+[ 2019-06-30T16:49:56+08:00 ] /abcTest/admin.php/Index/index | INFO: Run WriteHtmlCache Behavior [ RunTime:0.000989s ]
+[ 2019-06-30T16:49:56+08:00 ] /abcTest/admin.php/Index/index | INFO: Run ShowRuntime Behavior [ RunTime:0.001455s ]
+[ 2019-06-30T16:49:56+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ view_filter ] --END-- [ RunTime:0.005784s ]
+[ 2019-06-30T16:49:56+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ view_end ] --START--
+[ 2019-06-30T16:49:56+08:00 ] /abcTest/admin.php/Index/index | INFO: Run ShowPageTrace Behavior [ RunTime:0.001274s ]
+[ 2019-06-30T16:49:56+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ view_end ] --END-- [ RunTime:0.001498s ]
+[ 2019-06-30T16:49:56+08:00 ] /abcTest/admin.php/Index/resources/images/closelabel.gif | ERR: (ThinkException) 非法操作resources
+[ 2019-06-30T16:50:57+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ route_check ] --START--
+[ 2019-06-30T16:50:57+08:00 ] /abcTest/admin.php/Index/index | INFO: Run CheckRoute Behavior [ RunTime:0.002482s ]
+[ 2019-06-30T16:50:57+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ route_check ] --END-- [ RunTime:0.002727s ]
+[ 2019-06-30T16:50:57+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ app_begin ] --START--
+[ 2019-06-30T16:50:57+08:00 ] /abcTest/admin.php/Index/index | INFO: Run ReadHtmlCache Behavior [ RunTime:0.002118s ]
+[ 2019-06-30T16:50:57+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ app_begin ] --END-- [ RunTime:0.002292s ]
+[ 2019-06-30T16:50:57+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ view_template ] --START--
+[ 2019-06-30T16:50:57+08:00 ] /abcTest/admin.php/Index/index | INFO: Run LocationTemplate Behavior [ RunTime:0.001846s ]
+[ 2019-06-30T16:50:57+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ view_template ] --END-- [ RunTime:0.002005s ]
+[ 2019-06-30T16:50:57+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ view_parse ] --START--
+[ 2019-06-30T16:50:57+08:00 ] /abcTest/admin.php/Index/index | NOTIC: [8] Undefined variable: title 4c18d5952d0dbf1eedb8a1ec796fa788.php 第 5 行.
+[ 2019-06-30T16:50:57+08:00 ] /abcTest/admin.php/Index/index | NOTIC: [8] Undefined variable: username 4c18d5952d0dbf1eedb8a1ec796fa788.php 第 31 行.
+[ 2019-06-30T16:50:57+08:00 ] /abcTest/admin.php/Index/index | NOTIC: [8] Undefined variable: username 4c18d5952d0dbf1eedb8a1ec796fa788.php 第 31 行.
+[ 2019-06-30T16:50:57+08:00 ] /abcTest/admin.php/Index/index | NOTIC: [8] Undefined variable: news_count 4c18d5952d0dbf1eedb8a1ec796fa788.php 第 125 行.
+[ 2019-06-30T16:50:57+08:00 ] /abcTest/admin.php/Index/index | NOTIC: [8] Undefined variable: username 4c18d5952d0dbf1eedb8a1ec796fa788.php 第 136 行.
+[ 2019-06-30T16:50:57+08:00 ] /abcTest/admin.php/Index/index | NOTIC: [8] Undefined variable: news_list 4c18d5952d0dbf1eedb8a1ec796fa788.php 第 156 行.
+[ 2019-06-30T16:50:57+08:00 ] /abcTest/admin.php/Index/index | NOTIC: [8] Undefined variable: page_method 4c18d5952d0dbf1eedb8a1ec796fa788.php 第 175 行.
+[ 2019-06-30T16:50:57+08:00 ] /abcTest/admin.php/Index/index | INFO: Run ParseTemplate Behavior [ RunTime:0.024248s ]
+[ 2019-06-30T16:50:57+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ view_parse ] --END-- [ RunTime:0.024425s ]
+[ 2019-06-30T16:50:57+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ view_filter ] --START--
+[ 2019-06-30T16:50:57+08:00 ] /abcTest/admin.php/Index/index | INFO: Run ContentReplace Behavior [ RunTime:0.001637s ]
+[ 2019-06-30T16:50:57+08:00 ] /abcTest/admin.php/Index/index | INFO: Run TokenBuild Behavior [ RunTime:0.001783s ]
+[ 2019-06-30T16:50:57+08:00 ] /abcTest/admin.php/Index/index | INFO: Run WriteHtmlCache Behavior [ RunTime:0.001066s ]
+[ 2019-06-30T16:50:57+08:00 ] /abcTest/admin.php/Index/index | INFO: Run ShowRuntime Behavior [ RunTime:0.001474s ]
+[ 2019-06-30T16:50:57+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ view_filter ] --END-- [ RunTime:0.006415s ]
+[ 2019-06-30T16:50:57+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ view_end ] --START--
+[ 2019-06-30T16:50:57+08:00 ] /abcTest/admin.php/Index/index | INFO: Run ShowPageTrace Behavior [ RunTime:0.001239s ]
+[ 2019-06-30T16:50:57+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ view_end ] --END-- [ RunTime:0.001385s ]
+[ 2019-06-30T16:50:57+08:00 ] /abcTest/admin.php/Index/resources/images/closelabel.gif | ERR: (ThinkException) 非法操作resources
+[ 2019-06-30T16:52:13+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ route_check ] --START--
+[ 2019-06-30T16:52:13+08:00 ] /abcTest/admin.php/Index/index | INFO: Run CheckRoute Behavior [ RunTime:0.002179s ]
+[ 2019-06-30T16:52:13+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ route_check ] --END-- [ RunTime:0.002383s ]
+[ 2019-06-30T16:52:13+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ app_begin ] --START--
+[ 2019-06-30T16:52:13+08:00 ] /abcTest/admin.php/Index/index | INFO: Run ReadHtmlCache Behavior [ RunTime:0.001652s ]
+[ 2019-06-30T16:52:13+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ app_begin ] --END-- [ RunTime:0.001820s ]
+[ 2019-06-30T16:52:13+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ view_template ] --START--
+[ 2019-06-30T16:52:13+08:00 ] /abcTest/admin.php/Index/index | INFO: Run LocationTemplate Behavior [ RunTime:0.002045s ]
+[ 2019-06-30T16:52:13+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ view_template ] --END-- [ RunTime:0.002294s ]
+[ 2019-06-30T16:52:13+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ view_parse ] --START--
+[ 2019-06-30T16:52:13+08:00 ] /abcTest/admin.php/Index/index | NOTIC: [8] Undefined variable: title 4c18d5952d0dbf1eedb8a1ec796fa788.php 第 5 行.
+[ 2019-06-30T16:52:13+08:00 ] /abcTest/admin.php/Index/index | NOTIC: [8] Undefined variable: username 4c18d5952d0dbf1eedb8a1ec796fa788.php 第 31 行.
+[ 2019-06-30T16:52:13+08:00 ] /abcTest/admin.php/Index/index | NOTIC: [8] Undefined variable: username 4c18d5952d0dbf1eedb8a1ec796fa788.php 第 31 行.
+[ 2019-06-30T16:52:13+08:00 ] /abcTest/admin.php/Index/index | NOTIC: [8] Undefined variable: news_count 4c18d5952d0dbf1eedb8a1ec796fa788.php 第 125 行.
+[ 2019-06-30T16:52:13+08:00 ] /abcTest/admin.php/Index/index | NOTIC: [8] Undefined variable: username 4c18d5952d0dbf1eedb8a1ec796fa788.php 第 136 行.
+[ 2019-06-30T16:52:13+08:00 ] /abcTest/admin.php/Index/index | NOTIC: [8] Undefined variable: news_list 4c18d5952d0dbf1eedb8a1ec796fa788.php 第 156 行.
+[ 2019-06-30T16:52:13+08:00 ] /abcTest/admin.php/Index/index | NOTIC: [8] Undefined variable: page_method 4c18d5952d0dbf1eedb8a1ec796fa788.php 第 175 行.
+[ 2019-06-30T16:52:13+08:00 ] /abcTest/admin.php/Index/index | INFO: Run ParseTemplate Behavior [ RunTime:0.023548s ]
+[ 2019-06-30T16:52:13+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ view_parse ] --END-- [ RunTime:0.023755s ]
+[ 2019-06-30T16:52:13+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ view_filter ] --START--
+[ 2019-06-30T16:52:13+08:00 ] /abcTest/admin.php/Index/index | INFO: Run ContentReplace Behavior [ RunTime:0.001847s ]
+[ 2019-06-30T16:52:13+08:00 ] /abcTest/admin.php/Index/index | INFO: Run TokenBuild Behavior [ RunTime:0.002814s ]
+[ 2019-06-30T16:52:13+08:00 ] /abcTest/admin.php/Index/index | INFO: Run WriteHtmlCache Behavior [ RunTime:0.001629s ]
+[ 2019-06-30T16:52:13+08:00 ] /abcTest/admin.php/Index/index | INFO: Run ShowRuntime Behavior [ RunTime:0.001713s ]
+[ 2019-06-30T16:52:13+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ view_filter ] --END-- [ RunTime:0.008897s ]
+[ 2019-06-30T16:52:13+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ view_end ] --START--
+[ 2019-06-30T16:52:13+08:00 ] /abcTest/admin.php/Index/index | INFO: Run ShowPageTrace Behavior [ RunTime:0.001228s ]
+[ 2019-06-30T16:52:13+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ view_end ] --END-- [ RunTime:0.001406s ]
+[ 2019-06-30T16:52:14+08:00 ] /abcTest/admin.php/Index/resources/images/closelabel.gif | ERR: (ThinkException) 非法操作resources
+[ 2019-06-30T16:53:18+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ route_check ] --START--
+[ 2019-06-30T16:53:18+08:00 ] /abcTest/admin.php/Index/index | INFO: Run CheckRoute Behavior [ RunTime:0.001738s ]
+[ 2019-06-30T16:53:18+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ route_check ] --END-- [ RunTime:0.001924s ]
+[ 2019-06-30T16:53:18+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ app_begin ] --START--
+[ 2019-06-30T16:53:18+08:00 ] /abcTest/admin.php/Index/index | INFO: Run ReadHtmlCache Behavior [ RunTime:0.001207s ]
+[ 2019-06-30T16:53:18+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ app_begin ] --END-- [ RunTime:0.001360s ]
+[ 2019-06-30T16:53:18+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ view_template ] --START--
+[ 2019-06-30T16:53:18+08:00 ] /abcTest/admin.php/Index/index | INFO: Run LocationTemplate Behavior [ RunTime:0.001536s ]
+[ 2019-06-30T16:53:18+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ view_template ] --END-- [ RunTime:0.001701s ]
+[ 2019-06-30T16:53:18+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ view_parse ] --START--
+[ 2019-06-30T16:53:18+08:00 ] /abcTest/admin.php/Index/index | NOTIC: [8] Undefined variable: title 4c18d5952d0dbf1eedb8a1ec796fa788.php 第 5 行.
+[ 2019-06-30T16:53:18+08:00 ] /abcTest/admin.php/Index/index | NOTIC: [8] Undefined variable: username 4c18d5952d0dbf1eedb8a1ec796fa788.php 第 31 行.
+[ 2019-06-30T16:53:18+08:00 ] /abcTest/admin.php/Index/index | NOTIC: [8] Undefined variable: username 4c18d5952d0dbf1eedb8a1ec796fa788.php 第 31 行.
+[ 2019-06-30T16:53:18+08:00 ] /abcTest/admin.php/Index/index | NOTIC: [8] Undefined variable: news_count 4c18d5952d0dbf1eedb8a1ec796fa788.php 第 125 行.
+[ 2019-06-30T16:53:18+08:00 ] /abcTest/admin.php/Index/index | NOTIC: [8] Undefined variable: username 4c18d5952d0dbf1eedb8a1ec796fa788.php 第 136 行.
+[ 2019-06-30T16:53:18+08:00 ] /abcTest/admin.php/Index/index | NOTIC: [8] Undefined variable: news_list 4c18d5952d0dbf1eedb8a1ec796fa788.php 第 156 行.
+[ 2019-06-30T16:53:18+08:00 ] /abcTest/admin.php/Index/index | NOTIC: [8] Undefined variable: page_method 4c18d5952d0dbf1eedb8a1ec796fa788.php 第 175 行.
+[ 2019-06-30T16:53:18+08:00 ] /abcTest/admin.php/Index/index | INFO: Run ParseTemplate Behavior [ RunTime:0.023197s ]
+[ 2019-06-30T16:53:18+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ view_parse ] --END-- [ RunTime:0.023351s ]
+[ 2019-06-30T16:53:18+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ view_filter ] --START--
+[ 2019-06-30T16:53:18+08:00 ] /abcTest/admin.php/Index/index | INFO: Run ContentReplace Behavior [ RunTime:0.001085s ]
+[ 2019-06-30T16:53:18+08:00 ] /abcTest/admin.php/Index/index | INFO: Run TokenBuild Behavior [ RunTime:0.001154s ]
+[ 2019-06-30T16:53:18+08:00 ] /abcTest/admin.php/Index/index | INFO: Run WriteHtmlCache Behavior [ RunTime:0.000716s ]
+[ 2019-06-30T16:53:18+08:00 ] /abcTest/admin.php/Index/index | INFO: Run ShowRuntime Behavior [ RunTime:0.001371s ]
+[ 2019-06-30T16:53:18+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ view_filter ] --END-- [ RunTime:0.004784s ]
+[ 2019-06-30T16:53:18+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ view_end ] --START--
+[ 2019-06-30T16:53:18+08:00 ] /abcTest/admin.php/Index/index | INFO: Run ShowPageTrace Behavior [ RunTime:0.001075s ]
+[ 2019-06-30T16:53:18+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ view_end ] --END-- [ RunTime:0.001229s ]
+[ 2019-06-30T16:53:18+08:00 ] /abcTest/admin.php/Index/resources/images/closelabel.gif | ERR: (ThinkException) 非法操作resources
+[ 2019-06-30T16:54:28+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ route_check ] --START--
+[ 2019-06-30T16:54:28+08:00 ] /abcTest/admin.php/Index/index | INFO: Run CheckRoute Behavior [ RunTime:0.001868s ]
+[ 2019-06-30T16:54:28+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ route_check ] --END-- [ RunTime:0.002056s ]
+[ 2019-06-30T16:54:28+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ app_begin ] --START--
+[ 2019-06-30T16:54:28+08:00 ] /abcTest/admin.php/Index/index | INFO: Run ReadHtmlCache Behavior [ RunTime:0.001379s ]
+[ 2019-06-30T16:54:28+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ app_begin ] --END-- [ RunTime:0.001531s ]
+[ 2019-06-30T16:54:28+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ view_template ] --START--
+[ 2019-06-30T16:54:28+08:00 ] /abcTest/admin.php/Index/index | INFO: Run LocationTemplate Behavior [ RunTime:0.001849s ]
+[ 2019-06-30T16:54:28+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ view_template ] --END-- [ RunTime:0.002054s ]
+[ 2019-06-30T16:54:28+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ view_parse ] --START--
+[ 2019-06-30T16:54:28+08:00 ] /abcTest/admin.php/Index/index | NOTIC: [8] Undefined variable: title 4c18d5952d0dbf1eedb8a1ec796fa788.php 第 5 行.
+[ 2019-06-30T16:54:28+08:00 ] /abcTest/admin.php/Index/index | NOTIC: [8] Undefined variable: username 4c18d5952d0dbf1eedb8a1ec796fa788.php 第 31 行.
+[ 2019-06-30T16:54:28+08:00 ] /abcTest/admin.php/Index/index | NOTIC: [8] Undefined variable: username 4c18d5952d0dbf1eedb8a1ec796fa788.php 第 31 行.
+[ 2019-06-30T16:54:28+08:00 ] /abcTest/admin.php/Index/index | NOTIC: [8] Undefined variable: news_count 4c18d5952d0dbf1eedb8a1ec796fa788.php 第 125 行.
+[ 2019-06-30T16:54:28+08:00 ] /abcTest/admin.php/Index/index | NOTIC: [8] Undefined variable: username 4c18d5952d0dbf1eedb8a1ec796fa788.php 第 136 行.
+[ 2019-06-30T16:54:28+08:00 ] /abcTest/admin.php/Index/index | NOTIC: [8] Undefined variable: news_list 4c18d5952d0dbf1eedb8a1ec796fa788.php 第 156 行.
+[ 2019-06-30T16:54:28+08:00 ] /abcTest/admin.php/Index/index | NOTIC: [8] Undefined variable: page_method 4c18d5952d0dbf1eedb8a1ec796fa788.php 第 175 行.
+[ 2019-06-30T16:54:28+08:00 ] /abcTest/admin.php/Index/index | INFO: Run ParseTemplate Behavior [ RunTime:0.022680s ]
+[ 2019-06-30T16:54:28+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ view_parse ] --END-- [ RunTime:0.022875s ]
+[ 2019-06-30T16:54:28+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ view_filter ] --START--
+[ 2019-06-30T16:54:28+08:00 ] /abcTest/admin.php/Index/index | INFO: Run ContentReplace Behavior [ RunTime:0.002791s ]
+[ 2019-06-30T16:54:28+08:00 ] /abcTest/admin.php/Index/index | INFO: Run TokenBuild Behavior [ RunTime:0.001463s ]
+[ 2019-06-30T16:54:28+08:00 ] /abcTest/admin.php/Index/index | INFO: Run WriteHtmlCache Behavior [ RunTime:0.001036s ]
+[ 2019-06-30T16:54:28+08:00 ] /abcTest/admin.php/Index/index | INFO: Run ShowRuntime Behavior [ RunTime:0.001591s ]
+[ 2019-06-30T16:54:28+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ view_filter ] --END-- [ RunTime:0.007432s ]
+[ 2019-06-30T16:54:28+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ view_end ] --START--
+[ 2019-06-30T16:54:28+08:00 ] /abcTest/admin.php/Index/index | INFO: Run ShowPageTrace Behavior [ RunTime:0.001335s ]
+[ 2019-06-30T16:54:28+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ view_end ] --END-- [ RunTime:0.001530s ]
+[ 2019-06-30T16:54:28+08:00 ] /abcTest/admin.php/Index/resources/images/closelabel.gif | ERR: (ThinkException) 非法操作resources
+[ 2019-06-30T16:54:40+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ route_check ] --START--
+[ 2019-06-30T16:54:40+08:00 ] /abcTest/admin.php/Index/index | INFO: Run CheckRoute Behavior [ RunTime:0.001743s ]
+[ 2019-06-30T16:54:40+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ route_check ] --END-- [ RunTime:0.001944s ]
+[ 2019-06-30T16:54:40+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ app_begin ] --START--
+[ 2019-06-30T16:54:40+08:00 ] /abcTest/admin.php/Index/index | INFO: Run ReadHtmlCache Behavior [ RunTime:0.001327s ]
+[ 2019-06-30T16:54:40+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ app_begin ] --END-- [ RunTime:0.001479s ]
+[ 2019-06-30T16:54:40+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ view_template ] --START--
+[ 2019-06-30T16:54:40+08:00 ] /abcTest/admin.php/Index/index | INFO: Run LocationTemplate Behavior [ RunTime:0.001536s ]
+[ 2019-06-30T16:54:40+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ view_template ] --END-- [ RunTime:0.001706s ]
+[ 2019-06-30T16:54:40+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ view_parse ] --START--
+[ 2019-06-30T16:54:40+08:00 ] /abcTest/admin.php/Index/index | NOTIC: [8] Undefined variable: title 4c18d5952d0dbf1eedb8a1ec796fa788.php 第 5 行.
+[ 2019-06-30T16:54:40+08:00 ] /abcTest/admin.php/Index/index | NOTIC: [8] Undefined variable: username 4c18d5952d0dbf1eedb8a1ec796fa788.php 第 31 行.
+[ 2019-06-30T16:54:40+08:00 ] /abcTest/admin.php/Index/index | NOTIC: [8] Undefined variable: username 4c18d5952d0dbf1eedb8a1ec796fa788.php 第 31 行.
+[ 2019-06-30T16:54:40+08:00 ] /abcTest/admin.php/Index/index | NOTIC: [8] Undefined variable: news_count 4c18d5952d0dbf1eedb8a1ec796fa788.php 第 125 行.
+[ 2019-06-30T16:54:40+08:00 ] /abcTest/admin.php/Index/index | NOTIC: [8] Undefined variable: username 4c18d5952d0dbf1eedb8a1ec796fa788.php 第 136 行.
+[ 2019-06-30T16:54:40+08:00 ] /abcTest/admin.php/Index/index | NOTIC: [8] Undefined variable: news_list 4c18d5952d0dbf1eedb8a1ec796fa788.php 第 156 行.
+[ 2019-06-30T16:54:40+08:00 ] /abcTest/admin.php/Index/index | NOTIC: [8] Undefined variable: page_method 4c18d5952d0dbf1eedb8a1ec796fa788.php 第 175 行.
+[ 2019-06-30T16:54:40+08:00 ] /abcTest/admin.php/Index/index | INFO: Run ParseTemplate Behavior [ RunTime:0.024059s ]
+[ 2019-06-30T16:54:40+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ view_parse ] --END-- [ RunTime:0.024248s ]
+[ 2019-06-30T16:54:40+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ view_filter ] --START--
+[ 2019-06-30T16:54:40+08:00 ] /abcTest/admin.php/Index/index | INFO: Run ContentReplace Behavior [ RunTime:0.003235s ]
+[ 2019-06-30T16:54:40+08:00 ] /abcTest/admin.php/Index/index | INFO: Run TokenBuild Behavior [ RunTime:0.001479s ]
+[ 2019-06-30T16:54:40+08:00 ] /abcTest/admin.php/Index/index | INFO: Run WriteHtmlCache Behavior [ RunTime:0.000868s ]
+[ 2019-06-30T16:54:40+08:00 ] /abcTest/admin.php/Index/index | INFO: Run ShowRuntime Behavior [ RunTime:0.001273s ]
+[ 2019-06-30T16:54:40+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ view_filter ] --END-- [ RunTime:0.007351s ]
+[ 2019-06-30T16:54:40+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ view_end ] --START--
+[ 2019-06-30T16:54:40+08:00 ] /abcTest/admin.php/Index/index | INFO: Run ShowPageTrace Behavior [ RunTime:0.000963s ]
+[ 2019-06-30T16:54:40+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ view_end ] --END-- [ RunTime:0.001111s ]
+[ 2019-06-30T16:54:40+08:00 ] /abcTest/admin.php/Index/resources/images/closelabel.gif | ERR: (ThinkException) 非法操作resources
+[ 2019-06-30T16:54:54+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ route_check ] --START--
+[ 2019-06-30T16:54:54+08:00 ] /abcTest/admin.php/Index/index | INFO: Run CheckRoute Behavior [ RunTime:0.001558s ]
+[ 2019-06-30T16:54:54+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ route_check ] --END-- [ RunTime:0.001744s ]
+[ 2019-06-30T16:54:54+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ app_begin ] --START--
+[ 2019-06-30T16:54:54+08:00 ] /abcTest/admin.php/Index/index | INFO: Run ReadHtmlCache Behavior [ RunTime:0.001432s ]
+[ 2019-06-30T16:54:54+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ app_begin ] --END-- [ RunTime:0.001585s ]
+[ 2019-06-30T16:54:54+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ view_template ] --START--
+[ 2019-06-30T16:54:54+08:00 ] /abcTest/admin.php/Index/index | INFO: Run LocationTemplate Behavior [ RunTime:0.001626s ]
+[ 2019-06-30T16:54:54+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ view_template ] --END-- [ RunTime:0.001826s ]
+[ 2019-06-30T16:54:54+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ view_parse ] --START--
+[ 2019-06-30T16:54:54+08:00 ] /abcTest/admin.php/Index/index | NOTIC: [8] Undefined variable: title 4c18d5952d0dbf1eedb8a1ec796fa788.php 第 5 行.
+[ 2019-06-30T16:54:54+08:00 ] /abcTest/admin.php/Index/index | NOTIC: [8] Undefined variable: username 4c18d5952d0dbf1eedb8a1ec796fa788.php 第 31 行.
+[ 2019-06-30T16:54:54+08:00 ] /abcTest/admin.php/Index/index | NOTIC: [8] Undefined variable: username 4c18d5952d0dbf1eedb8a1ec796fa788.php 第 31 行.
+[ 2019-06-30T16:54:54+08:00 ] /abcTest/admin.php/Index/index | NOTIC: [8] Undefined variable: news_count 4c18d5952d0dbf1eedb8a1ec796fa788.php 第 125 行.
+[ 2019-06-30T16:54:54+08:00 ] /abcTest/admin.php/Index/index | NOTIC: [8] Undefined variable: username 4c18d5952d0dbf1eedb8a1ec796fa788.php 第 136 行.
+[ 2019-06-30T16:54:54+08:00 ] /abcTest/admin.php/Index/index | NOTIC: [8] Undefined variable: news_list 4c18d5952d0dbf1eedb8a1ec796fa788.php 第 156 行.
+[ 2019-06-30T16:54:54+08:00 ] /abcTest/admin.php/Index/index | NOTIC: [8] Undefined variable: page_method 4c18d5952d0dbf1eedb8a1ec796fa788.php 第 175 行.
+[ 2019-06-30T16:54:54+08:00 ] /abcTest/admin.php/Index/index | INFO: Run ParseTemplate Behavior [ RunTime:0.022782s ]
+[ 2019-06-30T16:54:54+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ view_parse ] --END-- [ RunTime:0.023263s ]
+[ 2019-06-30T16:54:54+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ view_filter ] --START--
+[ 2019-06-30T16:54:54+08:00 ] /abcTest/admin.php/Index/index | INFO: Run ContentReplace Behavior [ RunTime:0.001321s ]
+[ 2019-06-30T16:54:54+08:00 ] /abcTest/admin.php/Index/index | INFO: Run TokenBuild Behavior [ RunTime:0.001431s ]
+[ 2019-06-30T16:54:54+08:00 ] /abcTest/admin.php/Index/index | INFO: Run WriteHtmlCache Behavior [ RunTime:0.000950s ]
+[ 2019-06-30T16:54:54+08:00 ] /abcTest/admin.php/Index/index | INFO: Run ShowRuntime Behavior [ RunTime:0.001410s ]
+[ 2019-06-30T16:54:54+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ view_filter ] --END-- [ RunTime:0.005607s ]
+[ 2019-06-30T16:54:54+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ view_end ] --START--
+[ 2019-06-30T16:54:54+08:00 ] /abcTest/admin.php/Index/index | INFO: Run ShowPageTrace Behavior [ RunTime:0.001168s ]
+[ 2019-06-30T16:54:54+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ view_end ] --END-- [ RunTime:0.001325s ]
+[ 2019-06-30T16:54:54+08:00 ] /abcTest/admin.php/Index/resources/images/closelabel.gif | ERR: (ThinkException) 非法操作resources
+[ 2019-06-30T16:55:14+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ route_check ] --START--
+[ 2019-06-30T16:55:14+08:00 ] /abcTest/admin.php/Index/index | INFO: Run CheckRoute Behavior [ RunTime:0.001622s ]
+[ 2019-06-30T16:55:14+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ route_check ] --END-- [ RunTime:0.001817s ]
+[ 2019-06-30T16:55:14+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ app_begin ] --START--
+[ 2019-06-30T16:55:14+08:00 ] /abcTest/admin.php/Index/index | INFO: Run ReadHtmlCache Behavior [ RunTime:0.001275s ]
+[ 2019-06-30T16:55:14+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ app_begin ] --END-- [ RunTime:0.001438s ]
+[ 2019-06-30T16:55:14+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ view_template ] --START--
+[ 2019-06-30T16:55:14+08:00 ] /abcTest/admin.php/Index/index | INFO: Run LocationTemplate Behavior [ RunTime:0.002257s ]
+[ 2019-06-30T16:55:14+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ view_template ] --END-- [ RunTime:0.002482s ]
+[ 2019-06-30T16:55:14+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ view_parse ] --START--
+[ 2019-06-30T16:55:14+08:00 ] /abcTest/admin.php/Index/index | NOTIC: [8] Undefined variable: title 4c18d5952d0dbf1eedb8a1ec796fa788.php 第 5 行.
+[ 2019-06-30T16:55:14+08:00 ] /abcTest/admin.php/Index/index | NOTIC: [8] Undefined variable: username 4c18d5952d0dbf1eedb8a1ec796fa788.php 第 31 行.
+[ 2019-06-30T16:55:14+08:00 ] /abcTest/admin.php/Index/index | NOTIC: [8] Undefined variable: username 4c18d5952d0dbf1eedb8a1ec796fa788.php 第 31 行.
+[ 2019-06-30T16:55:14+08:00 ] /abcTest/admin.php/Index/index | NOTIC: [8] Undefined variable: news_count 4c18d5952d0dbf1eedb8a1ec796fa788.php 第 125 行.
+[ 2019-06-30T16:55:14+08:00 ] /abcTest/admin.php/Index/index | NOTIC: [8] Undefined variable: username 4c18d5952d0dbf1eedb8a1ec796fa788.php 第 136 行.
+[ 2019-06-30T16:55:14+08:00 ] /abcTest/admin.php/Index/index | NOTIC: [8] Undefined variable: news_list 4c18d5952d0dbf1eedb8a1ec796fa788.php 第 156 行.
+[ 2019-06-30T16:55:14+08:00 ] /abcTest/admin.php/Index/index | NOTIC: [8] Undefined variable: page_method 4c18d5952d0dbf1eedb8a1ec796fa788.php 第 175 行.
+[ 2019-06-30T16:55:14+08:00 ] /abcTest/admin.php/Index/index | INFO: Run ParseTemplate Behavior [ RunTime:0.021999s ]
+[ 2019-06-30T16:55:14+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ view_parse ] --END-- [ RunTime:0.022175s ]
+[ 2019-06-30T16:55:14+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ view_filter ] --START--
+[ 2019-06-30T16:55:14+08:00 ] /abcTest/admin.php/Index/index | INFO: Run ContentReplace Behavior [ RunTime:0.001158s ]
+[ 2019-06-30T16:55:14+08:00 ] /abcTest/admin.php/Index/index | INFO: Run TokenBuild Behavior [ RunTime:0.001244s ]
+[ 2019-06-30T16:55:14+08:00 ] /abcTest/admin.php/Index/index | INFO: Run WriteHtmlCache Behavior [ RunTime:0.000797s ]
+[ 2019-06-30T16:55:14+08:00 ] /abcTest/admin.php/Index/index | INFO: Run ShowRuntime Behavior [ RunTime:0.001164s ]
+[ 2019-06-30T16:55:14+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ view_filter ] --END-- [ RunTime:0.004768s ]
+[ 2019-06-30T16:55:14+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ view_end ] --START--
+[ 2019-06-30T16:55:14+08:00 ] /abcTest/admin.php/Index/index | INFO: Run ShowPageTrace Behavior [ RunTime:0.002061s ]
+[ 2019-06-30T16:55:14+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ view_end ] --END-- [ RunTime:0.002228s ]
+[ 2019-06-30T16:55:14+08:00 ] /abcTest/admin.php/Index/resources/images/closelabel.gif | ERR: (ThinkException) 非法操作resources
+[ 2019-06-30T16:57:31+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ route_check ] --START--
+[ 2019-06-30T16:57:31+08:00 ] /abcTest/admin.php/Index/index | INFO: Run CheckRoute Behavior [ RunTime:0.001867s ]
+[ 2019-06-30T16:57:31+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ route_check ] --END-- [ RunTime:0.002056s ]
+[ 2019-06-30T16:57:31+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ app_begin ] --START--
+[ 2019-06-30T16:57:31+08:00 ] /abcTest/admin.php/Index/index | INFO: Run ReadHtmlCache Behavior [ RunTime:0.001628s ]
+[ 2019-06-30T16:57:31+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ app_begin ] --END-- [ RunTime:0.001787s ]
+[ 2019-06-30T16:57:31+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ view_template ] --START--
+[ 2019-06-30T16:57:31+08:00 ] /abcTest/admin.php/Index/index | INFO: Run LocationTemplate Behavior [ RunTime:0.001577s ]
+[ 2019-06-30T16:57:31+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ view_template ] --END-- [ RunTime:0.001743s ]
+[ 2019-06-30T16:57:31+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ view_parse ] --START--
+[ 2019-06-30T16:57:31+08:00 ] /abcTest/admin.php/Index/index | NOTIC: [8] Undefined variable: title 4c18d5952d0dbf1eedb8a1ec796fa788.php 第 5 行.
+[ 2019-06-30T16:57:31+08:00 ] /abcTest/admin.php/Index/index | NOTIC: [8] Undefined variable: username 4c18d5952d0dbf1eedb8a1ec796fa788.php 第 31 行.
+[ 2019-06-30T16:57:31+08:00 ] /abcTest/admin.php/Index/index | NOTIC: [8] Undefined variable: username 4c18d5952d0dbf1eedb8a1ec796fa788.php 第 31 行.
+[ 2019-06-30T16:57:31+08:00 ] /abcTest/admin.php/Index/index | NOTIC: [8] Undefined variable: news_count 4c18d5952d0dbf1eedb8a1ec796fa788.php 第 125 行.
+[ 2019-06-30T16:57:31+08:00 ] /abcTest/admin.php/Index/index | NOTIC: [8] Undefined variable: username 4c18d5952d0dbf1eedb8a1ec796fa788.php 第 136 行.
+[ 2019-06-30T16:57:31+08:00 ] /abcTest/admin.php/Index/index | NOTIC: [8] Undefined variable: news_list 4c18d5952d0dbf1eedb8a1ec796fa788.php 第 156 行.
+[ 2019-06-30T16:57:31+08:00 ] /abcTest/admin.php/Index/index | NOTIC: [8] Undefined variable: page_method 4c18d5952d0dbf1eedb8a1ec796fa788.php 第 175 行.
+[ 2019-06-30T16:57:31+08:00 ] /abcTest/admin.php/Index/index | INFO: Run ParseTemplate Behavior [ RunTime:0.023544s ]
+[ 2019-06-30T16:57:31+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ view_parse ] --END-- [ RunTime:0.023717s ]
+[ 2019-06-30T16:57:31+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ view_filter ] --START--
+[ 2019-06-30T16:57:31+08:00 ] /abcTest/admin.php/Index/index | INFO: Run ContentReplace Behavior [ RunTime:0.001261s ]
+[ 2019-06-30T16:57:31+08:00 ] /abcTest/admin.php/Index/index | INFO: Run TokenBuild Behavior [ RunTime:0.002018s ]
+[ 2019-06-30T16:57:31+08:00 ] /abcTest/admin.php/Index/index | INFO: Run WriteHtmlCache Behavior [ RunTime:0.000982s ]
+[ 2019-06-30T16:57:31+08:00 ] /abcTest/admin.php/Index/index | INFO: Run ShowRuntime Behavior [ RunTime:0.001417s ]
+[ 2019-06-30T16:57:31+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ view_filter ] --END-- [ RunTime:0.006157s ]
+[ 2019-06-30T16:57:31+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ view_end ] --START--
+[ 2019-06-30T16:57:31+08:00 ] /abcTest/admin.php/Index/index | INFO: Run ShowPageTrace Behavior [ RunTime:0.001066s ]
+[ 2019-06-30T16:57:31+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ view_end ] --END-- [ RunTime:0.001221s ]
+[ 2019-06-30T16:57:31+08:00 ] /abcTest/admin.php/Index/resources/images/closelabel.gif | ERR: (ThinkException) 非法操作resources
+[ 2019-06-30T16:57:42+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ route_check ] --START--
+[ 2019-06-30T16:57:42+08:00 ] /abcTest/admin.php/Index/index | INFO: Run CheckRoute Behavior [ RunTime:0.003720s ]
+[ 2019-06-30T16:57:42+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ route_check ] --END-- [ RunTime:0.004062s ]
+[ 2019-06-30T16:57:42+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ app_begin ] --START--
+[ 2019-06-30T16:57:42+08:00 ] /abcTest/admin.php/Index/index | INFO: Run ReadHtmlCache Behavior [ RunTime:0.006302s ]
+[ 2019-06-30T16:57:42+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ app_begin ] --END-- [ RunTime:0.006585s ]
+[ 2019-06-30T16:57:42+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ view_template ] --START--
+[ 2019-06-30T16:57:42+08:00 ] /abcTest/admin.php/Index/index | INFO: Run LocationTemplate Behavior [ RunTime:0.006182s ]
+[ 2019-06-30T16:57:42+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ view_template ] --END-- [ RunTime:0.006497s ]
+[ 2019-06-30T16:57:42+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ view_parse ] --START--
+[ 2019-06-30T16:57:43+08:00 ] /abcTest/admin.php/Index/index | NOTIC: [8] Undefined variable: title 4c18d5952d0dbf1eedb8a1ec796fa788.php 第 5 行.
+[ 2019-06-30T16:57:43+08:00 ] /abcTest/admin.php/Index/index | NOTIC: [8] Undefined variable: username 4c18d5952d0dbf1eedb8a1ec796fa788.php 第 31 行.
+[ 2019-06-30T16:57:43+08:00 ] /abcTest/admin.php/Index/index | NOTIC: [8] Undefined variable: username 4c18d5952d0dbf1eedb8a1ec796fa788.php 第 31 行.
+[ 2019-06-30T16:57:43+08:00 ] /abcTest/admin.php/Index/index | NOTIC: [8] Undefined variable: news_count 4c18d5952d0dbf1eedb8a1ec796fa788.php 第 125 行.
+[ 2019-06-30T16:57:43+08:00 ] /abcTest/admin.php/Index/index | NOTIC: [8] Undefined variable: username 4c18d5952d0dbf1eedb8a1ec796fa788.php 第 136 行.
+[ 2019-06-30T16:57:43+08:00 ] /abcTest/admin.php/Index/index | NOTIC: [8] Undefined variable: news_list 4c18d5952d0dbf1eedb8a1ec796fa788.php 第 156 行.
+[ 2019-06-30T16:57:43+08:00 ] /abcTest/admin.php/Index/index | NOTIC: [8] Undefined variable: page_method 4c18d5952d0dbf1eedb8a1ec796fa788.php 第 175 行.
+[ 2019-06-30T16:57:43+08:00 ] /abcTest/admin.php/Index/index | INFO: Run ParseTemplate Behavior [ RunTime:0.060264s ]
+[ 2019-06-30T16:57:43+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ view_parse ] --END-- [ RunTime:0.060521s ]
+[ 2019-06-30T16:57:43+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ view_filter ] --START--
+[ 2019-06-30T16:57:43+08:00 ] /abcTest/admin.php/Index/index | INFO: Run ContentReplace Behavior [ RunTime:0.002721s ]
+[ 2019-06-30T16:57:43+08:00 ] /abcTest/admin.php/Index/index | INFO: Run TokenBuild Behavior [ RunTime:0.010476s ]
+[ 2019-06-30T16:57:43+08:00 ] /abcTest/admin.php/Index/index | INFO: Run WriteHtmlCache Behavior [ RunTime:0.001796s ]
+[ 2019-06-30T16:57:43+08:00 ] /abcTest/admin.php/Index/index | INFO: Run ShowRuntime Behavior [ RunTime:0.002545s ]
+[ 2019-06-30T16:57:43+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ view_filter ] --END-- [ RunTime:0.018400s ]
+[ 2019-06-30T16:57:43+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ view_end ] --START--
+[ 2019-06-30T16:57:43+08:00 ] /abcTest/admin.php/Index/index | INFO: Run ShowPageTrace Behavior [ RunTime:0.001932s ]
+[ 2019-06-30T16:57:43+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ view_end ] --END-- [ RunTime:0.002200s ]
+[ 2019-06-30T16:59:21+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ route_check ] --START--
+[ 2019-06-30T16:59:21+08:00 ] /abcTest/admin.php/Index/index | INFO: Run CheckRoute Behavior [ RunTime:0.001602s ]
+[ 2019-06-30T16:59:21+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ route_check ] --END-- [ RunTime:0.001831s ]
+[ 2019-06-30T16:59:21+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ app_begin ] --START--
+[ 2019-06-30T16:59:21+08:00 ] /abcTest/admin.php/Index/index | INFO: Run ReadHtmlCache Behavior [ RunTime:0.001416s ]
+[ 2019-06-30T16:59:21+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ app_begin ] --END-- [ RunTime:0.001608s ]
+[ 2019-06-30T16:59:21+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ view_template ] --START--
+[ 2019-06-30T16:59:21+08:00 ] /abcTest/admin.php/Index/index | INFO: Run LocationTemplate Behavior [ RunTime:0.001624s ]
+[ 2019-06-30T16:59:21+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ view_template ] --END-- [ RunTime:0.001799s ]
+[ 2019-06-30T16:59:21+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ view_parse ] --START--
+[ 2019-06-30T16:59:21+08:00 ] /abcTest/admin.php/Index/index | NOTIC: [8] Undefined variable: title 4c18d5952d0dbf1eedb8a1ec796fa788.php 第 5 行.
+[ 2019-06-30T16:59:21+08:00 ] /abcTest/admin.php/Index/index | NOTIC: [8] Undefined variable: username 4c18d5952d0dbf1eedb8a1ec796fa788.php 第 31 行.
+[ 2019-06-30T16:59:21+08:00 ] /abcTest/admin.php/Index/index | NOTIC: [8] Undefined variable: username 4c18d5952d0dbf1eedb8a1ec796fa788.php 第 31 行.
+[ 2019-06-30T16:59:21+08:00 ] /abcTest/admin.php/Index/index | NOTIC: [8] Undefined variable: news_count 4c18d5952d0dbf1eedb8a1ec796fa788.php 第 125 行.
+[ 2019-06-30T16:59:21+08:00 ] /abcTest/admin.php/Index/index | NOTIC: [8] Undefined variable: username 4c18d5952d0dbf1eedb8a1ec796fa788.php 第 136 行.
+[ 2019-06-30T16:59:21+08:00 ] /abcTest/admin.php/Index/index | NOTIC: [8] Undefined variable: news_list 4c18d5952d0dbf1eedb8a1ec796fa788.php 第 156 行.
+[ 2019-06-30T16:59:21+08:00 ] /abcTest/admin.php/Index/index | NOTIC: [8] Undefined variable: page_method 4c18d5952d0dbf1eedb8a1ec796fa788.php 第 175 行.
+[ 2019-06-30T16:59:21+08:00 ] /abcTest/admin.php/Index/index | INFO: Run ParseTemplate Behavior [ RunTime:0.027820s ]
+[ 2019-06-30T16:59:21+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ view_parse ] --END-- [ RunTime:0.028009s ]
+[ 2019-06-30T16:59:21+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ view_filter ] --START--
+[ 2019-06-30T16:59:21+08:00 ] /abcTest/admin.php/Index/index | INFO: Run ContentReplace Behavior [ RunTime:0.001193s ]
+[ 2019-06-30T16:59:21+08:00 ] /abcTest/admin.php/Index/index | INFO: Run TokenBuild Behavior [ RunTime:0.001241s ]
+[ 2019-06-30T16:59:21+08:00 ] /abcTest/admin.php/Index/index | INFO: Run WriteHtmlCache Behavior [ RunTime:0.000719s ]
+[ 2019-06-30T16:59:21+08:00 ] /abcTest/admin.php/Index/index | INFO: Run ShowRuntime Behavior [ RunTime:0.001167s ]
+[ 2019-06-30T16:59:21+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ view_filter ] --END-- [ RunTime:0.004831s ]
+[ 2019-06-30T16:59:21+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ view_end ] --START--
+[ 2019-06-30T16:59:21+08:00 ] /abcTest/admin.php/Index/index | INFO: Run ShowPageTrace Behavior [ RunTime:0.001087s ]
+[ 2019-06-30T16:59:21+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ view_end ] --END-- [ RunTime:0.001261s ]
+[ 2019-06-30T16:59:21+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ route_check ] --START--
+[ 2019-06-30T16:59:21+08:00 ] /abcTest/admin.php/Index/index | INFO: Run CheckRoute Behavior [ RunTime:0.010535s ]
+[ 2019-06-30T16:59:21+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ route_check ] --END-- [ RunTime:0.010853s ]
+[ 2019-06-30T16:59:21+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ app_begin ] --START--
+[ 2019-06-30T16:59:21+08:00 ] /abcTest/admin.php/Index/index | INFO: Run ReadHtmlCache Behavior [ RunTime:0.003092s ]
+[ 2019-06-30T16:59:21+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ app_begin ] --END-- [ RunTime:0.003412s ]
+[ 2019-06-30T16:59:21+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ view_template ] --START--
+[ 2019-06-30T16:59:21+08:00 ] /abcTest/admin.php/Index/index | INFO: Run LocationTemplate Behavior [ RunTime:0.002813s ]
+[ 2019-06-30T16:59:21+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ view_template ] --END-- [ RunTime:0.003079s ]
+[ 2019-06-30T16:59:21+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ view_parse ] --START--
+[ 2019-06-30T16:59:21+08:00 ] /abcTest/admin.php/Index/index | NOTIC: [8] Undefined variable: title 4c18d5952d0dbf1eedb8a1ec796fa788.php 第 5 行.
+[ 2019-06-30T16:59:21+08:00 ] /abcTest/admin.php/Index/index | NOTIC: [8] Undefined variable: username 4c18d5952d0dbf1eedb8a1ec796fa788.php 第 31 行.
+[ 2019-06-30T16:59:21+08:00 ] /abcTest/admin.php/Index/index | NOTIC: [8] Undefined variable: username 4c18d5952d0dbf1eedb8a1ec796fa788.php 第 31 行.
+[ 2019-06-30T16:59:21+08:00 ] /abcTest/admin.php/Index/index | NOTIC: [8] Undefined variable: news_count 4c18d5952d0dbf1eedb8a1ec796fa788.php 第 125 行.
+[ 2019-06-30T16:59:21+08:00 ] /abcTest/admin.php/Index/index | NOTIC: [8] Undefined variable: username 4c18d5952d0dbf1eedb8a1ec796fa788.php 第 136 行.
+[ 2019-06-30T16:59:21+08:00 ] /abcTest/admin.php/Index/index | NOTIC: [8] Undefined variable: news_list 4c18d5952d0dbf1eedb8a1ec796fa788.php 第 156 行.
+[ 2019-06-30T16:59:21+08:00 ] /abcTest/admin.php/Index/index | NOTIC: [8] Undefined variable: page_method 4c18d5952d0dbf1eedb8a1ec796fa788.php 第 175 行.
+[ 2019-06-30T16:59:21+08:00 ] /abcTest/admin.php/Index/index | INFO: Run ParseTemplate Behavior [ RunTime:0.121289s ]
+[ 2019-06-30T16:59:21+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ view_parse ] --END-- [ RunTime:0.121573s ]
+[ 2019-06-30T16:59:21+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ view_filter ] --START--
+[ 2019-06-30T16:59:21+08:00 ] /abcTest/admin.php/Index/index | INFO: Run ContentReplace Behavior [ RunTime:0.008729s ]
+[ 2019-06-30T16:59:21+08:00 ] /abcTest/admin.php/Index/index | INFO: Run TokenBuild Behavior [ RunTime:0.002805s ]
+[ 2019-06-30T16:59:21+08:00 ] /abcTest/admin.php/Index/index | INFO: Run WriteHtmlCache Behavior [ RunTime:0.021910s ]
+[ 2019-06-30T16:59:21+08:00 ] /abcTest/admin.php/Index/index | INFO: Run ShowRuntime Behavior [ RunTime:0.004464s ]
+[ 2019-06-30T16:59:21+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ view_filter ] --END-- [ RunTime:0.038713s ]
+[ 2019-06-30T16:59:21+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ view_end ] --START--
+[ 2019-06-30T16:59:21+08:00 ] /abcTest/admin.php/Index/index | INFO: Run ShowPageTrace Behavior [ RunTime:0.003191s ]
+[ 2019-06-30T16:59:21+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ view_end ] --END-- [ RunTime:0.003700s ]
+[ 2019-06-30T16:59:21+08:00 ] /abcTest/admin.php/Index/resources/images/closelabel.gif | ERR: (ThinkException) 非法操作resources
+[ 2019-06-30T17:08:27+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ route_check ] --START--
+[ 2019-06-30T17:08:27+08:00 ] /abcTest/admin.php/Index/index | INFO: Run CheckRoute Behavior [ RunTime:0.001905s ]
+[ 2019-06-30T17:08:27+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ route_check ] --END-- [ RunTime:0.002105s ]
+[ 2019-06-30T17:08:27+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ app_begin ] --START--
+[ 2019-06-30T17:08:27+08:00 ] /abcTest/admin.php/Index/index | INFO: Run ReadHtmlCache Behavior [ RunTime:0.001293s ]
+[ 2019-06-30T17:08:27+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ app_begin ] --END-- [ RunTime:0.001460s ]
+[ 2019-06-30T17:08:27+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ view_template ] --START--
+[ 2019-06-30T17:08:27+08:00 ] /abcTest/admin.php/Index/index | INFO: Run LocationTemplate Behavior [ RunTime:0.001825s ]
+[ 2019-06-30T17:08:27+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ view_template ] --END-- [ RunTime:0.002019s ]
+[ 2019-06-30T17:08:27+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ view_parse ] --START--
+[ 2019-06-30T17:08:27+08:00 ] /abcTest/admin.php/Index/index | NOTIC: [8] Undefined variable: title 4c18d5952d0dbf1eedb8a1ec796fa788.php 第 5 行.
+[ 2019-06-30T17:08:27+08:00 ] /abcTest/admin.php/Index/index | NOTIC: [8] Undefined variable: username 4c18d5952d0dbf1eedb8a1ec796fa788.php 第 31 行.
+[ 2019-06-30T17:08:27+08:00 ] /abcTest/admin.php/Index/index | NOTIC: [8] Undefined variable: username 4c18d5952d0dbf1eedb8a1ec796fa788.php 第 31 行.
+[ 2019-06-30T17:08:27+08:00 ] /abcTest/admin.php/Index/index | NOTIC: [8] Undefined variable: news_count 4c18d5952d0dbf1eedb8a1ec796fa788.php 第 152 行.
+[ 2019-06-30T17:08:27+08:00 ] /abcTest/admin.php/Index/index | NOTIC: [8] Undefined variable: username 4c18d5952d0dbf1eedb8a1ec796fa788.php 第 163 行.
+[ 2019-06-30T17:08:27+08:00 ] /abcTest/admin.php/Index/index | NOTIC: [8] Undefined variable: news_list 4c18d5952d0dbf1eedb8a1ec796fa788.php 第 183 行.
+[ 2019-06-30T17:08:27+08:00 ] /abcTest/admin.php/Index/index | NOTIC: [8] Undefined variable: page_method 4c18d5952d0dbf1eedb8a1ec796fa788.php 第 202 行.
+[ 2019-06-30T17:08:27+08:00 ] /abcTest/admin.php/Index/index | INFO: Run ParseTemplate Behavior [ RunTime:0.023698s ]
+[ 2019-06-30T17:08:27+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ view_parse ] --END-- [ RunTime:0.023890s ]
+[ 2019-06-30T17:08:27+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ view_filter ] --START--
+[ 2019-06-30T17:08:27+08:00 ] /abcTest/admin.php/Index/index | INFO: Run ContentReplace Behavior [ RunTime:0.001176s ]
+[ 2019-06-30T17:08:27+08:00 ] /abcTest/admin.php/Index/index | INFO: Run TokenBuild Behavior [ RunTime:0.001345s ]
+[ 2019-06-30T17:08:27+08:00 ] /abcTest/admin.php/Index/index | INFO: Run WriteHtmlCache Behavior [ RunTime:0.000752s ]
+[ 2019-06-30T17:08:27+08:00 ] /abcTest/admin.php/Index/index | INFO: Run ShowRuntime Behavior [ RunTime:0.001251s ]
+[ 2019-06-30T17:08:27+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ view_filter ] --END-- [ RunTime:0.004957s ]
+[ 2019-06-30T17:08:27+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ view_end ] --START--
+[ 2019-06-30T17:08:27+08:00 ] /abcTest/admin.php/Index/index | INFO: Run ShowPageTrace Behavior [ RunTime:0.001503s ]
+[ 2019-06-30T17:08:27+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ view_end ] --END-- [ RunTime:0.001761s ]
+[ 2019-06-30T17:08:27+08:00 ] /abcTest/admin.php/Index/resources/images/closelabel.gif | ERR: (ThinkException) 非法操作resources
+[ 2019-06-30T17:14:04+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ route_check ] --START--
+[ 2019-06-30T17:14:04+08:00 ] /abcTest/admin.php/Index/index | INFO: Run CheckRoute Behavior [ RunTime:0.002966s ]
+[ 2019-06-30T17:14:04+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ route_check ] --END-- [ RunTime:0.003225s ]
+[ 2019-06-30T17:14:04+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ app_begin ] --START--
+[ 2019-06-30T17:14:04+08:00 ] /abcTest/admin.php/Index/index | INFO: Run ReadHtmlCache Behavior [ RunTime:0.001779s ]
+[ 2019-06-30T17:14:04+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ app_begin ] --END-- [ RunTime:0.001975s ]
+[ 2019-06-30T17:14:04+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ view_template ] --START--
+[ 2019-06-30T17:14:04+08:00 ] /abcTest/admin.php/Index/index | INFO: Run LocationTemplate Behavior [ RunTime:0.002391s ]
+[ 2019-06-30T17:14:04+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ view_template ] --END-- [ RunTime:0.002642s ]
+[ 2019-06-30T17:14:04+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ view_parse ] --START--
+[ 2019-06-30T17:14:04+08:00 ] /abcTest/admin.php/Index/index | NOTIC: [8] Undefined variable: title 4c18d5952d0dbf1eedb8a1ec796fa788.php 第 5 行.
+[ 2019-06-30T17:14:04+08:00 ] /abcTest/admin.php/Index/index | NOTIC: [8] Undefined variable: username 4c18d5952d0dbf1eedb8a1ec796fa788.php 第 31 行.
+[ 2019-06-30T17:14:04+08:00 ] /abcTest/admin.php/Index/index | NOTIC: [8] Undefined variable: username 4c18d5952d0dbf1eedb8a1ec796fa788.php 第 31 行.
+[ 2019-06-30T17:14:04+08:00 ] /abcTest/admin.php/Index/index | NOTIC: [8] Undefined variable: news_count 4c18d5952d0dbf1eedb8a1ec796fa788.php 第 152 行.
+[ 2019-06-30T17:14:04+08:00 ] /abcTest/admin.php/Index/index | NOTIC: [8] Undefined variable: username 4c18d5952d0dbf1eedb8a1ec796fa788.php 第 163 行.
+[ 2019-06-30T17:14:04+08:00 ] /abcTest/admin.php/Index/index | NOTIC: [8] Undefined variable: news_list 4c18d5952d0dbf1eedb8a1ec796fa788.php 第 183 行.
+[ 2019-06-30T17:14:04+08:00 ] /abcTest/admin.php/Index/index | NOTIC: [8] Undefined variable: page_method 4c18d5952d0dbf1eedb8a1ec796fa788.php 第 202 行.
+[ 2019-06-30T17:14:04+08:00 ] /abcTest/admin.php/Index/index | INFO: Run ParseTemplate Behavior [ RunTime:0.026621s ]
+[ 2019-06-30T17:14:04+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ view_parse ] --END-- [ RunTime:0.026853s ]
+[ 2019-06-30T17:14:04+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ view_filter ] --START--
+[ 2019-06-30T17:14:04+08:00 ] /abcTest/admin.php/Index/index | INFO: Run ContentReplace Behavior [ RunTime:0.001347s ]
+[ 2019-06-30T17:14:04+08:00 ] /abcTest/admin.php/Index/index | INFO: Run TokenBuild Behavior [ RunTime:0.002008s ]
+[ 2019-06-30T17:14:04+08:00 ] /abcTest/admin.php/Index/index | INFO: Run WriteHtmlCache Behavior [ RunTime:0.000989s ]
+[ 2019-06-30T17:14:04+08:00 ] /abcTest/admin.php/Index/index | INFO: Run ShowRuntime Behavior [ RunTime:0.001443s ]
+[ 2019-06-30T17:14:04+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ view_filter ] --END-- [ RunTime:0.006308s ]
+[ 2019-06-30T17:14:04+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ view_end ] --START--
+[ 2019-06-30T17:14:04+08:00 ] /abcTest/admin.php/Index/index | INFO: Run ShowPageTrace Behavior [ RunTime:0.001193s ]
+[ 2019-06-30T17:14:04+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ view_end ] --END-- [ RunTime:0.001370s ]

@@ -1,0 +1,1432 @@
+[ 2019-07-05T07:54:05+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ route_check ] --START--
+[ 2019-07-05T07:54:05+08:00 ] /abcTest/admin.php/Index/index | INFO: Run CheckRoute Behavior [ RunTime:0.002000s ]
+[ 2019-07-05T07:54:05+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ route_check ] --END-- [ RunTime:0.003000s ]
+[ 2019-07-05T07:54:05+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ app_begin ] --START--
+[ 2019-07-05T07:54:05+08:00 ] /abcTest/admin.php/Index/index | INFO: Run ReadHtmlCache Behavior [ RunTime:0.002000s ]
+[ 2019-07-05T07:54:05+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ app_begin ] --END-- [ RunTime:0.002000s ]
+[ 2019-07-05T07:54:05+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ view_template ] --START--
+[ 2019-07-05T07:54:05+08:00 ] /abcTest/admin.php/Index/index | INFO: Run LocationTemplate Behavior [ RunTime:0.004000s ]
+[ 2019-07-05T07:54:05+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ view_template ] --END-- [ RunTime:0.004000s ]
+[ 2019-07-05T07:54:05+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ view_parse ] --START--
+[ 2019-07-05T07:54:05+08:00 ] /abcTest/admin.php/Index/index | NOTIC: [8] Undefined variable: title 4c18d5952d0dbf1eedb8a1ec796fa788.php 第 5 行.
+[ 2019-07-05T07:54:05+08:00 ] /abcTest/admin.php/Index/index | INFO: Run ParseTemplate Behavior [ RunTime:0.018000s ]
+[ 2019-07-05T07:54:05+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ view_parse ] --END-- [ RunTime:0.018000s ]
+[ 2019-07-05T07:54:05+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ view_filter ] --START--
+[ 2019-07-05T07:54:05+08:00 ] /abcTest/admin.php/Index/index | INFO: Run ContentReplace Behavior [ RunTime:0.002000s ]
+[ 2019-07-05T07:54:05+08:00 ] /abcTest/admin.php/Index/index | INFO: Run TokenBuild Behavior [ RunTime:0.002000s ]
+[ 2019-07-05T07:54:05+08:00 ] /abcTest/admin.php/Index/index | INFO: Run WriteHtmlCache Behavior [ RunTime:0.002000s ]
+[ 2019-07-05T07:54:05+08:00 ] /abcTest/admin.php/Index/index | INFO: Run ShowRuntime Behavior [ RunTime:0.002000s ]
+[ 2019-07-05T07:54:05+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ view_filter ] --END-- [ RunTime:0.009000s ]
+[ 2019-07-05T07:54:05+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ view_end ] --START--
+[ 2019-07-05T07:54:05+08:00 ] /abcTest/admin.php/Index/index | INFO: Run ShowPageTrace Behavior [ RunTime:0.002000s ]
+[ 2019-07-05T07:54:05+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ view_end ] --END-- [ RunTime:0.002000s ]
+[ 2019-07-05T07:54:07+08:00 ] /abcTest/admin.php/Coach/index | INFO: Tag[ route_check ] --START--
+[ 2019-07-05T07:54:07+08:00 ] /abcTest/admin.php/Coach/index | INFO: Run CheckRoute Behavior [ RunTime:0.002000s ]
+[ 2019-07-05T07:54:07+08:00 ] /abcTest/admin.php/Coach/index | INFO: Tag[ route_check ] --END-- [ RunTime:0.002000s ]
+[ 2019-07-05T07:54:07+08:00 ] /abcTest/admin.php/Coach/index | INFO: Tag[ app_begin ] --START--
+[ 2019-07-05T07:54:07+08:00 ] /abcTest/admin.php/Coach/index | INFO: Run ReadHtmlCache Behavior [ RunTime:0.001000s ]
+[ 2019-07-05T07:54:07+08:00 ] /abcTest/admin.php/Coach/index | INFO: Tag[ app_begin ] --END-- [ RunTime:0.002000s ]
+[ 2019-07-05T07:54:07+08:00 ] /abcTest/admin.php/Coach/index | SQL: SHOW COLUMNS FROM `t_coach` [ RunTime:0.004000s ]
+[ 2019-07-05T07:54:07+08:00 ] /abcTest/admin.php/Coach/index | SQL: SELECT `coaName`,`coaSex`,`coaIdCardNo`,`coaNation`,`coaPolitic`,`coaEducation`,`coaTel`,`coaPosition`,`coaSchool`,`coaRemarks` FROM `t_coach` ORDER BY coaID asc  [ RunTime:0.001000s ]
+[ 2019-07-05T07:54:07+08:00 ] /abcTest/admin.php/Coach/index | INFO: Tag[ view_template ] --START--
+[ 2019-07-05T07:54:07+08:00 ] /abcTest/admin.php/Coach/index | INFO: Run LocationTemplate Behavior [ RunTime:0.001000s ]
+[ 2019-07-05T07:54:07+08:00 ] /abcTest/admin.php/Coach/index | INFO: Tag[ view_template ] --END-- [ RunTime:0.001000s ]
+[ 2019-07-05T07:54:07+08:00 ] /abcTest/admin.php/Coach/index | INFO: Tag[ view_parse ] --START--
+[ 2019-07-05T07:54:07+08:00 ] /abcTest/admin.php/Coach/index | NOTIC: [8] Undefined variable: title c0b4f8b64c1eb1997bb34efa106d73f2.php 第 5 行.
+[ 2019-07-05T07:54:07+08:00 ] /abcTest/admin.php/Coach/index | INFO: Run ParseTemplate Behavior [ RunTime:0.012000s ]
+[ 2019-07-05T07:54:07+08:00 ] /abcTest/admin.php/Coach/index | INFO: Tag[ view_parse ] --END-- [ RunTime:0.012000s ]
+[ 2019-07-05T07:54:07+08:00 ] /abcTest/admin.php/Coach/index | INFO: Tag[ view_filter ] --START--
+[ 2019-07-05T07:54:07+08:00 ] /abcTest/admin.php/Coach/index | INFO: Run ContentReplace Behavior [ RunTime:0.001000s ]
+[ 2019-07-05T07:54:07+08:00 ] /abcTest/admin.php/Coach/index | INFO: Run TokenBuild Behavior [ RunTime:0.001000s ]
+[ 2019-07-05T07:54:07+08:00 ] /abcTest/admin.php/Coach/index | INFO: Run WriteHtmlCache Behavior [ RunTime:0.001000s ]
+[ 2019-07-05T07:54:07+08:00 ] /abcTest/admin.php/Coach/index | INFO: Run ShowRuntime Behavior [ RunTime:0.001000s ]
+[ 2019-07-05T07:54:07+08:00 ] /abcTest/admin.php/Coach/index | INFO: Tag[ view_filter ] --END-- [ RunTime:0.004000s ]
+[ 2019-07-05T07:54:07+08:00 ] /abcTest/admin.php/Coach/index | INFO: Tag[ view_end ] --START--
+[ 2019-07-05T07:54:07+08:00 ] /abcTest/admin.php/Coach/index | INFO: Run ShowPageTrace Behavior [ RunTime:0.001000s ]
+[ 2019-07-05T07:54:07+08:00 ] /abcTest/admin.php/Coach/index | INFO: Tag[ view_end ] --END-- [ RunTime:0.001000s ]
+[ 2019-07-05T07:55:00+08:00 ] /abcTest/admin.php/Coach/add | INFO: Tag[ route_check ] --START--
+[ 2019-07-05T07:55:00+08:00 ] /abcTest/admin.php/Coach/add | INFO: Run CheckRoute Behavior [ RunTime:0.002000s ]
+[ 2019-07-05T07:55:00+08:00 ] /abcTest/admin.php/Coach/add | INFO: Tag[ route_check ] --END-- [ RunTime:0.002000s ]
+[ 2019-07-05T07:55:00+08:00 ] /abcTest/admin.php/Coach/add | INFO: Tag[ app_begin ] --START--
+[ 2019-07-05T07:55:00+08:00 ] /abcTest/admin.php/Coach/add | INFO: Run ReadHtmlCache Behavior [ RunTime:0.001000s ]
+[ 2019-07-05T07:55:00+08:00 ] /abcTest/admin.php/Coach/add | INFO: Tag[ app_begin ] --END-- [ RunTime:0.001000s ]
+[ 2019-07-05T07:55:00+08:00 ] /abcTest/admin.php/Coach/add | NOTIC: [8] Use of undefined constant Coach - assumed 'Coach' CoachAction.class.php 第 52 行.
+[ 2019-07-05T07:55:00+08:00 ] /abcTest/admin.php/Coach/add | SQL: SHOW COLUMNS FROM `t_coach` [ RunTime:0.004000s ]
+[ 2019-07-05T07:55:00+08:00 ] /abcTest/admin.php/Coach/add | SQL: INSERT INTO `t_coach` (`coaName`,`coaSex`,`coaIdCardNo`,`coaNation`,`coaPolitic`,`coaEducation`,`coaTel`,`coaPosition`,`coaSchool`,`coaRemarks`) VALUES ('林丽','男','132546844256548756','满族','党员','大学','13121875421','教练','北京体育大学','') [ RunTime:0.009000s ]
+[ 2019-07-05T07:55:00+08:00 ] /abcTest/admin.php/Coach/index | INFO: Tag[ route_check ] --START--
+[ 2019-07-05T07:55:00+08:00 ] /abcTest/admin.php/Coach/index | INFO: Run CheckRoute Behavior [ RunTime:0.001000s ]
+[ 2019-07-05T07:55:00+08:00 ] /abcTest/admin.php/Coach/index | INFO: Tag[ route_check ] --END-- [ RunTime:0.002000s ]
+[ 2019-07-05T07:55:00+08:00 ] /abcTest/admin.php/Coach/index | INFO: Tag[ app_begin ] --START--
+[ 2019-07-05T07:55:00+08:00 ] /abcTest/admin.php/Coach/index | INFO: Run ReadHtmlCache Behavior [ RunTime:0.001000s ]
+[ 2019-07-05T07:55:00+08:00 ] /abcTest/admin.php/Coach/index | INFO: Tag[ app_begin ] --END-- [ RunTime:0.001000s ]
+[ 2019-07-05T07:55:00+08:00 ] /abcTest/admin.php/Coach/index | SQL: SHOW COLUMNS FROM `t_coach` [ RunTime:0.004000s ]
+[ 2019-07-05T07:55:00+08:00 ] /abcTest/admin.php/Coach/index | SQL: SELECT `coaName`,`coaSex`,`coaIdCardNo`,`coaNation`,`coaPolitic`,`coaEducation`,`coaTel`,`coaPosition`,`coaSchool`,`coaRemarks` FROM `t_coach` ORDER BY coaID asc  [ RunTime:0.001000s ]
+[ 2019-07-05T07:55:00+08:00 ] /abcTest/admin.php/Coach/index | INFO: Tag[ view_template ] --START--
+[ 2019-07-05T07:55:00+08:00 ] /abcTest/admin.php/Coach/index | INFO: Run LocationTemplate Behavior [ RunTime:0.002000s ]
+[ 2019-07-05T07:55:00+08:00 ] /abcTest/admin.php/Coach/index | INFO: Tag[ view_template ] --END-- [ RunTime:0.002000s ]
+[ 2019-07-05T07:55:00+08:00 ] /abcTest/admin.php/Coach/index | INFO: Tag[ view_parse ] --START--
+[ 2019-07-05T07:55:00+08:00 ] /abcTest/admin.php/Coach/index | NOTIC: [8] Undefined variable: title c0b4f8b64c1eb1997bb34efa106d73f2.php 第 5 行.
+[ 2019-07-05T07:55:00+08:00 ] /abcTest/admin.php/Coach/index | INFO: Run ParseTemplate Behavior [ RunTime:0.013000s ]
+[ 2019-07-05T07:55:00+08:00 ] /abcTest/admin.php/Coach/index | INFO: Tag[ view_parse ] --END-- [ RunTime:0.013000s ]
+[ 2019-07-05T07:55:00+08:00 ] /abcTest/admin.php/Coach/index | INFO: Tag[ view_filter ] --START--
+[ 2019-07-05T07:55:00+08:00 ] /abcTest/admin.php/Coach/index | INFO: Run ContentReplace Behavior [ RunTime:0.001000s ]
+[ 2019-07-05T07:55:00+08:00 ] /abcTest/admin.php/Coach/index | INFO: Run TokenBuild Behavior [ RunTime:0.001000s ]
+[ 2019-07-05T07:55:00+08:00 ] /abcTest/admin.php/Coach/index | INFO: Run WriteHtmlCache Behavior [ RunTime:0.001000s ]
+[ 2019-07-05T07:55:00+08:00 ] /abcTest/admin.php/Coach/index | INFO: Run ShowRuntime Behavior [ RunTime:0.002000s ]
+[ 2019-07-05T07:55:00+08:00 ] /abcTest/admin.php/Coach/index | INFO: Tag[ view_filter ] --END-- [ RunTime:0.005000s ]
+[ 2019-07-05T07:55:00+08:00 ] /abcTest/admin.php/Coach/index | INFO: Tag[ view_end ] --START--
+[ 2019-07-05T07:55:00+08:00 ] /abcTest/admin.php/Coach/index | INFO: Run ShowPageTrace Behavior [ RunTime:0.001000s ]
+[ 2019-07-05T07:55:00+08:00 ] /abcTest/admin.php/Coach/index | INFO: Tag[ view_end ] --END-- [ RunTime:0.001000s ]
+[ 2019-07-05T08:00:10+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ route_check ] --START--
+[ 2019-07-05T08:00:10+08:00 ] /abcTest/admin.php/Index/index | INFO: Run CheckRoute Behavior [ RunTime:0.002000s ]
+[ 2019-07-05T08:00:10+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ route_check ] --END-- [ RunTime:0.002000s ]
+[ 2019-07-05T08:00:10+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ app_begin ] --START--
+[ 2019-07-05T08:00:10+08:00 ] /abcTest/admin.php/Index/index | INFO: Run ReadHtmlCache Behavior [ RunTime:0.001000s ]
+[ 2019-07-05T08:00:10+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ app_begin ] --END-- [ RunTime:0.002000s ]
+[ 2019-07-05T08:00:10+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ view_template ] --START--
+[ 2019-07-05T08:00:10+08:00 ] /abcTest/admin.php/Index/index | INFO: Run LocationTemplate Behavior [ RunTime:0.002000s ]
+[ 2019-07-05T08:00:10+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ view_template ] --END-- [ RunTime:0.002000s ]
+[ 2019-07-05T08:00:10+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ view_parse ] --START--
+[ 2019-07-05T08:00:10+08:00 ] /abcTest/admin.php/Index/index | NOTIC: [8] Undefined variable: title 4c18d5952d0dbf1eedb8a1ec796fa788.php 第 5 行.
+[ 2019-07-05T08:00:10+08:00 ] /abcTest/admin.php/Index/index | INFO: Run ParseTemplate Behavior [ RunTime:0.012000s ]
+[ 2019-07-05T08:00:10+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ view_parse ] --END-- [ RunTime:0.012000s ]
+[ 2019-07-05T08:00:10+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ view_filter ] --START--
+[ 2019-07-05T08:00:10+08:00 ] /abcTest/admin.php/Index/index | INFO: Run ContentReplace Behavior [ RunTime:0.001000s ]
+[ 2019-07-05T08:00:10+08:00 ] /abcTest/admin.php/Index/index | INFO: Run TokenBuild Behavior [ RunTime:0.002000s ]
+[ 2019-07-05T08:00:10+08:00 ] /abcTest/admin.php/Index/index | INFO: Run WriteHtmlCache Behavior [ RunTime:0.001000s ]
+[ 2019-07-05T08:00:10+08:00 ] /abcTest/admin.php/Index/index | INFO: Run ShowRuntime Behavior [ RunTime:0.001000s ]
+[ 2019-07-05T08:00:10+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ view_filter ] --END-- [ RunTime:0.006000s ]
+[ 2019-07-05T08:00:10+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ view_end ] --START--
+[ 2019-07-05T08:00:10+08:00 ] /abcTest/admin.php/Index/index | INFO: Run ShowPageTrace Behavior [ RunTime:0.001000s ]
+[ 2019-07-05T08:00:10+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ view_end ] --END-- [ RunTime:0.001000s ]
+[ 2019-07-05T08:00:16+08:00 ] /abcTest/admin.php/Coach/index | INFO: Tag[ route_check ] --START--
+[ 2019-07-05T08:00:16+08:00 ] /abcTest/admin.php/Coach/index | INFO: Run CheckRoute Behavior [ RunTime:0.003000s ]
+[ 2019-07-05T08:00:16+08:00 ] /abcTest/admin.php/Coach/index | INFO: Tag[ route_check ] --END-- [ RunTime:0.003000s ]
+[ 2019-07-05T08:00:16+08:00 ] /abcTest/admin.php/Coach/index | INFO: Tag[ app_begin ] --START--
+[ 2019-07-05T08:00:16+08:00 ] /abcTest/admin.php/Coach/index | INFO: Run ReadHtmlCache Behavior [ RunTime:0.002000s ]
+[ 2019-07-05T08:00:16+08:00 ] /abcTest/admin.php/Coach/index | INFO: Tag[ app_begin ] --END-- [ RunTime:0.002000s ]
+[ 2019-07-05T08:00:16+08:00 ] /abcTest/admin.php/Coach/index | SQL: SHOW COLUMNS FROM `t_coach` [ RunTime:0.004000s ]
+[ 2019-07-05T08:00:16+08:00 ] /abcTest/admin.php/Coach/index | SQL: SELECT `coaName`,`coaSex`,`coaIdCardNo`,`coaNation`,`coaPolitic`,`coaEducation`,`coaTel`,`coaPosition`,`coaSchool`,`coaRemarks` FROM `t_coach` ORDER BY coaID asc  [ RunTime:0.000000s ]
+[ 2019-07-05T08:00:16+08:00 ] /abcTest/admin.php/Coach/index | INFO: Tag[ view_template ] --START--
+[ 2019-07-05T08:00:16+08:00 ] /abcTest/admin.php/Coach/index | INFO: Run LocationTemplate Behavior [ RunTime:0.002000s ]
+[ 2019-07-05T08:00:16+08:00 ] /abcTest/admin.php/Coach/index | INFO: Tag[ view_template ] --END-- [ RunTime:0.002000s ]
+[ 2019-07-05T08:00:16+08:00 ] /abcTest/admin.php/Coach/index | INFO: Tag[ view_parse ] --START--
+[ 2019-07-05T08:00:16+08:00 ] /abcTest/admin.php/Coach/index | NOTIC: [8] Undefined variable: title c0b4f8b64c1eb1997bb34efa106d73f2.php 第 5 行.
+[ 2019-07-05T08:00:16+08:00 ] /abcTest/admin.php/Coach/index | INFO: Run ParseTemplate Behavior [ RunTime:0.016000s ]
+[ 2019-07-05T08:00:16+08:00 ] /abcTest/admin.php/Coach/index | INFO: Tag[ view_parse ] --END-- [ RunTime:0.016000s ]
+[ 2019-07-05T08:00:16+08:00 ] /abcTest/admin.php/Coach/index | INFO: Tag[ view_filter ] --START--
+[ 2019-07-05T08:00:16+08:00 ] /abcTest/admin.php/Coach/index | INFO: Run ContentReplace Behavior [ RunTime:0.002000s ]
+[ 2019-07-05T08:00:16+08:00 ] /abcTest/admin.php/Coach/index | INFO: Run TokenBuild Behavior [ RunTime:0.001000s ]
+[ 2019-07-05T08:00:16+08:00 ] /abcTest/admin.php/Coach/index | INFO: Run WriteHtmlCache Behavior [ RunTime:0.001000s ]
+[ 2019-07-05T08:00:16+08:00 ] /abcTest/admin.php/Coach/index | INFO: Run ShowRuntime Behavior [ RunTime:0.001000s ]
+[ 2019-07-05T08:00:16+08:00 ] /abcTest/admin.php/Coach/index | INFO: Tag[ view_filter ] --END-- [ RunTime:0.006000s ]
+[ 2019-07-05T08:00:16+08:00 ] /abcTest/admin.php/Coach/index | INFO: Tag[ view_end ] --START--
+[ 2019-07-05T08:00:16+08:00 ] /abcTest/admin.php/Coach/index | INFO: Run ShowPageTrace Behavior [ RunTime:0.001000s ]
+[ 2019-07-05T08:00:16+08:00 ] /abcTest/admin.php/Coach/index | INFO: Tag[ view_end ] --END-- [ RunTime:0.001000s ]
+[ 2019-07-05T08:00:19+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ route_check ] --START--
+[ 2019-07-05T08:00:19+08:00 ] /abcTest/admin.php/Index/index | INFO: Run CheckRoute Behavior [ RunTime:0.003000s ]
+[ 2019-07-05T08:00:19+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ route_check ] --END-- [ RunTime:0.003000s ]
+[ 2019-07-05T08:00:19+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ app_begin ] --START--
+[ 2019-07-05T08:00:19+08:00 ] /abcTest/admin.php/Index/index | INFO: Run ReadHtmlCache Behavior [ RunTime:0.002000s ]
+[ 2019-07-05T08:00:19+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ app_begin ] --END-- [ RunTime:0.002000s ]
+[ 2019-07-05T08:00:19+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ view_template ] --START--
+[ 2019-07-05T08:00:19+08:00 ] /abcTest/admin.php/Index/index | INFO: Run LocationTemplate Behavior [ RunTime:0.002000s ]
+[ 2019-07-05T08:00:19+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ view_template ] --END-- [ RunTime:0.002000s ]
+[ 2019-07-05T08:00:19+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ view_parse ] --START--
+[ 2019-07-05T08:00:19+08:00 ] /abcTest/admin.php/Index/index | NOTIC: [8] Undefined variable: title 4c18d5952d0dbf1eedb8a1ec796fa788.php 第 5 行.
+[ 2019-07-05T08:00:19+08:00 ] /abcTest/admin.php/Index/index | INFO: Run ParseTemplate Behavior [ RunTime:0.013000s ]
+[ 2019-07-05T08:00:19+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ view_parse ] --END-- [ RunTime:0.014000s ]
+[ 2019-07-05T08:00:19+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ view_filter ] --START--
+[ 2019-07-05T08:00:19+08:00 ] /abcTest/admin.php/Index/index | INFO: Run ContentReplace Behavior [ RunTime:0.001000s ]
+[ 2019-07-05T08:00:19+08:00 ] /abcTest/admin.php/Index/index | INFO: Run TokenBuild Behavior [ RunTime:0.002000s ]
+[ 2019-07-05T08:00:19+08:00 ] /abcTest/admin.php/Index/index | INFO: Run WriteHtmlCache Behavior [ RunTime:0.001000s ]
+[ 2019-07-05T08:00:19+08:00 ] /abcTest/admin.php/Index/index | INFO: Run ShowRuntime Behavior [ RunTime:0.001000s ]
+[ 2019-07-05T08:00:19+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ view_filter ] --END-- [ RunTime:0.006000s ]
+[ 2019-07-05T08:00:19+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ view_end ] --START--
+[ 2019-07-05T08:00:19+08:00 ] /abcTest/admin.php/Index/index | INFO: Run ShowPageTrace Behavior [ RunTime:0.001000s ]
+[ 2019-07-05T08:00:19+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ view_end ] --END-- [ RunTime:0.001000s ]
+[ 2019-07-05T08:00:41+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ route_check ] --START--
+[ 2019-07-05T08:00:41+08:00 ] /abcTest/admin.php/Index/index | INFO: Run CheckRoute Behavior [ RunTime:0.003000s ]
+[ 2019-07-05T08:00:41+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ route_check ] --END-- [ RunTime:0.003000s ]
+[ 2019-07-05T08:00:41+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ app_begin ] --START--
+[ 2019-07-05T08:00:41+08:00 ] /abcTest/admin.php/Index/index | INFO: Run ReadHtmlCache Behavior [ RunTime:0.002000s ]
+[ 2019-07-05T08:00:41+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ app_begin ] --END-- [ RunTime:0.002000s ]
+[ 2019-07-05T08:00:41+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ view_template ] --START--
+[ 2019-07-05T08:00:41+08:00 ] /abcTest/admin.php/Index/index | INFO: Run LocationTemplate Behavior [ RunTime:0.001000s ]
+[ 2019-07-05T08:00:41+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ view_template ] --END-- [ RunTime:0.001000s ]
+[ 2019-07-05T08:00:41+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ view_parse ] --START--
+[ 2019-07-05T08:00:41+08:00 ] /abcTest/admin.php/Index/index | NOTIC: [8] Undefined variable: title 4c18d5952d0dbf1eedb8a1ec796fa788.php 第 5 行.
+[ 2019-07-05T08:00:41+08:00 ] /abcTest/admin.php/Index/index | INFO: Run ParseTemplate Behavior [ RunTime:0.011000s ]
+[ 2019-07-05T08:00:41+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ view_parse ] --END-- [ RunTime:0.013000s ]
+[ 2019-07-05T08:00:41+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ view_filter ] --START--
+[ 2019-07-05T08:00:41+08:00 ] /abcTest/admin.php/Index/index | INFO: Run ContentReplace Behavior [ RunTime:0.001000s ]
+[ 2019-07-05T08:00:41+08:00 ] /abcTest/admin.php/Index/index | INFO: Run TokenBuild Behavior [ RunTime:0.001000s ]
+[ 2019-07-05T08:00:41+08:00 ] /abcTest/admin.php/Index/index | INFO: Run WriteHtmlCache Behavior [ RunTime:0.001000s ]
+[ 2019-07-05T08:00:41+08:00 ] /abcTest/admin.php/Index/index | INFO: Run ShowRuntime Behavior [ RunTime:0.002000s ]
+[ 2019-07-05T08:00:41+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ view_filter ] --END-- [ RunTime:0.005000s ]
+[ 2019-07-05T08:00:41+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ view_end ] --START--
+[ 2019-07-05T08:00:41+08:00 ] /abcTest/admin.php/Index/index | INFO: Run ShowPageTrace Behavior [ RunTime:0.002000s ]
+[ 2019-07-05T08:00:41+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ view_end ] --END-- [ RunTime:0.002000s ]
+[ 2019-07-05T08:00:43+08:00 ] /abcTest/admin.php/Course/index | INFO: Tag[ route_check ] --START--
+[ 2019-07-05T08:00:43+08:00 ] /abcTest/admin.php/Course/index | INFO: Run CheckRoute Behavior [ RunTime:0.001000s ]
+[ 2019-07-05T08:00:43+08:00 ] /abcTest/admin.php/Course/index | INFO: Tag[ route_check ] --END-- [ RunTime:0.001000s ]
+[ 2019-07-05T08:00:43+08:00 ] /abcTest/admin.php/Course/index | INFO: Tag[ app_begin ] --START--
+[ 2019-07-05T08:00:43+08:00 ] /abcTest/admin.php/Course/index | INFO: Run ReadHtmlCache Behavior [ RunTime:0.001000s ]
+[ 2019-07-05T08:00:43+08:00 ] /abcTest/admin.php/Course/index | INFO: Tag[ app_begin ] --END-- [ RunTime:0.001000s ]
+[ 2019-07-05T08:00:43+08:00 ] /abcTest/admin.php/Course/index | INFO: Tag[ view_template ] --START--
+[ 2019-07-05T08:00:43+08:00 ] /abcTest/admin.php/Course/index | INFO: Run LocationTemplate Behavior [ RunTime:0.002000s ]
+[ 2019-07-05T08:00:43+08:00 ] /abcTest/admin.php/Course/index | INFO: Tag[ view_template ] --END-- [ RunTime:0.002000s ]
+[ 2019-07-05T08:00:43+08:00 ] /abcTest/admin.php/Course/index | INFO: Tag[ view_parse ] --START--
+[ 2019-07-05T08:00:43+08:00 ] /abcTest/admin.php/Course/index | INFO: Run ParseTemplate Behavior [ RunTime:0.010000s ]
+[ 2019-07-05T08:00:43+08:00 ] /abcTest/admin.php/Course/index | INFO: Tag[ view_parse ] --END-- [ RunTime:0.010000s ]
+[ 2019-07-05T08:00:43+08:00 ] /abcTest/admin.php/Course/index | INFO: Tag[ view_filter ] --START--
+[ 2019-07-05T08:00:43+08:00 ] /abcTest/admin.php/Course/index | INFO: Run ContentReplace Behavior [ RunTime:0.002000s ]
+[ 2019-07-05T08:00:43+08:00 ] /abcTest/admin.php/Course/index | INFO: Run TokenBuild Behavior [ RunTime:0.001000s ]
+[ 2019-07-05T08:00:43+08:00 ] /abcTest/admin.php/Course/index | INFO: Run WriteHtmlCache Behavior [ RunTime:0.001000s ]
+[ 2019-07-05T08:00:43+08:00 ] /abcTest/admin.php/Course/index | INFO: Run ShowRuntime Behavior [ RunTime:0.002000s ]
+[ 2019-07-05T08:00:43+08:00 ] /abcTest/admin.php/Course/index | INFO: Tag[ view_filter ] --END-- [ RunTime:0.006000s ]
+[ 2019-07-05T08:00:43+08:00 ] /abcTest/admin.php/Course/index | INFO: Tag[ view_end ] --START--
+[ 2019-07-05T08:00:43+08:00 ] /abcTest/admin.php/Course/index | INFO: Run ShowPageTrace Behavior [ RunTime:0.001000s ]
+[ 2019-07-05T08:00:43+08:00 ] /abcTest/admin.php/Course/index | INFO: Tag[ view_end ] --END-- [ RunTime:0.001000s ]
+[ 2019-07-05T10:48:09+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ route_check ] --START--
+[ 2019-07-05T10:48:09+08:00 ] /abcTest/admin.php/Index/index | INFO: Run CheckRoute Behavior [ RunTime:0.001000s ]
+[ 2019-07-05T10:48:09+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ route_check ] --END-- [ RunTime:0.001000s ]
+[ 2019-07-05T10:48:09+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ app_begin ] --START--
+[ 2019-07-05T10:48:09+08:00 ] /abcTest/admin.php/Index/index | INFO: Run ReadHtmlCache Behavior [ RunTime:0.001000s ]
+[ 2019-07-05T10:48:09+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ app_begin ] --END-- [ RunTime:0.001000s ]
+[ 2019-07-05T10:48:09+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ view_template ] --START--
+[ 2019-07-05T10:48:09+08:00 ] /abcTest/admin.php/Index/index | INFO: Run LocationTemplate Behavior [ RunTime:0.002000s ]
+[ 2019-07-05T10:48:09+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ view_template ] --END-- [ RunTime:0.002000s ]
+[ 2019-07-05T10:48:09+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ view_parse ] --START--
+[ 2019-07-05T10:48:09+08:00 ] /abcTest/admin.php/Index/index | NOTIC: [8] Undefined variable: title 4c18d5952d0dbf1eedb8a1ec796fa788.php 第 5 行.
+[ 2019-07-05T10:48:09+08:00 ] /abcTest/admin.php/Index/index | INFO: Run ParseTemplate Behavior [ RunTime:0.012000s ]
+[ 2019-07-05T10:48:09+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ view_parse ] --END-- [ RunTime:0.012000s ]
+[ 2019-07-05T10:48:09+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ view_filter ] --START--
+[ 2019-07-05T10:48:09+08:00 ] /abcTest/admin.php/Index/index | INFO: Run ContentReplace Behavior [ RunTime:0.002000s ]
+[ 2019-07-05T10:48:09+08:00 ] /abcTest/admin.php/Index/index | INFO: Run TokenBuild Behavior [ RunTime:0.001000s ]
+[ 2019-07-05T10:48:09+08:00 ] /abcTest/admin.php/Index/index | INFO: Run WriteHtmlCache Behavior [ RunTime:0.001000s ]
+[ 2019-07-05T10:48:09+08:00 ] /abcTest/admin.php/Index/index | INFO: Run ShowRuntime Behavior [ RunTime:0.002000s ]
+[ 2019-07-05T10:48:09+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ view_filter ] --END-- [ RunTime:0.006000s ]
+[ 2019-07-05T10:48:09+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ view_end ] --START--
+[ 2019-07-05T10:48:09+08:00 ] /abcTest/admin.php/Index/index | INFO: Run ShowPageTrace Behavior [ RunTime:0.001000s ]
+[ 2019-07-05T10:48:09+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ view_end ] --END-- [ RunTime:0.001000s ]
+[ 2019-07-05T10:49:27+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ route_check ] --START--
+[ 2019-07-05T10:49:27+08:00 ] /abcTest/admin.php/Index/index | INFO: Run CheckRoute Behavior [ RunTime:0.001000s ]
+[ 2019-07-05T10:49:27+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ route_check ] --END-- [ RunTime:0.001000s ]
+[ 2019-07-05T10:49:27+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ app_begin ] --START--
+[ 2019-07-05T10:49:27+08:00 ] /abcTest/admin.php/Index/index | INFO: Run ReadHtmlCache Behavior [ RunTime:0.001000s ]
+[ 2019-07-05T10:49:27+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ app_begin ] --END-- [ RunTime:0.001000s ]
+[ 2019-07-05T10:49:27+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ view_template ] --START--
+[ 2019-07-05T10:49:27+08:00 ] /abcTest/admin.php/Index/index | INFO: Run LocationTemplate Behavior [ RunTime:0.002000s ]
+[ 2019-07-05T10:49:27+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ view_template ] --END-- [ RunTime:0.002000s ]
+[ 2019-07-05T10:49:27+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ view_parse ] --START--
+[ 2019-07-05T10:49:27+08:00 ] /abcTest/admin.php/Index/index | NOTIC: [8] Undefined variable: title 4c18d5952d0dbf1eedb8a1ec796fa788.php 第 5 行.
+[ 2019-07-05T10:49:27+08:00 ] /abcTest/admin.php/Index/index | INFO: Run ParseTemplate Behavior [ RunTime:0.010000s ]
+[ 2019-07-05T10:49:27+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ view_parse ] --END-- [ RunTime:0.010000s ]
+[ 2019-07-05T10:49:27+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ view_filter ] --START--
+[ 2019-07-05T10:49:27+08:00 ] /abcTest/admin.php/Index/index | INFO: Run ContentReplace Behavior [ RunTime:0.001000s ]
+[ 2019-07-05T10:49:27+08:00 ] /abcTest/admin.php/Index/index | INFO: Run TokenBuild Behavior [ RunTime:0.001000s ]
+[ 2019-07-05T10:49:27+08:00 ] /abcTest/admin.php/Index/index | INFO: Run WriteHtmlCache Behavior [ RunTime:0.000000s ]
+[ 2019-07-05T10:49:27+08:00 ] /abcTest/admin.php/Index/index | INFO: Run ShowRuntime Behavior [ RunTime:0.001000s ]
+[ 2019-07-05T10:49:27+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ view_filter ] --END-- [ RunTime:0.005000s ]
+[ 2019-07-05T10:49:27+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ view_end ] --START--
+[ 2019-07-05T10:49:27+08:00 ] /abcTest/admin.php/Index/index | INFO: Run ShowPageTrace Behavior [ RunTime:0.001000s ]
+[ 2019-07-05T10:49:27+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ view_end ] --END-- [ RunTime:0.001000s ]
+[ 2019-07-05T10:49:30+08:00 ] /abcTest/admin.php/Course/index | INFO: Tag[ route_check ] --START--
+[ 2019-07-05T10:49:30+08:00 ] /abcTest/admin.php/Course/index | INFO: Run CheckRoute Behavior [ RunTime:0.002000s ]
+[ 2019-07-05T10:49:30+08:00 ] /abcTest/admin.php/Course/index | INFO: Tag[ route_check ] --END-- [ RunTime:0.002000s ]
+[ 2019-07-05T10:49:30+08:00 ] /abcTest/admin.php/Course/index | INFO: Tag[ app_begin ] --START--
+[ 2019-07-05T10:49:30+08:00 ] /abcTest/admin.php/Course/index | INFO: Run ReadHtmlCache Behavior [ RunTime:0.001000s ]
+[ 2019-07-05T10:49:30+08:00 ] /abcTest/admin.php/Course/index | INFO: Tag[ app_begin ] --END-- [ RunTime:0.001000s ]
+[ 2019-07-05T10:49:30+08:00 ] /abcTest/admin.php/Course/index | NOTIC: [8] Use of undefined constant Course - assumed 'Course' CourseAction.class.php 第 5 行.
+[ 2019-07-05T10:49:30+08:00 ] /abcTest/admin.php/Course/index | SQL: SHOW COLUMNS FROM `t_course` [ RunTime:0.004000s ]
+[ 2019-07-05T10:49:30+08:00 ] /abcTest/admin.php/Course/index | SQL: SELECT `courseName`,`courseContent`,`courseTime`,`courseArea`,`courseTeacher`,`coursePrice` FROM `t_course` ORDER BY courseID asc  [ RunTime:0.001000s ]
+[ 2019-07-05T10:49:30+08:00 ] /abcTest/admin.php/Course/index | INFO: Tag[ view_template ] --START--
+[ 2019-07-05T10:49:30+08:00 ] /abcTest/admin.php/Course/index | INFO: Run LocationTemplate Behavior [ RunTime:0.001000s ]
+[ 2019-07-05T10:49:30+08:00 ] /abcTest/admin.php/Course/index | INFO: Tag[ view_template ] --END-- [ RunTime:0.002000s ]
+[ 2019-07-05T10:49:30+08:00 ] /abcTest/admin.php/Course/index | INFO: Tag[ view_parse ] --START--
+[ 2019-07-05T10:49:30+08:00 ] /abcTest/admin.php/Course/index | NOTIC: [8] Undefined variable: title 6f0ada55359106615047b4a70d624b08.php 第 5 行.
+[ 2019-07-05T10:49:30+08:00 ] /abcTest/admin.php/Course/index | NOTIC: [8] Undefined index: coaName 6f0ada55359106615047b4a70d624b08.php 第 52 行.
+[ 2019-07-05T10:49:30+08:00 ] /abcTest/admin.php/Course/index | NOTIC: [8] Undefined index: coaSex 6f0ada55359106615047b4a70d624b08.php 第 53 行.
+[ 2019-07-05T10:49:30+08:00 ] /abcTest/admin.php/Course/index | NOTIC: [8] Undefined index: coaIdCardNo 6f0ada55359106615047b4a70d624b08.php 第 54 行.
+[ 2019-07-05T10:49:30+08:00 ] /abcTest/admin.php/Course/index | NOTIC: [8] Undefined index: coaNation 6f0ada55359106615047b4a70d624b08.php 第 55 行.
+[ 2019-07-05T10:49:30+08:00 ] /abcTest/admin.php/Course/index | NOTIC: [8] Undefined index: coaPolitic 6f0ada55359106615047b4a70d624b08.php 第 56 行.
+[ 2019-07-05T10:49:30+08:00 ] /abcTest/admin.php/Course/index | NOTIC: [8] Undefined index: coaEducation 6f0ada55359106615047b4a70d624b08.php 第 57 行.
+[ 2019-07-05T10:49:30+08:00 ] /abcTest/admin.php/Course/index | NOTIC: [8] Undefined index: coaTel 6f0ada55359106615047b4a70d624b08.php 第 58 行.
+[ 2019-07-05T10:49:30+08:00 ] /abcTest/admin.php/Course/index | NOTIC: [8] Undefined index: coaPosition 6f0ada55359106615047b4a70d624b08.php 第 59 行.
+[ 2019-07-05T10:49:30+08:00 ] /abcTest/admin.php/Course/index | NOTIC: [8] Undefined index: coaSchool 6f0ada55359106615047b4a70d624b08.php 第 60 行.
+[ 2019-07-05T10:49:30+08:00 ] /abcTest/admin.php/Course/index | NOTIC: [8] Undefined index: coaRemarks 6f0ada55359106615047b4a70d624b08.php 第 61 行.
+[ 2019-07-05T10:49:30+08:00 ] /abcTest/admin.php/Course/index | NOTIC: [8] Undefined index: coaIdCardNo 6f0ada55359106615047b4a70d624b08.php 第 63 行.
+[ 2019-07-05T10:49:30+08:00 ] /abcTest/admin.php/Course/index | INFO: Run ParseTemplate Behavior [ RunTime:0.015000s ]
+[ 2019-07-05T10:49:30+08:00 ] /abcTest/admin.php/Course/index | INFO: Tag[ view_parse ] --END-- [ RunTime:0.015000s ]
+[ 2019-07-05T10:49:30+08:00 ] /abcTest/admin.php/Course/index | INFO: Tag[ view_filter ] --START--
+[ 2019-07-05T10:49:30+08:00 ] /abcTest/admin.php/Course/index | INFO: Run ContentReplace Behavior [ RunTime:0.001000s ]
+[ 2019-07-05T10:49:30+08:00 ] /abcTest/admin.php/Course/index | INFO: Run TokenBuild Behavior [ RunTime:0.001000s ]
+[ 2019-07-05T10:49:30+08:00 ] /abcTest/admin.php/Course/index | INFO: Run WriteHtmlCache Behavior [ RunTime:0.001000s ]
+[ 2019-07-05T10:49:30+08:00 ] /abcTest/admin.php/Course/index | INFO: Run ShowRuntime Behavior [ RunTime:0.001000s ]
+[ 2019-07-05T10:49:30+08:00 ] /abcTest/admin.php/Course/index | INFO: Tag[ view_filter ] --END-- [ RunTime:0.004000s ]
+[ 2019-07-05T10:49:30+08:00 ] /abcTest/admin.php/Course/index | INFO: Tag[ view_end ] --START--
+[ 2019-07-05T10:49:30+08:00 ] /abcTest/admin.php/Course/index | INFO: Run ShowPageTrace Behavior [ RunTime:0.000000s ]
+[ 2019-07-05T10:49:30+08:00 ] /abcTest/admin.php/Course/index | INFO: Tag[ view_end ] --END-- [ RunTime:0.001000s ]
+[ 2019-07-05T10:50:05+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ route_check ] --START--
+[ 2019-07-05T10:50:05+08:00 ] /abcTest/admin.php/Index/index | INFO: Run CheckRoute Behavior [ RunTime:0.001000s ]
+[ 2019-07-05T10:50:05+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ route_check ] --END-- [ RunTime:0.001000s ]
+[ 2019-07-05T10:50:05+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ app_begin ] --START--
+[ 2019-07-05T10:50:05+08:00 ] /abcTest/admin.php/Index/index | INFO: Run ReadHtmlCache Behavior [ RunTime:0.001000s ]
+[ 2019-07-05T10:50:05+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ app_begin ] --END-- [ RunTime:0.001000s ]
+[ 2019-07-05T10:50:05+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ view_template ] --START--
+[ 2019-07-05T10:50:05+08:00 ] /abcTest/admin.php/Index/index | INFO: Run LocationTemplate Behavior [ RunTime:0.001000s ]
+[ 2019-07-05T10:50:05+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ view_template ] --END-- [ RunTime:0.001000s ]
+[ 2019-07-05T10:50:05+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ view_parse ] --START--
+[ 2019-07-05T10:50:05+08:00 ] /abcTest/admin.php/Index/index | NOTIC: [8] Undefined variable: title 4c18d5952d0dbf1eedb8a1ec796fa788.php 第 5 行.
+[ 2019-07-05T10:50:05+08:00 ] /abcTest/admin.php/Index/index | INFO: Run ParseTemplate Behavior [ RunTime:0.009000s ]
+[ 2019-07-05T10:50:05+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ view_parse ] --END-- [ RunTime:0.009000s ]
+[ 2019-07-05T10:50:05+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ view_filter ] --START--
+[ 2019-07-05T10:50:05+08:00 ] /abcTest/admin.php/Index/index | INFO: Run ContentReplace Behavior [ RunTime:0.000000s ]
+[ 2019-07-05T10:50:05+08:00 ] /abcTest/admin.php/Index/index | INFO: Run TokenBuild Behavior [ RunTime:0.001000s ]
+[ 2019-07-05T10:50:05+08:00 ] /abcTest/admin.php/Index/index | INFO: Run WriteHtmlCache Behavior [ RunTime:0.001000s ]
+[ 2019-07-05T10:50:05+08:00 ] /abcTest/admin.php/Index/index | INFO: Run ShowRuntime Behavior [ RunTime:0.001000s ]
+[ 2019-07-05T10:50:05+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ view_filter ] --END-- [ RunTime:0.003000s ]
+[ 2019-07-05T10:50:05+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ view_end ] --START--
+[ 2019-07-05T10:50:05+08:00 ] /abcTest/admin.php/Index/index | INFO: Run ShowPageTrace Behavior [ RunTime:0.000000s ]
+[ 2019-07-05T10:50:05+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ view_end ] --END-- [ RunTime:0.002000s ]
+[ 2019-07-05T10:50:07+08:00 ] /abcTest/admin.php/Course/index | INFO: Tag[ route_check ] --START--
+[ 2019-07-05T10:50:07+08:00 ] /abcTest/admin.php/Course/index | INFO: Run CheckRoute Behavior [ RunTime:0.002000s ]
+[ 2019-07-05T10:50:07+08:00 ] /abcTest/admin.php/Course/index | INFO: Tag[ route_check ] --END-- [ RunTime:0.002000s ]
+[ 2019-07-05T10:50:07+08:00 ] /abcTest/admin.php/Course/index | INFO: Tag[ app_begin ] --START--
+[ 2019-07-05T10:50:07+08:00 ] /abcTest/admin.php/Course/index | INFO: Run ReadHtmlCache Behavior [ RunTime:0.002000s ]
+[ 2019-07-05T10:50:07+08:00 ] /abcTest/admin.php/Course/index | INFO: Tag[ app_begin ] --END-- [ RunTime:0.002000s ]
+[ 2019-07-05T10:50:07+08:00 ] /abcTest/admin.php/Course/index | NOTIC: [8] Use of undefined constant Course - assumed 'Course' CourseAction.class.php 第 5 行.
+[ 2019-07-05T10:50:07+08:00 ] /abcTest/admin.php/Course/index | SQL: SHOW COLUMNS FROM `t_course` [ RunTime:0.003000s ]
+[ 2019-07-05T10:50:07+08:00 ] /abcTest/admin.php/Course/index | SQL: SELECT `courseName`,`courseContent`,`courseTime`,`courseArea`,`courseTeacher`,`coursePrice` FROM `t_course` ORDER BY courseID asc  [ RunTime:0.000000s ]
+[ 2019-07-05T10:50:07+08:00 ] /abcTest/admin.php/Course/index | INFO: Tag[ view_template ] --START--
+[ 2019-07-05T10:50:07+08:00 ] /abcTest/admin.php/Course/index | INFO: Run LocationTemplate Behavior [ RunTime:0.002000s ]
+[ 2019-07-05T10:50:07+08:00 ] /abcTest/admin.php/Course/index | INFO: Tag[ view_template ] --END-- [ RunTime:0.002000s ]
+[ 2019-07-05T10:50:07+08:00 ] /abcTest/admin.php/Course/index | INFO: Tag[ view_parse ] --START--
+[ 2019-07-05T10:50:07+08:00 ] /abcTest/admin.php/Course/index | NOTIC: [8] Undefined variable: title 6f0ada55359106615047b4a70d624b08.php 第 5 行.
+[ 2019-07-05T10:50:07+08:00 ] /abcTest/admin.php/Course/index | NOTIC: [8] Undefined index: coaName 6f0ada55359106615047b4a70d624b08.php 第 52 行.
+[ 2019-07-05T10:50:07+08:00 ] /abcTest/admin.php/Course/index | NOTIC: [8] Undefined index: coaSex 6f0ada55359106615047b4a70d624b08.php 第 53 行.
+[ 2019-07-05T10:50:07+08:00 ] /abcTest/admin.php/Course/index | NOTIC: [8] Undefined index: coaIdCardNo 6f0ada55359106615047b4a70d624b08.php 第 54 行.
+[ 2019-07-05T10:50:07+08:00 ] /abcTest/admin.php/Course/index | NOTIC: [8] Undefined index: coaNation 6f0ada55359106615047b4a70d624b08.php 第 55 行.
+[ 2019-07-05T10:50:07+08:00 ] /abcTest/admin.php/Course/index | NOTIC: [8] Undefined index: coaPolitic 6f0ada55359106615047b4a70d624b08.php 第 56 行.
+[ 2019-07-05T10:50:07+08:00 ] /abcTest/admin.php/Course/index | NOTIC: [8] Undefined index: coaEducation 6f0ada55359106615047b4a70d624b08.php 第 57 行.
+[ 2019-07-05T10:50:07+08:00 ] /abcTest/admin.php/Course/index | NOTIC: [8] Undefined index: coaTel 6f0ada55359106615047b4a70d624b08.php 第 58 行.
+[ 2019-07-05T10:50:07+08:00 ] /abcTest/admin.php/Course/index | NOTIC: [8] Undefined index: coaPosition 6f0ada55359106615047b4a70d624b08.php 第 59 行.
+[ 2019-07-05T10:50:07+08:00 ] /abcTest/admin.php/Course/index | NOTIC: [8] Undefined index: coaSchool 6f0ada55359106615047b4a70d624b08.php 第 60 行.
+[ 2019-07-05T10:50:07+08:00 ] /abcTest/admin.php/Course/index | NOTIC: [8] Undefined index: coaRemarks 6f0ada55359106615047b4a70d624b08.php 第 61 行.
+[ 2019-07-05T10:50:07+08:00 ] /abcTest/admin.php/Course/index | NOTIC: [8] Undefined index: coaIdCardNo 6f0ada55359106615047b4a70d624b08.php 第 63 行.
+[ 2019-07-05T10:50:07+08:00 ] /abcTest/admin.php/Course/index | INFO: Run ParseTemplate Behavior [ RunTime:0.014000s ]
+[ 2019-07-05T10:50:07+08:00 ] /abcTest/admin.php/Course/index | INFO: Tag[ view_parse ] --END-- [ RunTime:0.014000s ]
+[ 2019-07-05T10:50:07+08:00 ] /abcTest/admin.php/Course/index | INFO: Tag[ view_filter ] --START--
+[ 2019-07-05T10:50:07+08:00 ] /abcTest/admin.php/Course/index | INFO: Run ContentReplace Behavior [ RunTime:0.001000s ]
+[ 2019-07-05T10:50:07+08:00 ] /abcTest/admin.php/Course/index | INFO: Run TokenBuild Behavior [ RunTime:0.001000s ]
+[ 2019-07-05T10:50:07+08:00 ] /abcTest/admin.php/Course/index | INFO: Run WriteHtmlCache Behavior [ RunTime:0.001000s ]
+[ 2019-07-05T10:50:07+08:00 ] /abcTest/admin.php/Course/index | INFO: Run ShowRuntime Behavior [ RunTime:0.001000s ]
+[ 2019-07-05T10:50:07+08:00 ] /abcTest/admin.php/Course/index | INFO: Tag[ view_filter ] --END-- [ RunTime:0.005000s ]
+[ 2019-07-05T10:50:07+08:00 ] /abcTest/admin.php/Course/index | INFO: Tag[ view_end ] --START--
+[ 2019-07-05T10:50:07+08:00 ] /abcTest/admin.php/Course/index | INFO: Run ShowPageTrace Behavior [ RunTime:0.001000s ]
+[ 2019-07-05T10:50:07+08:00 ] /abcTest/admin.php/Course/index | INFO: Tag[ view_end ] --END-- [ RunTime:0.001000s ]
+[ 2019-07-05T10:55:29+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ route_check ] --START--
+[ 2019-07-05T10:55:29+08:00 ] /abcTest/admin.php/Index/index | INFO: Run CheckRoute Behavior [ RunTime:0.001000s ]
+[ 2019-07-05T10:55:29+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ route_check ] --END-- [ RunTime:0.001000s ]
+[ 2019-07-05T10:55:29+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ app_begin ] --START--
+[ 2019-07-05T10:55:29+08:00 ] /abcTest/admin.php/Index/index | INFO: Run ReadHtmlCache Behavior [ RunTime:0.001000s ]
+[ 2019-07-05T10:55:29+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ app_begin ] --END-- [ RunTime:0.001000s ]
+[ 2019-07-05T10:55:29+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ view_template ] --START--
+[ 2019-07-05T10:55:29+08:00 ] /abcTest/admin.php/Index/index | INFO: Run LocationTemplate Behavior [ RunTime:0.001000s ]
+[ 2019-07-05T10:55:29+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ view_template ] --END-- [ RunTime:0.001000s ]
+[ 2019-07-05T10:55:29+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ view_parse ] --START--
+[ 2019-07-05T10:55:29+08:00 ] /abcTest/admin.php/Index/index | NOTIC: [8] Undefined variable: title 4c18d5952d0dbf1eedb8a1ec796fa788.php 第 5 行.
+[ 2019-07-05T10:55:29+08:00 ] /abcTest/admin.php/Index/index | INFO: Run ParseTemplate Behavior [ RunTime:0.010000s ]
+[ 2019-07-05T10:55:29+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ view_parse ] --END-- [ RunTime:0.010000s ]
+[ 2019-07-05T10:55:29+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ view_filter ] --START--
+[ 2019-07-05T10:55:29+08:00 ] /abcTest/admin.php/Index/index | INFO: Run ContentReplace Behavior [ RunTime:0.001000s ]
+[ 2019-07-05T10:55:29+08:00 ] /abcTest/admin.php/Index/index | INFO: Run TokenBuild Behavior [ RunTime:0.001000s ]
+[ 2019-07-05T10:55:29+08:00 ] /abcTest/admin.php/Index/index | INFO: Run WriteHtmlCache Behavior [ RunTime:0.001000s ]
+[ 2019-07-05T10:55:29+08:00 ] /abcTest/admin.php/Index/index | INFO: Run ShowRuntime Behavior [ RunTime:0.001000s ]
+[ 2019-07-05T10:55:29+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ view_filter ] --END-- [ RunTime:0.004000s ]
+[ 2019-07-05T10:55:29+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ view_end ] --START--
+[ 2019-07-05T10:55:29+08:00 ] /abcTest/admin.php/Index/index | INFO: Run ShowPageTrace Behavior [ RunTime:0.001000s ]
+[ 2019-07-05T10:55:29+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ view_end ] --END-- [ RunTime:0.001000s ]
+[ 2019-07-05T10:55:30+08:00 ] /abcTest/admin.php/Course/index | INFO: Tag[ route_check ] --START--
+[ 2019-07-05T10:55:30+08:00 ] /abcTest/admin.php/Course/index | INFO: Run CheckRoute Behavior [ RunTime:0.002000s ]
+[ 2019-07-05T10:55:30+08:00 ] /abcTest/admin.php/Course/index | INFO: Tag[ route_check ] --END-- [ RunTime:0.003000s ]
+[ 2019-07-05T10:55:30+08:00 ] /abcTest/admin.php/Course/index | INFO: Tag[ app_begin ] --START--
+[ 2019-07-05T10:55:30+08:00 ] /abcTest/admin.php/Course/index | INFO: Run ReadHtmlCache Behavior [ RunTime:0.002000s ]
+[ 2019-07-05T10:55:30+08:00 ] /abcTest/admin.php/Course/index | INFO: Tag[ app_begin ] --END-- [ RunTime:0.002000s ]
+[ 2019-07-05T10:55:30+08:00 ] /abcTest/admin.php/Course/index | NOTIC: [8] Use of undefined constant Course - assumed 'Course' CourseAction.class.php 第 5 行.
+[ 2019-07-05T10:55:30+08:00 ] /abcTest/admin.php/Course/index | SQL: SHOW COLUMNS FROM `t_course` [ RunTime:0.004000s ]
+[ 2019-07-05T10:55:30+08:00 ] /abcTest/admin.php/Course/index | SQL: SELECT `courseName`,`courseContent`,`courseTime`,`courseArea`,`courseTeacher`,`coursePrice` FROM `t_course` ORDER BY courseID asc  [ RunTime:0.000000s ]
+[ 2019-07-05T10:55:30+08:00 ] /abcTest/admin.php/Course/index | INFO: Tag[ view_template ] --START--
+[ 2019-07-05T10:55:30+08:00 ] /abcTest/admin.php/Course/index | INFO: Run LocationTemplate Behavior [ RunTime:0.002000s ]
+[ 2019-07-05T10:55:30+08:00 ] /abcTest/admin.php/Course/index | INFO: Tag[ view_template ] --END-- [ RunTime:0.002000s ]
+[ 2019-07-05T10:55:30+08:00 ] /abcTest/admin.php/Course/index | INFO: Tag[ view_parse ] --START--
+[ 2019-07-05T10:55:30+08:00 ] /abcTest/admin.php/Course/index | NOTIC: [8] Undefined variable: title 6f0ada55359106615047b4a70d624b08.php 第 5 行.
+[ 2019-07-05T10:55:30+08:00 ] /abcTest/admin.php/Course/index | NOTIC: [8] Undefined index: coaIdCardNo 6f0ada55359106615047b4a70d624b08.php 第 60 行.
+[ 2019-07-05T10:55:30+08:00 ] /abcTest/admin.php/Course/index | INFO: Run ParseTemplate Behavior [ RunTime:0.012000s ]
+[ 2019-07-05T10:55:30+08:00 ] /abcTest/admin.php/Course/index | INFO: Tag[ view_parse ] --END-- [ RunTime:0.012000s ]
+[ 2019-07-05T10:55:30+08:00 ] /abcTest/admin.php/Course/index | INFO: Tag[ view_filter ] --START--
+[ 2019-07-05T10:55:30+08:00 ] /abcTest/admin.php/Course/index | INFO: Run ContentReplace Behavior [ RunTime:0.001000s ]
+[ 2019-07-05T10:55:30+08:00 ] /abcTest/admin.php/Course/index | INFO: Run TokenBuild Behavior [ RunTime:0.001000s ]
+[ 2019-07-05T10:55:30+08:00 ] /abcTest/admin.php/Course/index | INFO: Run WriteHtmlCache Behavior [ RunTime:0.001000s ]
+[ 2019-07-05T10:55:30+08:00 ] /abcTest/admin.php/Course/index | INFO: Run ShowRuntime Behavior [ RunTime:0.001000s ]
+[ 2019-07-05T10:55:30+08:00 ] /abcTest/admin.php/Course/index | INFO: Tag[ view_filter ] --END-- [ RunTime:0.005000s ]
+[ 2019-07-05T10:55:30+08:00 ] /abcTest/admin.php/Course/index | INFO: Tag[ view_end ] --START--
+[ 2019-07-05T10:55:30+08:00 ] /abcTest/admin.php/Course/index | INFO: Run ShowPageTrace Behavior [ RunTime:0.001000s ]
+[ 2019-07-05T10:55:30+08:00 ] /abcTest/admin.php/Course/index | INFO: Tag[ view_end ] --END-- [ RunTime:0.001000s ]
+[ 2019-07-05T11:00:15+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ route_check ] --START--
+[ 2019-07-05T11:00:15+08:00 ] /abcTest/admin.php/Index/index | INFO: Run CheckRoute Behavior [ RunTime:0.002000s ]
+[ 2019-07-05T11:00:15+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ route_check ] --END-- [ RunTime:0.003000s ]
+[ 2019-07-05T11:00:15+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ app_begin ] --START--
+[ 2019-07-05T11:00:15+08:00 ] /abcTest/admin.php/Index/index | INFO: Run ReadHtmlCache Behavior [ RunTime:0.002000s ]
+[ 2019-07-05T11:00:15+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ app_begin ] --END-- [ RunTime:0.002000s ]
+[ 2019-07-05T11:00:15+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ view_template ] --START--
+[ 2019-07-05T11:00:15+08:00 ] /abcTest/admin.php/Index/index | INFO: Run LocationTemplate Behavior [ RunTime:0.003000s ]
+[ 2019-07-05T11:00:15+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ view_template ] --END-- [ RunTime:0.003000s ]
+[ 2019-07-05T11:00:15+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ view_parse ] --START--
+[ 2019-07-05T11:00:15+08:00 ] /abcTest/admin.php/Index/index | NOTIC: [8] Undefined variable: title 4c18d5952d0dbf1eedb8a1ec796fa788.php 第 5 行.
+[ 2019-07-05T11:00:15+08:00 ] /abcTest/admin.php/Index/index | INFO: Run ParseTemplate Behavior [ RunTime:0.012000s ]
+[ 2019-07-05T11:00:15+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ view_parse ] --END-- [ RunTime:0.012000s ]
+[ 2019-07-05T11:00:15+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ view_filter ] --START--
+[ 2019-07-05T11:00:15+08:00 ] /abcTest/admin.php/Index/index | INFO: Run ContentReplace Behavior [ RunTime:0.001000s ]
+[ 2019-07-05T11:00:15+08:00 ] /abcTest/admin.php/Index/index | INFO: Run TokenBuild Behavior [ RunTime:0.001000s ]
+[ 2019-07-05T11:00:15+08:00 ] /abcTest/admin.php/Index/index | INFO: Run WriteHtmlCache Behavior [ RunTime:0.001000s ]
+[ 2019-07-05T11:00:15+08:00 ] /abcTest/admin.php/Index/index | INFO: Run ShowRuntime Behavior [ RunTime:0.001000s ]
+[ 2019-07-05T11:00:15+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ view_filter ] --END-- [ RunTime:0.005000s ]
+[ 2019-07-05T11:00:15+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ view_end ] --START--
+[ 2019-07-05T11:00:15+08:00 ] /abcTest/admin.php/Index/index | INFO: Run ShowPageTrace Behavior [ RunTime:0.001000s ]
+[ 2019-07-05T11:00:15+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ view_end ] --END-- [ RunTime:0.001000s ]
+[ 2019-07-05T11:00:17+08:00 ] /abcTest/admin.php/Course/index | INFO: Tag[ route_check ] --START--
+[ 2019-07-05T11:00:17+08:00 ] /abcTest/admin.php/Course/index | INFO: Run CheckRoute Behavior [ RunTime:0.003000s ]
+[ 2019-07-05T11:00:17+08:00 ] /abcTest/admin.php/Course/index | INFO: Tag[ route_check ] --END-- [ RunTime:0.004000s ]
+[ 2019-07-05T11:00:17+08:00 ] /abcTest/admin.php/Course/index | INFO: Tag[ app_begin ] --START--
+[ 2019-07-05T11:00:17+08:00 ] /abcTest/admin.php/Course/index | INFO: Run ReadHtmlCache Behavior [ RunTime:0.003000s ]
+[ 2019-07-05T11:00:17+08:00 ] /abcTest/admin.php/Course/index | INFO: Tag[ app_begin ] --END-- [ RunTime:0.003000s ]
+[ 2019-07-05T11:00:17+08:00 ] /abcTest/admin.php/Course/index | NOTIC: [8] Use of undefined constant Course - assumed 'Course' CourseAction.class.php 第 5 行.
+[ 2019-07-05T11:00:17+08:00 ] /abcTest/admin.php/Course/index | SQL: SHOW COLUMNS FROM `t_course` [ RunTime:0.005000s ]
+[ 2019-07-05T11:00:17+08:00 ] /abcTest/admin.php/Course/index | SQL: SELECT `courseName`,`courseContent`,`courseTime`,`courseArea`,`courseTeacher`,`coursePrice` FROM `t_course` ORDER BY courseID asc  [ RunTime:0.000000s ]
+[ 2019-07-05T11:00:17+08:00 ] /abcTest/admin.php/Course/index | INFO: Tag[ view_template ] --START--
+[ 2019-07-05T11:00:17+08:00 ] /abcTest/admin.php/Course/index | INFO: Run LocationTemplate Behavior [ RunTime:0.003000s ]
+[ 2019-07-05T11:00:17+08:00 ] /abcTest/admin.php/Course/index | INFO: Tag[ view_template ] --END-- [ RunTime:0.003000s ]
+[ 2019-07-05T11:00:17+08:00 ] /abcTest/admin.php/Course/index | INFO: Tag[ view_parse ] --START--
+[ 2019-07-05T11:00:17+08:00 ] /abcTest/admin.php/Course/index | NOTIC: [8] Undefined variable: title 6f0ada55359106615047b4a70d624b08.php 第 5 行.
+[ 2019-07-05T11:00:17+08:00 ] /abcTest/admin.php/Course/index | NOTIC: [8] Undefined index: coaIdCardNo 6f0ada55359106615047b4a70d624b08.php 第 60 行.
+[ 2019-07-05T11:00:17+08:00 ] /abcTest/admin.php/Course/index | INFO: Run ParseTemplate Behavior [ RunTime:0.019000s ]
+[ 2019-07-05T11:00:17+08:00 ] /abcTest/admin.php/Course/index | INFO: Tag[ view_parse ] --END-- [ RunTime:0.019000s ]
+[ 2019-07-05T11:00:17+08:00 ] /abcTest/admin.php/Course/index | INFO: Tag[ view_filter ] --START--
+[ 2019-07-05T11:00:17+08:00 ] /abcTest/admin.php/Course/index | INFO: Run ContentReplace Behavior [ RunTime:0.002000s ]
+[ 2019-07-05T11:00:17+08:00 ] /abcTest/admin.php/Course/index | INFO: Run TokenBuild Behavior [ RunTime:0.002000s ]
+[ 2019-07-05T11:00:17+08:00 ] /abcTest/admin.php/Course/index | INFO: Run WriteHtmlCache Behavior [ RunTime:0.001000s ]
+[ 2019-07-05T11:00:17+08:00 ] /abcTest/admin.php/Course/index | INFO: Run ShowRuntime Behavior [ RunTime:0.001000s ]
+[ 2019-07-05T11:00:17+08:00 ] /abcTest/admin.php/Course/index | INFO: Tag[ view_filter ] --END-- [ RunTime:0.006000s ]
+[ 2019-07-05T11:00:17+08:00 ] /abcTest/admin.php/Course/index | INFO: Tag[ view_end ] --START--
+[ 2019-07-05T11:00:17+08:00 ] /abcTest/admin.php/Course/index | INFO: Run ShowPageTrace Behavior [ RunTime:0.001000s ]
+[ 2019-07-05T11:00:17+08:00 ] /abcTest/admin.php/Course/index | INFO: Tag[ view_end ] --END-- [ RunTime:0.001000s ]
+[ 2019-07-05T11:01:41+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ route_check ] --START--
+[ 2019-07-05T11:01:41+08:00 ] /abcTest/admin.php/Index/index | INFO: Run CheckRoute Behavior [ RunTime:0.002000s ]
+[ 2019-07-05T11:01:41+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ route_check ] --END-- [ RunTime:0.002000s ]
+[ 2019-07-05T11:01:41+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ app_begin ] --START--
+[ 2019-07-05T11:01:41+08:00 ] /abcTest/admin.php/Index/index | INFO: Run ReadHtmlCache Behavior [ RunTime:0.002000s ]
+[ 2019-07-05T11:01:41+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ app_begin ] --END-- [ RunTime:0.002000s ]
+[ 2019-07-05T11:01:41+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ view_template ] --START--
+[ 2019-07-05T11:01:41+08:00 ] /abcTest/admin.php/Index/index | INFO: Run LocationTemplate Behavior [ RunTime:0.002000s ]
+[ 2019-07-05T11:01:41+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ view_template ] --END-- [ RunTime:0.002000s ]
+[ 2019-07-05T11:01:41+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ view_parse ] --START--
+[ 2019-07-05T11:01:41+08:00 ] /abcTest/admin.php/Index/index | NOTIC: [8] Undefined variable: title 4c18d5952d0dbf1eedb8a1ec796fa788.php 第 5 行.
+[ 2019-07-05T11:01:41+08:00 ] /abcTest/admin.php/Index/index | INFO: Run ParseTemplate Behavior [ RunTime:0.014000s ]
+[ 2019-07-05T11:01:41+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ view_parse ] --END-- [ RunTime:0.014000s ]
+[ 2019-07-05T11:01:41+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ view_filter ] --START--
+[ 2019-07-05T11:01:41+08:00 ] /abcTest/admin.php/Index/index | INFO: Run ContentReplace Behavior [ RunTime:0.001000s ]
+[ 2019-07-05T11:01:41+08:00 ] /abcTest/admin.php/Index/index | INFO: Run TokenBuild Behavior [ RunTime:0.001000s ]
+[ 2019-07-05T11:01:41+08:00 ] /abcTest/admin.php/Index/index | INFO: Run WriteHtmlCache Behavior [ RunTime:0.001000s ]
+[ 2019-07-05T11:01:41+08:00 ] /abcTest/admin.php/Index/index | INFO: Run ShowRuntime Behavior [ RunTime:0.001000s ]
+[ 2019-07-05T11:01:41+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ view_filter ] --END-- [ RunTime:0.004000s ]
+[ 2019-07-05T11:01:41+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ view_end ] --START--
+[ 2019-07-05T11:01:41+08:00 ] /abcTest/admin.php/Index/index | INFO: Run ShowPageTrace Behavior [ RunTime:0.001000s ]
+[ 2019-07-05T11:01:41+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ view_end ] --END-- [ RunTime:0.001000s ]
+[ 2019-07-05T11:01:43+08:00 ] /abcTest/admin.php/Course/index | INFO: Tag[ route_check ] --START--
+[ 2019-07-05T11:01:43+08:00 ] /abcTest/admin.php/Course/index | INFO: Run CheckRoute Behavior [ RunTime:0.001000s ]
+[ 2019-07-05T11:01:43+08:00 ] /abcTest/admin.php/Course/index | INFO: Tag[ route_check ] --END-- [ RunTime:0.002000s ]
+[ 2019-07-05T11:01:43+08:00 ] /abcTest/admin.php/Course/index | INFO: Tag[ app_begin ] --START--
+[ 2019-07-05T11:01:43+08:00 ] /abcTest/admin.php/Course/index | INFO: Run ReadHtmlCache Behavior [ RunTime:0.002000s ]
+[ 2019-07-05T11:01:43+08:00 ] /abcTest/admin.php/Course/index | INFO: Tag[ app_begin ] --END-- [ RunTime:0.002000s ]
+[ 2019-07-05T11:01:43+08:00 ] /abcTest/admin.php/Course/index | NOTIC: [8] Use of undefined constant Course - assumed 'Course' CourseAction.class.php 第 5 行.
+[ 2019-07-05T11:01:43+08:00 ] /abcTest/admin.php/Course/index | SQL: SHOW COLUMNS FROM `t_course` [ RunTime:0.004000s ]
+[ 2019-07-05T11:01:43+08:00 ] /abcTest/admin.php/Course/index | SQL: SELECT `courseName`,`courseContent`,`courseTime`,`courseArea`,`courseTeacher`,`coursePrice` FROM `t_course` ORDER BY courseID asc  [ RunTime:0.001000s ]
+[ 2019-07-05T11:01:43+08:00 ] /abcTest/admin.php/Course/index | INFO: Tag[ view_template ] --START--
+[ 2019-07-05T11:01:43+08:00 ] /abcTest/admin.php/Course/index | INFO: Run LocationTemplate Behavior [ RunTime:0.001000s ]
+[ 2019-07-05T11:01:43+08:00 ] /abcTest/admin.php/Course/index | INFO: Tag[ view_template ] --END-- [ RunTime:0.001000s ]
+[ 2019-07-05T11:01:43+08:00 ] /abcTest/admin.php/Course/index | INFO: Tag[ view_parse ] --START--
+[ 2019-07-05T11:01:43+08:00 ] /abcTest/admin.php/Course/index | NOTIC: [8] Undefined variable: title 6f0ada55359106615047b4a70d624b08.php 第 5 行.
+[ 2019-07-05T11:01:43+08:00 ] /abcTest/admin.php/Course/index | NOTIC: [8] Undefined index: coaIdCardNo 6f0ada55359106615047b4a70d624b08.php 第 60 行.
+[ 2019-07-05T11:01:43+08:00 ] /abcTest/admin.php/Course/index | INFO: Run ParseTemplate Behavior [ RunTime:0.013000s ]
+[ 2019-07-05T11:01:43+08:00 ] /abcTest/admin.php/Course/index | INFO: Tag[ view_parse ] --END-- [ RunTime:0.013000s ]
+[ 2019-07-05T11:01:43+08:00 ] /abcTest/admin.php/Course/index | INFO: Tag[ view_filter ] --START--
+[ 2019-07-05T11:01:43+08:00 ] /abcTest/admin.php/Course/index | INFO: Run ContentReplace Behavior [ RunTime:0.001000s ]
+[ 2019-07-05T11:01:43+08:00 ] /abcTest/admin.php/Course/index | INFO: Run TokenBuild Behavior [ RunTime:0.001000s ]
+[ 2019-07-05T11:01:43+08:00 ] /abcTest/admin.php/Course/index | INFO: Run WriteHtmlCache Behavior [ RunTime:0.001000s ]
+[ 2019-07-05T11:01:43+08:00 ] /abcTest/admin.php/Course/index | INFO: Run ShowRuntime Behavior [ RunTime:0.001000s ]
+[ 2019-07-05T11:01:43+08:00 ] /abcTest/admin.php/Course/index | INFO: Tag[ view_filter ] --END-- [ RunTime:0.004000s ]
+[ 2019-07-05T11:01:43+08:00 ] /abcTest/admin.php/Course/index | INFO: Tag[ view_end ] --START--
+[ 2019-07-05T11:01:43+08:00 ] /abcTest/admin.php/Course/index | INFO: Run ShowPageTrace Behavior [ RunTime:0.001000s ]
+[ 2019-07-05T11:01:43+08:00 ] /abcTest/admin.php/Course/index | INFO: Tag[ view_end ] --END-- [ RunTime:0.001000s ]
+[ 2019-07-05T11:03:21+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ route_check ] --START--
+[ 2019-07-05T11:03:21+08:00 ] /abcTest/admin.php/Index/index | INFO: Run CheckRoute Behavior [ RunTime:0.002000s ]
+[ 2019-07-05T11:03:21+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ route_check ] --END-- [ RunTime:0.002000s ]
+[ 2019-07-05T11:03:21+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ app_begin ] --START--
+[ 2019-07-05T11:03:21+08:00 ] /abcTest/admin.php/Index/index | INFO: Run ReadHtmlCache Behavior [ RunTime:0.002000s ]
+[ 2019-07-05T11:03:21+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ app_begin ] --END-- [ RunTime:0.002000s ]
+[ 2019-07-05T11:03:21+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ view_template ] --START--
+[ 2019-07-05T11:03:21+08:00 ] /abcTest/admin.php/Index/index | INFO: Run LocationTemplate Behavior [ RunTime:0.002000s ]
+[ 2019-07-05T11:03:21+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ view_template ] --END-- [ RunTime:0.003000s ]
+[ 2019-07-05T11:03:21+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ view_parse ] --START--
+[ 2019-07-05T11:03:21+08:00 ] /abcTest/admin.php/Index/index | NOTIC: [8] Undefined variable: title 4c18d5952d0dbf1eedb8a1ec796fa788.php 第 5 行.
+[ 2019-07-05T11:03:21+08:00 ] /abcTest/admin.php/Index/index | INFO: Run ParseTemplate Behavior [ RunTime:0.011000s ]
+[ 2019-07-05T11:03:21+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ view_parse ] --END-- [ RunTime:0.011000s ]
+[ 2019-07-05T11:03:21+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ view_filter ] --START--
+[ 2019-07-05T11:03:21+08:00 ] /abcTest/admin.php/Index/index | INFO: Run ContentReplace Behavior [ RunTime:0.001000s ]
+[ 2019-07-05T11:03:21+08:00 ] /abcTest/admin.php/Index/index | INFO: Run TokenBuild Behavior [ RunTime:0.001000s ]
+[ 2019-07-05T11:03:21+08:00 ] /abcTest/admin.php/Index/index | INFO: Run WriteHtmlCache Behavior [ RunTime:0.001000s ]
+[ 2019-07-05T11:03:21+08:00 ] /abcTest/admin.php/Index/index | INFO: Run ShowRuntime Behavior [ RunTime:0.001000s ]
+[ 2019-07-05T11:03:21+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ view_filter ] --END-- [ RunTime:0.005000s ]
+[ 2019-07-05T11:03:21+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ view_end ] --START--
+[ 2019-07-05T11:03:21+08:00 ] /abcTest/admin.php/Index/index | INFO: Run ShowPageTrace Behavior [ RunTime:0.001000s ]
+[ 2019-07-05T11:03:21+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ view_end ] --END-- [ RunTime:0.001000s ]
+[ 2019-07-05T11:03:24+08:00 ] /abcTest/admin.php/Course/index | INFO: Tag[ route_check ] --START--
+[ 2019-07-05T11:03:24+08:00 ] /abcTest/admin.php/Course/index | INFO: Run CheckRoute Behavior [ RunTime:0.001000s ]
+[ 2019-07-05T11:03:24+08:00 ] /abcTest/admin.php/Course/index | INFO: Tag[ route_check ] --END-- [ RunTime:0.001000s ]
+[ 2019-07-05T11:03:24+08:00 ] /abcTest/admin.php/Course/index | INFO: Tag[ app_begin ] --START--
+[ 2019-07-05T11:03:24+08:00 ] /abcTest/admin.php/Course/index | INFO: Run ReadHtmlCache Behavior [ RunTime:0.001000s ]
+[ 2019-07-05T11:03:24+08:00 ] /abcTest/admin.php/Course/index | INFO: Tag[ app_begin ] --END-- [ RunTime:0.001000s ]
+[ 2019-07-05T11:03:24+08:00 ] /abcTest/admin.php/Course/index | NOTIC: [8] Use of undefined constant Course - assumed 'Course' CourseAction.class.php 第 5 行.
+[ 2019-07-05T11:03:24+08:00 ] /abcTest/admin.php/Course/index | SQL: SHOW COLUMNS FROM `t_course` [ RunTime:0.003000s ]
+[ 2019-07-05T11:03:24+08:00 ] /abcTest/admin.php/Course/index | SQL: SELECT `courseName`,`courseContent`,`courseTime`,`courseArea`,`courseTeacher`,`coursePrice` FROM `t_course` ORDER BY courseID asc  [ RunTime:0.001000s ]
+[ 2019-07-05T11:03:24+08:00 ] /abcTest/admin.php/Course/index | INFO: Tag[ view_template ] --START--
+[ 2019-07-05T11:03:24+08:00 ] /abcTest/admin.php/Course/index | INFO: Run LocationTemplate Behavior [ RunTime:0.002000s ]
+[ 2019-07-05T11:03:24+08:00 ] /abcTest/admin.php/Course/index | INFO: Tag[ view_template ] --END-- [ RunTime:0.002000s ]
+[ 2019-07-05T11:03:24+08:00 ] /abcTest/admin.php/Course/index | INFO: Tag[ view_parse ] --START--
+[ 2019-07-05T11:03:24+08:00 ] /abcTest/admin.php/Course/index | NOTIC: [8] Undefined variable: title 6f0ada55359106615047b4a70d624b08.php 第 5 行.
+[ 2019-07-05T11:03:24+08:00 ] /abcTest/admin.php/Course/index | NOTIC: [8] Undefined index: coaIdCardNo 6f0ada55359106615047b4a70d624b08.php 第 60 行.
+[ 2019-07-05T11:03:24+08:00 ] /abcTest/admin.php/Course/index | INFO: Run ParseTemplate Behavior [ RunTime:0.015000s ]
+[ 2019-07-05T11:03:24+08:00 ] /abcTest/admin.php/Course/index | INFO: Tag[ view_parse ] --END-- [ RunTime:0.015000s ]
+[ 2019-07-05T11:03:24+08:00 ] /abcTest/admin.php/Course/index | INFO: Tag[ view_filter ] --START--
+[ 2019-07-05T11:03:24+08:00 ] /abcTest/admin.php/Course/index | INFO: Run ContentReplace Behavior [ RunTime:0.001000s ]
+[ 2019-07-05T11:03:24+08:00 ] /abcTest/admin.php/Course/index | INFO: Run TokenBuild Behavior [ RunTime:0.001000s ]
+[ 2019-07-05T11:03:24+08:00 ] /abcTest/admin.php/Course/index | INFO: Run WriteHtmlCache Behavior [ RunTime:0.001000s ]
+[ 2019-07-05T11:03:24+08:00 ] /abcTest/admin.php/Course/index | INFO: Run ShowRuntime Behavior [ RunTime:0.002000s ]
+[ 2019-07-05T11:03:24+08:00 ] /abcTest/admin.php/Course/index | INFO: Tag[ view_filter ] --END-- [ RunTime:0.006000s ]
+[ 2019-07-05T11:03:24+08:00 ] /abcTest/admin.php/Course/index | INFO: Tag[ view_end ] --START--
+[ 2019-07-05T11:03:24+08:00 ] /abcTest/admin.php/Course/index | INFO: Run ShowPageTrace Behavior [ RunTime:0.001000s ]
+[ 2019-07-05T11:03:24+08:00 ] /abcTest/admin.php/Course/index | INFO: Tag[ view_end ] --END-- [ RunTime:0.001000s ]
+[ 2019-07-05T11:04:46+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ route_check ] --START--
+[ 2019-07-05T11:04:46+08:00 ] /abcTest/admin.php/Index/index | INFO: Run CheckRoute Behavior [ RunTime:0.001000s ]
+[ 2019-07-05T11:04:46+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ route_check ] --END-- [ RunTime:0.001000s ]
+[ 2019-07-05T11:04:46+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ app_begin ] --START--
+[ 2019-07-05T11:04:46+08:00 ] /abcTest/admin.php/Index/index | INFO: Run ReadHtmlCache Behavior [ RunTime:0.001000s ]
+[ 2019-07-05T11:04:46+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ app_begin ] --END-- [ RunTime:0.001000s ]
+[ 2019-07-05T11:04:46+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ view_template ] --START--
+[ 2019-07-05T11:04:46+08:00 ] /abcTest/admin.php/Index/index | INFO: Run LocationTemplate Behavior [ RunTime:0.002000s ]
+[ 2019-07-05T11:04:46+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ view_template ] --END-- [ RunTime:0.002000s ]
+[ 2019-07-05T11:04:46+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ view_parse ] --START--
+[ 2019-07-05T11:04:46+08:00 ] /abcTest/admin.php/Index/index | NOTIC: [8] Undefined variable: title 4c18d5952d0dbf1eedb8a1ec796fa788.php 第 5 行.
+[ 2019-07-05T11:04:46+08:00 ] /abcTest/admin.php/Index/index | INFO: Run ParseTemplate Behavior [ RunTime:0.009000s ]
+[ 2019-07-05T11:04:46+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ view_parse ] --END-- [ RunTime:0.009000s ]
+[ 2019-07-05T11:04:46+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ view_filter ] --START--
+[ 2019-07-05T11:04:46+08:00 ] /abcTest/admin.php/Index/index | INFO: Run ContentReplace Behavior [ RunTime:0.001000s ]
+[ 2019-07-05T11:04:46+08:00 ] /abcTest/admin.php/Index/index | INFO: Run TokenBuild Behavior [ RunTime:0.001000s ]
+[ 2019-07-05T11:04:46+08:00 ] /abcTest/admin.php/Index/index | INFO: Run WriteHtmlCache Behavior [ RunTime:0.001000s ]
+[ 2019-07-05T11:04:46+08:00 ] /abcTest/admin.php/Index/index | INFO: Run ShowRuntime Behavior [ RunTime:0.001000s ]
+[ 2019-07-05T11:04:46+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ view_filter ] --END-- [ RunTime:0.004000s ]
+[ 2019-07-05T11:04:46+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ view_end ] --START--
+[ 2019-07-05T11:04:46+08:00 ] /abcTest/admin.php/Index/index | INFO: Run ShowPageTrace Behavior [ RunTime:0.001000s ]
+[ 2019-07-05T11:04:46+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ view_end ] --END-- [ RunTime:0.001000s ]
+[ 2019-07-05T11:04:48+08:00 ] /abcTest/admin.php/Course/index | INFO: Tag[ route_check ] --START--
+[ 2019-07-05T11:04:48+08:00 ] /abcTest/admin.php/Course/index | INFO: Run CheckRoute Behavior [ RunTime:0.002000s ]
+[ 2019-07-05T11:04:48+08:00 ] /abcTest/admin.php/Course/index | INFO: Tag[ route_check ] --END-- [ RunTime:0.002000s ]
+[ 2019-07-05T11:04:48+08:00 ] /abcTest/admin.php/Course/index | INFO: Tag[ app_begin ] --START--
+[ 2019-07-05T11:04:48+08:00 ] /abcTest/admin.php/Course/index | INFO: Run ReadHtmlCache Behavior [ RunTime:0.001000s ]
+[ 2019-07-05T11:04:48+08:00 ] /abcTest/admin.php/Course/index | INFO: Tag[ app_begin ] --END-- [ RunTime:0.002000s ]
+[ 2019-07-05T11:04:48+08:00 ] /abcTest/admin.php/Course/index | NOTIC: [8] Use of undefined constant Course - assumed 'Course' CourseAction.class.php 第 5 行.
+[ 2019-07-05T11:04:48+08:00 ] /abcTest/admin.php/Course/index | SQL: SHOW COLUMNS FROM `t_course` [ RunTime:0.003000s ]
+[ 2019-07-05T11:04:48+08:00 ] /abcTest/admin.php/Course/index | SQL: SELECT `courseName`,`courseContent`,`courseTime`,`courseArea`,`courseTeacher`,`coursePrice` FROM `t_course` ORDER BY courseID asc  [ RunTime:0.000000s ]
+[ 2019-07-05T11:04:48+08:00 ] /abcTest/admin.php/Course/index | INFO: Tag[ view_template ] --START--
+[ 2019-07-05T11:04:48+08:00 ] /abcTest/admin.php/Course/index | INFO: Run LocationTemplate Behavior [ RunTime:0.002000s ]
+[ 2019-07-05T11:04:48+08:00 ] /abcTest/admin.php/Course/index | INFO: Tag[ view_template ] --END-- [ RunTime:0.002000s ]
+[ 2019-07-05T11:04:48+08:00 ] /abcTest/admin.php/Course/index | INFO: Tag[ view_parse ] --START--
+[ 2019-07-05T11:04:48+08:00 ] /abcTest/admin.php/Course/index | NOTIC: [8] Undefined variable: title 6f0ada55359106615047b4a70d624b08.php 第 5 行.
+[ 2019-07-05T11:04:48+08:00 ] /abcTest/admin.php/Course/index | NOTIC: [8] Undefined index: coaIdCardNo 6f0ada55359106615047b4a70d624b08.php 第 60 行.
+[ 2019-07-05T11:04:48+08:00 ] /abcTest/admin.php/Course/index | INFO: Run ParseTemplate Behavior [ RunTime:0.013000s ]
+[ 2019-07-05T11:04:48+08:00 ] /abcTest/admin.php/Course/index | INFO: Tag[ view_parse ] --END-- [ RunTime:0.013000s ]
+[ 2019-07-05T11:04:48+08:00 ] /abcTest/admin.php/Course/index | INFO: Tag[ view_filter ] --START--
+[ 2019-07-05T11:04:48+08:00 ] /abcTest/admin.php/Course/index | INFO: Run ContentReplace Behavior [ RunTime:0.001000s ]
+[ 2019-07-05T11:04:48+08:00 ] /abcTest/admin.php/Course/index | INFO: Run TokenBuild Behavior [ RunTime:0.001000s ]
+[ 2019-07-05T11:04:48+08:00 ] /abcTest/admin.php/Course/index | INFO: Run WriteHtmlCache Behavior [ RunTime:0.001000s ]
+[ 2019-07-05T11:04:48+08:00 ] /abcTest/admin.php/Course/index | INFO: Run ShowRuntime Behavior [ RunTime:0.001000s ]
+[ 2019-07-05T11:04:48+08:00 ] /abcTest/admin.php/Course/index | INFO: Tag[ view_filter ] --END-- [ RunTime:0.004000s ]
+[ 2019-07-05T11:04:48+08:00 ] /abcTest/admin.php/Course/index | INFO: Tag[ view_end ] --START--
+[ 2019-07-05T11:04:48+08:00 ] /abcTest/admin.php/Course/index | INFO: Run ShowPageTrace Behavior [ RunTime:0.001000s ]
+[ 2019-07-05T11:04:48+08:00 ] /abcTest/admin.php/Course/index | INFO: Tag[ view_end ] --END-- [ RunTime:0.001000s ]
+[ 2019-07-05T11:07:02+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ route_check ] --START--
+[ 2019-07-05T11:07:02+08:00 ] /abcTest/admin.php/Index/index | INFO: Run CheckRoute Behavior [ RunTime:0.002000s ]
+[ 2019-07-05T11:07:02+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ route_check ] --END-- [ RunTime:0.002000s ]
+[ 2019-07-05T11:07:02+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ app_begin ] --START--
+[ 2019-07-05T11:07:02+08:00 ] /abcTest/admin.php/Index/index | INFO: Run ReadHtmlCache Behavior [ RunTime:0.001000s ]
+[ 2019-07-05T11:07:02+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ app_begin ] --END-- [ RunTime:0.001000s ]
+[ 2019-07-05T11:07:02+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ view_template ] --START--
+[ 2019-07-05T11:07:02+08:00 ] /abcTest/admin.php/Index/index | INFO: Run LocationTemplate Behavior [ RunTime:0.002000s ]
+[ 2019-07-05T11:07:02+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ view_template ] --END-- [ RunTime:0.002000s ]
+[ 2019-07-05T11:07:02+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ view_parse ] --START--
+[ 2019-07-05T11:07:02+08:00 ] /abcTest/admin.php/Index/index | NOTIC: [8] Undefined variable: title 4c18d5952d0dbf1eedb8a1ec796fa788.php 第 5 行.
+[ 2019-07-05T11:07:02+08:00 ] /abcTest/admin.php/Index/index | INFO: Run ParseTemplate Behavior [ RunTime:0.010000s ]
+[ 2019-07-05T11:07:02+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ view_parse ] --END-- [ RunTime:0.010000s ]
+[ 2019-07-05T11:07:02+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ view_filter ] --START--
+[ 2019-07-05T11:07:02+08:00 ] /abcTest/admin.php/Index/index | INFO: Run ContentReplace Behavior [ RunTime:0.001000s ]
+[ 2019-07-05T11:07:02+08:00 ] /abcTest/admin.php/Index/index | INFO: Run TokenBuild Behavior [ RunTime:0.001000s ]
+[ 2019-07-05T11:07:02+08:00 ] /abcTest/admin.php/Index/index | INFO: Run WriteHtmlCache Behavior [ RunTime:0.001000s ]
+[ 2019-07-05T11:07:02+08:00 ] /abcTest/admin.php/Index/index | INFO: Run ShowRuntime Behavior [ RunTime:0.001000s ]
+[ 2019-07-05T11:07:02+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ view_filter ] --END-- [ RunTime:0.004000s ]
+[ 2019-07-05T11:07:02+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ view_end ] --START--
+[ 2019-07-05T11:07:02+08:00 ] /abcTest/admin.php/Index/index | INFO: Run ShowPageTrace Behavior [ RunTime:0.000000s ]
+[ 2019-07-05T11:07:02+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ view_end ] --END-- [ RunTime:0.002000s ]
+[ 2019-07-05T11:07:03+08:00 ] /abcTest/admin.php/Course/index | INFO: Tag[ route_check ] --START--
+[ 2019-07-05T11:07:03+08:00 ] /abcTest/admin.php/Course/index | INFO: Run CheckRoute Behavior [ RunTime:0.002000s ]
+[ 2019-07-05T11:07:03+08:00 ] /abcTest/admin.php/Course/index | INFO: Tag[ route_check ] --END-- [ RunTime:0.002000s ]
+[ 2019-07-05T11:07:03+08:00 ] /abcTest/admin.php/Course/index | INFO: Tag[ app_begin ] --START--
+[ 2019-07-05T11:07:03+08:00 ] /abcTest/admin.php/Course/index | INFO: Run ReadHtmlCache Behavior [ RunTime:0.003000s ]
+[ 2019-07-05T11:07:03+08:00 ] /abcTest/admin.php/Course/index | INFO: Tag[ app_begin ] --END-- [ RunTime:0.003000s ]
+[ 2019-07-05T11:07:03+08:00 ] /abcTest/admin.php/Course/index | NOTIC: [8] Use of undefined constant Course - assumed 'Course' CourseAction.class.php 第 5 行.
+[ 2019-07-05T11:07:03+08:00 ] /abcTest/admin.php/Course/index | SQL: SHOW COLUMNS FROM `t_course` [ RunTime:0.004000s ]
+[ 2019-07-05T11:07:03+08:00 ] /abcTest/admin.php/Course/index | SQL: SELECT `courseName`,`courseContent`,`courseTime`,`courseArea`,`courseTeacher`,`coursePrice` FROM `t_course` ORDER BY courseID asc  [ RunTime:0.001000s ]
+[ 2019-07-05T11:07:03+08:00 ] /abcTest/admin.php/Course/index | INFO: Tag[ view_template ] --START--
+[ 2019-07-05T11:07:03+08:00 ] /abcTest/admin.php/Course/index | INFO: Run LocationTemplate Behavior [ RunTime:0.003000s ]
+[ 2019-07-05T11:07:03+08:00 ] /abcTest/admin.php/Course/index | INFO: Tag[ view_template ] --END-- [ RunTime:0.003000s ]
+[ 2019-07-05T11:07:03+08:00 ] /abcTest/admin.php/Course/index | INFO: Tag[ view_parse ] --START--
+[ 2019-07-05T11:07:03+08:00 ] /abcTest/admin.php/Course/index | NOTIC: [8] Undefined variable: title 6f0ada55359106615047b4a70d624b08.php 第 5 行.
+[ 2019-07-05T11:07:03+08:00 ] /abcTest/admin.php/Course/index | NOTIC: [8] Undefined index: coaIdCardNo 6f0ada55359106615047b4a70d624b08.php 第 60 行.
+[ 2019-07-05T11:07:03+08:00 ] /abcTest/admin.php/Course/index | INFO: Run ParseTemplate Behavior [ RunTime:0.019000s ]
+[ 2019-07-05T11:07:03+08:00 ] /abcTest/admin.php/Course/index | INFO: Tag[ view_parse ] --END-- [ RunTime:0.019000s ]
+[ 2019-07-05T11:07:03+08:00 ] /abcTest/admin.php/Course/index | INFO: Tag[ view_filter ] --START--
+[ 2019-07-05T11:07:03+08:00 ] /abcTest/admin.php/Course/index | INFO: Run ContentReplace Behavior [ RunTime:0.002000s ]
+[ 2019-07-05T11:07:03+08:00 ] /abcTest/admin.php/Course/index | INFO: Run TokenBuild Behavior [ RunTime:0.002000s ]
+[ 2019-07-05T11:07:03+08:00 ] /abcTest/admin.php/Course/index | INFO: Run WriteHtmlCache Behavior [ RunTime:0.001000s ]
+[ 2019-07-05T11:07:03+08:00 ] /abcTest/admin.php/Course/index | INFO: Run ShowRuntime Behavior [ RunTime:0.002000s ]
+[ 2019-07-05T11:07:03+08:00 ] /abcTest/admin.php/Course/index | INFO: Tag[ view_filter ] --END-- [ RunTime:0.007000s ]
+[ 2019-07-05T11:07:03+08:00 ] /abcTest/admin.php/Course/index | INFO: Tag[ view_end ] --START--
+[ 2019-07-05T11:07:03+08:00 ] /abcTest/admin.php/Course/index | INFO: Run ShowPageTrace Behavior [ RunTime:0.002000s ]
+[ 2019-07-05T11:07:03+08:00 ] /abcTest/admin.php/Course/index | INFO: Tag[ view_end ] --END-- [ RunTime:0.002000s ]
+[ 2019-07-05T11:09:02+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ route_check ] --START--
+[ 2019-07-05T11:09:02+08:00 ] /abcTest/admin.php/Index/index | INFO: Run CheckRoute Behavior [ RunTime:0.002000s ]
+[ 2019-07-05T11:09:02+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ route_check ] --END-- [ RunTime:0.002000s ]
+[ 2019-07-05T11:09:02+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ app_begin ] --START--
+[ 2019-07-05T11:09:02+08:00 ] /abcTest/admin.php/Index/index | INFO: Run ReadHtmlCache Behavior [ RunTime:0.002000s ]
+[ 2019-07-05T11:09:02+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ app_begin ] --END-- [ RunTime:0.002000s ]
+[ 2019-07-05T11:09:02+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ view_template ] --START--
+[ 2019-07-05T11:09:02+08:00 ] /abcTest/admin.php/Index/index | INFO: Run LocationTemplate Behavior [ RunTime:0.002000s ]
+[ 2019-07-05T11:09:02+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ view_template ] --END-- [ RunTime:0.002000s ]
+[ 2019-07-05T11:09:02+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ view_parse ] --START--
+[ 2019-07-05T11:09:02+08:00 ] /abcTest/admin.php/Index/index | NOTIC: [8] Undefined variable: title 4c18d5952d0dbf1eedb8a1ec796fa788.php 第 5 行.
+[ 2019-07-05T11:09:02+08:00 ] /abcTest/admin.php/Index/index | INFO: Run ParseTemplate Behavior [ RunTime:0.012000s ]
+[ 2019-07-05T11:09:02+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ view_parse ] --END-- [ RunTime:0.012000s ]
+[ 2019-07-05T11:09:02+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ view_filter ] --START--
+[ 2019-07-05T11:09:02+08:00 ] /abcTest/admin.php/Index/index | INFO: Run ContentReplace Behavior [ RunTime:0.001000s ]
+[ 2019-07-05T11:09:02+08:00 ] /abcTest/admin.php/Index/index | INFO: Run TokenBuild Behavior [ RunTime:0.001000s ]
+[ 2019-07-05T11:09:02+08:00 ] /abcTest/admin.php/Index/index | INFO: Run WriteHtmlCache Behavior [ RunTime:0.000000s ]
+[ 2019-07-05T11:09:02+08:00 ] /abcTest/admin.php/Index/index | INFO: Run ShowRuntime Behavior [ RunTime:0.002000s ]
+[ 2019-07-05T11:09:02+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ view_filter ] --END-- [ RunTime:0.005000s ]
+[ 2019-07-05T11:09:02+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ view_end ] --START--
+[ 2019-07-05T11:09:02+08:00 ] /abcTest/admin.php/Index/index | INFO: Run ShowPageTrace Behavior [ RunTime:0.001000s ]
+[ 2019-07-05T11:09:02+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ view_end ] --END-- [ RunTime:0.001000s ]
+[ 2019-07-05T11:09:04+08:00 ] /abcTest/admin.php/Course/index | INFO: Tag[ route_check ] --START--
+[ 2019-07-05T11:09:04+08:00 ] /abcTest/admin.php/Course/index | INFO: Run CheckRoute Behavior [ RunTime:0.001000s ]
+[ 2019-07-05T11:09:04+08:00 ] /abcTest/admin.php/Course/index | INFO: Tag[ route_check ] --END-- [ RunTime:0.001000s ]
+[ 2019-07-05T11:09:04+08:00 ] /abcTest/admin.php/Course/index | INFO: Tag[ app_begin ] --START--
+[ 2019-07-05T11:09:04+08:00 ] /abcTest/admin.php/Course/index | INFO: Run ReadHtmlCache Behavior [ RunTime:0.002000s ]
+[ 2019-07-05T11:09:04+08:00 ] /abcTest/admin.php/Course/index | INFO: Tag[ app_begin ] --END-- [ RunTime:0.002000s ]
+[ 2019-07-05T11:09:04+08:00 ] /abcTest/admin.php/Course/index | NOTIC: [8] Use of undefined constant Course - assumed 'Course' CourseAction.class.php 第 5 行.
+[ 2019-07-05T11:09:04+08:00 ] /abcTest/admin.php/Course/index | SQL: SHOW COLUMNS FROM `t_course` [ RunTime:0.003000s ]
+[ 2019-07-05T11:09:04+08:00 ] /abcTest/admin.php/Course/index | SQL: SELECT `courseName`,`courseContent`,`courseTime`,`courseArea`,`courseTeacher`,`coursePrice` FROM `t_course` ORDER BY courseID asc  [ RunTime:0.001000s ]
+[ 2019-07-05T11:09:04+08:00 ] /abcTest/admin.php/Course/index | INFO: Tag[ view_template ] --START--
+[ 2019-07-05T11:09:04+08:00 ] /abcTest/admin.php/Course/index | INFO: Run LocationTemplate Behavior [ RunTime:0.001000s ]
+[ 2019-07-05T11:09:04+08:00 ] /abcTest/admin.php/Course/index | INFO: Tag[ view_template ] --END-- [ RunTime:0.001000s ]
+[ 2019-07-05T11:09:04+08:00 ] /abcTest/admin.php/Course/index | INFO: Tag[ view_parse ] --START--
+[ 2019-07-05T11:09:04+08:00 ] /abcTest/admin.php/Course/index | NOTIC: [8] Undefined variable: title 6f0ada55359106615047b4a70d624b08.php 第 5 行.
+[ 2019-07-05T11:09:04+08:00 ] /abcTest/admin.php/Course/index | NOTIC: [8] Undefined index: coaIdCardNo 6f0ada55359106615047b4a70d624b08.php 第 60 行.
+[ 2019-07-05T11:09:04+08:00 ] /abcTest/admin.php/Course/index | INFO: Run ParseTemplate Behavior [ RunTime:0.011000s ]
+[ 2019-07-05T11:09:04+08:00 ] /abcTest/admin.php/Course/index | INFO: Tag[ view_parse ] --END-- [ RunTime:0.012000s ]
+[ 2019-07-05T11:09:04+08:00 ] /abcTest/admin.php/Course/index | INFO: Tag[ view_filter ] --START--
+[ 2019-07-05T11:09:04+08:00 ] /abcTest/admin.php/Course/index | INFO: Run ContentReplace Behavior [ RunTime:0.001000s ]
+[ 2019-07-05T11:09:04+08:00 ] /abcTest/admin.php/Course/index | INFO: Run TokenBuild Behavior [ RunTime:0.002000s ]
+[ 2019-07-05T11:09:04+08:00 ] /abcTest/admin.php/Course/index | INFO: Run WriteHtmlCache Behavior [ RunTime:0.001000s ]
+[ 2019-07-05T11:09:04+08:00 ] /abcTest/admin.php/Course/index | INFO: Run ShowRuntime Behavior [ RunTime:0.001000s ]
+[ 2019-07-05T11:09:04+08:00 ] /abcTest/admin.php/Course/index | INFO: Tag[ view_filter ] --END-- [ RunTime:0.005000s ]
+[ 2019-07-05T11:09:04+08:00 ] /abcTest/admin.php/Course/index | INFO: Tag[ view_end ] --START--
+[ 2019-07-05T11:09:04+08:00 ] /abcTest/admin.php/Course/index | INFO: Run ShowPageTrace Behavior [ RunTime:0.001000s ]
+[ 2019-07-05T11:09:04+08:00 ] /abcTest/admin.php/Course/index | INFO: Tag[ view_end ] --END-- [ RunTime:0.002000s ]
+[ 2019-07-05T11:09:41+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ route_check ] --START--
+[ 2019-07-05T11:09:41+08:00 ] /abcTest/admin.php/Index/index | INFO: Run CheckRoute Behavior [ RunTime:0.002000s ]
+[ 2019-07-05T11:09:41+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ route_check ] --END-- [ RunTime:0.002000s ]
+[ 2019-07-05T11:09:41+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ app_begin ] --START--
+[ 2019-07-05T11:09:41+08:00 ] /abcTest/admin.php/Index/index | INFO: Run ReadHtmlCache Behavior [ RunTime:0.002000s ]
+[ 2019-07-05T11:09:41+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ app_begin ] --END-- [ RunTime:0.002000s ]
+[ 2019-07-05T11:09:41+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ view_template ] --START--
+[ 2019-07-05T11:09:41+08:00 ] /abcTest/admin.php/Index/index | INFO: Run LocationTemplate Behavior [ RunTime:0.001000s ]
+[ 2019-07-05T11:09:41+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ view_template ] --END-- [ RunTime:0.001000s ]
+[ 2019-07-05T11:09:41+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ view_parse ] --START--
+[ 2019-07-05T11:09:41+08:00 ] /abcTest/admin.php/Index/index | NOTIC: [8] Undefined variable: title 4c18d5952d0dbf1eedb8a1ec796fa788.php 第 5 行.
+[ 2019-07-05T11:09:41+08:00 ] /abcTest/admin.php/Index/index | INFO: Run ParseTemplate Behavior [ RunTime:0.009000s ]
+[ 2019-07-05T11:09:41+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ view_parse ] --END-- [ RunTime:0.011000s ]
+[ 2019-07-05T11:09:41+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ view_filter ] --START--
+[ 2019-07-05T11:09:41+08:00 ] /abcTest/admin.php/Index/index | INFO: Run ContentReplace Behavior [ RunTime:0.001000s ]
+[ 2019-07-05T11:09:41+08:00 ] /abcTest/admin.php/Index/index | INFO: Run TokenBuild Behavior [ RunTime:0.001000s ]
+[ 2019-07-05T11:09:41+08:00 ] /abcTest/admin.php/Index/index | INFO: Run WriteHtmlCache Behavior [ RunTime:0.000000s ]
+[ 2019-07-05T11:09:41+08:00 ] /abcTest/admin.php/Index/index | INFO: Run ShowRuntime Behavior [ RunTime:0.002000s ]
+[ 2019-07-05T11:09:41+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ view_filter ] --END-- [ RunTime:0.004000s ]
+[ 2019-07-05T11:09:41+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ view_end ] --START--
+[ 2019-07-05T11:09:41+08:00 ] /abcTest/admin.php/Index/index | INFO: Run ShowPageTrace Behavior [ RunTime:0.001000s ]
+[ 2019-07-05T11:09:41+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ view_end ] --END-- [ RunTime:0.001000s ]
+[ 2019-07-05T11:09:43+08:00 ] /abcTest/admin.php/Course/index | INFO: Tag[ route_check ] --START--
+[ 2019-07-05T11:09:43+08:00 ] /abcTest/admin.php/Course/index | INFO: Run CheckRoute Behavior [ RunTime:0.001000s ]
+[ 2019-07-05T11:09:43+08:00 ] /abcTest/admin.php/Course/index | INFO: Tag[ route_check ] --END-- [ RunTime:0.002000s ]
+[ 2019-07-05T11:09:43+08:00 ] /abcTest/admin.php/Course/index | INFO: Tag[ app_begin ] --START--
+[ 2019-07-05T11:09:43+08:00 ] /abcTest/admin.php/Course/index | INFO: Run ReadHtmlCache Behavior [ RunTime:0.002000s ]
+[ 2019-07-05T11:09:43+08:00 ] /abcTest/admin.php/Course/index | INFO: Tag[ app_begin ] --END-- [ RunTime:0.002000s ]
+[ 2019-07-05T11:09:43+08:00 ] /abcTest/admin.php/Course/index | NOTIC: [8] Use of undefined constant Course - assumed 'Course' CourseAction.class.php 第 5 行.
+[ 2019-07-05T11:09:43+08:00 ] /abcTest/admin.php/Course/index | SQL: SHOW COLUMNS FROM `t_course` [ RunTime:0.004000s ]
+[ 2019-07-05T11:09:43+08:00 ] /abcTest/admin.php/Course/index | SQL: SELECT `courseName`,`courseContent`,`courseTime`,`courseArea`,`courseTeacher`,`coursePrice` FROM `t_course` ORDER BY courseID asc  [ RunTime:0.000000s ]
+[ 2019-07-05T11:09:43+08:00 ] /abcTest/admin.php/Course/index | INFO: Tag[ view_template ] --START--
+[ 2019-07-05T11:09:43+08:00 ] /abcTest/admin.php/Course/index | INFO: Run LocationTemplate Behavior [ RunTime:0.002000s ]
+[ 2019-07-05T11:09:43+08:00 ] /abcTest/admin.php/Course/index | INFO: Tag[ view_template ] --END-- [ RunTime:0.002000s ]
+[ 2019-07-05T11:09:43+08:00 ] /abcTest/admin.php/Course/index | INFO: Tag[ view_parse ] --START--
+[ 2019-07-05T11:09:43+08:00 ] /abcTest/admin.php/Course/index | NOTIC: [8] Undefined variable: title 6f0ada55359106615047b4a70d624b08.php 第 5 行.
+[ 2019-07-05T11:09:43+08:00 ] /abcTest/admin.php/Course/index | NOTIC: [8] Undefined index: coaIdCardNo 6f0ada55359106615047b4a70d624b08.php 第 60 行.
+[ 2019-07-05T11:09:43+08:00 ] /abcTest/admin.php/Course/index | INFO: Run ParseTemplate Behavior [ RunTime:0.012000s ]
+[ 2019-07-05T11:09:43+08:00 ] /abcTest/admin.php/Course/index | INFO: Tag[ view_parse ] --END-- [ RunTime:0.013000s ]
+[ 2019-07-05T11:09:43+08:00 ] /abcTest/admin.php/Course/index | INFO: Tag[ view_filter ] --START--
+[ 2019-07-05T11:09:43+08:00 ] /abcTest/admin.php/Course/index | INFO: Run ContentReplace Behavior [ RunTime:0.001000s ]
+[ 2019-07-05T11:09:43+08:00 ] /abcTest/admin.php/Course/index | INFO: Run TokenBuild Behavior [ RunTime:0.001000s ]
+[ 2019-07-05T11:09:43+08:00 ] /abcTest/admin.php/Course/index | INFO: Run WriteHtmlCache Behavior [ RunTime:0.001000s ]
+[ 2019-07-05T11:09:43+08:00 ] /abcTest/admin.php/Course/index | INFO: Run ShowRuntime Behavior [ RunTime:0.001000s ]
+[ 2019-07-05T11:09:43+08:00 ] /abcTest/admin.php/Course/index | INFO: Tag[ view_filter ] --END-- [ RunTime:0.005000s ]
+[ 2019-07-05T11:09:43+08:00 ] /abcTest/admin.php/Course/index | INFO: Tag[ view_end ] --START--
+[ 2019-07-05T11:09:43+08:00 ] /abcTest/admin.php/Course/index | INFO: Run ShowPageTrace Behavior [ RunTime:0.001000s ]
+[ 2019-07-05T11:09:43+08:00 ] /abcTest/admin.php/Course/index | INFO: Tag[ view_end ] --END-- [ RunTime:0.001000s ]
+[ 2019-07-05T11:11:08+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ route_check ] --START--
+[ 2019-07-05T11:11:08+08:00 ] /abcTest/admin.php/Index/index | INFO: Run CheckRoute Behavior [ RunTime:0.002000s ]
+[ 2019-07-05T11:11:08+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ route_check ] --END-- [ RunTime:0.002000s ]
+[ 2019-07-05T11:11:08+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ app_begin ] --START--
+[ 2019-07-05T11:11:08+08:00 ] /abcTest/admin.php/Index/index | INFO: Run ReadHtmlCache Behavior [ RunTime:0.001000s ]
+[ 2019-07-05T11:11:08+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ app_begin ] --END-- [ RunTime:0.002000s ]
+[ 2019-07-05T11:11:08+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ view_template ] --START--
+[ 2019-07-05T11:11:08+08:00 ] /abcTest/admin.php/Index/index | INFO: Run LocationTemplate Behavior [ RunTime:0.001000s ]
+[ 2019-07-05T11:11:08+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ view_template ] --END-- [ RunTime:0.001000s ]
+[ 2019-07-05T11:11:08+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ view_parse ] --START--
+[ 2019-07-05T11:11:08+08:00 ] /abcTest/admin.php/Index/index | NOTIC: [8] Undefined variable: title 4c18d5952d0dbf1eedb8a1ec796fa788.php 第 5 行.
+[ 2019-07-05T11:11:08+08:00 ] /abcTest/admin.php/Index/index | INFO: Run ParseTemplate Behavior [ RunTime:0.010000s ]
+[ 2019-07-05T11:11:08+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ view_parse ] --END-- [ RunTime:0.010000s ]
+[ 2019-07-05T11:11:08+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ view_filter ] --START--
+[ 2019-07-05T11:11:08+08:00 ] /abcTest/admin.php/Index/index | INFO: Run ContentReplace Behavior [ RunTime:0.001000s ]
+[ 2019-07-05T11:11:08+08:00 ] /abcTest/admin.php/Index/index | INFO: Run TokenBuild Behavior [ RunTime:0.000000s ]
+[ 2019-07-05T11:11:08+08:00 ] /abcTest/admin.php/Index/index | INFO: Run WriteHtmlCache Behavior [ RunTime:0.000000s ]
+[ 2019-07-05T11:11:08+08:00 ] /abcTest/admin.php/Index/index | INFO: Run ShowRuntime Behavior [ RunTime:0.001000s ]
+[ 2019-07-05T11:11:08+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ view_filter ] --END-- [ RunTime:0.003000s ]
+[ 2019-07-05T11:11:08+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ view_end ] --START--
+[ 2019-07-05T11:11:08+08:00 ] /abcTest/admin.php/Index/index | INFO: Run ShowPageTrace Behavior [ RunTime:0.001000s ]
+[ 2019-07-05T11:11:08+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ view_end ] --END-- [ RunTime:0.001000s ]
+[ 2019-07-05T11:11:09+08:00 ] /abcTest/admin.php/Course/index | INFO: Tag[ route_check ] --START--
+[ 2019-07-05T11:11:09+08:00 ] /abcTest/admin.php/Course/index | INFO: Run CheckRoute Behavior [ RunTime:0.001000s ]
+[ 2019-07-05T11:11:09+08:00 ] /abcTest/admin.php/Course/index | INFO: Tag[ route_check ] --END-- [ RunTime:0.001000s ]
+[ 2019-07-05T11:11:09+08:00 ] /abcTest/admin.php/Course/index | INFO: Tag[ app_begin ] --START--
+[ 2019-07-05T11:11:09+08:00 ] /abcTest/admin.php/Course/index | INFO: Run ReadHtmlCache Behavior [ RunTime:0.001000s ]
+[ 2019-07-05T11:11:09+08:00 ] /abcTest/admin.php/Course/index | INFO: Tag[ app_begin ] --END-- [ RunTime:0.001000s ]
+[ 2019-07-05T11:11:09+08:00 ] /abcTest/admin.php/Course/index | NOTIC: [8] Use of undefined constant Course - assumed 'Course' CourseAction.class.php 第 5 行.
+[ 2019-07-05T11:11:09+08:00 ] /abcTest/admin.php/Course/index | SQL: SHOW COLUMNS FROM `t_course` [ RunTime:0.004000s ]
+[ 2019-07-05T11:11:09+08:00 ] /abcTest/admin.php/Course/index | SQL: SELECT `courseName`,`courseContent`,`courseTime`,`courseArea`,`courseTeacher`,`coursePrice` FROM `t_course` ORDER BY courseID asc  [ RunTime:0.001000s ]
+[ 2019-07-05T11:11:09+08:00 ] /abcTest/admin.php/Course/index | INFO: Tag[ view_template ] --START--
+[ 2019-07-05T11:11:09+08:00 ] /abcTest/admin.php/Course/index | INFO: Run LocationTemplate Behavior [ RunTime:0.001000s ]
+[ 2019-07-05T11:11:09+08:00 ] /abcTest/admin.php/Course/index | INFO: Tag[ view_template ] --END-- [ RunTime:0.001000s ]
+[ 2019-07-05T11:11:09+08:00 ] /abcTest/admin.php/Course/index | INFO: Tag[ view_parse ] --START--
+[ 2019-07-05T11:11:09+08:00 ] /abcTest/admin.php/Course/index | NOTIC: [8] Undefined variable: title 6f0ada55359106615047b4a70d624b08.php 第 5 行.
+[ 2019-07-05T11:11:09+08:00 ] /abcTest/admin.php/Course/index | NOTIC: [8] Undefined index: coaIdCardNo 6f0ada55359106615047b4a70d624b08.php 第 60 行.
+[ 2019-07-05T11:11:09+08:00 ] /abcTest/admin.php/Course/index | INFO: Run ParseTemplate Behavior [ RunTime:0.012000s ]
+[ 2019-07-05T11:11:09+08:00 ] /abcTest/admin.php/Course/index | INFO: Tag[ view_parse ] --END-- [ RunTime:0.012000s ]
+[ 2019-07-05T11:11:09+08:00 ] /abcTest/admin.php/Course/index | INFO: Tag[ view_filter ] --START--
+[ 2019-07-05T11:11:09+08:00 ] /abcTest/admin.php/Course/index | INFO: Run ContentReplace Behavior [ RunTime:0.001000s ]
+[ 2019-07-05T11:11:09+08:00 ] /abcTest/admin.php/Course/index | INFO: Run TokenBuild Behavior [ RunTime:0.001000s ]
+[ 2019-07-05T11:11:09+08:00 ] /abcTest/admin.php/Course/index | INFO: Run WriteHtmlCache Behavior [ RunTime:0.001000s ]
+[ 2019-07-05T11:11:09+08:00 ] /abcTest/admin.php/Course/index | INFO: Run ShowRuntime Behavior [ RunTime:0.001000s ]
+[ 2019-07-05T11:11:09+08:00 ] /abcTest/admin.php/Course/index | INFO: Tag[ view_filter ] --END-- [ RunTime:0.004000s ]
+[ 2019-07-05T11:11:09+08:00 ] /abcTest/admin.php/Course/index | INFO: Tag[ view_end ] --START--
+[ 2019-07-05T11:11:09+08:00 ] /abcTest/admin.php/Course/index | INFO: Run ShowPageTrace Behavior [ RunTime:0.001000s ]
+[ 2019-07-05T11:11:09+08:00 ] /abcTest/admin.php/Course/index | INFO: Tag[ view_end ] --END-- [ RunTime:0.001000s ]
+[ 2019-07-05T11:12:11+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ route_check ] --START--
+[ 2019-07-05T11:12:11+08:00 ] /abcTest/admin.php/Index/index | INFO: Run CheckRoute Behavior [ RunTime:0.002000s ]
+[ 2019-07-05T11:12:11+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ route_check ] --END-- [ RunTime:0.002000s ]
+[ 2019-07-05T11:12:11+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ app_begin ] --START--
+[ 2019-07-05T11:12:11+08:00 ] /abcTest/admin.php/Index/index | INFO: Run ReadHtmlCache Behavior [ RunTime:0.002000s ]
+[ 2019-07-05T11:12:11+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ app_begin ] --END-- [ RunTime:0.002000s ]
+[ 2019-07-05T11:12:11+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ view_template ] --START--
+[ 2019-07-05T11:12:11+08:00 ] /abcTest/admin.php/Index/index | INFO: Run LocationTemplate Behavior [ RunTime:0.002000s ]
+[ 2019-07-05T11:12:11+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ view_template ] --END-- [ RunTime:0.002000s ]
+[ 2019-07-05T11:12:11+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ view_parse ] --START--
+[ 2019-07-05T11:12:11+08:00 ] /abcTest/admin.php/Index/index | NOTIC: [8] Undefined variable: title 4c18d5952d0dbf1eedb8a1ec796fa788.php 第 5 行.
+[ 2019-07-05T11:12:11+08:00 ] /abcTest/admin.php/Index/index | INFO: Run ParseTemplate Behavior [ RunTime:0.015000s ]
+[ 2019-07-05T11:12:11+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ view_parse ] --END-- [ RunTime:0.015000s ]
+[ 2019-07-05T11:12:11+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ view_filter ] --START--
+[ 2019-07-05T11:12:11+08:00 ] /abcTest/admin.php/Index/index | INFO: Run ContentReplace Behavior [ RunTime:0.002000s ]
+[ 2019-07-05T11:12:11+08:00 ] /abcTest/admin.php/Index/index | INFO: Run TokenBuild Behavior [ RunTime:0.001000s ]
+[ 2019-07-05T11:12:11+08:00 ] /abcTest/admin.php/Index/index | INFO: Run WriteHtmlCache Behavior [ RunTime:0.001000s ]
+[ 2019-07-05T11:12:11+08:00 ] /abcTest/admin.php/Index/index | INFO: Run ShowRuntime Behavior [ RunTime:0.002000s ]
+[ 2019-07-05T11:12:11+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ view_filter ] --END-- [ RunTime:0.007000s ]
+[ 2019-07-05T11:12:11+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ view_end ] --START--
+[ 2019-07-05T11:12:11+08:00 ] /abcTest/admin.php/Index/index | INFO: Run ShowPageTrace Behavior [ RunTime:0.001000s ]
+[ 2019-07-05T11:12:11+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ view_end ] --END-- [ RunTime:0.002000s ]
+[ 2019-07-05T11:12:12+08:00 ] /abcTest/admin.php/Course/index | INFO: Tag[ route_check ] --START--
+[ 2019-07-05T11:12:12+08:00 ] /abcTest/admin.php/Course/index | INFO: Run CheckRoute Behavior [ RunTime:0.002000s ]
+[ 2019-07-05T11:12:12+08:00 ] /abcTest/admin.php/Course/index | INFO: Tag[ route_check ] --END-- [ RunTime:0.002000s ]
+[ 2019-07-05T11:12:12+08:00 ] /abcTest/admin.php/Course/index | INFO: Tag[ app_begin ] --START--
+[ 2019-07-05T11:12:12+08:00 ] /abcTest/admin.php/Course/index | INFO: Run ReadHtmlCache Behavior [ RunTime:0.001000s ]
+[ 2019-07-05T11:12:12+08:00 ] /abcTest/admin.php/Course/index | INFO: Tag[ app_begin ] --END-- [ RunTime:0.001000s ]
+[ 2019-07-05T11:12:12+08:00 ] /abcTest/admin.php/Course/index | NOTIC: [8] Use of undefined constant Course - assumed 'Course' CourseAction.class.php 第 5 行.
+[ 2019-07-05T11:12:12+08:00 ] /abcTest/admin.php/Course/index | SQL: SHOW COLUMNS FROM `t_course` [ RunTime:0.003000s ]
+[ 2019-07-05T11:12:12+08:00 ] /abcTest/admin.php/Course/index | SQL: SELECT `courseName`,`courseContent`,`courseTime`,`courseArea`,`courseTeacher`,`coursePrice` FROM `t_course` ORDER BY courseID asc  [ RunTime:0.000000s ]
+[ 2019-07-05T11:12:12+08:00 ] /abcTest/admin.php/Course/index | INFO: Tag[ view_template ] --START--
+[ 2019-07-05T11:12:12+08:00 ] /abcTest/admin.php/Course/index | INFO: Run LocationTemplate Behavior [ RunTime:0.002000s ]
+[ 2019-07-05T11:12:12+08:00 ] /abcTest/admin.php/Course/index | INFO: Tag[ view_template ] --END-- [ RunTime:0.002000s ]
+[ 2019-07-05T11:12:12+08:00 ] /abcTest/admin.php/Course/index | INFO: Tag[ view_parse ] --START--
+[ 2019-07-05T11:12:12+08:00 ] /abcTest/admin.php/Course/index | NOTIC: [8] Undefined variable: title 6f0ada55359106615047b4a70d624b08.php 第 5 行.
+[ 2019-07-05T11:12:12+08:00 ] /abcTest/admin.php/Course/index | NOTIC: [8] Undefined index: coaIdCardNo 6f0ada55359106615047b4a70d624b08.php 第 60 行.
+[ 2019-07-05T11:12:12+08:00 ] /abcTest/admin.php/Course/index | INFO: Run ParseTemplate Behavior [ RunTime:0.012000s ]
+[ 2019-07-05T11:12:12+08:00 ] /abcTest/admin.php/Course/index | INFO: Tag[ view_parse ] --END-- [ RunTime:0.012000s ]
+[ 2019-07-05T11:12:12+08:00 ] /abcTest/admin.php/Course/index | INFO: Tag[ view_filter ] --START--
+[ 2019-07-05T11:12:12+08:00 ] /abcTest/admin.php/Course/index | INFO: Run ContentReplace Behavior [ RunTime:0.001000s ]
+[ 2019-07-05T11:12:12+08:00 ] /abcTest/admin.php/Course/index | INFO: Run TokenBuild Behavior [ RunTime:0.001000s ]
+[ 2019-07-05T11:12:12+08:00 ] /abcTest/admin.php/Course/index | INFO: Run WriteHtmlCache Behavior [ RunTime:0.001000s ]
+[ 2019-07-05T11:12:12+08:00 ] /abcTest/admin.php/Course/index | INFO: Run ShowRuntime Behavior [ RunTime:0.001000s ]
+[ 2019-07-05T11:12:12+08:00 ] /abcTest/admin.php/Course/index | INFO: Tag[ view_filter ] --END-- [ RunTime:0.004000s ]
+[ 2019-07-05T11:12:12+08:00 ] /abcTest/admin.php/Course/index | INFO: Tag[ view_end ] --START--
+[ 2019-07-05T11:12:12+08:00 ] /abcTest/admin.php/Course/index | INFO: Run ShowPageTrace Behavior [ RunTime:0.000000s ]
+[ 2019-07-05T11:12:12+08:00 ] /abcTest/admin.php/Course/index | INFO: Tag[ view_end ] --END-- [ RunTime:0.001000s ]
+[ 2019-07-05T11:12:35+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ route_check ] --START--
+[ 2019-07-05T11:12:35+08:00 ] /abcTest/admin.php/Index/index | INFO: Run CheckRoute Behavior [ RunTime:0.002000s ]
+[ 2019-07-05T11:12:35+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ route_check ] --END-- [ RunTime:0.002000s ]
+[ 2019-07-05T11:12:35+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ app_begin ] --START--
+[ 2019-07-05T11:12:35+08:00 ] /abcTest/admin.php/Index/index | INFO: Run ReadHtmlCache Behavior [ RunTime:0.002000s ]
+[ 2019-07-05T11:12:35+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ app_begin ] --END-- [ RunTime:0.002000s ]
+[ 2019-07-05T11:12:35+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ view_template ] --START--
+[ 2019-07-05T11:12:35+08:00 ] /abcTest/admin.php/Index/index | INFO: Run LocationTemplate Behavior [ RunTime:0.002000s ]
+[ 2019-07-05T11:12:35+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ view_template ] --END-- [ RunTime:0.002000s ]
+[ 2019-07-05T11:12:35+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ view_parse ] --START--
+[ 2019-07-05T11:12:35+08:00 ] /abcTest/admin.php/Index/index | NOTIC: [8] Undefined variable: title 4c18d5952d0dbf1eedb8a1ec796fa788.php 第 5 行.
+[ 2019-07-05T11:12:35+08:00 ] /abcTest/admin.php/Index/index | INFO: Run ParseTemplate Behavior [ RunTime:0.016000s ]
+[ 2019-07-05T11:12:35+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ view_parse ] --END-- [ RunTime:0.016000s ]
+[ 2019-07-05T11:12:35+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ view_filter ] --START--
+[ 2019-07-05T11:12:35+08:00 ] /abcTest/admin.php/Index/index | INFO: Run ContentReplace Behavior [ RunTime:0.002000s ]
+[ 2019-07-05T11:12:35+08:00 ] /abcTest/admin.php/Index/index | INFO: Run TokenBuild Behavior [ RunTime:0.002000s ]
+[ 2019-07-05T11:12:35+08:00 ] /abcTest/admin.php/Index/index | INFO: Run WriteHtmlCache Behavior [ RunTime:0.001000s ]
+[ 2019-07-05T11:12:35+08:00 ] /abcTest/admin.php/Index/index | INFO: Run ShowRuntime Behavior [ RunTime:0.002000s ]
+[ 2019-07-05T11:12:35+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ view_filter ] --END-- [ RunTime:0.007000s ]
+[ 2019-07-05T11:12:35+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ view_end ] --START--
+[ 2019-07-05T11:12:35+08:00 ] /abcTest/admin.php/Index/index | INFO: Run ShowPageTrace Behavior [ RunTime:0.001000s ]
+[ 2019-07-05T11:12:35+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ view_end ] --END-- [ RunTime:0.002000s ]
+[ 2019-07-05T11:12:37+08:00 ] /abcTest/admin.php/Course/index | INFO: Tag[ route_check ] --START--
+[ 2019-07-05T11:12:37+08:00 ] /abcTest/admin.php/Course/index | INFO: Run CheckRoute Behavior [ RunTime:0.002000s ]
+[ 2019-07-05T11:12:37+08:00 ] /abcTest/admin.php/Course/index | INFO: Tag[ route_check ] --END-- [ RunTime:0.002000s ]
+[ 2019-07-05T11:12:37+08:00 ] /abcTest/admin.php/Course/index | INFO: Tag[ app_begin ] --START--
+[ 2019-07-05T11:12:37+08:00 ] /abcTest/admin.php/Course/index | INFO: Run ReadHtmlCache Behavior [ RunTime:0.001000s ]
+[ 2019-07-05T11:12:37+08:00 ] /abcTest/admin.php/Course/index | INFO: Tag[ app_begin ] --END-- [ RunTime:0.001000s ]
+[ 2019-07-05T11:12:37+08:00 ] /abcTest/admin.php/Course/index | NOTIC: [8] Use of undefined constant Course - assumed 'Course' CourseAction.class.php 第 5 行.
+[ 2019-07-05T11:12:37+08:00 ] /abcTest/admin.php/Course/index | SQL: SHOW COLUMNS FROM `t_course` [ RunTime:0.004000s ]
+[ 2019-07-05T11:12:37+08:00 ] /abcTest/admin.php/Course/index | SQL: SELECT `courseName`,`courseContent`,`courseTime`,`courseArea`,`courseTeacher`,`coursePrice` FROM `t_course` ORDER BY courseID asc  [ RunTime:0.000000s ]
+[ 2019-07-05T11:12:37+08:00 ] /abcTest/admin.php/Course/index | INFO: Tag[ view_template ] --START--
+[ 2019-07-05T11:12:37+08:00 ] /abcTest/admin.php/Course/index | INFO: Run LocationTemplate Behavior [ RunTime:0.002000s ]
+[ 2019-07-05T11:12:37+08:00 ] /abcTest/admin.php/Course/index | INFO: Tag[ view_template ] --END-- [ RunTime:0.002000s ]
+[ 2019-07-05T11:12:37+08:00 ] /abcTest/admin.php/Course/index | INFO: Tag[ view_parse ] --START--
+[ 2019-07-05T11:12:37+08:00 ] /abcTest/admin.php/Course/index | NOTIC: [8] Undefined variable: title 6f0ada55359106615047b4a70d624b08.php 第 5 行.
+[ 2019-07-05T11:12:37+08:00 ] /abcTest/admin.php/Course/index | NOTIC: [8] Undefined index: coaIdCardNo 6f0ada55359106615047b4a70d624b08.php 第 60 行.
+[ 2019-07-05T11:12:37+08:00 ] /abcTest/admin.php/Course/index | INFO: Run ParseTemplate Behavior [ RunTime:0.012000s ]
+[ 2019-07-05T11:12:37+08:00 ] /abcTest/admin.php/Course/index | INFO: Tag[ view_parse ] --END-- [ RunTime:0.012000s ]
+[ 2019-07-05T11:12:37+08:00 ] /abcTest/admin.php/Course/index | INFO: Tag[ view_filter ] --START--
+[ 2019-07-05T11:12:37+08:00 ] /abcTest/admin.php/Course/index | INFO: Run ContentReplace Behavior [ RunTime:0.001000s ]
+[ 2019-07-05T11:12:37+08:00 ] /abcTest/admin.php/Course/index | INFO: Run TokenBuild Behavior [ RunTime:0.001000s ]
+[ 2019-07-05T11:12:37+08:00 ] /abcTest/admin.php/Course/index | INFO: Run WriteHtmlCache Behavior [ RunTime:0.001000s ]
+[ 2019-07-05T11:12:37+08:00 ] /abcTest/admin.php/Course/index | INFO: Run ShowRuntime Behavior [ RunTime:0.001000s ]
+[ 2019-07-05T11:12:37+08:00 ] /abcTest/admin.php/Course/index | INFO: Tag[ view_filter ] --END-- [ RunTime:0.004000s ]
+[ 2019-07-05T11:12:37+08:00 ] /abcTest/admin.php/Course/index | INFO: Tag[ view_end ] --START--
+[ 2019-07-05T11:12:37+08:00 ] /abcTest/admin.php/Course/index | INFO: Run ShowPageTrace Behavior [ RunTime:0.001000s ]
+[ 2019-07-05T11:12:37+08:00 ] /abcTest/admin.php/Course/index | INFO: Tag[ view_end ] --END-- [ RunTime:0.001000s ]
+[ 2019-07-05T11:13:36+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ route_check ] --START--
+[ 2019-07-05T11:13:36+08:00 ] /abcTest/admin.php/Index/index | INFO: Run CheckRoute Behavior [ RunTime:0.002000s ]
+[ 2019-07-05T11:13:36+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ route_check ] --END-- [ RunTime:0.002000s ]
+[ 2019-07-05T11:13:36+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ app_begin ] --START--
+[ 2019-07-05T11:13:36+08:00 ] /abcTest/admin.php/Index/index | INFO: Run ReadHtmlCache Behavior [ RunTime:0.001000s ]
+[ 2019-07-05T11:13:36+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ app_begin ] --END-- [ RunTime:0.001000s ]
+[ 2019-07-05T11:13:36+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ view_template ] --START--
+[ 2019-07-05T11:13:36+08:00 ] /abcTest/admin.php/Index/index | INFO: Run LocationTemplate Behavior [ RunTime:0.002000s ]
+[ 2019-07-05T11:13:36+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ view_template ] --END-- [ RunTime:0.002000s ]
+[ 2019-07-05T11:13:36+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ view_parse ] --START--
+[ 2019-07-05T11:13:36+08:00 ] /abcTest/admin.php/Index/index | NOTIC: [8] Undefined variable: title 4c18d5952d0dbf1eedb8a1ec796fa788.php 第 5 行.
+[ 2019-07-05T11:13:36+08:00 ] /abcTest/admin.php/Index/index | INFO: Run ParseTemplate Behavior [ RunTime:0.014000s ]
+[ 2019-07-05T11:13:36+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ view_parse ] --END-- [ RunTime:0.014000s ]
+[ 2019-07-05T11:13:36+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ view_filter ] --START--
+[ 2019-07-05T11:13:36+08:00 ] /abcTest/admin.php/Index/index | INFO: Run ContentReplace Behavior [ RunTime:0.001000s ]
+[ 2019-07-05T11:13:36+08:00 ] /abcTest/admin.php/Index/index | INFO: Run TokenBuild Behavior [ RunTime:0.002000s ]
+[ 2019-07-05T11:13:36+08:00 ] /abcTest/admin.php/Index/index | INFO: Run WriteHtmlCache Behavior [ RunTime:0.001000s ]
+[ 2019-07-05T11:13:36+08:00 ] /abcTest/admin.php/Index/index | INFO: Run ShowRuntime Behavior [ RunTime:0.002000s ]
+[ 2019-07-05T11:13:36+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ view_filter ] --END-- [ RunTime:0.006000s ]
+[ 2019-07-05T11:13:36+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ view_end ] --START--
+[ 2019-07-05T11:13:36+08:00 ] /abcTest/admin.php/Index/index | INFO: Run ShowPageTrace Behavior [ RunTime:0.001000s ]
+[ 2019-07-05T11:13:36+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ view_end ] --END-- [ RunTime:0.001000s ]
+[ 2019-07-05T11:13:37+08:00 ] /abcTest/admin.php/Course/index | INFO: Tag[ route_check ] --START--
+[ 2019-07-05T11:13:37+08:00 ] /abcTest/admin.php/Course/index | INFO: Run CheckRoute Behavior [ RunTime:0.002000s ]
+[ 2019-07-05T11:13:37+08:00 ] /abcTest/admin.php/Course/index | INFO: Tag[ route_check ] --END-- [ RunTime:0.002000s ]
+[ 2019-07-05T11:13:37+08:00 ] /abcTest/admin.php/Course/index | INFO: Tag[ app_begin ] --START--
+[ 2019-07-05T11:13:37+08:00 ] /abcTest/admin.php/Course/index | INFO: Run ReadHtmlCache Behavior [ RunTime:0.001000s ]
+[ 2019-07-05T11:13:37+08:00 ] /abcTest/admin.php/Course/index | INFO: Tag[ app_begin ] --END-- [ RunTime:0.001000s ]
+[ 2019-07-05T11:13:37+08:00 ] /abcTest/admin.php/Course/index | NOTIC: [8] Use of undefined constant Course - assumed 'Course' CourseAction.class.php 第 5 行.
+[ 2019-07-05T11:13:37+08:00 ] /abcTest/admin.php/Course/index | SQL: SHOW COLUMNS FROM `t_course` [ RunTime:0.003000s ]
+[ 2019-07-05T11:13:37+08:00 ] /abcTest/admin.php/Course/index | SQL: SELECT `courseName`,`courseContent`,`courseTime`,`courseArea`,`courseTeacher`,`coursePrice` FROM `t_course` ORDER BY courseID asc  [ RunTime:0.001000s ]
+[ 2019-07-05T11:13:37+08:00 ] /abcTest/admin.php/Course/index | INFO: Tag[ view_template ] --START--
+[ 2019-07-05T11:13:37+08:00 ] /abcTest/admin.php/Course/index | INFO: Run LocationTemplate Behavior [ RunTime:0.002000s ]
+[ 2019-07-05T11:13:37+08:00 ] /abcTest/admin.php/Course/index | INFO: Tag[ view_template ] --END-- [ RunTime:0.002000s ]
+[ 2019-07-05T11:13:37+08:00 ] /abcTest/admin.php/Course/index | INFO: Tag[ view_parse ] --START--
+[ 2019-07-05T11:13:37+08:00 ] /abcTest/admin.php/Course/index | NOTIC: [8] Undefined variable: title 6f0ada55359106615047b4a70d624b08.php 第 5 行.
+[ 2019-07-05T11:13:37+08:00 ] /abcTest/admin.php/Course/index | NOTIC: [8] Undefined index: coaIdCardNo 6f0ada55359106615047b4a70d624b08.php 第 60 行.
+[ 2019-07-05T11:13:37+08:00 ] /abcTest/admin.php/Course/index | INFO: Run ParseTemplate Behavior [ RunTime:0.015000s ]
+[ 2019-07-05T11:13:37+08:00 ] /abcTest/admin.php/Course/index | INFO: Tag[ view_parse ] --END-- [ RunTime:0.015000s ]
+[ 2019-07-05T11:13:37+08:00 ] /abcTest/admin.php/Course/index | INFO: Tag[ view_filter ] --START--
+[ 2019-07-05T11:13:37+08:00 ] /abcTest/admin.php/Course/index | INFO: Run ContentReplace Behavior [ RunTime:0.002000s ]
+[ 2019-07-05T11:13:37+08:00 ] /abcTest/admin.php/Course/index | INFO: Run TokenBuild Behavior [ RunTime:0.001000s ]
+[ 2019-07-05T11:13:37+08:00 ] /abcTest/admin.php/Course/index | INFO: Run WriteHtmlCache Behavior [ RunTime:0.001000s ]
+[ 2019-07-05T11:13:37+08:00 ] /abcTest/admin.php/Course/index | INFO: Run ShowRuntime Behavior [ RunTime:0.002000s ]
+[ 2019-07-05T11:13:37+08:00 ] /abcTest/admin.php/Course/index | INFO: Tag[ view_filter ] --END-- [ RunTime:0.006000s ]
+[ 2019-07-05T11:13:37+08:00 ] /abcTest/admin.php/Course/index | INFO: Tag[ view_end ] --START--
+[ 2019-07-05T11:13:37+08:00 ] /abcTest/admin.php/Course/index | INFO: Run ShowPageTrace Behavior [ RunTime:0.001000s ]
+[ 2019-07-05T11:13:37+08:00 ] /abcTest/admin.php/Course/index | INFO: Tag[ view_end ] --END-- [ RunTime:0.001000s ]
+[ 2019-07-05T11:13:39+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ route_check ] --START--
+[ 2019-07-05T11:13:39+08:00 ] /abcTest/admin.php/Index/index | INFO: Run CheckRoute Behavior [ RunTime:0.002000s ]
+[ 2019-07-05T11:13:39+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ route_check ] --END-- [ RunTime:0.002000s ]
+[ 2019-07-05T11:13:39+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ app_begin ] --START--
+[ 2019-07-05T11:13:39+08:00 ] /abcTest/admin.php/Index/index | INFO: Run ReadHtmlCache Behavior [ RunTime:0.001000s ]
+[ 2019-07-05T11:13:39+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ app_begin ] --END-- [ RunTime:0.002000s ]
+[ 2019-07-05T11:13:39+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ view_template ] --START--
+[ 2019-07-05T11:13:39+08:00 ] /abcTest/admin.php/Index/index | INFO: Run LocationTemplate Behavior [ RunTime:0.003000s ]
+[ 2019-07-05T11:13:39+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ view_template ] --END-- [ RunTime:0.003000s ]
+[ 2019-07-05T11:13:39+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ view_parse ] --START--
+[ 2019-07-05T11:13:39+08:00 ] /abcTest/admin.php/Index/index | NOTIC: [8] Undefined variable: title 4c18d5952d0dbf1eedb8a1ec796fa788.php 第 5 行.
+[ 2019-07-05T11:13:39+08:00 ] /abcTest/admin.php/Index/index | INFO: Run ParseTemplate Behavior [ RunTime:0.013000s ]
+[ 2019-07-05T11:13:39+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ view_parse ] --END-- [ RunTime:0.013000s ]
+[ 2019-07-05T11:13:39+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ view_filter ] --START--
+[ 2019-07-05T11:13:39+08:00 ] /abcTest/admin.php/Index/index | INFO: Run ContentReplace Behavior [ RunTime:0.001000s ]
+[ 2019-07-05T11:13:39+08:00 ] /abcTest/admin.php/Index/index | INFO: Run TokenBuild Behavior [ RunTime:0.001000s ]
+[ 2019-07-05T11:13:39+08:00 ] /abcTest/admin.php/Index/index | INFO: Run WriteHtmlCache Behavior [ RunTime:0.001000s ]
+[ 2019-07-05T11:13:39+08:00 ] /abcTest/admin.php/Index/index | INFO: Run ShowRuntime Behavior [ RunTime:0.001000s ]
+[ 2019-07-05T11:13:39+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ view_filter ] --END-- [ RunTime:0.004000s ]
+[ 2019-07-05T11:13:39+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ view_end ] --START--
+[ 2019-07-05T11:13:39+08:00 ] /abcTest/admin.php/Index/index | INFO: Run ShowPageTrace Behavior [ RunTime:0.001000s ]
+[ 2019-07-05T11:13:39+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ view_end ] --END-- [ RunTime:0.001000s ]
+[ 2019-07-05T11:13:44+08:00 ] /abcTest/admin.php/Course/index | INFO: Tag[ route_check ] --START--
+[ 2019-07-05T11:13:44+08:00 ] /abcTest/admin.php/Course/index | INFO: Run CheckRoute Behavior [ RunTime:0.001000s ]
+[ 2019-07-05T11:13:44+08:00 ] /abcTest/admin.php/Course/index | INFO: Tag[ route_check ] --END-- [ RunTime:0.001000s ]
+[ 2019-07-05T11:13:44+08:00 ] /abcTest/admin.php/Course/index | INFO: Tag[ app_begin ] --START--
+[ 2019-07-05T11:13:44+08:00 ] /abcTest/admin.php/Course/index | INFO: Run ReadHtmlCache Behavior [ RunTime:0.001000s ]
+[ 2019-07-05T11:13:44+08:00 ] /abcTest/admin.php/Course/index | INFO: Tag[ app_begin ] --END-- [ RunTime:0.001000s ]
+[ 2019-07-05T11:13:44+08:00 ] /abcTest/admin.php/Course/index | NOTIC: [8] Use of undefined constant Course - assumed 'Course' CourseAction.class.php 第 5 行.
+[ 2019-07-05T11:13:44+08:00 ] /abcTest/admin.php/Course/index | SQL: SHOW COLUMNS FROM `t_course` [ RunTime:0.004000s ]
+[ 2019-07-05T11:13:44+08:00 ] /abcTest/admin.php/Course/index | SQL: SELECT `courseName`,`courseContent`,`courseTime`,`courseArea`,`courseTeacher`,`coursePrice` FROM `t_course` ORDER BY courseID asc  [ RunTime:0.000000s ]
+[ 2019-07-05T11:13:44+08:00 ] /abcTest/admin.php/Course/index | INFO: Tag[ view_template ] --START--
+[ 2019-07-05T11:13:44+08:00 ] /abcTest/admin.php/Course/index | INFO: Run LocationTemplate Behavior [ RunTime:0.002000s ]
+[ 2019-07-05T11:13:44+08:00 ] /abcTest/admin.php/Course/index | INFO: Tag[ view_template ] --END-- [ RunTime:0.002000s ]
+[ 2019-07-05T11:13:44+08:00 ] /abcTest/admin.php/Course/index | INFO: Tag[ view_parse ] --START--
+[ 2019-07-05T11:13:44+08:00 ] /abcTest/admin.php/Course/index | NOTIC: [8] Undefined variable: title 6f0ada55359106615047b4a70d624b08.php 第 5 行.
+[ 2019-07-05T11:13:44+08:00 ] /abcTest/admin.php/Course/index | NOTIC: [8] Undefined index: coaIdCardNo 6f0ada55359106615047b4a70d624b08.php 第 60 行.
+[ 2019-07-05T11:13:44+08:00 ] /abcTest/admin.php/Course/index | INFO: Run ParseTemplate Behavior [ RunTime:0.013000s ]
+[ 2019-07-05T11:13:44+08:00 ] /abcTest/admin.php/Course/index | INFO: Tag[ view_parse ] --END-- [ RunTime:0.013000s ]
+[ 2019-07-05T11:13:44+08:00 ] /abcTest/admin.php/Course/index | INFO: Tag[ view_filter ] --START--
+[ 2019-07-05T11:13:44+08:00 ] /abcTest/admin.php/Course/index | INFO: Run ContentReplace Behavior [ RunTime:0.002000s ]
+[ 2019-07-05T11:13:44+08:00 ] /abcTest/admin.php/Course/index | INFO: Run TokenBuild Behavior [ RunTime:0.001000s ]
+[ 2019-07-05T11:13:44+08:00 ] /abcTest/admin.php/Course/index | INFO: Run WriteHtmlCache Behavior [ RunTime:0.001000s ]
+[ 2019-07-05T11:13:44+08:00 ] /abcTest/admin.php/Course/index | INFO: Run ShowRuntime Behavior [ RunTime:0.001000s ]
+[ 2019-07-05T11:13:44+08:00 ] /abcTest/admin.php/Course/index | INFO: Tag[ view_filter ] --END-- [ RunTime:0.005000s ]
+[ 2019-07-05T11:13:44+08:00 ] /abcTest/admin.php/Course/index | INFO: Tag[ view_end ] --START--
+[ 2019-07-05T11:13:44+08:00 ] /abcTest/admin.php/Course/index | INFO: Run ShowPageTrace Behavior [ RunTime:0.001000s ]
+[ 2019-07-05T11:13:44+08:00 ] /abcTest/admin.php/Course/index | INFO: Tag[ view_end ] --END-- [ RunTime:0.001000s ]
+[ 2019-07-05T11:18:58+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ route_check ] --START--
+[ 2019-07-05T11:18:58+08:00 ] /abcTest/admin.php/Index/index | INFO: Run CheckRoute Behavior [ RunTime:0.002000s ]
+[ 2019-07-05T11:18:58+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ route_check ] --END-- [ RunTime:0.003000s ]
+[ 2019-07-05T11:18:58+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ app_begin ] --START--
+[ 2019-07-05T11:18:58+08:00 ] /abcTest/admin.php/Index/index | INFO: Run ReadHtmlCache Behavior [ RunTime:0.002000s ]
+[ 2019-07-05T11:18:58+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ app_begin ] --END-- [ RunTime:0.002000s ]
+[ 2019-07-05T11:18:58+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ view_template ] --START--
+[ 2019-07-05T11:18:58+08:00 ] /abcTest/admin.php/Index/index | INFO: Run LocationTemplate Behavior [ RunTime:0.003000s ]
+[ 2019-07-05T11:18:58+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ view_template ] --END-- [ RunTime:0.003000s ]
+[ 2019-07-05T11:18:58+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ view_parse ] --START--
+[ 2019-07-05T11:18:58+08:00 ] /abcTest/admin.php/Index/index | NOTIC: [8] Undefined variable: title 4c18d5952d0dbf1eedb8a1ec796fa788.php 第 5 行.
+[ 2019-07-05T11:18:58+08:00 ] /abcTest/admin.php/Index/index | INFO: Run ParseTemplate Behavior [ RunTime:0.018000s ]
+[ 2019-07-05T11:18:58+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ view_parse ] --END-- [ RunTime:0.018000s ]
+[ 2019-07-05T11:18:58+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ view_filter ] --START--
+[ 2019-07-05T11:18:58+08:00 ] /abcTest/admin.php/Index/index | INFO: Run ContentReplace Behavior [ RunTime:0.002000s ]
+[ 2019-07-05T11:18:58+08:00 ] /abcTest/admin.php/Index/index | INFO: Run TokenBuild Behavior [ RunTime:0.002000s ]
+[ 2019-07-05T11:18:58+08:00 ] /abcTest/admin.php/Index/index | INFO: Run WriteHtmlCache Behavior [ RunTime:0.002000s ]
+[ 2019-07-05T11:18:58+08:00 ] /abcTest/admin.php/Index/index | INFO: Run ShowRuntime Behavior [ RunTime:0.002000s ]
+[ 2019-07-05T11:18:58+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ view_filter ] --END-- [ RunTime:0.009000s ]
+[ 2019-07-05T11:18:58+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ view_end ] --START--
+[ 2019-07-05T11:18:58+08:00 ] /abcTest/admin.php/Index/index | INFO: Run ShowPageTrace Behavior [ RunTime:0.001000s ]
+[ 2019-07-05T11:18:58+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ view_end ] --END-- [ RunTime:0.001000s ]
+[ 2019-07-05T11:18:59+08:00 ] /abcTest/admin.php/Course/index | INFO: Tag[ route_check ] --START--
+[ 2019-07-05T11:18:59+08:00 ] /abcTest/admin.php/Course/index | INFO: Run CheckRoute Behavior [ RunTime:0.002000s ]
+[ 2019-07-05T11:18:59+08:00 ] /abcTest/admin.php/Course/index | INFO: Tag[ route_check ] --END-- [ RunTime:0.003000s ]
+[ 2019-07-05T11:18:59+08:00 ] /abcTest/admin.php/Course/index | INFO: Tag[ app_begin ] --START--
+[ 2019-07-05T11:18:59+08:00 ] /abcTest/admin.php/Course/index | INFO: Run ReadHtmlCache Behavior [ RunTime:0.001000s ]
+[ 2019-07-05T11:18:59+08:00 ] /abcTest/admin.php/Course/index | INFO: Tag[ app_begin ] --END-- [ RunTime:0.002000s ]
+[ 2019-07-05T11:18:59+08:00 ] /abcTest/admin.php/Course/index | NOTIC: [8] Use of undefined constant Course - assumed 'Course' CourseAction.class.php 第 5 行.
+[ 2019-07-05T11:18:59+08:00 ] /abcTest/admin.php/Course/index | SQL: SHOW COLUMNS FROM `t_course` [ RunTime:0.004000s ]
+[ 2019-07-05T11:18:59+08:00 ] /abcTest/admin.php/Course/index | SQL: SELECT `courseName`,`courseContent`,`courseTime`,`courseArea`,`courseTeacher`,`coursePrice` FROM `t_course` ORDER BY courseID asc  [ RunTime:0.000000s ]
+[ 2019-07-05T11:18:59+08:00 ] /abcTest/admin.php/Course/index | INFO: Tag[ view_template ] --START--
+[ 2019-07-05T11:18:59+08:00 ] /abcTest/admin.php/Course/index | INFO: Run LocationTemplate Behavior [ RunTime:0.002000s ]
+[ 2019-07-05T11:18:59+08:00 ] /abcTest/admin.php/Course/index | INFO: Tag[ view_template ] --END-- [ RunTime:0.002000s ]
+[ 2019-07-05T11:18:59+08:00 ] /abcTest/admin.php/Course/index | INFO: Tag[ view_parse ] --START--
+[ 2019-07-05T11:18:59+08:00 ] /abcTest/admin.php/Course/index | NOTIC: [8] Undefined variable: title 6f0ada55359106615047b4a70d624b08.php 第 5 行.
+[ 2019-07-05T11:18:59+08:00 ] /abcTest/admin.php/Course/index | NOTIC: [8] Undefined index: coaIdCardNo 6f0ada55359106615047b4a70d624b08.php 第 60 行.
+[ 2019-07-05T11:18:59+08:00 ] /abcTest/admin.php/Course/index | INFO: Run ParseTemplate Behavior [ RunTime:0.016000s ]
+[ 2019-07-05T11:18:59+08:00 ] /abcTest/admin.php/Course/index | INFO: Tag[ view_parse ] --END-- [ RunTime:0.016000s ]
+[ 2019-07-05T11:18:59+08:00 ] /abcTest/admin.php/Course/index | INFO: Tag[ view_filter ] --START--
+[ 2019-07-05T11:18:59+08:00 ] /abcTest/admin.php/Course/index | INFO: Run ContentReplace Behavior [ RunTime:0.002000s ]
+[ 2019-07-05T11:18:59+08:00 ] /abcTest/admin.php/Course/index | INFO: Run TokenBuild Behavior [ RunTime:0.001000s ]
+[ 2019-07-05T11:18:59+08:00 ] /abcTest/admin.php/Course/index | INFO: Run WriteHtmlCache Behavior [ RunTime:0.002000s ]
+[ 2019-07-05T11:18:59+08:00 ] /abcTest/admin.php/Course/index | INFO: Run ShowRuntime Behavior [ RunTime:0.001000s ]
+[ 2019-07-05T11:18:59+08:00 ] /abcTest/admin.php/Course/index | INFO: Tag[ view_filter ] --END-- [ RunTime:0.006000s ]
+[ 2019-07-05T11:18:59+08:00 ] /abcTest/admin.php/Course/index | INFO: Tag[ view_end ] --START--
+[ 2019-07-05T11:18:59+08:00 ] /abcTest/admin.php/Course/index | INFO: Run ShowPageTrace Behavior [ RunTime:0.001000s ]
+[ 2019-07-05T11:18:59+08:00 ] /abcTest/admin.php/Course/index | INFO: Tag[ view_end ] --END-- [ RunTime:0.001000s ]
+[ 2019-07-05T11:20:41+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ route_check ] --START--
+[ 2019-07-05T11:20:41+08:00 ] /abcTest/admin.php/Index/index | INFO: Run CheckRoute Behavior [ RunTime:0.003000s ]
+[ 2019-07-05T11:20:41+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ route_check ] --END-- [ RunTime:0.004000s ]
+[ 2019-07-05T11:20:41+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ app_begin ] --START--
+[ 2019-07-05T11:20:41+08:00 ] /abcTest/admin.php/Index/index | INFO: Run ReadHtmlCache Behavior [ RunTime:0.003000s ]
+[ 2019-07-05T11:20:41+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ app_begin ] --END-- [ RunTime:0.003000s ]
+[ 2019-07-05T11:20:41+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ view_template ] --START--
+[ 2019-07-05T11:20:41+08:00 ] /abcTest/admin.php/Index/index | INFO: Run LocationTemplate Behavior [ RunTime:0.004000s ]
+[ 2019-07-05T11:20:41+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ view_template ] --END-- [ RunTime:0.004000s ]
+[ 2019-07-05T11:20:41+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ view_parse ] --START--
+[ 2019-07-05T11:20:41+08:00 ] /abcTest/admin.php/Index/index | NOTIC: [8] Undefined variable: title 4c18d5952d0dbf1eedb8a1ec796fa788.php 第 5 行.
+[ 2019-07-05T11:20:41+08:00 ] /abcTest/admin.php/Index/index | INFO: Run ParseTemplate Behavior [ RunTime:0.015000s ]
+[ 2019-07-05T11:20:41+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ view_parse ] --END-- [ RunTime:0.015000s ]
+[ 2019-07-05T11:20:41+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ view_filter ] --START--
+[ 2019-07-05T11:20:41+08:00 ] /abcTest/admin.php/Index/index | INFO: Run ContentReplace Behavior [ RunTime:0.001000s ]
+[ 2019-07-05T11:20:41+08:00 ] /abcTest/admin.php/Index/index | INFO: Run TokenBuild Behavior [ RunTime:0.002000s ]
+[ 2019-07-05T11:20:41+08:00 ] /abcTest/admin.php/Index/index | INFO: Run WriteHtmlCache Behavior [ RunTime:0.001000s ]
+[ 2019-07-05T11:20:41+08:00 ] /abcTest/admin.php/Index/index | INFO: Run ShowRuntime Behavior [ RunTime:0.002000s ]
+[ 2019-07-05T11:20:41+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ view_filter ] --END-- [ RunTime:0.007000s ]
+[ 2019-07-05T11:20:41+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ view_end ] --START--
+[ 2019-07-05T11:20:41+08:00 ] /abcTest/admin.php/Index/index | INFO: Run ShowPageTrace Behavior [ RunTime:0.002000s ]
+[ 2019-07-05T11:20:41+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ view_end ] --END-- [ RunTime:0.002000s ]
+[ 2019-07-05T11:20:43+08:00 ] /abcTest/admin.php/Course/index | INFO: Tag[ route_check ] --START--
+[ 2019-07-05T11:20:43+08:00 ] /abcTest/admin.php/Course/index | INFO: Run CheckRoute Behavior [ RunTime:0.002000s ]
+[ 2019-07-05T11:20:43+08:00 ] /abcTest/admin.php/Course/index | INFO: Tag[ route_check ] --END-- [ RunTime:0.002000s ]
+[ 2019-07-05T11:20:43+08:00 ] /abcTest/admin.php/Course/index | INFO: Tag[ app_begin ] --START--
+[ 2019-07-05T11:20:43+08:00 ] /abcTest/admin.php/Course/index | INFO: Run ReadHtmlCache Behavior [ RunTime:0.001000s ]
+[ 2019-07-05T11:20:43+08:00 ] /abcTest/admin.php/Course/index | INFO: Tag[ app_begin ] --END-- [ RunTime:0.001000s ]
+[ 2019-07-05T11:20:43+08:00 ] /abcTest/admin.php/Course/index | NOTIC: [8] Use of undefined constant Course - assumed 'Course' CourseAction.class.php 第 5 行.
+[ 2019-07-05T11:20:43+08:00 ] /abcTest/admin.php/Course/index | SQL: SHOW COLUMNS FROM `t_course` [ RunTime:0.004000s ]
+[ 2019-07-05T11:20:43+08:00 ] /abcTest/admin.php/Course/index | SQL: SELECT `courseName`,`courseContent`,`courseTime`,`courseArea`,`courseTeacher`,`coursePrice` FROM `t_course` ORDER BY courseID asc  [ RunTime:0.000000s ]
+[ 2019-07-05T11:20:43+08:00 ] /abcTest/admin.php/Course/index | INFO: Tag[ view_template ] --START--
+[ 2019-07-05T11:20:43+08:00 ] /abcTest/admin.php/Course/index | INFO: Run LocationTemplate Behavior [ RunTime:0.002000s ]
+[ 2019-07-05T11:20:43+08:00 ] /abcTest/admin.php/Course/index | INFO: Tag[ view_template ] --END-- [ RunTime:0.002000s ]
+[ 2019-07-05T11:20:43+08:00 ] /abcTest/admin.php/Course/index | INFO: Tag[ view_parse ] --START--
+[ 2019-07-05T11:20:43+08:00 ] /abcTest/admin.php/Course/index | NOTIC: [8] Undefined variable: title 6f0ada55359106615047b4a70d624b08.php 第 5 行.
+[ 2019-07-05T11:20:43+08:00 ] /abcTest/admin.php/Course/index | NOTIC: [8] Undefined index: coaIdCardNo 6f0ada55359106615047b4a70d624b08.php 第 60 行.
+[ 2019-07-05T11:20:43+08:00 ] /abcTest/admin.php/Course/index | INFO: Run ParseTemplate Behavior [ RunTime:0.017000s ]
+[ 2019-07-05T11:20:43+08:00 ] /abcTest/admin.php/Course/index | INFO: Tag[ view_parse ] --END-- [ RunTime:0.017000s ]
+[ 2019-07-05T11:20:43+08:00 ] /abcTest/admin.php/Course/index | INFO: Tag[ view_filter ] --START--
+[ 2019-07-05T11:20:43+08:00 ] /abcTest/admin.php/Course/index | INFO: Run ContentReplace Behavior [ RunTime:0.002000s ]
+[ 2019-07-05T11:20:43+08:00 ] /abcTest/admin.php/Course/index | INFO: Run TokenBuild Behavior [ RunTime:0.002000s ]
+[ 2019-07-05T11:20:43+08:00 ] /abcTest/admin.php/Course/index | INFO: Run WriteHtmlCache Behavior [ RunTime:0.001000s ]
+[ 2019-07-05T11:20:43+08:00 ] /abcTest/admin.php/Course/index | INFO: Run ShowRuntime Behavior [ RunTime:0.001000s ]
+[ 2019-07-05T11:20:43+08:00 ] /abcTest/admin.php/Course/index | INFO: Tag[ view_filter ] --END-- [ RunTime:0.007000s ]
+[ 2019-07-05T11:20:43+08:00 ] /abcTest/admin.php/Course/index | INFO: Tag[ view_end ] --START--
+[ 2019-07-05T11:20:43+08:00 ] /abcTest/admin.php/Course/index | INFO: Run ShowPageTrace Behavior [ RunTime:0.001000s ]
+[ 2019-07-05T11:20:43+08:00 ] /abcTest/admin.php/Course/index | INFO: Tag[ view_end ] --END-- [ RunTime:0.001000s ]
+[ 2019-07-05T11:21:21+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ route_check ] --START--
+[ 2019-07-05T11:21:21+08:00 ] /abcTest/admin.php/Index/index | INFO: Run CheckRoute Behavior [ RunTime:0.003000s ]
+[ 2019-07-05T11:21:21+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ route_check ] --END-- [ RunTime:0.004000s ]
+[ 2019-07-05T11:21:21+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ app_begin ] --START--
+[ 2019-07-05T11:21:21+08:00 ] /abcTest/admin.php/Index/index | INFO: Run ReadHtmlCache Behavior [ RunTime:0.003000s ]
+[ 2019-07-05T11:21:21+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ app_begin ] --END-- [ RunTime:0.003000s ]
+[ 2019-07-05T11:21:21+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ view_template ] --START--
+[ 2019-07-05T11:21:21+08:00 ] /abcTest/admin.php/Index/index | INFO: Run LocationTemplate Behavior [ RunTime:0.004000s ]
+[ 2019-07-05T11:21:21+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ view_template ] --END-- [ RunTime:0.004000s ]
+[ 2019-07-05T11:21:21+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ view_parse ] --START--
+[ 2019-07-05T11:21:21+08:00 ] /abcTest/admin.php/Index/index | NOTIC: [8] Undefined variable: title 4c18d5952d0dbf1eedb8a1ec796fa788.php 第 5 行.
+[ 2019-07-05T11:21:21+08:00 ] /abcTest/admin.php/Index/index | INFO: Run ParseTemplate Behavior [ RunTime:0.024000s ]
+[ 2019-07-05T11:21:21+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ view_parse ] --END-- [ RunTime:0.024000s ]
+[ 2019-07-05T11:21:21+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ view_filter ] --START--
+[ 2019-07-05T11:21:21+08:00 ] /abcTest/admin.php/Index/index | INFO: Run ContentReplace Behavior [ RunTime:0.002000s ]
+[ 2019-07-05T11:21:21+08:00 ] /abcTest/admin.php/Index/index | INFO: Run TokenBuild Behavior [ RunTime:0.003000s ]
+[ 2019-07-05T11:21:21+08:00 ] /abcTest/admin.php/Index/index | INFO: Run WriteHtmlCache Behavior [ RunTime:0.002000s ]
+[ 2019-07-05T11:21:21+08:00 ] /abcTest/admin.php/Index/index | INFO: Run ShowRuntime Behavior [ RunTime:0.002000s ]
+[ 2019-07-05T11:21:21+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ view_filter ] --END-- [ RunTime:0.009000s ]
+[ 2019-07-05T11:21:21+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ view_end ] --START--
+[ 2019-07-05T11:21:21+08:00 ] /abcTest/admin.php/Index/index | INFO: Run ShowPageTrace Behavior [ RunTime:0.001000s ]
+[ 2019-07-05T11:21:21+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ view_end ] --END-- [ RunTime:0.001000s ]
+[ 2019-07-05T11:21:22+08:00 ] /abcTest/admin.php/Course/index | INFO: Tag[ route_check ] --START--
+[ 2019-07-05T11:21:22+08:00 ] /abcTest/admin.php/Course/index | INFO: Run CheckRoute Behavior [ RunTime:0.004000s ]
+[ 2019-07-05T11:21:22+08:00 ] /abcTest/admin.php/Course/index | INFO: Tag[ route_check ] --END-- [ RunTime:0.004000s ]
+[ 2019-07-05T11:21:22+08:00 ] /abcTest/admin.php/Course/index | INFO: Tag[ app_begin ] --START--
+[ 2019-07-05T11:21:22+08:00 ] /abcTest/admin.php/Course/index | INFO: Run ReadHtmlCache Behavior [ RunTime:0.001000s ]
+[ 2019-07-05T11:21:22+08:00 ] /abcTest/admin.php/Course/index | INFO: Tag[ app_begin ] --END-- [ RunTime:0.002000s ]
+[ 2019-07-05T11:21:22+08:00 ] /abcTest/admin.php/Course/index | NOTIC: [8] Use of undefined constant Course - assumed 'Course' CourseAction.class.php 第 5 行.
+[ 2019-07-05T11:21:22+08:00 ] /abcTest/admin.php/Course/index | SQL: SHOW COLUMNS FROM `t_course` [ RunTime:0.005000s ]
+[ 2019-07-05T11:21:22+08:00 ] /abcTest/admin.php/Course/index | SQL: SELECT `courseName`,`courseContent`,`courseTime`,`courseArea`,`courseTeacher`,`coursePrice` FROM `t_course` ORDER BY courseID asc  [ RunTime:0.000000s ]
+[ 2019-07-05T11:21:22+08:00 ] /abcTest/admin.php/Course/index | INFO: Tag[ view_template ] --START--
+[ 2019-07-05T11:21:22+08:00 ] /abcTest/admin.php/Course/index | INFO: Run LocationTemplate Behavior [ RunTime:0.002000s ]
+[ 2019-07-05T11:21:22+08:00 ] /abcTest/admin.php/Course/index | INFO: Tag[ view_template ] --END-- [ RunTime:0.002000s ]
+[ 2019-07-05T11:21:22+08:00 ] /abcTest/admin.php/Course/index | INFO: Tag[ view_parse ] --START--
+[ 2019-07-05T11:21:22+08:00 ] /abcTest/admin.php/Course/index | NOTIC: [8] Undefined variable: title 6f0ada55359106615047b4a70d624b08.php 第 5 行.
+[ 2019-07-05T11:21:22+08:00 ] /abcTest/admin.php/Course/index | NOTIC: [8] Undefined index: coaIdCardNo 6f0ada55359106615047b4a70d624b08.php 第 60 行.
+[ 2019-07-05T11:21:22+08:00 ] /abcTest/admin.php/Course/index | INFO: Run ParseTemplate Behavior [ RunTime:0.020000s ]
+[ 2019-07-05T11:21:22+08:00 ] /abcTest/admin.php/Course/index | INFO: Tag[ view_parse ] --END-- [ RunTime:0.020000s ]
+[ 2019-07-05T11:21:22+08:00 ] /abcTest/admin.php/Course/index | INFO: Tag[ view_filter ] --START--
+[ 2019-07-05T11:21:22+08:00 ] /abcTest/admin.php/Course/index | INFO: Run ContentReplace Behavior [ RunTime:0.001000s ]
+[ 2019-07-05T11:21:22+08:00 ] /abcTest/admin.php/Course/index | INFO: Run TokenBuild Behavior [ RunTime:0.001000s ]
+[ 2019-07-05T11:21:22+08:00 ] /abcTest/admin.php/Course/index | INFO: Run WriteHtmlCache Behavior [ RunTime:0.002000s ]
+[ 2019-07-05T11:21:22+08:00 ] /abcTest/admin.php/Course/index | INFO: Run ShowRuntime Behavior [ RunTime:0.001000s ]
+[ 2019-07-05T11:21:22+08:00 ] /abcTest/admin.php/Course/index | INFO: Tag[ view_filter ] --END-- [ RunTime:0.005000s ]
+[ 2019-07-05T11:21:22+08:00 ] /abcTest/admin.php/Course/index | INFO: Tag[ view_end ] --START--
+[ 2019-07-05T11:21:22+08:00 ] /abcTest/admin.php/Course/index | INFO: Run ShowPageTrace Behavior [ RunTime:0.001000s ]
+[ 2019-07-05T11:21:22+08:00 ] /abcTest/admin.php/Course/index | INFO: Tag[ view_end ] --END-- [ RunTime:0.001000s ]
+[ 2019-07-05T11:21:44+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ route_check ] --START--
+[ 2019-07-05T11:21:44+08:00 ] /abcTest/admin.php/Index/index | INFO: Run CheckRoute Behavior [ RunTime:0.002000s ]
+[ 2019-07-05T11:21:44+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ route_check ] --END-- [ RunTime:0.002000s ]
+[ 2019-07-05T11:21:44+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ app_begin ] --START--
+[ 2019-07-05T11:21:44+08:00 ] /abcTest/admin.php/Index/index | INFO: Run ReadHtmlCache Behavior [ RunTime:0.001000s ]
+[ 2019-07-05T11:21:44+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ app_begin ] --END-- [ RunTime:0.001000s ]
+[ 2019-07-05T11:21:44+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ view_template ] --START--
+[ 2019-07-05T11:21:44+08:00 ] /abcTest/admin.php/Index/index | INFO: Run LocationTemplate Behavior [ RunTime:0.002000s ]
+[ 2019-07-05T11:21:44+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ view_template ] --END-- [ RunTime:0.002000s ]
+[ 2019-07-05T11:21:44+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ view_parse ] --START--
+[ 2019-07-05T11:21:44+08:00 ] /abcTest/admin.php/Index/index | NOTIC: [8] Undefined variable: title 4c18d5952d0dbf1eedb8a1ec796fa788.php 第 5 行.
+[ 2019-07-05T11:21:44+08:00 ] /abcTest/admin.php/Index/index | INFO: Run ParseTemplate Behavior [ RunTime:0.013000s ]
+[ 2019-07-05T11:21:44+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ view_parse ] --END-- [ RunTime:0.013000s ]
+[ 2019-07-05T11:21:44+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ view_filter ] --START--
+[ 2019-07-05T11:21:44+08:00 ] /abcTest/admin.php/Index/index | INFO: Run ContentReplace Behavior [ RunTime:0.001000s ]
+[ 2019-07-05T11:21:44+08:00 ] /abcTest/admin.php/Index/index | INFO: Run TokenBuild Behavior [ RunTime:0.002000s ]
+[ 2019-07-05T11:21:44+08:00 ] /abcTest/admin.php/Index/index | INFO: Run WriteHtmlCache Behavior [ RunTime:0.001000s ]
+[ 2019-07-05T11:21:44+08:00 ] /abcTest/admin.php/Index/index | INFO: Run ShowRuntime Behavior [ RunTime:0.001000s ]
+[ 2019-07-05T11:21:44+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ view_filter ] --END-- [ RunTime:0.006000s ]
+[ 2019-07-05T11:21:44+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ view_end ] --START--
+[ 2019-07-05T11:21:44+08:00 ] /abcTest/admin.php/Index/index | INFO: Run ShowPageTrace Behavior [ RunTime:0.001000s ]
+[ 2019-07-05T11:21:44+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ view_end ] --END-- [ RunTime:0.001000s ]
+[ 2019-07-05T11:21:45+08:00 ] /abcTest/admin.php/Course/index | INFO: Tag[ route_check ] --START--
+[ 2019-07-05T11:21:45+08:00 ] /abcTest/admin.php/Course/index | INFO: Run CheckRoute Behavior [ RunTime:0.001000s ]
+[ 2019-07-05T11:21:45+08:00 ] /abcTest/admin.php/Course/index | INFO: Tag[ route_check ] --END-- [ RunTime:0.001000s ]
+[ 2019-07-05T11:21:45+08:00 ] /abcTest/admin.php/Course/index | INFO: Tag[ app_begin ] --START--
+[ 2019-07-05T11:21:45+08:00 ] /abcTest/admin.php/Course/index | INFO: Run ReadHtmlCache Behavior [ RunTime:0.001000s ]
+[ 2019-07-05T11:21:45+08:00 ] /abcTest/admin.php/Course/index | INFO: Tag[ app_begin ] --END-- [ RunTime:0.001000s ]
+[ 2019-07-05T11:21:45+08:00 ] /abcTest/admin.php/Course/index | NOTIC: [8] Use of undefined constant Course - assumed 'Course' CourseAction.class.php 第 5 行.
+[ 2019-07-05T11:21:45+08:00 ] /abcTest/admin.php/Course/index | SQL: SHOW COLUMNS FROM `t_course` [ RunTime:0.004000s ]
+[ 2019-07-05T11:21:45+08:00 ] /abcTest/admin.php/Course/index | SQL: SELECT `courseName`,`courseContent`,`courseTime`,`courseArea`,`courseTeacher`,`coursePrice` FROM `t_course` ORDER BY courseID asc  [ RunTime:0.000000s ]
+[ 2019-07-05T11:21:45+08:00 ] /abcTest/admin.php/Course/index | INFO: Tag[ view_template ] --START--
+[ 2019-07-05T11:21:45+08:00 ] /abcTest/admin.php/Course/index | INFO: Run LocationTemplate Behavior [ RunTime:0.001000s ]
+[ 2019-07-05T11:21:45+08:00 ] /abcTest/admin.php/Course/index | INFO: Tag[ view_template ] --END-- [ RunTime:0.001000s ]
+[ 2019-07-05T11:21:45+08:00 ] /abcTest/admin.php/Course/index | INFO: Tag[ view_parse ] --START--
+[ 2019-07-05T11:21:45+08:00 ] /abcTest/admin.php/Course/index | NOTIC: [8] Undefined variable: title 6f0ada55359106615047b4a70d624b08.php 第 5 行.
+[ 2019-07-05T11:21:45+08:00 ] /abcTest/admin.php/Course/index | NOTIC: [8] Undefined index: coaIdCardNo 6f0ada55359106615047b4a70d624b08.php 第 60 行.
+[ 2019-07-05T11:21:45+08:00 ] /abcTest/admin.php/Course/index | INFO: Run ParseTemplate Behavior [ RunTime:0.012000s ]
+[ 2019-07-05T11:21:45+08:00 ] /abcTest/admin.php/Course/index | INFO: Tag[ view_parse ] --END-- [ RunTime:0.013000s ]
+[ 2019-07-05T11:21:45+08:00 ] /abcTest/admin.php/Course/index | INFO: Tag[ view_filter ] --START--
+[ 2019-07-05T11:21:45+08:00 ] /abcTest/admin.php/Course/index | INFO: Run ContentReplace Behavior [ RunTime:0.001000s ]
+[ 2019-07-05T11:21:45+08:00 ] /abcTest/admin.php/Course/index | INFO: Run TokenBuild Behavior [ RunTime:0.002000s ]
+[ 2019-07-05T11:21:45+08:00 ] /abcTest/admin.php/Course/index | INFO: Run WriteHtmlCache Behavior [ RunTime:0.001000s ]
+[ 2019-07-05T11:21:45+08:00 ] /abcTest/admin.php/Course/index | INFO: Run ShowRuntime Behavior [ RunTime:0.001000s ]
+[ 2019-07-05T11:21:45+08:00 ] /abcTest/admin.php/Course/index | INFO: Tag[ view_filter ] --END-- [ RunTime:0.005000s ]
+[ 2019-07-05T11:21:45+08:00 ] /abcTest/admin.php/Course/index | INFO: Tag[ view_end ] --START--
+[ 2019-07-05T11:21:45+08:00 ] /abcTest/admin.php/Course/index | INFO: Run ShowPageTrace Behavior [ RunTime:0.001000s ]
+[ 2019-07-05T11:21:45+08:00 ] /abcTest/admin.php/Course/index | INFO: Tag[ view_end ] --END-- [ RunTime:0.001000s ]
+[ 2019-07-05T11:22:43+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ route_check ] --START--
+[ 2019-07-05T11:22:43+08:00 ] /abcTest/admin.php/Index/index | INFO: Run CheckRoute Behavior [ RunTime:0.002000s ]
+[ 2019-07-05T11:22:43+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ route_check ] --END-- [ RunTime:0.002000s ]
+[ 2019-07-05T11:22:43+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ app_begin ] --START--
+[ 2019-07-05T11:22:43+08:00 ] /abcTest/admin.php/Index/index | INFO: Run ReadHtmlCache Behavior [ RunTime:0.001000s ]
+[ 2019-07-05T11:22:43+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ app_begin ] --END-- [ RunTime:0.001000s ]
+[ 2019-07-05T11:22:43+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ view_template ] --START--
+[ 2019-07-05T11:22:43+08:00 ] /abcTest/admin.php/Index/index | INFO: Run LocationTemplate Behavior [ RunTime:0.002000s ]
+[ 2019-07-05T11:22:43+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ view_template ] --END-- [ RunTime:0.002000s ]
+[ 2019-07-05T11:22:43+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ view_parse ] --START--
+[ 2019-07-05T11:22:43+08:00 ] /abcTest/admin.php/Index/index | NOTIC: [8] Undefined variable: title 4c18d5952d0dbf1eedb8a1ec796fa788.php 第 5 行.
+[ 2019-07-05T11:22:43+08:00 ] /abcTest/admin.php/Index/index | INFO: Run ParseTemplate Behavior [ RunTime:0.011000s ]
+[ 2019-07-05T11:22:43+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ view_parse ] --END-- [ RunTime:0.011000s ]
+[ 2019-07-05T11:22:43+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ view_filter ] --START--
+[ 2019-07-05T11:22:43+08:00 ] /abcTest/admin.php/Index/index | INFO: Run ContentReplace Behavior [ RunTime:0.001000s ]
+[ 2019-07-05T11:22:43+08:00 ] /abcTest/admin.php/Index/index | INFO: Run TokenBuild Behavior [ RunTime:0.002000s ]
+[ 2019-07-05T11:22:43+08:00 ] /abcTest/admin.php/Index/index | INFO: Run WriteHtmlCache Behavior [ RunTime:0.001000s ]
+[ 2019-07-05T11:22:43+08:00 ] /abcTest/admin.php/Index/index | INFO: Run ShowRuntime Behavior [ RunTime:0.001000s ]
+[ 2019-07-05T11:22:43+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ view_filter ] --END-- [ RunTime:0.005000s ]
+[ 2019-07-05T11:22:43+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ view_end ] --START--
+[ 2019-07-05T11:22:43+08:00 ] /abcTest/admin.php/Index/index | INFO: Run ShowPageTrace Behavior [ RunTime:0.002000s ]
+[ 2019-07-05T11:22:43+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ view_end ] --END-- [ RunTime:0.002000s ]
+[ 2019-07-05T11:22:44+08:00 ] /abcTest/admin.php/Course/index | INFO: Tag[ route_check ] --START--
+[ 2019-07-05T11:22:44+08:00 ] /abcTest/admin.php/Course/index | INFO: Run CheckRoute Behavior [ RunTime:0.003000s ]
+[ 2019-07-05T11:22:44+08:00 ] /abcTest/admin.php/Course/index | INFO: Tag[ route_check ] --END-- [ RunTime:0.004000s ]
+[ 2019-07-05T11:22:44+08:00 ] /abcTest/admin.php/Course/index | INFO: Tag[ app_begin ] --START--
+[ 2019-07-05T11:22:44+08:00 ] /abcTest/admin.php/Course/index | INFO: Run ReadHtmlCache Behavior [ RunTime:0.002000s ]
+[ 2019-07-05T11:22:44+08:00 ] /abcTest/admin.php/Course/index | INFO: Tag[ app_begin ] --END-- [ RunTime:0.003000s ]
+[ 2019-07-05T11:22:44+08:00 ] /abcTest/admin.php/Course/index | NOTIC: [8] Use of undefined constant Course - assumed 'Course' CourseAction.class.php 第 5 行.
+[ 2019-07-05T11:22:44+08:00 ] /abcTest/admin.php/Course/index | SQL: SHOW COLUMNS FROM `t_course` [ RunTime:0.004000s ]
+[ 2019-07-05T11:22:44+08:00 ] /abcTest/admin.php/Course/index | SQL: SELECT `courseName`,`courseContent`,`courseTime`,`courseArea`,`courseTeacher`,`coursePrice` FROM `t_course` ORDER BY courseID asc  [ RunTime:0.001000s ]
+[ 2019-07-05T11:22:44+08:00 ] /abcTest/admin.php/Course/index | INFO: Tag[ view_template ] --START--
+[ 2019-07-05T11:22:44+08:00 ] /abcTest/admin.php/Course/index | INFO: Run LocationTemplate Behavior [ RunTime:0.002000s ]
+[ 2019-07-05T11:22:44+08:00 ] /abcTest/admin.php/Course/index | INFO: Tag[ view_template ] --END-- [ RunTime:0.003000s ]
+[ 2019-07-05T11:22:44+08:00 ] /abcTest/admin.php/Course/index | INFO: Tag[ view_parse ] --START--
+[ 2019-07-05T11:22:44+08:00 ] /abcTest/admin.php/Course/index | NOTIC: [8] Undefined variable: title 6f0ada55359106615047b4a70d624b08.php 第 5 行.
+[ 2019-07-05T11:22:44+08:00 ] /abcTest/admin.php/Course/index | NOTIC: [8] Undefined index: coaIdCardNo 6f0ada55359106615047b4a70d624b08.php 第 60 行.
+[ 2019-07-05T11:22:44+08:00 ] /abcTest/admin.php/Course/index | INFO: Run ParseTemplate Behavior [ RunTime:0.019000s ]
+[ 2019-07-05T11:22:44+08:00 ] /abcTest/admin.php/Course/index | INFO: Tag[ view_parse ] --END-- [ RunTime:0.019000s ]
+[ 2019-07-05T11:22:44+08:00 ] /abcTest/admin.php/Course/index | INFO: Tag[ view_filter ] --START--
+[ 2019-07-05T11:22:44+08:00 ] /abcTest/admin.php/Course/index | INFO: Run ContentReplace Behavior [ RunTime:0.002000s ]
+[ 2019-07-05T11:22:44+08:00 ] /abcTest/admin.php/Course/index | INFO: Run TokenBuild Behavior [ RunTime:0.001000s ]
+[ 2019-07-05T11:22:44+08:00 ] /abcTest/admin.php/Course/index | INFO: Run WriteHtmlCache Behavior [ RunTime:0.001000s ]
+[ 2019-07-05T11:22:44+08:00 ] /abcTest/admin.php/Course/index | INFO: Run ShowRuntime Behavior [ RunTime:0.001000s ]
+[ 2019-07-05T11:22:44+08:00 ] /abcTest/admin.php/Course/index | INFO: Tag[ view_filter ] --END-- [ RunTime:0.006000s ]
+[ 2019-07-05T11:22:44+08:00 ] /abcTest/admin.php/Course/index | INFO: Tag[ view_end ] --START--
+[ 2019-07-05T11:22:44+08:00 ] /abcTest/admin.php/Course/index | INFO: Run ShowPageTrace Behavior [ RunTime:0.001000s ]
+[ 2019-07-05T11:22:44+08:00 ] /abcTest/admin.php/Course/index | INFO: Tag[ view_end ] --END-- [ RunTime:0.001000s ]
+[ 2019-07-05T11:22:56+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ route_check ] --START--
+[ 2019-07-05T11:22:56+08:00 ] /abcTest/admin.php/Index/index | INFO: Run CheckRoute Behavior [ RunTime:0.002000s ]
+[ 2019-07-05T11:22:56+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ route_check ] --END-- [ RunTime:0.002000s ]
+[ 2019-07-05T11:22:56+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ app_begin ] --START--
+[ 2019-07-05T11:22:56+08:00 ] /abcTest/admin.php/Index/index | INFO: Run ReadHtmlCache Behavior [ RunTime:0.002000s ]
+[ 2019-07-05T11:22:56+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ app_begin ] --END-- [ RunTime:0.002000s ]
+[ 2019-07-05T11:22:56+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ view_template ] --START--
+[ 2019-07-05T11:22:56+08:00 ] /abcTest/admin.php/Index/index | INFO: Run LocationTemplate Behavior [ RunTime:0.003000s ]
+[ 2019-07-05T11:22:56+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ view_template ] --END-- [ RunTime:0.003000s ]
+[ 2019-07-05T11:22:56+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ view_parse ] --START--
+[ 2019-07-05T11:22:56+08:00 ] /abcTest/admin.php/Index/index | NOTIC: [8] Undefined variable: title 4c18d5952d0dbf1eedb8a1ec796fa788.php 第 5 行.
+[ 2019-07-05T11:22:56+08:00 ] /abcTest/admin.php/Index/index | INFO: Run ParseTemplate Behavior [ RunTime:0.017000s ]
+[ 2019-07-05T11:22:56+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ view_parse ] --END-- [ RunTime:0.017000s ]
+[ 2019-07-05T11:22:56+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ view_filter ] --START--
+[ 2019-07-05T11:22:56+08:00 ] /abcTest/admin.php/Index/index | INFO: Run ContentReplace Behavior [ RunTime:0.002000s ]
+[ 2019-07-05T11:22:56+08:00 ] /abcTest/admin.php/Index/index | INFO: Run TokenBuild Behavior [ RunTime:0.002000s ]
+[ 2019-07-05T11:22:56+08:00 ] /abcTest/admin.php/Index/index | INFO: Run WriteHtmlCache Behavior [ RunTime:0.002000s ]
+[ 2019-07-05T11:22:56+08:00 ] /abcTest/admin.php/Index/index | INFO: Run ShowRuntime Behavior [ RunTime:0.002000s ]
+[ 2019-07-05T11:22:56+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ view_filter ] --END-- [ RunTime:0.008000s ]
+[ 2019-07-05T11:22:56+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ view_end ] --START--
+[ 2019-07-05T11:22:56+08:00 ] /abcTest/admin.php/Index/index | INFO: Run ShowPageTrace Behavior [ RunTime:0.002000s ]
+[ 2019-07-05T11:22:56+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ view_end ] --END-- [ RunTime:0.002000s ]
+[ 2019-07-05T11:22:57+08:00 ] /abcTest/admin.php/Course/index | INFO: Tag[ route_check ] --START--
+[ 2019-07-05T11:22:57+08:00 ] /abcTest/admin.php/Course/index | INFO: Run CheckRoute Behavior [ RunTime:0.002000s ]
+[ 2019-07-05T11:22:57+08:00 ] /abcTest/admin.php/Course/index | INFO: Tag[ route_check ] --END-- [ RunTime:0.002000s ]
+[ 2019-07-05T11:22:57+08:00 ] /abcTest/admin.php/Course/index | INFO: Tag[ app_begin ] --START--
+[ 2019-07-05T11:22:57+08:00 ] /abcTest/admin.php/Course/index | INFO: Run ReadHtmlCache Behavior [ RunTime:0.002000s ]
+[ 2019-07-05T11:22:57+08:00 ] /abcTest/admin.php/Course/index | INFO: Tag[ app_begin ] --END-- [ RunTime:0.002000s ]
+[ 2019-07-05T11:22:57+08:00 ] /abcTest/admin.php/Course/index | NOTIC: [8] Use of undefined constant Course - assumed 'Course' CourseAction.class.php 第 5 行.
+[ 2019-07-05T11:22:57+08:00 ] /abcTest/admin.php/Course/index | SQL: SHOW COLUMNS FROM `t_course` [ RunTime:0.004000s ]
+[ 2019-07-05T11:22:57+08:00 ] /abcTest/admin.php/Course/index | SQL: SELECT `courseName`,`courseContent`,`courseTime`,`courseArea`,`courseTeacher`,`coursePrice` FROM `t_course` ORDER BY courseID asc  [ RunTime:0.000000s ]
+[ 2019-07-05T11:22:57+08:00 ] /abcTest/admin.php/Course/index | INFO: Tag[ view_template ] --START--
+[ 2019-07-05T11:22:57+08:00 ] /abcTest/admin.php/Course/index | INFO: Run LocationTemplate Behavior [ RunTime:0.002000s ]
+[ 2019-07-05T11:22:57+08:00 ] /abcTest/admin.php/Course/index | INFO: Tag[ view_template ] --END-- [ RunTime:0.002000s ]
+[ 2019-07-05T11:22:57+08:00 ] /abcTest/admin.php/Course/index | INFO: Tag[ view_parse ] --START--
+[ 2019-07-05T11:22:57+08:00 ] /abcTest/admin.php/Course/index | NOTIC: [8] Undefined variable: title 6f0ada55359106615047b4a70d624b08.php 第 5 行.
+[ 2019-07-05T11:22:57+08:00 ] /abcTest/admin.php/Course/index | NOTIC: [8] Undefined index: coaIdCardNo 6f0ada55359106615047b4a70d624b08.php 第 60 行.
+[ 2019-07-05T11:22:57+08:00 ] /abcTest/admin.php/Course/index | INFO: Run ParseTemplate Behavior [ RunTime:0.012000s ]
+[ 2019-07-05T11:22:57+08:00 ] /abcTest/admin.php/Course/index | INFO: Tag[ view_parse ] --END-- [ RunTime:0.012000s ]
+[ 2019-07-05T11:22:57+08:00 ] /abcTest/admin.php/Course/index | INFO: Tag[ view_filter ] --START--
+[ 2019-07-05T11:22:57+08:00 ] /abcTest/admin.php/Course/index | INFO: Run ContentReplace Behavior [ RunTime:0.001000s ]
+[ 2019-07-05T11:22:57+08:00 ] /abcTest/admin.php/Course/index | INFO: Run TokenBuild Behavior [ RunTime:0.002000s ]
+[ 2019-07-05T11:22:57+08:00 ] /abcTest/admin.php/Course/index | INFO: Run WriteHtmlCache Behavior [ RunTime:0.000000s ]
+[ 2019-07-05T11:22:57+08:00 ] /abcTest/admin.php/Course/index | INFO: Run ShowRuntime Behavior [ RunTime:0.002000s ]
+[ 2019-07-05T11:22:57+08:00 ] /abcTest/admin.php/Course/index | INFO: Tag[ view_filter ] --END-- [ RunTime:0.005000s ]
+[ 2019-07-05T11:22:57+08:00 ] /abcTest/admin.php/Course/index | INFO: Tag[ view_end ] --START--
+[ 2019-07-05T11:22:57+08:00 ] /abcTest/admin.php/Course/index | INFO: Run ShowPageTrace Behavior [ RunTime:0.001000s ]
+[ 2019-07-05T11:22:57+08:00 ] /abcTest/admin.php/Course/index | INFO: Tag[ view_end ] --END-- [ RunTime:0.001000s ]
+[ 2019-07-05T11:25:00+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ route_check ] --START--
+[ 2019-07-05T11:25:00+08:00 ] /abcTest/admin.php/Index/index | INFO: Run CheckRoute Behavior [ RunTime:0.003000s ]
+[ 2019-07-05T11:25:00+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ route_check ] --END-- [ RunTime:0.003000s ]
+[ 2019-07-05T11:25:00+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ app_begin ] --START--
+[ 2019-07-05T11:25:00+08:00 ] /abcTest/admin.php/Index/index | INFO: Run ReadHtmlCache Behavior [ RunTime:0.001000s ]
+[ 2019-07-05T11:25:00+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ app_begin ] --END-- [ RunTime:0.001000s ]
+[ 2019-07-05T11:25:00+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ view_template ] --START--
+[ 2019-07-05T11:25:00+08:00 ] /abcTest/admin.php/Index/index | INFO: Run LocationTemplate Behavior [ RunTime:0.002000s ]
+[ 2019-07-05T11:25:00+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ view_template ] --END-- [ RunTime:0.002000s ]
+[ 2019-07-05T11:25:00+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ view_parse ] --START--
+[ 2019-07-05T11:25:00+08:00 ] /abcTest/admin.php/Index/index | NOTIC: [8] Undefined variable: title 4c18d5952d0dbf1eedb8a1ec796fa788.php 第 5 行.
+[ 2019-07-05T11:25:00+08:00 ] /abcTest/admin.php/Index/index | INFO: Run ParseTemplate Behavior [ RunTime:0.011000s ]
+[ 2019-07-05T11:25:00+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ view_parse ] --END-- [ RunTime:0.011000s ]
+[ 2019-07-05T11:25:00+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ view_filter ] --START--
+[ 2019-07-05T11:25:00+08:00 ] /abcTest/admin.php/Index/index | INFO: Run ContentReplace Behavior [ RunTime:0.002000s ]
+[ 2019-07-05T11:25:00+08:00 ] /abcTest/admin.php/Index/index | INFO: Run TokenBuild Behavior [ RunTime:0.001000s ]
+[ 2019-07-05T11:25:00+08:00 ] /abcTest/admin.php/Index/index | INFO: Run WriteHtmlCache Behavior [ RunTime:0.001000s ]
+[ 2019-07-05T11:25:00+08:00 ] /abcTest/admin.php/Index/index | INFO: Run ShowRuntime Behavior [ RunTime:0.001000s ]
+[ 2019-07-05T11:25:00+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ view_filter ] --END-- [ RunTime:0.005000s ]
+[ 2019-07-05T11:25:00+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ view_end ] --START--
+[ 2019-07-05T11:25:00+08:00 ] /abcTest/admin.php/Index/index | INFO: Run ShowPageTrace Behavior [ RunTime:0.001000s ]
+[ 2019-07-05T11:25:00+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ view_end ] --END-- [ RunTime:0.001000s ]
+[ 2019-07-05T11:25:02+08:00 ] /abcTest/admin.php/Course/index | INFO: Tag[ route_check ] --START--
+[ 2019-07-05T11:25:02+08:00 ] /abcTest/admin.php/Course/index | INFO: Run CheckRoute Behavior [ RunTime:0.001000s ]
+[ 2019-07-05T11:25:02+08:00 ] /abcTest/admin.php/Course/index | INFO: Tag[ route_check ] --END-- [ RunTime:0.001000s ]
+[ 2019-07-05T11:25:02+08:00 ] /abcTest/admin.php/Course/index | INFO: Tag[ app_begin ] --START--
+[ 2019-07-05T11:25:02+08:00 ] /abcTest/admin.php/Course/index | INFO: Run ReadHtmlCache Behavior [ RunTime:0.001000s ]
+[ 2019-07-05T11:25:02+08:00 ] /abcTest/admin.php/Course/index | INFO: Tag[ app_begin ] --END-- [ RunTime:0.001000s ]
+[ 2019-07-05T11:25:02+08:00 ] /abcTest/admin.php/Course/index | NOTIC: [8] Use of undefined constant Course - assumed 'Course' CourseAction.class.php 第 5 行.
+[ 2019-07-05T11:25:02+08:00 ] /abcTest/admin.php/Course/index | SQL: SHOW COLUMNS FROM `t_course` [ RunTime:0.003000s ]
+[ 2019-07-05T11:25:02+08:00 ] /abcTest/admin.php/Course/index | SQL: SELECT `courseName`,`courseContent`,`courseTime`,`courseArea`,`courseTeacher`,`coursePrice` FROM `t_course` ORDER BY courseID asc  [ RunTime:0.001000s ]
+[ 2019-07-05T11:25:02+08:00 ] /abcTest/admin.php/Course/index | INFO: Tag[ view_template ] --START--
+[ 2019-07-05T11:25:02+08:00 ] /abcTest/admin.php/Course/index | INFO: Run LocationTemplate Behavior [ RunTime:0.002000s ]
+[ 2019-07-05T11:25:02+08:00 ] /abcTest/admin.php/Course/index | INFO: Tag[ view_template ] --END-- [ RunTime:0.002000s ]
+[ 2019-07-05T11:25:02+08:00 ] /abcTest/admin.php/Course/index | INFO: Tag[ view_parse ] --START--
+[ 2019-07-05T11:25:02+08:00 ] /abcTest/admin.php/Course/index | NOTIC: [8] Undefined variable: title 6f0ada55359106615047b4a70d624b08.php 第 5 行.
+[ 2019-07-05T11:25:02+08:00 ] /abcTest/admin.php/Course/index | NOTIC: [8] Undefined index: coaIdCardNo 6f0ada55359106615047b4a70d624b08.php 第 60 行.
+[ 2019-07-05T11:25:02+08:00 ] /abcTest/admin.php/Course/index | INFO: Run ParseTemplate Behavior [ RunTime:0.013000s ]
+[ 2019-07-05T11:25:02+08:00 ] /abcTest/admin.php/Course/index | INFO: Tag[ view_parse ] --END-- [ RunTime:0.013000s ]
+[ 2019-07-05T11:25:02+08:00 ] /abcTest/admin.php/Course/index | INFO: Tag[ view_filter ] --START--
+[ 2019-07-05T11:25:02+08:00 ] /abcTest/admin.php/Course/index | INFO: Run ContentReplace Behavior [ RunTime:0.001000s ]
+[ 2019-07-05T11:25:02+08:00 ] /abcTest/admin.php/Course/index | INFO: Run TokenBuild Behavior [ RunTime:0.002000s ]
+[ 2019-07-05T11:25:02+08:00 ] /abcTest/admin.php/Course/index | INFO: Run WriteHtmlCache Behavior [ RunTime:0.001000s ]
+[ 2019-07-05T11:25:02+08:00 ] /abcTest/admin.php/Course/index | INFO: Run ShowRuntime Behavior [ RunTime:0.001000s ]
+[ 2019-07-05T11:25:02+08:00 ] /abcTest/admin.php/Course/index | INFO: Tag[ view_filter ] --END-- [ RunTime:0.005000s ]
+[ 2019-07-05T11:25:02+08:00 ] /abcTest/admin.php/Course/index | INFO: Tag[ view_end ] --START--
+[ 2019-07-05T11:25:02+08:00 ] /abcTest/admin.php/Course/index | INFO: Run ShowPageTrace Behavior [ RunTime:0.001000s ]
+[ 2019-07-05T11:25:02+08:00 ] /abcTest/admin.php/Course/index | INFO: Tag[ view_end ] --END-- [ RunTime:0.001000s ]
+[ 2019-07-05T11:25:54+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ route_check ] --START--
+[ 2019-07-05T11:25:54+08:00 ] /abcTest/admin.php/Index/index | INFO: Run CheckRoute Behavior [ RunTime:0.002000s ]
+[ 2019-07-05T11:25:54+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ route_check ] --END-- [ RunTime:0.003000s ]
+[ 2019-07-05T11:25:54+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ app_begin ] --START--
+[ 2019-07-05T11:25:54+08:00 ] /abcTest/admin.php/Index/index | INFO: Run ReadHtmlCache Behavior [ RunTime:0.002000s ]
+[ 2019-07-05T11:25:54+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ app_begin ] --END-- [ RunTime:0.002000s ]
+[ 2019-07-05T11:25:54+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ view_template ] --START--
+[ 2019-07-05T11:25:54+08:00 ] /abcTest/admin.php/Index/index | INFO: Run LocationTemplate Behavior [ RunTime:0.002000s ]
+[ 2019-07-05T11:25:54+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ view_template ] --END-- [ RunTime:0.003000s ]
+[ 2019-07-05T11:25:54+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ view_parse ] --START--
+[ 2019-07-05T11:25:54+08:00 ] /abcTest/admin.php/Index/index | NOTIC: [8] Undefined variable: title 4c18d5952d0dbf1eedb8a1ec796fa788.php 第 5 行.
+[ 2019-07-05T11:25:54+08:00 ] /abcTest/admin.php/Index/index | INFO: Run ParseTemplate Behavior [ RunTime:0.013000s ]
+[ 2019-07-05T11:25:54+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ view_parse ] --END-- [ RunTime:0.013000s ]
+[ 2019-07-05T11:25:54+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ view_filter ] --START--
+[ 2019-07-05T11:25:54+08:00 ] /abcTest/admin.php/Index/index | INFO: Run ContentReplace Behavior [ RunTime:0.002000s ]
+[ 2019-07-05T11:25:54+08:00 ] /abcTest/admin.php/Index/index | INFO: Run TokenBuild Behavior [ RunTime:0.001000s ]
+[ 2019-07-05T11:25:54+08:00 ] /abcTest/admin.php/Index/index | INFO: Run WriteHtmlCache Behavior [ RunTime:0.002000s ]
+[ 2019-07-05T11:25:54+08:00 ] /abcTest/admin.php/Index/index | INFO: Run ShowRuntime Behavior [ RunTime:0.001000s ]
+[ 2019-07-05T11:25:54+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ view_filter ] --END-- [ RunTime:0.006000s ]
+[ 2019-07-05T11:25:54+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ view_end ] --START--
+[ 2019-07-05T11:25:54+08:00 ] /abcTest/admin.php/Index/index | INFO: Run ShowPageTrace Behavior [ RunTime:0.001000s ]
+[ 2019-07-05T11:25:54+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ view_end ] --END-- [ RunTime:0.001000s ]
+[ 2019-07-05T11:25:56+08:00 ] /abcTest/admin.php/Course/index | INFO: Tag[ route_check ] --START--
+[ 2019-07-05T11:25:56+08:00 ] /abcTest/admin.php/Course/index | INFO: Run CheckRoute Behavior [ RunTime:0.001000s ]
+[ 2019-07-05T11:25:56+08:00 ] /abcTest/admin.php/Course/index | INFO: Tag[ route_check ] --END-- [ RunTime:0.002000s ]
+[ 2019-07-05T11:25:56+08:00 ] /abcTest/admin.php/Course/index | INFO: Tag[ app_begin ] --START--
+[ 2019-07-05T11:25:56+08:00 ] /abcTest/admin.php/Course/index | INFO: Run ReadHtmlCache Behavior [ RunTime:0.001000s ]
+[ 2019-07-05T11:25:56+08:00 ] /abcTest/admin.php/Course/index | INFO: Tag[ app_begin ] --END-- [ RunTime:0.001000s ]
+[ 2019-07-05T11:25:56+08:00 ] /abcTest/admin.php/Course/index | NOTIC: [8] Use of undefined constant Course - assumed 'Course' CourseAction.class.php 第 5 行.
+[ 2019-07-05T11:25:56+08:00 ] /abcTest/admin.php/Course/index | SQL: SHOW COLUMNS FROM `t_course` [ RunTime:0.004000s ]
+[ 2019-07-05T11:25:56+08:00 ] /abcTest/admin.php/Course/index | SQL: SELECT `courseName`,`courseContent`,`courseTime`,`courseArea`,`courseTeacher`,`coursePrice` FROM `t_course` ORDER BY courseID asc  [ RunTime:0.001000s ]
+[ 2019-07-05T11:25:56+08:00 ] /abcTest/admin.php/Course/index | INFO: Tag[ view_template ] --START--
+[ 2019-07-05T11:25:56+08:00 ] /abcTest/admin.php/Course/index | INFO: Run LocationTemplate Behavior [ RunTime:0.001000s ]
+[ 2019-07-05T11:25:56+08:00 ] /abcTest/admin.php/Course/index | INFO: Tag[ view_template ] --END-- [ RunTime:0.001000s ]
+[ 2019-07-05T11:25:56+08:00 ] /abcTest/admin.php/Course/index | INFO: Tag[ view_parse ] --START--
+[ 2019-07-05T11:25:56+08:00 ] /abcTest/admin.php/Course/index | NOTIC: [8] Undefined variable: title 6f0ada55359106615047b4a70d624b08.php 第 5 行.
+[ 2019-07-05T11:25:56+08:00 ] /abcTest/admin.php/Course/index | NOTIC: [8] Undefined index: coaIdCardNo 6f0ada55359106615047b4a70d624b08.php 第 60 行.
+[ 2019-07-05T11:25:56+08:00 ] /abcTest/admin.php/Course/index | INFO: Run ParseTemplate Behavior [ RunTime:0.011000s ]
+[ 2019-07-05T11:25:56+08:00 ] /abcTest/admin.php/Course/index | INFO: Tag[ view_parse ] --END-- [ RunTime:0.011000s ]
+[ 2019-07-05T11:25:56+08:00 ] /abcTest/admin.php/Course/index | INFO: Tag[ view_filter ] --START--
+[ 2019-07-05T11:25:56+08:00 ] /abcTest/admin.php/Course/index | INFO: Run ContentReplace Behavior [ RunTime:0.001000s ]
+[ 2019-07-05T11:25:56+08:00 ] /abcTest/admin.php/Course/index | INFO: Run TokenBuild Behavior [ RunTime:0.001000s ]
+[ 2019-07-05T11:25:56+08:00 ] /abcTest/admin.php/Course/index | INFO: Run WriteHtmlCache Behavior [ RunTime:0.001000s ]
+[ 2019-07-05T11:25:56+08:00 ] /abcTest/admin.php/Course/index | INFO: Run ShowRuntime Behavior [ RunTime:0.001000s ]
+[ 2019-07-05T11:25:56+08:00 ] /abcTest/admin.php/Course/index | INFO: Tag[ view_filter ] --END-- [ RunTime:0.004000s ]
+[ 2019-07-05T11:25:56+08:00 ] /abcTest/admin.php/Course/index | INFO: Tag[ view_end ] --START--
+[ 2019-07-05T11:25:56+08:00 ] /abcTest/admin.php/Course/index | INFO: Run ShowPageTrace Behavior [ RunTime:0.001000s ]
+[ 2019-07-05T11:25:56+08:00 ] /abcTest/admin.php/Course/index | INFO: Tag[ view_end ] --END-- [ RunTime:0.001000s ]
+[ 2019-07-05T11:26:14+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ route_check ] --START--
+[ 2019-07-05T11:26:14+08:00 ] /abcTest/admin.php/Index/index | INFO: Run CheckRoute Behavior [ RunTime:0.002000s ]
+[ 2019-07-05T11:26:14+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ route_check ] --END-- [ RunTime:0.003000s ]
+[ 2019-07-05T11:26:14+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ app_begin ] --START--
+[ 2019-07-05T11:26:14+08:00 ] /abcTest/admin.php/Index/index | INFO: Run ReadHtmlCache Behavior [ RunTime:0.002000s ]
+[ 2019-07-05T11:26:14+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ app_begin ] --END-- [ RunTime:0.003000s ]
+[ 2019-07-05T11:26:14+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ view_template ] --START--
+[ 2019-07-05T11:26:14+08:00 ] /abcTest/admin.php/Index/index | INFO: Run LocationTemplate Behavior [ RunTime:0.002000s ]
+[ 2019-07-05T11:26:14+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ view_template ] --END-- [ RunTime:0.003000s ]
+[ 2019-07-05T11:26:14+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ view_parse ] --START--
+[ 2019-07-05T11:26:14+08:00 ] /abcTest/admin.php/Index/index | NOTIC: [8] Undefined variable: title 4c18d5952d0dbf1eedb8a1ec796fa788.php 第 5 行.
+[ 2019-07-05T11:26:14+08:00 ] /abcTest/admin.php/Index/index | INFO: Run ParseTemplate Behavior [ RunTime:0.014000s ]
+[ 2019-07-05T11:26:14+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ view_parse ] --END-- [ RunTime:0.014000s ]
+[ 2019-07-05T11:26:14+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ view_filter ] --START--
+[ 2019-07-05T11:26:14+08:00 ] /abcTest/admin.php/Index/index | INFO: Run ContentReplace Behavior [ RunTime:0.001000s ]
+[ 2019-07-05T11:26:14+08:00 ] /abcTest/admin.php/Index/index | INFO: Run TokenBuild Behavior [ RunTime:0.002000s ]
+[ 2019-07-05T11:26:14+08:00 ] /abcTest/admin.php/Index/index | INFO: Run WriteHtmlCache Behavior [ RunTime:0.001000s ]
+[ 2019-07-05T11:26:14+08:00 ] /abcTest/admin.php/Index/index | INFO: Run ShowRuntime Behavior [ RunTime:0.001000s ]
+[ 2019-07-05T11:26:14+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ view_filter ] --END-- [ RunTime:0.005000s ]
+[ 2019-07-05T11:26:14+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ view_end ] --START--
+[ 2019-07-05T11:26:14+08:00 ] /abcTest/admin.php/Index/index | INFO: Run ShowPageTrace Behavior [ RunTime:0.001000s ]
+[ 2019-07-05T11:26:14+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ view_end ] --END-- [ RunTime:0.001000s ]
+[ 2019-07-05T11:26:15+08:00 ] /abcTest/admin.php/Course/index | INFO: Tag[ route_check ] --START--
+[ 2019-07-05T11:26:15+08:00 ] /abcTest/admin.php/Course/index | INFO: Run CheckRoute Behavior [ RunTime:0.001000s ]
+[ 2019-07-05T11:26:15+08:00 ] /abcTest/admin.php/Course/index | INFO: Tag[ route_check ] --END-- [ RunTime:0.001000s ]
+[ 2019-07-05T11:26:15+08:00 ] /abcTest/admin.php/Course/index | INFO: Tag[ app_begin ] --START--
+[ 2019-07-05T11:26:15+08:00 ] /abcTest/admin.php/Course/index | INFO: Run ReadHtmlCache Behavior [ RunTime:0.001000s ]
+[ 2019-07-05T11:26:15+08:00 ] /abcTest/admin.php/Course/index | INFO: Tag[ app_begin ] --END-- [ RunTime:0.001000s ]
+[ 2019-07-05T11:26:15+08:00 ] /abcTest/admin.php/Course/index | NOTIC: [8] Use of undefined constant Course - assumed 'Course' CourseAction.class.php 第 5 行.
+[ 2019-07-05T11:26:15+08:00 ] /abcTest/admin.php/Course/index | SQL: SHOW COLUMNS FROM `t_course` [ RunTime:0.003000s ]
+[ 2019-07-05T11:26:15+08:00 ] /abcTest/admin.php/Course/index | SQL: SELECT `courseName`,`courseContent`,`courseTime`,`courseArea`,`courseTeacher`,`coursePrice` FROM `t_course` ORDER BY courseID asc  [ RunTime:0.000000s ]
+[ 2019-07-05T11:26:15+08:00 ] /abcTest/admin.php/Course/index | INFO: Tag[ view_template ] --START--
+[ 2019-07-05T11:26:15+08:00 ] /abcTest/admin.php/Course/index | INFO: Run LocationTemplate Behavior [ RunTime:0.002000s ]
+[ 2019-07-05T11:26:15+08:00 ] /abcTest/admin.php/Course/index | INFO: Tag[ view_template ] --END-- [ RunTime:0.002000s ]
+[ 2019-07-05T11:26:15+08:00 ] /abcTest/admin.php/Course/index | INFO: Tag[ view_parse ] --START--
+[ 2019-07-05T11:26:15+08:00 ] /abcTest/admin.php/Course/index | NOTIC: [8] Undefined variable: title 6f0ada55359106615047b4a70d624b08.php 第 5 行.
+[ 2019-07-05T11:26:15+08:00 ] /abcTest/admin.php/Course/index | NOTIC: [8] Undefined index: coaIdCardNo 6f0ada55359106615047b4a70d624b08.php 第 60 行.
+[ 2019-07-05T11:26:15+08:00 ] /abcTest/admin.php/Course/index | INFO: Run ParseTemplate Behavior [ RunTime:0.014000s ]
+[ 2019-07-05T11:26:15+08:00 ] /abcTest/admin.php/Course/index | INFO: Tag[ view_parse ] --END-- [ RunTime:0.015000s ]
+[ 2019-07-05T11:26:15+08:00 ] /abcTest/admin.php/Course/index | INFO: Tag[ view_filter ] --START--
+[ 2019-07-05T11:26:15+08:00 ] /abcTest/admin.php/Course/index | INFO: Run ContentReplace Behavior [ RunTime:0.001000s ]
+[ 2019-07-05T11:26:15+08:00 ] /abcTest/admin.php/Course/index | INFO: Run TokenBuild Behavior [ RunTime:0.001000s ]
+[ 2019-07-05T11:26:15+08:00 ] /abcTest/admin.php/Course/index | INFO: Run WriteHtmlCache Behavior [ RunTime:0.001000s ]
+[ 2019-07-05T11:26:15+08:00 ] /abcTest/admin.php/Course/index | INFO: Run ShowRuntime Behavior [ RunTime:0.002000s ]
+[ 2019-07-05T11:26:15+08:00 ] /abcTest/admin.php/Course/index | INFO: Tag[ view_filter ] --END-- [ RunTime:0.005000s ]
+[ 2019-07-05T11:26:15+08:00 ] /abcTest/admin.php/Course/index | INFO: Tag[ view_end ] --START--
+[ 2019-07-05T11:26:15+08:00 ] /abcTest/admin.php/Course/index | INFO: Run ShowPageTrace Behavior [ RunTime:0.001000s ]
+[ 2019-07-05T11:26:15+08:00 ] /abcTest/admin.php/Course/index | INFO: Tag[ view_end ] --END-- [ RunTime:0.001000s ]
+[ 2019-07-05T11:27:08+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ route_check ] --START--
+[ 2019-07-05T11:27:08+08:00 ] /abcTest/admin.php/Index/index | INFO: Run CheckRoute Behavior [ RunTime:0.001000s ]
+[ 2019-07-05T11:27:08+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ route_check ] --END-- [ RunTime:0.002000s ]
+[ 2019-07-05T11:27:08+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ app_begin ] --START--
+[ 2019-07-05T11:27:08+08:00 ] /abcTest/admin.php/Index/index | INFO: Run ReadHtmlCache Behavior [ RunTime:0.002000s ]
+[ 2019-07-05T11:27:08+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ app_begin ] --END-- [ RunTime:0.002000s ]
+[ 2019-07-05T11:27:08+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ view_template ] --START--
+[ 2019-07-05T11:27:08+08:00 ] /abcTest/admin.php/Index/index | INFO: Run LocationTemplate Behavior [ RunTime:0.002000s ]
+[ 2019-07-05T11:27:08+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ view_template ] --END-- [ RunTime:0.002000s ]
+[ 2019-07-05T11:27:08+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ view_parse ] --START--
+[ 2019-07-05T11:27:08+08:00 ] /abcTest/admin.php/Index/index | NOTIC: [8] Undefined variable: title 4c18d5952d0dbf1eedb8a1ec796fa788.php 第 5 行.
+[ 2019-07-05T11:27:08+08:00 ] /abcTest/admin.php/Index/index | INFO: Run ParseTemplate Behavior [ RunTime:0.012000s ]
+[ 2019-07-05T11:27:08+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ view_parse ] --END-- [ RunTime:0.012000s ]
+[ 2019-07-05T11:27:08+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ view_filter ] --START--
+[ 2019-07-05T11:27:08+08:00 ] /abcTest/admin.php/Index/index | INFO: Run ContentReplace Behavior [ RunTime:0.001000s ]
+[ 2019-07-05T11:27:08+08:00 ] /abcTest/admin.php/Index/index | INFO: Run TokenBuild Behavior [ RunTime:0.001000s ]
+[ 2019-07-05T11:27:08+08:00 ] /abcTest/admin.php/Index/index | INFO: Run WriteHtmlCache Behavior [ RunTime:0.001000s ]
+[ 2019-07-05T11:27:08+08:00 ] /abcTest/admin.php/Index/index | INFO: Run ShowRuntime Behavior [ RunTime:0.001000s ]
+[ 2019-07-05T11:27:08+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ view_filter ] --END-- [ RunTime:0.004000s ]
+[ 2019-07-05T11:27:08+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ view_end ] --START--
+[ 2019-07-05T11:27:08+08:00 ] /abcTest/admin.php/Index/index | INFO: Run ShowPageTrace Behavior [ RunTime:0.001000s ]
+[ 2019-07-05T11:27:08+08:00 ] /abcTest/admin.php/Index/index | INFO: Tag[ view_end ] --END-- [ RunTime:0.001000s ]
+[ 2019-07-05T11:27:09+08:00 ] /abcTest/admin.php/Course/index | INFO: Tag[ route_check ] --START--
+[ 2019-07-05T11:27:09+08:00 ] /abcTest/admin.php/Course/index | INFO: Run CheckRoute Behavior [ RunTime:0.002000s ]
+[ 2019-07-05T11:27:09+08:00 ] /abcTest/admin.php/Course/index | INFO: Tag[ route_check ] --END-- [ RunTime:0.003000s ]
+[ 2019-07-05T11:27:09+08:00 ] /abcTest/admin.php/Course/index | INFO: Tag[ app_begin ] --START--
+[ 2019-07-05T11:27:09+08:00 ] /abcTest/admin.php/Course/index | INFO: Run ReadHtmlCache Behavior [ RunTime:0.001000s ]
+[ 2019-07-05T11:27:09+08:00 ] /abcTest/admin.php/Course/index | INFO: Tag[ app_begin ] --END-- [ RunTime:0.003000s ]
+[ 2019-07-05T11:27:09+08:00 ] /abcTest/admin.php/Course/index | NOTIC: [8] Use of undefined constant Course - assumed 'Course' CourseAction.class.php 第 5 行.
+[ 2019-07-05T11:27:09+08:00 ] /abcTest/admin.php/Course/index | SQL: SHOW COLUMNS FROM `t_course` [ RunTime:0.007000s ]
+[ 2019-07-05T11:27:09+08:00 ] /abcTest/admin.php/Course/index | SQL: SELECT `courseName`,`courseContent`,`courseTime`,`courseArea`,`courseTeacher`,`coursePrice` FROM `t_course` ORDER BY courseID asc  [ RunTime:0.001000s ]
+[ 2019-07-05T11:27:09+08:00 ] /abcTest/admin.php/Course/index | INFO: Tag[ view_template ] --START--
+[ 2019-07-05T11:27:09+08:00 ] /abcTest/admin.php/Course/index | INFO: Run LocationTemplate Behavior [ RunTime:0.001000s ]
+[ 2019-07-05T11:27:09+08:00 ] /abcTest/admin.php/Course/index | INFO: Tag[ view_template ] --END-- [ RunTime:0.001000s ]
+[ 2019-07-05T11:27:09+08:00 ] /abcTest/admin.php/Course/index | INFO: Tag[ view_parse ] --START--
+[ 2019-07-05T11:27:09+08:00 ] /abcTest/admin.php/Course/index | NOTIC: [8] Undefined variable: title 6f0ada55359106615047b4a70d624b08.php 第 5 行.
+[ 2019-07-05T11:27:09+08:00 ] /abcTest/admin.php/Course/index | NOTIC: [8] Undefined index: coaIdCardNo 6f0ada55359106615047b4a70d624b08.php 第 60 行.
+[ 2019-07-05T11:27:09+08:00 ] /abcTest/admin.php/Course/index | INFO: Run ParseTemplate Behavior [ RunTime:0.012000s ]
+[ 2019-07-05T11:27:09+08:00 ] /abcTest/admin.php/Course/index | INFO: Tag[ view_parse ] --END-- [ RunTime:0.012000s ]
+[ 2019-07-05T11:27:09+08:00 ] /abcTest/admin.php/Course/index | INFO: Tag[ view_filter ] --START--
+[ 2019-07-05T11:27:09+08:00 ] /abcTest/admin.php/Course/index | INFO: Run ContentReplace Behavior [ RunTime:0.000000s ]
+[ 2019-07-05T11:27:09+08:00 ] /abcTest/admin.php/Course/index | INFO: Run TokenBuild Behavior [ RunTime:0.001000s ]
+[ 2019-07-05T11:27:09+08:00 ] /abcTest/admin.php/Course/index | INFO: Run WriteHtmlCache Behavior [ RunTime:0.001000s ]
+[ 2019-07-05T11:27:09+08:00 ] /abcTest/admin.php/Course/index | INFO: Run ShowRuntime Behavior [ RunTime:0.001000s ]
+[ 2019-07-05T11:27:09+08:00 ] /abcTest/admin.php/Course/index | INFO: Tag[ view_filter ] --END-- [ RunTime:0.003000s ]
+[ 2019-07-05T11:27:09+08:00 ] /abcTest/admin.php/Course/index | INFO: Tag[ view_end ] --START--
+[ 2019-07-05T11:27:09+08:00 ] /abcTest/admin.php/Course/index | INFO: Run ShowPageTrace Behavior [ RunTime:0.001000s ]
+[ 2019-07-05T11:27:09+08:00 ] /abcTest/admin.php/Course/index | INFO: Tag[ view_end ] --END-- [ RunTime:0.001000s ]

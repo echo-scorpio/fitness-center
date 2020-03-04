@@ -1,0 +1,253 @@
+<?php if (!defined('THINK_PATH')) exit();?><!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title></title>
+
+<link href="/abcTest/public/static/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+
+
+<link rel="stylesheet" href="/abcTest/public/static/bootstrap/css/indexFrame.css" type="text/css" media="screen" />
+<link rel="stylesheet" href="/abcTest/public/static/bootstrap/css/invalid.css" type="text/css" media="screen" />
+
+<script src="/abcTest/public/static/bootstrap/js/bootstrap.min.js"></script>
+<script type="text/javascript" src="/abcTest/public/static/bootstrap/js/jquery.min.js"></script>
+<script src="https://cdn.staticfile.org/jquery/2.1.1/jquery.min.js"></script>
+<script src="https://cdn.staticfile.org/twitter-bootstrap/3.3.7/js/bootstrap.min.js"></script>
+<script type="text/javascript" src="/abcTest/public/static/bootstrap/js/jquery.min.js"></script>
+<script type="text/javascript" src="/abcTest/public/static/bootstrap/js/simpla.jquery.configuration.js"></script>
+<script type="text/javascript" src="/abcTest/public/static/bootstrap/js/facebox.js"></script>
+<script type="text/javascript" src="/abcTest/public/static/bootstrap/js/jquery.wysiwyg.js"></script>
+
+
+
+
+</head>
+
+<body>
+        <div id="main-content">
+          
+                <div class="content-box">
+                
+                  
+                  
+                  <div class="content-box-content">
+<table id="table" >
+        <thead>
+          <tr>
+           
+            <th>管理员号</th>
+            <th>姓名</th>	 
+           
+            <th>会员管理</th>
+            <th>会员卡管理</th>
+            <th>教练管理</th>				
+            <th>课程管理</th>
+            <th>会员业务管理</th>
+            
+            <th>选项</th>
+          </tr>
+        </thead>
+          
+        <!-- 表内容部分 -->
+        <tbody id="tlist">
+          <?php if(is_array($rightInfo)): $i = 0; $__LIST__ = $rightInfo;if( count($__LIST__)==0 ) : echo "" ;else: foreach($__LIST__ as $key=>$vo): $mod = ($i % 2 );++$i;?><tr>
+           
+            <td><?php echo ($vo['userId']); ?></td>
+            <td><?php echo ($vo['userName']); ?> </td>
+            <td style="display: none" id="rules"><?php echo ($vo['rules']); ?> </td>
+            <td><input type="checkbox" name="manageUser" class="ManageUser" value="1"></td>
+            <td><input type="checkbox" name="manageUser" class="ManageUser" value="2"></td>
+            <td><input type="checkbox" name="manageUser" class="ManageUser" value="3"></td>
+            <td><input type="checkbox" name="manageUser" class="ManageUser" value="4"></td>
+            <td><input type="checkbox" name="manageUser" class="ManageUser" value="5"></td>
+            <td><a title="确定" onclick="doClick(this)" style="cursor: pointer">确定</a></td>
+          
+          </tr><?php endforeach; endif; else: echo "" ;endif; ?>                        
+        </tbody>
+        
+          <!-- 表尾 -->
+        <tfoot>
+          <tr>
+            <td colspan="6">
+                 <button data-toggle="modal" data-target="#myModal"  id="addButton">添加管理员</button>
+                 
+            </td>
+          </tr>
+        </tfoot>
+      </table>
+
+
+     <!--添加管理员模态框-->
+<div class="modal fade" id="myModal" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+    <div class="modal-dialog">
+      <div class="modal-content">
+        <div class="modal-header">
+          
+          <h4 class="modal-title" id="myModalLabel">
+            添加管理员
+          </h4>
+        </div>
+        <div class="modal-body">
+          <form class="form-horizontal" method="post" name="rightsForm">
+            
+            
+            <div class="form-group">
+            <label for="inputText" class="col-sm-2 control-label">姓名</label>
+            <div class="col-sm-10">
+              <input type="text" class="form-control" name="userName" placeholder="姓名">
+            </div>					
+            </div>
+            <div class="form-group">
+                <label for="inputText" class="col-sm-2 control-label">权限</label>
+                
+                    
+                    <select class="timeSelect" id="chooseRight" onchange="getRight()">
+                        <option value="0">请选择权限</option>
+                        <option value="1">会员管理</option>
+                        <option value="2">会员卡管理</option>
+                        <option value="3">教练管理</option>
+                        <option value="4">课程管理</option>
+                        <option value="5">会员业务管理</option>
+                        </select>
+                        
+                    
+                </div>
+                         
+          </form>
+        </div>
+        <div class="modal-footer">
+          <button type="button" class="btn btn-default" data-dismiss="modal">关闭
+          </button>
+        
+          <button id="addButton" type="button" class="btn btn-primary" onclick="addAdminUser()">
+            添加
+          </button>
+        </div>
+      </div><!-- /.modal-content -->
+    </div><!-- /.modal -->
+  </div>
+  <!--添加管理员模态框-->
+
+      </div>
+      </div>
+      
+    </div>
+      <script language="javascript">
+        function addAdminUser(){
+          var name=document.rightsForm.userName.value;
+          var rights=getRight();
+          var id=RndNum(5);
+        $.ajax({
+          url:"/abcTest/admin.php/ManageRight/addAdminUser",
+          type:"post",
+          data:{"name":name,"rights":rights,"id":id},
+          success:function(msg){
+            alert(msg);
+            window.location.reload();
+          },
+          error:function(msg){
+            alert(msg);
+          }
+
+        });
+        }
+
+        //产生随机数函数
+function RndNum(n){
+    var rnd="";
+    for(var i=0;i<n;i++)
+        rnd+=Math.floor(Math.random()*10);
+    return rnd;
+}
+
+        function getRight(){
+          var selItem=document.getElementById('chooseRight');
+  var rights = selItem.options[selItem.selectedIndex].value;
+  
+    return rights;
+        }
+        function doClick(obj){
+         // alert("aaaaaa");
+          var td = event.srcElement; // 通过event.srcElement 获取激活事件的对象 td 
+		var index=td.parentElement.parentElement.rowIndex;
+		var tab = document.getElementById("table");
+		var row = tab.rows; //获取table的行
+		var cell = row[index].cells; //获取第二行的列
+    var idNum=cell[0].innerHTML; //会员号
+		var name=cell[1].innerHTML;
+    var roleStr="";
+    for(i=3;i<8;i++){
+      textt=tab.rows[index].cells[i].getElementsByTagName("INPUT")[0].value;
+      if(tab.rows[index].cells[i].getElementsByTagName("INPUT")[0].checked ==true){
+        //alert("isChecked");
+        roleStr+=tab.rows[index].cells[i].getElementsByTagName("INPUT")[0].value+"|";
+      }
+      
+    }
+    //alert(idNum+roleStr);
+    $.ajax({
+      url:"/abcTest/admin.php/ManageRight/edit",
+      type:"post",
+      data:{"userID":idNum,"rights":roleStr,"name":name},
+      success:function(msg){
+        alert(msg);
+        window.location.reload();
+      }
+    });
+        }
+ $(function(){
+        var tab = document.getElementById("table");
+		var row = tab.rows; //获取table的行
+    var ck = $(".ManageUser");
+    ck.prop("checked",false);
+        var roleArray=['会员管理','会员卡管理','教练管理','课程管理','会员业务管理'];
+var trList = $("#tlist").children("tr");
+
+    for(var i=0;i<row.length+1;i++){
+      var cell = row[i+1].cells; //获取第二行的列
+		var rule=cell[2].innerHTML;
+    var strs= new Array(); //定义一数组 
+strs=rule.split(",");
+
+ //alert(strs[i]+i);
+
+for(var j=0;j<roleArray.length;j++){
+
+  var role=strs[j];
+  if(role!=undefined){
+    role=role.replace(/\s/g,"");
+  }
+  
+ switch (role) {
+   case '会员管理':
+    tab.rows[i+1].cells[3].getElementsByTagName("INPUT")[0].checked = "checked";
+     break;
+     case '会员卡管理':
+    tab.rows[i+1].cells[4].getElementsByTagName("INPUT")[0].checked = "checked";
+     break;
+     case '教练管理':
+    tab.rows[i+1].cells[5].getElementsByTagName("INPUT")[0].checked = "checked";
+     break;
+     case '课程管理':
+    tab.rows[i+1].cells[6].getElementsByTagName("INPUT")[0].checked = "checked";
+     break;
+     case '会员业务管理':
+    tab.rows[i+1].cells[7].getElementsByTagName("INPUT")[0].checked = "checked";
+     break;
+ 
+   default:
+     break;
+ }
+
+}
+
+    }
+		
+       
+      })
+    
+      </script>
+    </body>
+   
+    </html>

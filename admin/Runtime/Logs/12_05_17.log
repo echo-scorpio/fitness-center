@@ -1,0 +1,606 @@
+[ 2012-05-17T08:37:01+08:00 ] /xxx/admin.php/Login/index/ | INFO: Tag[ route_check ] --START--
+[ 2012-05-17T08:37:01+08:00 ] /xxx/admin.php/Login/index/ | INFO: Run CheckRoute Behavior [ RunTime:0.001172s ]
+[ 2012-05-17T08:37:01+08:00 ] /xxx/admin.php/Login/index/ | INFO: Tag[ route_check ] --END-- [ RunTime:0.001293s ]
+[ 2012-05-17T08:37:01+08:00 ] /xxx/admin.php/Login/index/ | INFO: Tag[ app_begin ] --START--
+[ 2012-05-17T08:37:01+08:00 ] /xxx/admin.php/Login/index/ | INFO: Run ReadHtmlCache Behavior [ RunTime:0.000526s ]
+[ 2012-05-17T08:37:01+08:00 ] /xxx/admin.php/Login/index/ | INFO: Tag[ app_begin ] --END-- [ RunTime:0.000605s ]
+[ 2012-05-17T08:37:01+08:00 ] /xxx/admin.php/Login/index/ | INFO: Tag[ view_template ] --START--
+[ 2012-05-17T08:37:01+08:00 ] /xxx/admin.php/Login/index/ | INFO: Run LocationTemplate Behavior [ RunTime:0.036174s ]
+[ 2012-05-17T08:37:01+08:00 ] /xxx/admin.php/Login/index/ | INFO: Tag[ view_template ] --END-- [ RunTime:0.036307s ]
+[ 2012-05-17T08:37:01+08:00 ] /xxx/admin.php/Login/index/ | INFO: Tag[ view_parse ] --START--
+[ 2012-05-17T08:37:01+08:00 ] /xxx/admin.php/Login/index/ | NOTIC: [8] Undefined variable: title 8384b84b189c5fd00834f98e9d2c5849.php 第 6 行.
+[ 2012-05-17T08:37:01+08:00 ] /xxx/admin.php/Login/index/ | NOTIC: [8] Undefined variable: title 8384b84b189c5fd00834f98e9d2c5849.php 第 35 行.
+[ 2012-05-17T08:37:01+08:00 ] /xxx/admin.php/Login/index/ | NOTIC: [8] Undefined variable: title 8384b84b189c5fd00834f98e9d2c5849.php 第 37 行.
+[ 2012-05-17T08:37:01+08:00 ] /xxx/admin.php/Login/index/ | INFO: Run ParseTemplate Behavior [ RunTime:0.023142s ]
+[ 2012-05-17T08:37:01+08:00 ] /xxx/admin.php/Login/index/ | INFO: Tag[ view_parse ] --END-- [ RunTime:0.023282s ]
+[ 2012-05-17T08:37:01+08:00 ] /xxx/admin.php/Login/index/ | INFO: Tag[ view_filter ] --START--
+[ 2012-05-17T08:37:01+08:00 ] /xxx/admin.php/Login/index/ | INFO: Run ContentReplace Behavior [ RunTime:0.000495s ]
+[ 2012-05-17T08:37:01+08:00 ] /xxx/admin.php/Login/index/ | INFO: Run TokenBuild Behavior [ RunTime:0.000555s ]
+[ 2012-05-17T08:37:01+08:00 ] /xxx/admin.php/Login/index/ | INFO: Run WriteHtmlCache Behavior [ RunTime:0.000249s ]
+[ 2012-05-17T08:37:01+08:00 ] /xxx/admin.php/Login/index/ | INFO: Run ShowRuntime Behavior [ RunTime:0.000487s ]
+[ 2012-05-17T08:37:01+08:00 ] /xxx/admin.php/Login/index/ | INFO: Tag[ view_filter ] --END-- [ RunTime:0.002064s ]
+[ 2012-05-17T08:37:01+08:00 ] /xxx/admin.php/Login/index/ | INFO: Tag[ view_end ] --START--
+[ 2012-05-17T08:37:01+08:00 ] /xxx/admin.php/Login/index/ | INFO: Run ShowPageTrace Behavior [ RunTime:0.000404s ]
+[ 2012-05-17T08:37:01+08:00 ] /xxx/admin.php/Login/index/ | INFO: Tag[ view_end ] --END-- [ RunTime:0.000479s ]
+[ 2012-05-17T08:37:01+08:00 ] /xxx/admin.php/Common/verify | ERR: (ThinkException) 无法加载模块Common
+[ 2012-05-17T08:37:01+08:00 ] /xxx/admin.php/Login/index/resources/images/closelabel.gif | INFO: Tag[ route_check ] --START--
+[ 2012-05-17T08:37:01+08:00 ] /xxx/admin.php/Login/index/resources/images/closelabel.gif | INFO: Run CheckRoute Behavior [ RunTime:0.001224s ]
+[ 2012-05-17T08:37:01+08:00 ] /xxx/admin.php/Login/index/resources/images/closelabel.gif | INFO: Tag[ route_check ] --END-- [ RunTime:0.001414s ]
+[ 2012-05-17T08:37:01+08:00 ] /xxx/admin.php/Login/index/resources/images/closelabel.gif | INFO: Tag[ app_begin ] --START--
+[ 2012-05-17T08:37:01+08:00 ] /xxx/admin.php/Login/index/resources/images/closelabel.gif | INFO: Run ReadHtmlCache Behavior [ RunTime:0.000843s ]
+[ 2012-05-17T08:37:01+08:00 ] /xxx/admin.php/Login/index/resources/images/closelabel.gif | INFO: Tag[ app_begin ] --END-- [ RunTime:0.000980s ]
+[ 2012-05-17T08:37:01+08:00 ] /xxx/admin.php/Login/index/resources/images/closelabel.gif | INFO: Tag[ view_template ] --START--
+[ 2012-05-17T08:37:01+08:00 ] /xxx/admin.php/Login/index/resources/images/closelabel.gif | INFO: Run LocationTemplate Behavior [ RunTime:0.000583s ]
+[ 2012-05-17T08:37:01+08:00 ] /xxx/admin.php/Login/index/resources/images/closelabel.gif | INFO: Tag[ view_template ] --END-- [ RunTime:0.000723s ]
+[ 2012-05-17T08:37:01+08:00 ] /xxx/admin.php/Login/index/resources/images/closelabel.gif | INFO: Tag[ view_parse ] --START--
+[ 2012-05-17T08:37:01+08:00 ] /xxx/admin.php/Login/index/resources/images/closelabel.gif | NOTIC: [8] Undefined variable: title 8384b84b189c5fd00834f98e9d2c5849.php 第 6 行.
+[ 2012-05-17T08:37:01+08:00 ] /xxx/admin.php/Login/index/resources/images/closelabel.gif | NOTIC: [8] Undefined variable: title 8384b84b189c5fd00834f98e9d2c5849.php 第 35 行.
+[ 2012-05-17T08:37:01+08:00 ] /xxx/admin.php/Login/index/resources/images/closelabel.gif | NOTIC: [8] Undefined variable: title 8384b84b189c5fd00834f98e9d2c5849.php 第 37 行.
+[ 2012-05-17T08:37:01+08:00 ] /xxx/admin.php/Login/index/resources/images/closelabel.gif | INFO: Run ParseTemplate Behavior [ RunTime:0.010752s ]
+[ 2012-05-17T08:37:01+08:00 ] /xxx/admin.php/Login/index/resources/images/closelabel.gif | INFO: Tag[ view_parse ] --END-- [ RunTime:0.010862s ]
+[ 2012-05-17T08:37:01+08:00 ] /xxx/admin.php/Login/index/resources/images/closelabel.gif | INFO: Tag[ view_filter ] --START--
+[ 2012-05-17T08:37:01+08:00 ] /xxx/admin.php/Login/index/resources/images/closelabel.gif | INFO: Run ContentReplace Behavior [ RunTime:0.000437s ]
+[ 2012-05-17T08:37:01+08:00 ] /xxx/admin.php/Login/index/resources/images/closelabel.gif | INFO: Run TokenBuild Behavior [ RunTime:0.000484s ]
+[ 2012-05-17T08:37:01+08:00 ] /xxx/admin.php/Login/index/resources/images/closelabel.gif | INFO: Run WriteHtmlCache Behavior [ RunTime:0.000255s ]
+[ 2012-05-17T08:37:01+08:00 ] /xxx/admin.php/Login/index/resources/images/closelabel.gif | INFO: Run ShowRuntime Behavior [ RunTime:0.000496s ]
+[ 2012-05-17T08:37:01+08:00 ] /xxx/admin.php/Login/index/resources/images/closelabel.gif | INFO: Tag[ view_filter ] --END-- [ RunTime:0.001897s ]
+[ 2012-05-17T08:37:01+08:00 ] /xxx/admin.php/Login/index/resources/images/closelabel.gif | INFO: Tag[ view_end ] --START--
+[ 2012-05-17T08:37:01+08:00 ] /xxx/admin.php/Login/index/resources/images/closelabel.gif | INFO: Run ShowPageTrace Behavior [ RunTime:0.000430s ]
+[ 2012-05-17T08:37:01+08:00 ] /xxx/admin.php/Login/index/resources/images/closelabel.gif | INFO: Tag[ view_end ] --END-- [ RunTime:0.000505s ]
+[ 2012-05-17T08:37:24+08:00 ] /xxx/admin.php/Login/index/ | INFO: Tag[ route_check ] --START--
+[ 2012-05-17T08:37:24+08:00 ] /xxx/admin.php/Login/index/ | INFO: Run CheckRoute Behavior [ RunTime:0.000741s ]
+[ 2012-05-17T08:37:24+08:00 ] /xxx/admin.php/Login/index/ | INFO: Tag[ route_check ] --END-- [ RunTime:0.000878s ]
+[ 2012-05-17T08:37:24+08:00 ] /xxx/admin.php/Login/index/ | INFO: Tag[ app_begin ] --START--
+[ 2012-05-17T08:37:24+08:00 ] /xxx/admin.php/Login/index/ | INFO: Run ReadHtmlCache Behavior [ RunTime:0.000529s ]
+[ 2012-05-17T08:37:24+08:00 ] /xxx/admin.php/Login/index/ | INFO: Tag[ app_begin ] --END-- [ RunTime:0.000614s ]
+[ 2012-05-17T08:37:24+08:00 ] /xxx/admin.php/Login/index/ | INFO: Tag[ view_template ] --START--
+[ 2012-05-17T08:37:24+08:00 ] /xxx/admin.php/Login/index/ | INFO: Run LocationTemplate Behavior [ RunTime:0.000387s ]
+[ 2012-05-17T08:37:24+08:00 ] /xxx/admin.php/Login/index/ | INFO: Tag[ view_template ] --END-- [ RunTime:0.000475s ]
+[ 2012-05-17T08:37:24+08:00 ] /xxx/admin.php/Login/index/ | INFO: Tag[ view_parse ] --START--
+[ 2012-05-17T08:37:24+08:00 ] /xxx/admin.php/Login/index/ | NOTIC: [8] Undefined variable: title 8384b84b189c5fd00834f98e9d2c5849.php 第 6 行.
+[ 2012-05-17T08:37:24+08:00 ] /xxx/admin.php/Login/index/ | NOTIC: [8] Undefined variable: title 8384b84b189c5fd00834f98e9d2c5849.php 第 35 行.
+[ 2012-05-17T08:37:24+08:00 ] /xxx/admin.php/Login/index/ | NOTIC: [8] Undefined variable: title 8384b84b189c5fd00834f98e9d2c5849.php 第 37 行.
+[ 2012-05-17T08:37:24+08:00 ] /xxx/admin.php/Login/index/ | INFO: Run ParseTemplate Behavior [ RunTime:0.007016s ]
+[ 2012-05-17T08:37:24+08:00 ] /xxx/admin.php/Login/index/ | INFO: Tag[ view_parse ] --END-- [ RunTime:0.007097s ]
+[ 2012-05-17T08:37:24+08:00 ] /xxx/admin.php/Login/index/ | INFO: Tag[ view_filter ] --START--
+[ 2012-05-17T08:37:24+08:00 ] /xxx/admin.php/Login/index/ | INFO: Run ContentReplace Behavior [ RunTime:0.000370s ]
+[ 2012-05-17T08:37:24+08:00 ] /xxx/admin.php/Login/index/ | INFO: Run TokenBuild Behavior [ RunTime:0.000523s ]
+[ 2012-05-17T08:37:24+08:00 ] /xxx/admin.php/Login/index/ | INFO: Run WriteHtmlCache Behavior [ RunTime:0.000363s ]
+[ 2012-05-17T08:37:24+08:00 ] /xxx/admin.php/Login/index/ | INFO: Run ShowRuntime Behavior [ RunTime:0.000780s ]
+[ 2012-05-17T08:37:24+08:00 ] /xxx/admin.php/Login/index/ | INFO: Tag[ view_filter ] --END-- [ RunTime:0.002323s ]
+[ 2012-05-17T08:37:24+08:00 ] /xxx/admin.php/Login/index/ | INFO: Tag[ view_end ] --START--
+[ 2012-05-17T08:37:24+08:00 ] /xxx/admin.php/Login/index/ | INFO: Run ShowPageTrace Behavior [ RunTime:0.000587s ]
+[ 2012-05-17T08:37:24+08:00 ] /xxx/admin.php/Login/index/ | INFO: Tag[ view_end ] --END-- [ RunTime:0.000698s ]
+[ 2012-05-17T08:37:24+08:00 ] /xxx/admin.php/Common/verify | ERR: (ThinkException) 无法加载模块Common
+[ 2012-05-17T08:37:24+08:00 ] /xxx/admin.php/Login/index/resources/images/closelabel.gif | INFO: Tag[ route_check ] --START--
+[ 2012-05-17T08:37:24+08:00 ] /xxx/admin.php/Login/index/resources/images/closelabel.gif | INFO: Run CheckRoute Behavior [ RunTime:0.001146s ]
+[ 2012-05-17T08:37:24+08:00 ] /xxx/admin.php/Login/index/resources/images/closelabel.gif | INFO: Tag[ route_check ] --END-- [ RunTime:0.001324s ]
+[ 2012-05-17T08:37:24+08:00 ] /xxx/admin.php/Login/index/resources/images/closelabel.gif | INFO: Tag[ app_begin ] --START--
+[ 2012-05-17T08:37:24+08:00 ] /xxx/admin.php/Login/index/resources/images/closelabel.gif | INFO: Run ReadHtmlCache Behavior [ RunTime:0.000949s ]
+[ 2012-05-17T08:37:24+08:00 ] /xxx/admin.php/Login/index/resources/images/closelabel.gif | INFO: Tag[ app_begin ] --END-- [ RunTime:0.001108s ]
+[ 2012-05-17T08:37:24+08:00 ] /xxx/admin.php/Login/index/resources/images/closelabel.gif | INFO: Tag[ view_template ] --START--
+[ 2012-05-17T08:37:24+08:00 ] /xxx/admin.php/Login/index/resources/images/closelabel.gif | INFO: Run LocationTemplate Behavior [ RunTime:0.000912s ]
+[ 2012-05-17T08:37:24+08:00 ] /xxx/admin.php/Login/index/resources/images/closelabel.gif | INFO: Tag[ view_template ] --END-- [ RunTime:0.001051s ]
+[ 2012-05-17T08:37:24+08:00 ] /xxx/admin.php/Login/index/resources/images/closelabel.gif | INFO: Tag[ view_parse ] --START--
+[ 2012-05-17T08:37:24+08:00 ] /xxx/admin.php/Login/index/resources/images/closelabel.gif | NOTIC: [8] Undefined variable: title 8384b84b189c5fd00834f98e9d2c5849.php 第 6 行.
+[ 2012-05-17T08:37:24+08:00 ] /xxx/admin.php/Login/index/resources/images/closelabel.gif | NOTIC: [8] Undefined variable: title 8384b84b189c5fd00834f98e9d2c5849.php 第 35 行.
+[ 2012-05-17T08:37:24+08:00 ] /xxx/admin.php/Login/index/resources/images/closelabel.gif | NOTIC: [8] Undefined variable: title 8384b84b189c5fd00834f98e9d2c5849.php 第 37 行.
+[ 2012-05-17T08:37:24+08:00 ] /xxx/admin.php/Login/index/resources/images/closelabel.gif | INFO: Run ParseTemplate Behavior [ RunTime:0.013669s ]
+[ 2012-05-17T08:37:24+08:00 ] /xxx/admin.php/Login/index/resources/images/closelabel.gif | INFO: Tag[ view_parse ] --END-- [ RunTime:0.013772s ]
+[ 2012-05-17T08:37:24+08:00 ] /xxx/admin.php/Login/index/resources/images/closelabel.gif | INFO: Tag[ view_filter ] --START--
+[ 2012-05-17T08:37:24+08:00 ] /xxx/admin.php/Login/index/resources/images/closelabel.gif | INFO: Run ContentReplace Behavior [ RunTime:0.000468s ]
+[ 2012-05-17T08:37:24+08:00 ] /xxx/admin.php/Login/index/resources/images/closelabel.gif | INFO: Run TokenBuild Behavior [ RunTime:0.000676s ]
+[ 2012-05-17T08:37:24+08:00 ] /xxx/admin.php/Login/index/resources/images/closelabel.gif | INFO: Run WriteHtmlCache Behavior [ RunTime:0.000343s ]
+[ 2012-05-17T08:37:24+08:00 ] /xxx/admin.php/Login/index/resources/images/closelabel.gif | INFO: Run ShowRuntime Behavior [ RunTime:0.000809s ]
+[ 2012-05-17T08:37:24+08:00 ] /xxx/admin.php/Login/index/resources/images/closelabel.gif | INFO: Tag[ view_filter ] --END-- [ RunTime:0.002547s ]
+[ 2012-05-17T08:37:24+08:00 ] /xxx/admin.php/Login/index/resources/images/closelabel.gif | INFO: Tag[ view_end ] --START--
+[ 2012-05-17T08:37:24+08:00 ] /xxx/admin.php/Login/index/resources/images/closelabel.gif | INFO: Run ShowPageTrace Behavior [ RunTime:0.000632s ]
+[ 2012-05-17T08:37:24+08:00 ] /xxx/admin.php/Login/index/resources/images/closelabel.gif | INFO: Tag[ view_end ] --END-- [ RunTime:0.000739s ]
+[ 2012-05-17T08:37:26+08:00 ] /xxx/admin.php/Common/verify/random/0.7983679259195924 | ERR: (ThinkException) 无法加载模块Common
+[ 2012-05-17T08:42:41+08:00 ] /xxx/admin.php/Login/index/ | INFO: Tag[ route_check ] --START--
+[ 2012-05-17T08:42:41+08:00 ] /xxx/admin.php/Login/index/ | INFO: Run CheckRoute Behavior [ RunTime:0.000910s ]
+[ 2012-05-17T08:42:41+08:00 ] /xxx/admin.php/Login/index/ | INFO: Tag[ route_check ] --END-- [ RunTime:0.001029s ]
+[ 2012-05-17T08:42:41+08:00 ] /xxx/admin.php/Login/index/ | INFO: Tag[ app_begin ] --START--
+[ 2012-05-17T08:42:41+08:00 ] /xxx/admin.php/Login/index/ | INFO: Run ReadHtmlCache Behavior [ RunTime:0.000514s ]
+[ 2012-05-17T08:42:41+08:00 ] /xxx/admin.php/Login/index/ | INFO: Tag[ app_begin ] --END-- [ RunTime:0.000596s ]
+[ 2012-05-17T08:42:41+08:00 ] /xxx/admin.php/Login/index/ | INFO: Tag[ view_template ] --START--
+[ 2012-05-17T08:42:41+08:00 ] /xxx/admin.php/Login/index/ | INFO: Run LocationTemplate Behavior [ RunTime:0.000568s ]
+[ 2012-05-17T08:42:41+08:00 ] /xxx/admin.php/Login/index/ | INFO: Tag[ view_template ] --END-- [ RunTime:0.000665s ]
+[ 2012-05-17T08:42:41+08:00 ] /xxx/admin.php/Login/index/ | INFO: Tag[ view_parse ] --START--
+[ 2012-05-17T08:42:41+08:00 ] /xxx/admin.php/Login/index/ | INFO: Run ParseTemplate Behavior [ RunTime:0.007011s ]
+[ 2012-05-17T08:42:41+08:00 ] /xxx/admin.php/Login/index/ | INFO: Tag[ view_parse ] --END-- [ RunTime:0.007115s ]
+[ 2012-05-17T08:42:41+08:00 ] /xxx/admin.php/Login/index/ | INFO: Tag[ view_filter ] --START--
+[ 2012-05-17T08:42:41+08:00 ] /xxx/admin.php/Login/index/ | INFO: Run ContentReplace Behavior [ RunTime:0.000380s ]
+[ 2012-05-17T08:42:41+08:00 ] /xxx/admin.php/Login/index/ | INFO: Run TokenBuild Behavior [ RunTime:0.000453s ]
+[ 2012-05-17T08:42:41+08:00 ] /xxx/admin.php/Login/index/ | INFO: Run WriteHtmlCache Behavior [ RunTime:0.000240s ]
+[ 2012-05-17T08:42:41+08:00 ] /xxx/admin.php/Login/index/ | INFO: Run ShowRuntime Behavior [ RunTime:0.000493s ]
+[ 2012-05-17T08:42:41+08:00 ] /xxx/admin.php/Login/index/ | INFO: Tag[ view_filter ] --END-- [ RunTime:0.001802s ]
+[ 2012-05-17T08:42:41+08:00 ] /xxx/admin.php/Login/index/ | INFO: Tag[ view_end ] --START--
+[ 2012-05-17T08:42:41+08:00 ] /xxx/admin.php/Login/index/ | INFO: Run ShowPageTrace Behavior [ RunTime:0.000406s ]
+[ 2012-05-17T08:42:41+08:00 ] /xxx/admin.php/Login/index/ | INFO: Tag[ view_end ] --END-- [ RunTime:0.000483s ]
+[ 2012-05-17T08:42:41+08:00 ] /xxx/admin.php/Common/verify | ERR: (ThinkException) 无法加载模块Common
+[ 2012-05-17T08:42:41+08:00 ] /xxx/admin.php/Login/index/resources/images/closelabel.gif | INFO: Tag[ route_check ] --START--
+[ 2012-05-17T08:42:41+08:00 ] /xxx/admin.php/Login/index/resources/images/closelabel.gif | INFO: Run CheckRoute Behavior [ RunTime:0.001913s ]
+[ 2012-05-17T08:42:41+08:00 ] /xxx/admin.php/Login/index/resources/images/closelabel.gif | INFO: Tag[ route_check ] --END-- [ RunTime:0.002145s ]
+[ 2012-05-17T08:42:41+08:00 ] /xxx/admin.php/Login/index/resources/images/closelabel.gif | INFO: Tag[ app_begin ] --START--
+[ 2012-05-17T08:42:41+08:00 ] /xxx/admin.php/Login/index/resources/images/closelabel.gif | INFO: Run ReadHtmlCache Behavior [ RunTime:0.000995s ]
+[ 2012-05-17T08:42:41+08:00 ] /xxx/admin.php/Login/index/resources/images/closelabel.gif | INFO: Tag[ app_begin ] --END-- [ RunTime:0.001164s ]
+[ 2012-05-17T08:42:41+08:00 ] /xxx/admin.php/Login/index/resources/images/closelabel.gif | INFO: Tag[ view_template ] --START--
+[ 2012-05-17T08:42:41+08:00 ] /xxx/admin.php/Login/index/resources/images/closelabel.gif | INFO: Run LocationTemplate Behavior [ RunTime:0.001219s ]
+[ 2012-05-17T08:42:41+08:00 ] /xxx/admin.php/Login/index/resources/images/closelabel.gif | INFO: Tag[ view_template ] --END-- [ RunTime:0.001411s ]
+[ 2012-05-17T08:42:41+08:00 ] /xxx/admin.php/Login/index/resources/images/closelabel.gif | INFO: Tag[ view_parse ] --START--
+[ 2012-05-17T08:42:41+08:00 ] /xxx/admin.php/Login/index/resources/images/closelabel.gif | INFO: Run ParseTemplate Behavior [ RunTime:0.013784s ]
+[ 2012-05-17T08:42:41+08:00 ] /xxx/admin.php/Login/index/resources/images/closelabel.gif | INFO: Tag[ view_parse ] --END-- [ RunTime:0.013911s ]
+[ 2012-05-17T08:42:41+08:00 ] /xxx/admin.php/Login/index/resources/images/closelabel.gif | INFO: Tag[ view_filter ] --START--
+[ 2012-05-17T08:42:41+08:00 ] /xxx/admin.php/Login/index/resources/images/closelabel.gif | INFO: Run ContentReplace Behavior [ RunTime:0.000472s ]
+[ 2012-05-17T08:42:41+08:00 ] /xxx/admin.php/Login/index/resources/images/closelabel.gif | INFO: Run TokenBuild Behavior [ RunTime:0.001027s ]
+[ 2012-05-17T08:42:41+08:00 ] /xxx/admin.php/Login/index/resources/images/closelabel.gif | INFO: Run WriteHtmlCache Behavior [ RunTime:0.000492s ]
+[ 2012-05-17T08:42:41+08:00 ] /xxx/admin.php/Login/index/resources/images/closelabel.gif | INFO: Run ShowRuntime Behavior [ RunTime:0.000808s ]
+[ 2012-05-17T08:42:41+08:00 ] /xxx/admin.php/Login/index/resources/images/closelabel.gif | INFO: Tag[ view_filter ] --END-- [ RunTime:0.003137s ]
+[ 2012-05-17T08:42:41+08:00 ] /xxx/admin.php/Login/index/resources/images/closelabel.gif | INFO: Tag[ view_end ] --START--
+[ 2012-05-17T08:42:41+08:00 ] /xxx/admin.php/Login/index/resources/images/closelabel.gif | INFO: Run ShowPageTrace Behavior [ RunTime:0.000629s ]
+[ 2012-05-17T08:42:41+08:00 ] /xxx/admin.php/Login/index/resources/images/closelabel.gif | INFO: Tag[ view_end ] --END-- [ RunTime:0.000714s ]
+[ 2012-05-17T08:42:43+08:00 ] /xxx/admin.php/Common/verify/random/0.7613228417467326 | ERR: (ThinkException) 无法加载模块Common
+[ 2012-05-17T08:42:45+08:00 ] /xxx/admin.php/Common/verify/random/0.5070584323257208 | ERR: (ThinkException) 无法加载模块Common
+[ 2012-05-17T08:42:46+08:00 ] /xxx/admin.php/Common/verify/random/0.8894861079752445 | ERR: (ThinkException) 无法加载模块Common
+[ 2012-05-17T08:42:46+08:00 ] /xxx/admin.php/Common/verify/random/0.6611160589382052 | ERR: (ThinkException) 无法加载模块Common
+[ 2012-05-17T08:42:47+08:00 ] /xxx/admin.php/Common/verify/random/0.7217606969643384 | ERR: (ThinkException) 无法加载模块Common
+[ 2012-05-17T08:42:47+08:00 ] /xxx/admin.php/Common/verify/random/0.3555067153647542 | ERR: (ThinkException) 无法加载模块Common
+[ 2012-05-17T08:43:26+08:00 ] /xxx/admin.php/Login/index/ | INFO: Tag[ route_check ] --START--
+[ 2012-05-17T08:43:26+08:00 ] /xxx/admin.php/Login/index/ | INFO: Run CheckRoute Behavior [ RunTime:0.001315s ]
+[ 2012-05-17T08:43:26+08:00 ] /xxx/admin.php/Login/index/ | INFO: Tag[ route_check ] --END-- [ RunTime:0.001464s ]
+[ 2012-05-17T08:43:26+08:00 ] /xxx/admin.php/Login/index/ | INFO: Tag[ app_begin ] --START--
+[ 2012-05-17T08:43:26+08:00 ] /xxx/admin.php/Login/index/ | INFO: Run ReadHtmlCache Behavior [ RunTime:0.001010s ]
+[ 2012-05-17T08:43:26+08:00 ] /xxx/admin.php/Login/index/ | INFO: Tag[ app_begin ] --END-- [ RunTime:0.001092s ]
+[ 2012-05-17T08:43:26+08:00 ] /xxx/admin.php/Login/index/ | INFO: Tag[ view_template ] --START--
+[ 2012-05-17T08:43:26+08:00 ] /xxx/admin.php/Login/index/ | INFO: Run LocationTemplate Behavior [ RunTime:0.001141s ]
+[ 2012-05-17T08:43:26+08:00 ] /xxx/admin.php/Login/index/ | INFO: Tag[ view_template ] --END-- [ RunTime:0.001241s ]
+[ 2012-05-17T08:43:26+08:00 ] /xxx/admin.php/Login/index/ | INFO: Tag[ view_parse ] --START--
+[ 2012-05-17T08:43:26+08:00 ] /xxx/admin.php/Login/index/ | INFO: Run ParseTemplate Behavior [ RunTime:0.009923s ]
+[ 2012-05-17T08:43:26+08:00 ] /xxx/admin.php/Login/index/ | INFO: Tag[ view_parse ] --END-- [ RunTime:0.010064s ]
+[ 2012-05-17T08:43:26+08:00 ] /xxx/admin.php/Login/index/ | INFO: Tag[ view_filter ] --START--
+[ 2012-05-17T08:43:26+08:00 ] /xxx/admin.php/Login/index/ | INFO: Run ContentReplace Behavior [ RunTime:0.000976s ]
+[ 2012-05-17T08:43:26+08:00 ] /xxx/admin.php/Login/index/ | INFO: Run TokenBuild Behavior [ RunTime:0.000924s ]
+[ 2012-05-17T08:43:26+08:00 ] /xxx/admin.php/Login/index/ | INFO: Run WriteHtmlCache Behavior [ RunTime:0.000677s ]
+[ 2012-05-17T08:43:26+08:00 ] /xxx/admin.php/Login/index/ | INFO: Run ShowRuntime Behavior [ RunTime:0.000932s ]
+[ 2012-05-17T08:43:26+08:00 ] /xxx/admin.php/Login/index/ | INFO: Tag[ view_filter ] --END-- [ RunTime:0.003785s ]
+[ 2012-05-17T08:43:26+08:00 ] /xxx/admin.php/Login/index/ | INFO: Tag[ view_end ] --START--
+[ 2012-05-17T08:43:26+08:00 ] /xxx/admin.php/Login/index/ | INFO: Run ShowPageTrace Behavior [ RunTime:0.000864s ]
+[ 2012-05-17T08:43:26+08:00 ] /xxx/admin.php/Login/index/ | INFO: Tag[ view_end ] --END-- [ RunTime:0.000944s ]
+[ 2012-05-17T08:43:26+08:00 ] /xxx/admin.php/Login/index/resources/images/closelabel.gif | INFO: Tag[ route_check ] --START--
+[ 2012-05-17T08:43:26+08:00 ] /xxx/admin.php/Login/index/resources/images/closelabel.gif | INFO: Run CheckRoute Behavior [ RunTime:0.001116s ]
+[ 2012-05-17T08:43:26+08:00 ] /xxx/admin.php/Login/index/resources/images/closelabel.gif | INFO: Tag[ route_check ] --END-- [ RunTime:0.001301s ]
+[ 2012-05-17T08:43:26+08:00 ] /xxx/admin.php/Login/index/resources/images/closelabel.gif | INFO: Tag[ app_begin ] --START--
+[ 2012-05-17T08:43:26+08:00 ] /xxx/admin.php/Login/index/resources/images/closelabel.gif | INFO: Run ReadHtmlCache Behavior [ RunTime:0.000651s ]
+[ 2012-05-17T08:43:26+08:00 ] /xxx/admin.php/Login/index/resources/images/closelabel.gif | INFO: Tag[ app_begin ] --END-- [ RunTime:0.000745s ]
+[ 2012-05-17T08:43:26+08:00 ] /xxx/admin.php/Login/index/resources/images/closelabel.gif | INFO: Tag[ view_template ] --START--
+[ 2012-05-17T08:43:26+08:00 ] /xxx/admin.php/Login/index/resources/images/closelabel.gif | INFO: Run LocationTemplate Behavior [ RunTime:0.000664s ]
+[ 2012-05-17T08:43:26+08:00 ] /xxx/admin.php/Login/index/resources/images/closelabel.gif | INFO: Tag[ view_template ] --END-- [ RunTime:0.000753s ]
+[ 2012-05-17T08:43:26+08:00 ] /xxx/admin.php/Login/index/resources/images/closelabel.gif | INFO: Tag[ view_parse ] --START--
+[ 2012-05-17T08:43:26+08:00 ] /xxx/admin.php/Login/index/resources/images/closelabel.gif | INFO: Run ParseTemplate Behavior [ RunTime:0.007567s ]
+[ 2012-05-17T08:43:26+08:00 ] /xxx/admin.php/Login/index/resources/images/closelabel.gif | INFO: Tag[ view_parse ] --END-- [ RunTime:0.007661s ]
+[ 2012-05-17T08:43:26+08:00 ] /xxx/admin.php/Login/index/resources/images/closelabel.gif | INFO: Tag[ view_filter ] --START--
+[ 2012-05-17T08:43:26+08:00 ] /xxx/admin.php/Login/index/resources/images/closelabel.gif | INFO: Run ContentReplace Behavior [ RunTime:0.000459s ]
+[ 2012-05-17T08:43:26+08:00 ] /xxx/admin.php/Login/index/resources/images/closelabel.gif | INFO: Run TokenBuild Behavior [ RunTime:0.000529s ]
+[ 2012-05-17T08:43:26+08:00 ] /xxx/admin.php/Login/index/resources/images/closelabel.gif | INFO: Run WriteHtmlCache Behavior [ RunTime:0.000452s ]
+[ 2012-05-17T08:43:26+08:00 ] /xxx/admin.php/Login/index/resources/images/closelabel.gif | INFO: Run ShowRuntime Behavior [ RunTime:0.000867s ]
+[ 2012-05-17T08:43:26+08:00 ] /xxx/admin.php/Login/index/resources/images/closelabel.gif | INFO: Tag[ view_filter ] --END-- [ RunTime:0.002596s ]
+[ 2012-05-17T08:43:26+08:00 ] /xxx/admin.php/Login/index/resources/images/closelabel.gif | INFO: Tag[ view_end ] --START--
+[ 2012-05-17T08:43:27+08:00 ] /xxx/admin.php/Login/index/resources/images/closelabel.gif | INFO: Run ShowPageTrace Behavior [ RunTime:0.000634s ]
+[ 2012-05-17T08:43:27+08:00 ] /xxx/admin.php/Login/index/resources/images/closelabel.gif | INFO: Tag[ view_end ] --END-- [ RunTime:0.000739s ]
+[ 2012-05-17T08:43:27+08:00 ] /xxx/admin.php/Common/verify | ERR: (ThinkException) 无法加载模块Common
+[ 2012-05-17T08:43:34+08:00 ] /xxx/admin.php/Login/index/ | INFO: Tag[ route_check ] --START--
+[ 2012-05-17T08:43:34+08:00 ] /xxx/admin.php/Login/index/ | INFO: Run CheckRoute Behavior [ RunTime:0.001171s ]
+[ 2012-05-17T08:43:34+08:00 ] /xxx/admin.php/Login/index/ | INFO: Tag[ route_check ] --END-- [ RunTime:0.001292s ]
+[ 2012-05-17T08:43:34+08:00 ] /xxx/admin.php/Login/index/ | INFO: Tag[ app_begin ] --START--
+[ 2012-05-17T08:43:34+08:00 ] /xxx/admin.php/Login/index/ | INFO: Run ReadHtmlCache Behavior [ RunTime:0.001078s ]
+[ 2012-05-17T08:43:34+08:00 ] /xxx/admin.php/Login/index/ | INFO: Tag[ app_begin ] --END-- [ RunTime:0.001159s ]
+[ 2012-05-17T08:43:34+08:00 ] /xxx/admin.php/Login/index/ | INFO: Tag[ view_template ] --START--
+[ 2012-05-17T08:43:34+08:00 ] /xxx/admin.php/Login/index/ | INFO: Run LocationTemplate Behavior [ RunTime:0.001101s ]
+[ 2012-05-17T08:43:34+08:00 ] /xxx/admin.php/Login/index/ | INFO: Tag[ view_template ] --END-- [ RunTime:0.001199s ]
+[ 2012-05-17T08:43:34+08:00 ] /xxx/admin.php/Login/index/ | INFO: Tag[ view_parse ] --START--
+[ 2012-05-17T08:43:34+08:00 ] /xxx/admin.php/Login/index/ | INFO: Run ParseTemplate Behavior [ RunTime:0.011310s ]
+[ 2012-05-17T08:43:34+08:00 ] /xxx/admin.php/Login/index/ | INFO: Tag[ view_parse ] --END-- [ RunTime:0.011431s ]
+[ 2012-05-17T08:43:34+08:00 ] /xxx/admin.php/Login/index/ | INFO: Tag[ view_filter ] --START--
+[ 2012-05-17T08:43:34+08:00 ] /xxx/admin.php/Login/index/ | INFO: Run ContentReplace Behavior [ RunTime:0.000878s ]
+[ 2012-05-17T08:43:34+08:00 ] /xxx/admin.php/Login/index/ | INFO: Run TokenBuild Behavior [ RunTime:0.000929s ]
+[ 2012-05-17T08:43:34+08:00 ] /xxx/admin.php/Login/index/ | INFO: Run WriteHtmlCache Behavior [ RunTime:0.001004s ]
+[ 2012-05-17T08:43:34+08:00 ] /xxx/admin.php/Login/index/ | INFO: Run ShowRuntime Behavior [ RunTime:0.001345s ]
+[ 2012-05-17T08:43:34+08:00 ] /xxx/admin.php/Login/index/ | INFO: Tag[ view_filter ] --END-- [ RunTime:0.004460s ]
+[ 2012-05-17T08:43:34+08:00 ] /xxx/admin.php/Login/index/ | INFO: Tag[ view_end ] --START--
+[ 2012-05-17T08:43:34+08:00 ] /xxx/admin.php/Login/index/ | INFO: Run ShowPageTrace Behavior [ RunTime:0.000859s ]
+[ 2012-05-17T08:43:34+08:00 ] /xxx/admin.php/Login/index/ | INFO: Tag[ view_end ] --END-- [ RunTime:0.000940s ]
+[ 2012-05-17T08:43:34+08:00 ] /xxx/admin.php/Login/index/resources/images/closelabel.gif | INFO: Tag[ route_check ] --START--
+[ 2012-05-17T08:43:34+08:00 ] /xxx/admin.php/Login/index/resources/images/closelabel.gif | INFO: Run CheckRoute Behavior [ RunTime:0.000949s ]
+[ 2012-05-17T08:43:34+08:00 ] /xxx/admin.php/Login/index/resources/images/closelabel.gif | INFO: Tag[ route_check ] --END-- [ RunTime:0.001082s ]
+[ 2012-05-17T08:43:34+08:00 ] /xxx/admin.php/Login/index/resources/images/closelabel.gif | INFO: Tag[ app_begin ] --START--
+[ 2012-05-17T08:43:34+08:00 ] /xxx/admin.php/Login/index/resources/images/closelabel.gif | INFO: Run ReadHtmlCache Behavior [ RunTime:0.000624s ]
+[ 2012-05-17T08:43:34+08:00 ] /xxx/admin.php/Login/index/resources/images/closelabel.gif | INFO: Tag[ app_begin ] --END-- [ RunTime:0.000709s ]
+[ 2012-05-17T08:43:34+08:00 ] /xxx/admin.php/Login/index/resources/images/closelabel.gif | INFO: Tag[ view_template ] --START--
+[ 2012-05-17T08:43:34+08:00 ] /xxx/admin.php/Login/index/resources/images/closelabel.gif | INFO: Run LocationTemplate Behavior [ RunTime:0.000659s ]
+[ 2012-05-17T08:43:34+08:00 ] /xxx/admin.php/Login/index/resources/images/closelabel.gif | INFO: Tag[ view_template ] --END-- [ RunTime:0.000756s ]
+[ 2012-05-17T08:43:34+08:00 ] /xxx/admin.php/Login/index/resources/images/closelabel.gif | INFO: Tag[ view_parse ] --START--
+[ 2012-05-17T08:43:34+08:00 ] /xxx/admin.php/Login/index/resources/images/closelabel.gif | INFO: Run ParseTemplate Behavior [ RunTime:0.007662s ]
+[ 2012-05-17T08:43:34+08:00 ] /xxx/admin.php/Login/index/resources/images/closelabel.gif | INFO: Tag[ view_parse ] --END-- [ RunTime:0.007763s ]
+[ 2012-05-17T08:43:34+08:00 ] /xxx/admin.php/Login/index/resources/images/closelabel.gif | INFO: Tag[ view_filter ] --START--
+[ 2012-05-17T08:43:34+08:00 ] /xxx/admin.php/Login/index/resources/images/closelabel.gif | INFO: Run ContentReplace Behavior [ RunTime:0.000466s ]
+[ 2012-05-17T08:43:34+08:00 ] /xxx/admin.php/Login/index/resources/images/closelabel.gif | INFO: Run TokenBuild Behavior [ RunTime:0.000555s ]
+[ 2012-05-17T08:43:34+08:00 ] /xxx/admin.php/Login/index/resources/images/closelabel.gif | INFO: Run WriteHtmlCache Behavior [ RunTime:0.000305s ]
+[ 2012-05-17T08:43:34+08:00 ] /xxx/admin.php/Login/index/resources/images/closelabel.gif | INFO: Run ShowRuntime Behavior [ RunTime:0.000573s ]
+[ 2012-05-17T08:43:34+08:00 ] /xxx/admin.php/Login/index/resources/images/closelabel.gif | INFO: Tag[ view_filter ] --END-- [ RunTime:0.002116s ]
+[ 2012-05-17T08:43:34+08:00 ] /xxx/admin.php/Login/index/resources/images/closelabel.gif | INFO: Tag[ view_end ] --START--
+[ 2012-05-17T08:43:34+08:00 ] /xxx/admin.php/Login/index/resources/images/closelabel.gif | INFO: Run ShowPageTrace Behavior [ RunTime:0.000490s ]
+[ 2012-05-17T08:43:34+08:00 ] /xxx/admin.php/Login/index/resources/images/closelabel.gif | INFO: Tag[ view_end ] --END-- [ RunTime:0.000569s ]
+[ 2012-05-17T08:43:34+08:00 ] /xxx/admin.php/Common/verify | ERR: (ThinkException) 无法加载模块Common
+[ 2012-05-17T08:43:37+08:00 ] /xxx/admin.php/Common/verify/random/0.4809160470031202 | ERR: (ThinkException) 无法加载模块Common
+[ 2012-05-17T08:45:43+08:00 ] /xxx/admin.php/Login/index/ | INFO: Tag[ route_check ] --START--
+[ 2012-05-17T08:45:43+08:00 ] /xxx/admin.php/Login/index/ | INFO: Run CheckRoute Behavior [ RunTime:0.000870s ]
+[ 2012-05-17T08:45:43+08:00 ] /xxx/admin.php/Login/index/ | INFO: Tag[ route_check ] --END-- [ RunTime:0.001022s ]
+[ 2012-05-17T08:45:43+08:00 ] /xxx/admin.php/Login/index/ | INFO: Tag[ app_begin ] --START--
+[ 2012-05-17T08:45:43+08:00 ] /xxx/admin.php/Login/index/ | INFO: Run ReadHtmlCache Behavior [ RunTime:0.000552s ]
+[ 2012-05-17T08:45:43+08:00 ] /xxx/admin.php/Login/index/ | INFO: Tag[ app_begin ] --END-- [ RunTime:0.000632s ]
+[ 2012-05-17T08:45:43+08:00 ] /xxx/admin.php/Login/index/ | INFO: Tag[ view_template ] --START--
+[ 2012-05-17T08:45:43+08:00 ] /xxx/admin.php/Login/index/ | INFO: Run LocationTemplate Behavior [ RunTime:0.000817s ]
+[ 2012-05-17T08:45:43+08:00 ] /xxx/admin.php/Login/index/ | INFO: Tag[ view_template ] --END-- [ RunTime:0.000961s ]
+[ 2012-05-17T08:45:43+08:00 ] /xxx/admin.php/Login/index/ | INFO: Tag[ view_parse ] --START--
+[ 2012-05-17T08:45:43+08:00 ] /xxx/admin.php/Login/index/ | INFO: Run ParseTemplate Behavior [ RunTime:0.007159s ]
+[ 2012-05-17T08:45:43+08:00 ] /xxx/admin.php/Login/index/ | INFO: Tag[ view_parse ] --END-- [ RunTime:0.007283s ]
+[ 2012-05-17T08:45:43+08:00 ] /xxx/admin.php/Login/index/ | INFO: Tag[ view_filter ] --START--
+[ 2012-05-17T08:45:43+08:00 ] /xxx/admin.php/Login/index/ | INFO: Run ContentReplace Behavior [ RunTime:0.000382s ]
+[ 2012-05-17T08:45:43+08:00 ] /xxx/admin.php/Login/index/ | INFO: Run TokenBuild Behavior [ RunTime:0.000460s ]
+[ 2012-05-17T08:45:43+08:00 ] /xxx/admin.php/Login/index/ | INFO: Run WriteHtmlCache Behavior [ RunTime:0.000242s ]
+[ 2012-05-17T08:45:43+08:00 ] /xxx/admin.php/Login/index/ | INFO: Run ShowRuntime Behavior [ RunTime:0.000508s ]
+[ 2012-05-17T08:45:43+08:00 ] /xxx/admin.php/Login/index/ | INFO: Tag[ view_filter ] --END-- [ RunTime:0.001822s ]
+[ 2012-05-17T08:45:43+08:00 ] /xxx/admin.php/Login/index/ | INFO: Tag[ view_end ] --START--
+[ 2012-05-17T08:45:43+08:00 ] /xxx/admin.php/Login/index/ | INFO: Run ShowPageTrace Behavior [ RunTime:0.000414s ]
+[ 2012-05-17T08:45:43+08:00 ] /xxx/admin.php/Login/index/ | INFO: Tag[ view_end ] --END-- [ RunTime:0.000491s ]
+[ 2012-05-17T08:45:43+08:00 ] /xxx/admin.php/Login/index/resources/images/closelabel.gif | INFO: Tag[ route_check ] --START--
+[ 2012-05-17T08:45:43+08:00 ] /xxx/admin.php/Login/index/resources/images/closelabel.gif | INFO: Run CheckRoute Behavior [ RunTime:0.001403s ]
+[ 2012-05-17T08:45:43+08:00 ] /xxx/admin.php/Login/index/resources/images/closelabel.gif | INFO: Tag[ route_check ] --END-- [ RunTime:0.001586s ]
+[ 2012-05-17T08:45:43+08:00 ] /xxx/admin.php/Login/index/resources/images/closelabel.gif | INFO: Tag[ app_begin ] --START--
+[ 2012-05-17T08:45:43+08:00 ] /xxx/admin.php/Login/index/resources/images/closelabel.gif | INFO: Run ReadHtmlCache Behavior [ RunTime:0.001052s ]
+[ 2012-05-17T08:45:43+08:00 ] /xxx/admin.php/Login/index/resources/images/closelabel.gif | INFO: Tag[ app_begin ] --END-- [ RunTime:0.001184s ]
+[ 2012-05-17T08:45:43+08:00 ] /xxx/admin.php/Login/index/resources/images/closelabel.gif | INFO: Tag[ view_template ] --START--
+[ 2012-05-17T08:45:43+08:00 ] /xxx/admin.php/Login/index/resources/images/closelabel.gif | INFO: Run LocationTemplate Behavior [ RunTime:0.000991s ]
+[ 2012-05-17T08:45:43+08:00 ] /xxx/admin.php/Login/index/resources/images/closelabel.gif | INFO: Tag[ view_template ] --END-- [ RunTime:0.001130s ]
+[ 2012-05-17T08:45:43+08:00 ] /xxx/admin.php/Login/index/resources/images/closelabel.gif | INFO: Tag[ view_parse ] --START--
+[ 2012-05-17T08:45:43+08:00 ] /xxx/admin.php/Login/index/resources/images/closelabel.gif | INFO: Run ParseTemplate Behavior [ RunTime:0.011108s ]
+[ 2012-05-17T08:45:43+08:00 ] /xxx/admin.php/Login/index/resources/images/closelabel.gif | INFO: Tag[ view_parse ] --END-- [ RunTime:0.011231s ]
+[ 2012-05-17T08:45:43+08:00 ] /xxx/admin.php/Login/index/resources/images/closelabel.gif | INFO: Tag[ view_filter ] --START--
+[ 2012-05-17T08:45:43+08:00 ] /xxx/admin.php/Login/index/resources/images/closelabel.gif | INFO: Run ContentReplace Behavior [ RunTime:0.000464s ]
+[ 2012-05-17T08:45:43+08:00 ] /xxx/admin.php/Login/index/resources/images/closelabel.gif | INFO: Run TokenBuild Behavior [ RunTime:0.000608s ]
+[ 2012-05-17T08:45:43+08:00 ] /xxx/admin.php/Login/index/resources/images/closelabel.gif | INFO: Run WriteHtmlCache Behavior [ RunTime:0.000380s ]
+[ 2012-05-17T08:45:43+08:00 ] /xxx/admin.php/Login/index/resources/images/closelabel.gif | INFO: Run ShowRuntime Behavior [ RunTime:0.000599s ]
+[ 2012-05-17T08:45:43+08:00 ] /xxx/admin.php/Login/index/resources/images/closelabel.gif | INFO: Tag[ view_filter ] --END-- [ RunTime:0.002289s ]
+[ 2012-05-17T08:45:43+08:00 ] /xxx/admin.php/Login/index/resources/images/closelabel.gif | INFO: Tag[ view_end ] --START--
+[ 2012-05-17T08:45:43+08:00 ] /xxx/admin.php/Login/index/resources/images/closelabel.gif | INFO: Run ShowPageTrace Behavior [ RunTime:0.000797s ]
+[ 2012-05-17T08:45:43+08:00 ] /xxx/admin.php/Login/index/resources/images/closelabel.gif | INFO: Tag[ view_end ] --END-- [ RunTime:0.000888s ]
+[ 2012-05-17T08:45:43+08:00 ] /xxx/admin.php/Common/verify | ERR: (ThinkException) 无法加载模块Common
+[ 2012-05-17T08:47:16+08:00 ] /xxx/admin.php/Login/index/ | INFO: Tag[ route_check ] --START--
+[ 2012-05-17T08:47:16+08:00 ] /xxx/admin.php/Login/index/ | INFO: Run CheckRoute Behavior [ RunTime:0.000829s ]
+[ 2012-05-17T08:47:16+08:00 ] /xxx/admin.php/Login/index/ | INFO: Tag[ route_check ] --END-- [ RunTime:0.000946s ]
+[ 2012-05-17T08:47:16+08:00 ] /xxx/admin.php/Login/index/ | INFO: Tag[ app_begin ] --START--
+[ 2012-05-17T08:47:16+08:00 ] /xxx/admin.php/Login/index/ | INFO: Run ReadHtmlCache Behavior [ RunTime:0.000533s ]
+[ 2012-05-17T08:47:16+08:00 ] /xxx/admin.php/Login/index/ | INFO: Tag[ app_begin ] --END-- [ RunTime:0.000614s ]
+[ 2012-05-17T08:47:16+08:00 ] /xxx/admin.php/Login/index/ | INFO: Tag[ view_template ] --START--
+[ 2012-05-17T08:47:16+08:00 ] /xxx/admin.php/Login/index/ | INFO: Run LocationTemplate Behavior [ RunTime:0.000561s ]
+[ 2012-05-17T08:47:16+08:00 ] /xxx/admin.php/Login/index/ | INFO: Tag[ view_template ] --END-- [ RunTime:0.000659s ]
+[ 2012-05-17T08:47:16+08:00 ] /xxx/admin.php/Login/index/ | INFO: Tag[ view_parse ] --START--
+[ 2012-05-17T08:47:16+08:00 ] /xxx/admin.php/Login/index/ | INFO: Run ParseTemplate Behavior [ RunTime:0.007556s ]
+[ 2012-05-17T08:47:16+08:00 ] /xxx/admin.php/Login/index/ | INFO: Tag[ view_parse ] --END-- [ RunTime:0.007725s ]
+[ 2012-05-17T08:47:16+08:00 ] /xxx/admin.php/Login/index/ | INFO: Tag[ view_filter ] --START--
+[ 2012-05-17T08:47:16+08:00 ] /xxx/admin.php/Login/index/ | INFO: Run ContentReplace Behavior [ RunTime:0.000581s ]
+[ 2012-05-17T08:47:16+08:00 ] /xxx/admin.php/Login/index/ | INFO: Run TokenBuild Behavior [ RunTime:0.000531s ]
+[ 2012-05-17T08:47:16+08:00 ] /xxx/admin.php/Login/index/ | INFO: Run WriteHtmlCache Behavior [ RunTime:0.000271s ]
+[ 2012-05-17T08:47:16+08:00 ] /xxx/admin.php/Login/index/ | INFO: Run ShowRuntime Behavior [ RunTime:0.000567s ]
+[ 2012-05-17T08:47:16+08:00 ] /xxx/admin.php/Login/index/ | INFO: Tag[ view_filter ] --END-- [ RunTime:0.002254s ]
+[ 2012-05-17T08:47:16+08:00 ] /xxx/admin.php/Login/index/ | INFO: Tag[ view_end ] --START--
+[ 2012-05-17T08:47:16+08:00 ] /xxx/admin.php/Login/index/ | INFO: Run ShowPageTrace Behavior [ RunTime:0.000549s ]
+[ 2012-05-17T08:47:16+08:00 ] /xxx/admin.php/Login/index/ | INFO: Tag[ view_end ] --END-- [ RunTime:0.000660s ]
+[ 2012-05-17T08:47:17+08:00 ] /xxx/admin.php/Common/verify | INFO: Tag[ route_check ] --START--
+[ 2012-05-17T08:47:17+08:00 ] /xxx/admin.php/Common/verify | INFO: Run CheckRoute Behavior [ RunTime:0.001137s ]
+[ 2012-05-17T08:47:17+08:00 ] /xxx/admin.php/Common/verify | INFO: Tag[ route_check ] --END-- [ RunTime:0.001320s ]
+[ 2012-05-17T08:47:17+08:00 ] /xxx/admin.php/Common/verify | INFO: Tag[ app_begin ] --START--
+[ 2012-05-17T08:47:17+08:00 ] /xxx/admin.php/Common/verify | INFO: Run ReadHtmlCache Behavior [ RunTime:0.003291s ]
+[ 2012-05-17T08:47:17+08:00 ] /xxx/admin.php/Common/verify | INFO: Tag[ app_begin ] --END-- [ RunTime:0.003448s ]
+[ 2012-05-17T08:47:17+08:00 ] /xxx/admin.php/Login/index/resources/images/closelabel.gif | INFO: Tag[ route_check ] --START--
+[ 2012-05-17T08:47:17+08:00 ] /xxx/admin.php/Login/index/resources/images/closelabel.gif | INFO: Run CheckRoute Behavior [ RunTime:0.001020s ]
+[ 2012-05-17T08:47:17+08:00 ] /xxx/admin.php/Login/index/resources/images/closelabel.gif | INFO: Tag[ route_check ] --END-- [ RunTime:0.001150s ]
+[ 2012-05-17T08:47:17+08:00 ] /xxx/admin.php/Login/index/resources/images/closelabel.gif | INFO: Tag[ app_begin ] --START--
+[ 2012-05-17T08:47:17+08:00 ] /xxx/admin.php/Login/index/resources/images/closelabel.gif | INFO: Run ReadHtmlCache Behavior [ RunTime:0.000720s ]
+[ 2012-05-17T08:47:17+08:00 ] /xxx/admin.php/Login/index/resources/images/closelabel.gif | INFO: Tag[ app_begin ] --END-- [ RunTime:0.000827s ]
+[ 2012-05-17T08:47:17+08:00 ] /xxx/admin.php/Login/index/resources/images/closelabel.gif | INFO: Tag[ view_template ] --START--
+[ 2012-05-17T08:47:17+08:00 ] /xxx/admin.php/Login/index/resources/images/closelabel.gif | INFO: Run LocationTemplate Behavior [ RunTime:0.001116s ]
+[ 2012-05-17T08:47:17+08:00 ] /xxx/admin.php/Login/index/resources/images/closelabel.gif | INFO: Tag[ view_template ] --END-- [ RunTime:0.001241s ]
+[ 2012-05-17T08:47:17+08:00 ] /xxx/admin.php/Login/index/resources/images/closelabel.gif | INFO: Tag[ view_parse ] --START--
+[ 2012-05-17T08:47:17+08:00 ] /xxx/admin.php/Login/index/resources/images/closelabel.gif | INFO: Run ParseTemplate Behavior [ RunTime:0.007389s ]
+[ 2012-05-17T08:47:17+08:00 ] /xxx/admin.php/Login/index/resources/images/closelabel.gif | INFO: Tag[ view_parse ] --END-- [ RunTime:0.007508s ]
+[ 2012-05-17T08:47:17+08:00 ] /xxx/admin.php/Login/index/resources/images/closelabel.gif | INFO: Tag[ view_filter ] --START--
+[ 2012-05-17T08:47:17+08:00 ] /xxx/admin.php/Login/index/resources/images/closelabel.gif | INFO: Run ContentReplace Behavior [ RunTime:0.000654s ]
+[ 2012-05-17T08:47:17+08:00 ] /xxx/admin.php/Login/index/resources/images/closelabel.gif | INFO: Run TokenBuild Behavior [ RunTime:0.000786s ]
+[ 2012-05-17T08:47:17+08:00 ] /xxx/admin.php/Login/index/resources/images/closelabel.gif | INFO: Run WriteHtmlCache Behavior [ RunTime:0.000440s ]
+[ 2012-05-17T08:47:17+08:00 ] /xxx/admin.php/Login/index/resources/images/closelabel.gif | INFO: Run ShowRuntime Behavior [ RunTime:0.000843s ]
+[ 2012-05-17T08:47:17+08:00 ] /xxx/admin.php/Login/index/resources/images/closelabel.gif | INFO: Tag[ view_filter ] --END-- [ RunTime:0.003062s ]
+[ 2012-05-17T08:47:17+08:00 ] /xxx/admin.php/Login/index/resources/images/closelabel.gif | INFO: Tag[ view_end ] --START--
+[ 2012-05-17T08:47:17+08:00 ] /xxx/admin.php/Login/index/resources/images/closelabel.gif | INFO: Run ShowPageTrace Behavior [ RunTime:0.000712s ]
+[ 2012-05-17T08:47:17+08:00 ] /xxx/admin.php/Login/index/resources/images/closelabel.gif | INFO: Tag[ view_end ] --END-- [ RunTime:0.000834s ]
+[ 2012-05-17T08:47:18+08:00 ] /xxx/admin.php/Common/verify/random/0.08308464009314775 | INFO: Tag[ route_check ] --START--
+[ 2012-05-17T08:47:18+08:00 ] /xxx/admin.php/Common/verify/random/0.08308464009314775 | INFO: Run CheckRoute Behavior [ RunTime:0.000772s ]
+[ 2012-05-17T08:47:18+08:00 ] /xxx/admin.php/Common/verify/random/0.08308464009314775 | INFO: Tag[ route_check ] --END-- [ RunTime:0.000887s ]
+[ 2012-05-17T08:47:18+08:00 ] /xxx/admin.php/Common/verify/random/0.08308464009314775 | INFO: Tag[ app_begin ] --START--
+[ 2012-05-17T08:47:18+08:00 ] /xxx/admin.php/Common/verify/random/0.08308464009314775 | INFO: Run ReadHtmlCache Behavior [ RunTime:0.000544s ]
+[ 2012-05-17T08:47:18+08:00 ] /xxx/admin.php/Common/verify/random/0.08308464009314775 | INFO: Tag[ app_begin ] --END-- [ RunTime:0.000624s ]
+[ 2012-05-17T08:47:19+08:00 ] /xxx/admin.php/Common/verify/random/0.09434532187879086 | INFO: Tag[ route_check ] --START--
+[ 2012-05-17T08:47:19+08:00 ] /xxx/admin.php/Common/verify/random/0.09434532187879086 | INFO: Run CheckRoute Behavior [ RunTime:0.000737s ]
+[ 2012-05-17T08:47:19+08:00 ] /xxx/admin.php/Common/verify/random/0.09434532187879086 | INFO: Tag[ route_check ] --END-- [ RunTime:0.000850s ]
+[ 2012-05-17T08:47:19+08:00 ] /xxx/admin.php/Common/verify/random/0.09434532187879086 | INFO: Tag[ app_begin ] --START--
+[ 2012-05-17T08:47:19+08:00 ] /xxx/admin.php/Common/verify/random/0.09434532187879086 | INFO: Run ReadHtmlCache Behavior [ RunTime:0.000530s ]
+[ 2012-05-17T08:47:19+08:00 ] /xxx/admin.php/Common/verify/random/0.09434532187879086 | INFO: Tag[ app_begin ] --END-- [ RunTime:0.000610s ]
+[ 2012-05-17T08:47:19+08:00 ] /xxx/admin.php/Common/verify/random/0.5728664903435856 | INFO: Tag[ route_check ] --START--
+[ 2012-05-17T08:47:19+08:00 ] /xxx/admin.php/Common/verify/random/0.5728664903435856 | INFO: Run CheckRoute Behavior [ RunTime:0.000734s ]
+[ 2012-05-17T08:47:19+08:00 ] /xxx/admin.php/Common/verify/random/0.5728664903435856 | INFO: Tag[ route_check ] --END-- [ RunTime:0.000847s ]
+[ 2012-05-17T08:47:19+08:00 ] /xxx/admin.php/Common/verify/random/0.5728664903435856 | INFO: Tag[ app_begin ] --START--
+[ 2012-05-17T08:47:19+08:00 ] /xxx/admin.php/Common/verify/random/0.5728664903435856 | INFO: Run ReadHtmlCache Behavior [ RunTime:0.000539s ]
+[ 2012-05-17T08:47:19+08:00 ] /xxx/admin.php/Common/verify/random/0.5728664903435856 | INFO: Tag[ app_begin ] --END-- [ RunTime:0.000619s ]
+[ 2012-05-17T08:47:20+08:00 ] /xxx/admin.php/Common/verify/random/0.4343502148985863 | INFO: Tag[ route_check ] --START--
+[ 2012-05-17T08:47:20+08:00 ] /xxx/admin.php/Common/verify/random/0.4343502148985863 | INFO: Run CheckRoute Behavior [ RunTime:0.000729s ]
+[ 2012-05-17T08:47:20+08:00 ] /xxx/admin.php/Common/verify/random/0.4343502148985863 | INFO: Tag[ route_check ] --END-- [ RunTime:0.000842s ]
+[ 2012-05-17T08:47:20+08:00 ] /xxx/admin.php/Common/verify/random/0.4343502148985863 | INFO: Tag[ app_begin ] --START--
+[ 2012-05-17T08:47:20+08:00 ] /xxx/admin.php/Common/verify/random/0.4343502148985863 | INFO: Run ReadHtmlCache Behavior [ RunTime:0.000531s ]
+[ 2012-05-17T08:47:20+08:00 ] /xxx/admin.php/Common/verify/random/0.4343502148985863 | INFO: Tag[ app_begin ] --END-- [ RunTime:0.000611s ]
+[ 2012-05-17T08:47:23+08:00 ] /xxx/admin.php/Index/index/username/siaweb | INFO: Tag[ route_check ] --START--
+[ 2012-05-17T08:47:23+08:00 ] /xxx/admin.php/Index/index/username/siaweb | INFO: Run CheckRoute Behavior [ RunTime:0.000736s ]
+[ 2012-05-17T08:47:23+08:00 ] /xxx/admin.php/Index/index/username/siaweb | INFO: Tag[ route_check ] --END-- [ RunTime:0.000868s ]
+[ 2012-05-17T08:47:23+08:00 ] /xxx/admin.php/Index/index/username/siaweb | INFO: Tag[ app_begin ] --START--
+[ 2012-05-17T08:47:23+08:00 ] /xxx/admin.php/Index/index/username/siaweb | INFO: Run ReadHtmlCache Behavior [ RunTime:0.000533s ]
+[ 2012-05-17T08:47:23+08:00 ] /xxx/admin.php/Index/index/username/siaweb | INFO: Tag[ app_begin ] --END-- [ RunTime:0.000615s ]
+[ 2012-05-17T08:47:23+08:00 ] /xxx/admin.php/Index/index/username/siaweb | NOTIC: [8192] Call-time pass-by-reference has been deprecated IndexAction.class.php 第 38 行.
+[ 2012-05-17T08:47:23+08:00 ] /xxx/admin.php/Index/index/username/siaweb | SQL: SHOW COLUMNS FROM `think_article` [ RunTime:0.004480s ]
+[ 2012-05-17T08:47:23+08:00 ] /xxx/admin.php/Index/index/username/siaweb | SQL: SELECT COUNT(*) AS tp_count FROM `think_article` LIMIT 1   [ RunTime:0.000198s ]
+[ 2012-05-17T08:47:23+08:00 ] /xxx/admin.php/Index/index/username/siaweb | SQL: SELECT `id`,`subject`,`author`,`createtime` FROM `think_article` ORDER BY id desc LIMIT 0,8   [ RunTime:0.000349s ]
+[ 2012-05-17T08:47:23+08:00 ] /xxx/admin.php/Index/index/username/siaweb | NOTIC: [8] Undefined index: lastmodifytime IndexAction.class.php 第 112 行.
+[ 2012-05-17T08:47:23+08:00 ] /xxx/admin.php/Index/index/username/siaweb | NOTIC: [8] Undefined index: lastmodifytime IndexAction.class.php 第 112 行.
+[ 2012-05-17T08:47:23+08:00 ] /xxx/admin.php/Index/index/username/siaweb | NOTIC: [8] Undefined index: lastmodifytime IndexAction.class.php 第 112 行.
+[ 2012-05-17T08:47:23+08:00 ] /xxx/admin.php/Index/index/username/siaweb | NOTIC: [8] Undefined index: lastmodifytime IndexAction.class.php 第 112 行.
+[ 2012-05-17T08:47:23+08:00 ] /xxx/admin.php/Index/index/username/siaweb | NOTIC: [8] Undefined index: lastmodifytime IndexAction.class.php 第 112 行.
+[ 2012-05-17T08:47:23+08:00 ] /xxx/admin.php/Index/index/username/siaweb | INFO: Tag[ view_template ] --START--
+[ 2012-05-17T08:47:23+08:00 ] /xxx/admin.php/Index/index/username/siaweb | INFO: Run LocationTemplate Behavior [ RunTime:0.000645s ]
+[ 2012-05-17T08:47:23+08:00 ] /xxx/admin.php/Index/index/username/siaweb | INFO: Tag[ view_template ] --END-- [ RunTime:0.000733s ]
+[ 2012-05-17T08:47:23+08:00 ] /xxx/admin.php/Index/index/username/siaweb | INFO: Tag[ view_parse ] --START--
+[ 2012-05-17T08:47:23+08:00 ] /xxx/admin.php/Index/index/username/siaweb | INFO: Run ParseTemplate Behavior [ RunTime:0.014130s ]
+[ 2012-05-17T08:47:23+08:00 ] /xxx/admin.php/Index/index/username/siaweb | INFO: Tag[ view_parse ] --END-- [ RunTime:0.014262s ]
+[ 2012-05-17T08:47:23+08:00 ] /xxx/admin.php/Index/index/username/siaweb | INFO: Tag[ view_filter ] --START--
+[ 2012-05-17T08:47:23+08:00 ] /xxx/admin.php/Index/index/username/siaweb | INFO: Run ContentReplace Behavior [ RunTime:0.000716s ]
+[ 2012-05-17T08:47:23+08:00 ] /xxx/admin.php/Index/index/username/siaweb | INFO: Run TokenBuild Behavior [ RunTime:0.000609s ]
+[ 2012-05-17T08:47:23+08:00 ] /xxx/admin.php/Index/index/username/siaweb | INFO: Run WriteHtmlCache Behavior [ RunTime:0.000249s ]
+[ 2012-05-17T08:47:23+08:00 ] /xxx/admin.php/Index/index/username/siaweb | INFO: Run ShowRuntime Behavior [ RunTime:0.000537s ]
+[ 2012-05-17T08:47:23+08:00 ] /xxx/admin.php/Index/index/username/siaweb | INFO: Tag[ view_filter ] --END-- [ RunTime:0.002371s ]
+[ 2012-05-17T08:47:23+08:00 ] /xxx/admin.php/Index/index/username/siaweb | INFO: Tag[ view_end ] --START--
+[ 2012-05-17T08:47:23+08:00 ] /xxx/admin.php/Index/index/username/siaweb | INFO: Run ShowPageTrace Behavior [ RunTime:0.000413s ]
+[ 2012-05-17T08:47:23+08:00 ] /xxx/admin.php/Index/index/username/siaweb | INFO: Tag[ view_end ] --END-- [ RunTime:0.000497s ]
+[ 2012-05-17T08:47:23+08:00 ] /xxx/admin.php/Index/index/username/resources/images/closelabel.gif | INFO: Tag[ route_check ] --START--
+[ 2012-05-17T08:47:23+08:00 ] /xxx/admin.php/Index/index/username/resources/images/closelabel.gif | INFO: Run CheckRoute Behavior [ RunTime:0.001636s ]
+[ 2012-05-17T08:47:23+08:00 ] /xxx/admin.php/Index/index/username/resources/images/closelabel.gif | INFO: Tag[ route_check ] --END-- [ RunTime:0.001831s ]
+[ 2012-05-17T08:47:23+08:00 ] /xxx/admin.php/Index/index/username/resources/images/closelabel.gif | INFO: Tag[ app_begin ] --START--
+[ 2012-05-17T08:47:23+08:00 ] /xxx/admin.php/Index/index/username/resources/images/closelabel.gif | INFO: Run ReadHtmlCache Behavior [ RunTime:0.000984s ]
+[ 2012-05-17T08:47:23+08:00 ] /xxx/admin.php/Index/index/username/resources/images/closelabel.gif | INFO: Tag[ app_begin ] --END-- [ RunTime:0.001142s ]
+[ 2012-05-17T08:47:23+08:00 ] /xxx/admin.php/Index/index/username/resources/images/closelabel.gif | NOTIC: [8192] Call-time pass-by-reference has been deprecated IndexAction.class.php 第 38 行.
+[ 2012-05-17T08:47:23+08:00 ] /xxx/admin.php/Index/index/username/resources/images/closelabel.gif | SQL: SHOW COLUMNS FROM `think_article` [ RunTime:0.003319s ]
+[ 2012-05-17T08:47:23+08:00 ] /xxx/admin.php/Index/index/username/resources/images/closelabel.gif | SQL: SELECT COUNT(*) AS tp_count FROM `think_article` LIMIT 1   [ RunTime:0.000155s ]
+[ 2012-05-17T08:47:23+08:00 ] /xxx/admin.php/Index/index/username/resources/images/closelabel.gif | SQL: SELECT `id`,`subject`,`author`,`createtime` FROM `think_article` ORDER BY id desc LIMIT 0,8   [ RunTime:0.000322s ]
+[ 2012-05-17T08:47:23+08:00 ] /xxx/admin.php/Index/index/username/resources/images/closelabel.gif | NOTIC: [8] Undefined index: lastmodifytime IndexAction.class.php 第 112 行.
+[ 2012-05-17T08:47:23+08:00 ] /xxx/admin.php/Index/index/username/resources/images/closelabel.gif | NOTIC: [8] Undefined index: lastmodifytime IndexAction.class.php 第 112 行.
+[ 2012-05-17T08:47:23+08:00 ] /xxx/admin.php/Index/index/username/resources/images/closelabel.gif | NOTIC: [8] Undefined index: lastmodifytime IndexAction.class.php 第 112 行.
+[ 2012-05-17T08:47:23+08:00 ] /xxx/admin.php/Index/index/username/resources/images/closelabel.gif | NOTIC: [8] Undefined index: lastmodifytime IndexAction.class.php 第 112 行.
+[ 2012-05-17T08:47:23+08:00 ] /xxx/admin.php/Index/index/username/resources/images/closelabel.gif | NOTIC: [8] Undefined index: lastmodifytime IndexAction.class.php 第 112 行.
+[ 2012-05-17T08:47:23+08:00 ] /xxx/admin.php/Index/index/username/resources/images/closelabel.gif | INFO: Tag[ view_template ] --START--
+[ 2012-05-17T08:47:23+08:00 ] /xxx/admin.php/Index/index/username/resources/images/closelabel.gif | INFO: Run LocationTemplate Behavior [ RunTime:0.000495s ]
+[ 2012-05-17T08:47:23+08:00 ] /xxx/admin.php/Index/index/username/resources/images/closelabel.gif | INFO: Tag[ view_template ] --END-- [ RunTime:0.000586s ]
+[ 2012-05-17T08:47:23+08:00 ] /xxx/admin.php/Index/index/username/resources/images/closelabel.gif | INFO: Tag[ view_parse ] --START--
+[ 2012-05-17T08:47:23+08:00 ] /xxx/admin.php/Index/index/username/resources/images/closelabel.gif | INFO: Run ParseTemplate Behavior [ RunTime:0.013202s ]
+[ 2012-05-17T08:47:23+08:00 ] /xxx/admin.php/Index/index/username/resources/images/closelabel.gif | INFO: Tag[ view_parse ] --END-- [ RunTime:0.013307s ]
+[ 2012-05-17T08:47:23+08:00 ] /xxx/admin.php/Index/index/username/resources/images/closelabel.gif | INFO: Tag[ view_filter ] --START--
+[ 2012-05-17T08:47:23+08:00 ] /xxx/admin.php/Index/index/username/resources/images/closelabel.gif | INFO: Run ContentReplace Behavior [ RunTime:0.000494s ]
+[ 2012-05-17T08:47:23+08:00 ] /xxx/admin.php/Index/index/username/resources/images/closelabel.gif | INFO: Run TokenBuild Behavior [ RunTime:0.000866s ]
+[ 2012-05-17T08:47:23+08:00 ] /xxx/admin.php/Index/index/username/resources/images/closelabel.gif | INFO: Run WriteHtmlCache Behavior [ RunTime:0.000395s ]
+[ 2012-05-17T08:47:23+08:00 ] /xxx/admin.php/Index/index/username/resources/images/closelabel.gif | INFO: Run ShowRuntime Behavior [ RunTime:0.000899s ]
+[ 2012-05-17T08:47:23+08:00 ] /xxx/admin.php/Index/index/username/resources/images/closelabel.gif | INFO: Tag[ view_filter ] --END-- [ RunTime:0.003036s ]
+[ 2012-05-17T08:47:23+08:00 ] /xxx/admin.php/Index/index/username/resources/images/closelabel.gif | INFO: Tag[ view_end ] --START--
+[ 2012-05-17T08:47:23+08:00 ] /xxx/admin.php/Index/index/username/resources/images/closelabel.gif | INFO: Run ShowPageTrace Behavior [ RunTime:0.000725s ]
+[ 2012-05-17T08:47:23+08:00 ] /xxx/admin.php/Index/index/username/resources/images/closelabel.gif | INFO: Tag[ view_end ] --END-- [ RunTime:0.000871s ]
+[ 2012-05-17T10:01:24+08:00 ] /xxx/admin.php | ERR: (ThinkException) Access denied for user 'ruby97'@'localhost' (using password: YES)
+[ 2012-05-17T10:02:56+08:00 ] /xxx/admin.php | INFO: Tag[ app_begin ] --START--
+[ 2012-05-17T10:02:56+08:00 ] /xxx/admin.php | INFO: Run ReadHtmlCache Behavior [ RunTime:0.000882s ]
+[ 2012-05-17T10:02:56+08:00 ] /xxx/admin.php | INFO: Tag[ app_begin ] --END-- [ RunTime:0.001008s ]
+[ 2012-05-17T10:02:56+08:00 ] /xxx/admin.php | NOTIC: [8192] Call-time pass-by-reference has been deprecated IndexAction.class.php 第 38 行.
+[ 2012-05-17T10:02:56+08:00 ] /xxx/admin.php | SQL: SHOW COLUMNS FROM `think_article` [ RunTime:0.003832s ]
+[ 2012-05-17T10:02:56+08:00 ] /xxx/admin.php | SQL: SELECT COUNT(*) AS tp_count FROM `think_article` LIMIT 1   [ RunTime:0.000170s ]
+[ 2012-05-17T10:02:56+08:00 ] /xxx/admin.php | SQL: SELECT `id`,`subject`,`author`,`createtime` FROM `think_article` ORDER BY id desc LIMIT 0,8   [ RunTime:0.000243s ]
+[ 2012-05-17T10:02:56+08:00 ] /xxx/admin.php | NOTIC: [8] Undefined index: lastmodifytime IndexAction.class.php 第 112 行.
+[ 2012-05-17T10:02:56+08:00 ] /xxx/admin.php | NOTIC: [8] Undefined index: lastmodifytime IndexAction.class.php 第 112 行.
+[ 2012-05-17T10:02:56+08:00 ] /xxx/admin.php | NOTIC: [8] Undefined index: lastmodifytime IndexAction.class.php 第 112 行.
+[ 2012-05-17T10:02:56+08:00 ] /xxx/admin.php | INFO: Tag[ view_template ] --START--
+[ 2012-05-17T10:02:56+08:00 ] /xxx/admin.php | INFO: Run LocationTemplate Behavior [ RunTime:0.000900s ]
+[ 2012-05-17T10:02:56+08:00 ] /xxx/admin.php | INFO: Tag[ view_template ] --END-- [ RunTime:0.000990s ]
+[ 2012-05-17T10:02:56+08:00 ] /xxx/admin.php | INFO: Tag[ view_parse ] --START--
+[ 2012-05-17T10:02:56+08:00 ] /xxx/admin.php | INFO: Run ParseTemplate Behavior [ RunTime:0.017024s ]
+[ 2012-05-17T10:02:56+08:00 ] /xxx/admin.php | INFO: Tag[ view_parse ] --END-- [ RunTime:0.017152s ]
+[ 2012-05-17T10:02:56+08:00 ] /xxx/admin.php | INFO: Tag[ view_filter ] --START--
+[ 2012-05-17T10:02:56+08:00 ] /xxx/admin.php | INFO: Run ContentReplace Behavior [ RunTime:0.000657s ]
+[ 2012-05-17T10:02:56+08:00 ] /xxx/admin.php | INFO: Run TokenBuild Behavior [ RunTime:0.000723s ]
+[ 2012-05-17T10:02:56+08:00 ] /xxx/admin.php | INFO: Run WriteHtmlCache Behavior [ RunTime:0.000424s ]
+[ 2012-05-17T10:02:56+08:00 ] /xxx/admin.php | INFO: Run ShowRuntime Behavior [ RunTime:0.000684s ]
+[ 2012-05-17T10:02:56+08:00 ] /xxx/admin.php | INFO: Tag[ view_filter ] --END-- [ RunTime:0.002726s ]
+[ 2012-05-17T10:02:56+08:00 ] /xxx/admin.php | INFO: Tag[ view_end ] --START--
+[ 2012-05-17T10:02:56+08:00 ] /xxx/admin.php | INFO: Run ShowPageTrace Behavior [ RunTime:0.000584s ]
+[ 2012-05-17T10:02:56+08:00 ] /xxx/admin.php | INFO: Tag[ view_end ] --END-- [ RunTime:0.000671s ]
+[ 2012-05-17T10:03:40+08:00 ] /xxx/admin.php/Login/index/ | INFO: Tag[ route_check ] --START--
+[ 2012-05-17T10:03:40+08:00 ] /xxx/admin.php/Login/index/ | INFO: Run CheckRoute Behavior [ RunTime:0.001426s ]
+[ 2012-05-17T10:03:40+08:00 ] /xxx/admin.php/Login/index/ | INFO: Tag[ route_check ] --END-- [ RunTime:0.001612s ]
+[ 2012-05-17T10:03:40+08:00 ] /xxx/admin.php/Login/index/ | INFO: Tag[ app_begin ] --START--
+[ 2012-05-17T10:03:40+08:00 ] /xxx/admin.php/Login/index/ | INFO: Run ReadHtmlCache Behavior [ RunTime:0.001090s ]
+[ 2012-05-17T10:03:40+08:00 ] /xxx/admin.php/Login/index/ | INFO: Tag[ app_begin ] --END-- [ RunTime:0.001225s ]
+[ 2012-05-17T10:03:40+08:00 ] /xxx/admin.php/Login/index/ | INFO: Tag[ view_template ] --START--
+[ 2012-05-17T10:03:40+08:00 ] /xxx/admin.php/Login/index/ | INFO: Run LocationTemplate Behavior [ RunTime:0.001227s ]
+[ 2012-05-17T10:03:40+08:00 ] /xxx/admin.php/Login/index/ | INFO: Tag[ view_template ] --END-- [ RunTime:0.001387s ]
+[ 2012-05-17T10:03:40+08:00 ] /xxx/admin.php/Login/index/ | INFO: Tag[ view_parse ] --START--
+[ 2012-05-17T10:03:40+08:00 ] /xxx/admin.php/Login/index/ | INFO: Run ParseTemplate Behavior [ RunTime:0.019466s ]
+[ 2012-05-17T10:03:40+08:00 ] /xxx/admin.php/Login/index/ | INFO: Tag[ view_parse ] --END-- [ RunTime:0.019673s ]
+[ 2012-05-17T10:03:40+08:00 ] /xxx/admin.php/Login/index/ | INFO: Tag[ view_filter ] --START--
+[ 2012-05-17T10:03:40+08:00 ] /xxx/admin.php/Login/index/ | INFO: Run ContentReplace Behavior [ RunTime:0.000856s ]
+[ 2012-05-17T10:03:40+08:00 ] /xxx/admin.php/Login/index/ | INFO: Run TokenBuild Behavior [ RunTime:0.000802s ]
+[ 2012-05-17T10:03:40+08:00 ] /xxx/admin.php/Login/index/ | INFO: Run WriteHtmlCache Behavior [ RunTime:0.000644s ]
+[ 2012-05-17T10:03:40+08:00 ] /xxx/admin.php/Login/index/ | INFO: Run ShowRuntime Behavior [ RunTime:0.000982s ]
+[ 2012-05-17T10:03:40+08:00 ] /xxx/admin.php/Login/index/ | INFO: Tag[ view_filter ] --END-- [ RunTime:0.003661s ]
+[ 2012-05-17T10:03:40+08:00 ] /xxx/admin.php/Login/index/ | INFO: Tag[ view_end ] --START--
+[ 2012-05-17T10:03:40+08:00 ] /xxx/admin.php/Login/index/ | INFO: Run ShowPageTrace Behavior [ RunTime:0.000773s ]
+[ 2012-05-17T10:03:40+08:00 ] /xxx/admin.php/Login/index/ | INFO: Tag[ view_end ] --END-- [ RunTime:0.000891s ]
+[ 2012-05-17T10:03:40+08:00 ] /xxx/admin.php/Common/verify | INFO: Tag[ route_check ] --START--
+[ 2012-05-17T10:03:40+08:00 ] /xxx/admin.php/Common/verify | INFO: Run CheckRoute Behavior [ RunTime:0.000973s ]
+[ 2012-05-17T10:03:40+08:00 ] /xxx/admin.php/Common/verify | INFO: Tag[ route_check ] --END-- [ RunTime:0.001104s ]
+[ 2012-05-17T10:03:40+08:00 ] /xxx/admin.php/Common/verify | INFO: Tag[ app_begin ] --START--
+[ 2012-05-17T10:03:40+08:00 ] /xxx/admin.php/Common/verify | INFO: Run ReadHtmlCache Behavior [ RunTime:0.000776s ]
+[ 2012-05-17T10:03:40+08:00 ] /xxx/admin.php/Common/verify | INFO: Tag[ app_begin ] --END-- [ RunTime:0.000868s ]
+[ 2012-05-17T10:03:50+08:00 ] /xxx/admin.php/Common/verify/random/0.6068463621583853 | INFO: Tag[ route_check ] --START--
+[ 2012-05-17T10:03:50+08:00 ] /xxx/admin.php/Common/verify/random/0.6068463621583853 | INFO: Run CheckRoute Behavior [ RunTime:0.001024s ]
+[ 2012-05-17T10:03:50+08:00 ] /xxx/admin.php/Common/verify/random/0.6068463621583853 | INFO: Tag[ route_check ] --END-- [ RunTime:0.001149s ]
+[ 2012-05-17T10:03:50+08:00 ] /xxx/admin.php/Common/verify/random/0.6068463621583853 | INFO: Tag[ app_begin ] --START--
+[ 2012-05-17T10:03:50+08:00 ] /xxx/admin.php/Common/verify/random/0.6068463621583853 | INFO: Run ReadHtmlCache Behavior [ RunTime:0.000710s ]
+[ 2012-05-17T10:03:50+08:00 ] /xxx/admin.php/Common/verify/random/0.6068463621583853 | INFO: Tag[ app_begin ] --END-- [ RunTime:0.000798s ]
+[ 2012-05-17T10:06:51+08:00 ] /xxx/admin.php/Index/index/username/ruby97 | INFO: Tag[ route_check ] --START--
+[ 2012-05-17T10:06:51+08:00 ] /xxx/admin.php/Index/index/username/ruby97 | INFO: Run CheckRoute Behavior [ RunTime:0.000977s ]
+[ 2012-05-17T10:06:51+08:00 ] /xxx/admin.php/Index/index/username/ruby97 | INFO: Tag[ route_check ] --END-- [ RunTime:0.001100s ]
+[ 2012-05-17T10:06:51+08:00 ] /xxx/admin.php/Index/index/username/ruby97 | INFO: Tag[ app_begin ] --START--
+[ 2012-05-17T10:06:51+08:00 ] /xxx/admin.php/Index/index/username/ruby97 | INFO: Run ReadHtmlCache Behavior [ RunTime:0.000726s ]
+[ 2012-05-17T10:06:51+08:00 ] /xxx/admin.php/Index/index/username/ruby97 | INFO: Tag[ app_begin ] --END-- [ RunTime:0.000813s ]
+[ 2012-05-17T10:06:51+08:00 ] /xxx/admin.php/Index/index/username/ruby97 | NOTIC: [8192] Call-time pass-by-reference has been deprecated IndexAction.class.php 第 38 行.
+[ 2012-05-17T10:06:51+08:00 ] /xxx/admin.php/Index/index/username/ruby97 | SQL: SHOW COLUMNS FROM `think_article` [ RunTime:0.004852s ]
+[ 2012-05-17T10:06:51+08:00 ] /xxx/admin.php/Index/index/username/ruby97 | SQL: SELECT COUNT(*) AS tp_count FROM `think_article` LIMIT 1   [ RunTime:0.000162s ]
+[ 2012-05-17T10:06:51+08:00 ] /xxx/admin.php/Index/index/username/ruby97 | SQL: SELECT `id`,`subject`,`author`,`createtime` FROM `think_article` ORDER BY id desc LIMIT 0,8   [ RunTime:0.000252s ]
+[ 2012-05-17T10:06:51+08:00 ] /xxx/admin.php/Index/index/username/ruby97 | NOTIC: [8] Undefined index: lastmodifytime IndexAction.class.php 第 112 行.
+[ 2012-05-17T10:06:51+08:00 ] /xxx/admin.php/Index/index/username/ruby97 | NOTIC: [8] Undefined index: lastmodifytime IndexAction.class.php 第 112 行.
+[ 2012-05-17T10:06:51+08:00 ] /xxx/admin.php/Index/index/username/ruby97 | NOTIC: [8] Undefined index: lastmodifytime IndexAction.class.php 第 112 行.
+[ 2012-05-17T10:06:51+08:00 ] /xxx/admin.php/Index/index/username/ruby97 | INFO: Tag[ view_template ] --START--
+[ 2012-05-17T10:06:51+08:00 ] /xxx/admin.php/Index/index/username/ruby97 | INFO: Run LocationTemplate Behavior [ RunTime:0.000802s ]
+[ 2012-05-17T10:06:51+08:00 ] /xxx/admin.php/Index/index/username/ruby97 | INFO: Tag[ view_template ] --END-- [ RunTime:0.000888s ]
+[ 2012-05-17T10:06:51+08:00 ] /xxx/admin.php/Index/index/username/ruby97 | INFO: Tag[ view_parse ] --START--
+[ 2012-05-17T10:06:51+08:00 ] /xxx/admin.php/Index/index/username/ruby97 | INFO: Run ParseTemplate Behavior [ RunTime:0.015034s ]
+[ 2012-05-17T10:06:51+08:00 ] /xxx/admin.php/Index/index/username/ruby97 | INFO: Tag[ view_parse ] --END-- [ RunTime:0.015138s ]
+[ 2012-05-17T10:06:51+08:00 ] /xxx/admin.php/Index/index/username/ruby97 | INFO: Tag[ view_filter ] --START--
+[ 2012-05-17T10:06:51+08:00 ] /xxx/admin.php/Index/index/username/ruby97 | INFO: Run ContentReplace Behavior [ RunTime:0.000648s ]
+[ 2012-05-17T10:06:51+08:00 ] /xxx/admin.php/Index/index/username/ruby97 | INFO: Run TokenBuild Behavior [ RunTime:0.000708s ]
+[ 2012-05-17T10:06:51+08:00 ] /xxx/admin.php/Index/index/username/ruby97 | INFO: Run WriteHtmlCache Behavior [ RunTime:0.000383s ]
+[ 2012-05-17T10:06:51+08:00 ] /xxx/admin.php/Index/index/username/ruby97 | INFO: Run ShowRuntime Behavior [ RunTime:0.000762s ]
+[ 2012-05-17T10:06:51+08:00 ] /xxx/admin.php/Index/index/username/ruby97 | INFO: Tag[ view_filter ] --END-- [ RunTime:0.002731s ]
+[ 2012-05-17T10:06:51+08:00 ] /xxx/admin.php/Index/index/username/ruby97 | INFO: Tag[ view_end ] --START--
+[ 2012-05-17T10:06:51+08:00 ] /xxx/admin.php/Index/index/username/ruby97 | INFO: Run ShowPageTrace Behavior [ RunTime:0.000581s ]
+[ 2012-05-17T10:06:51+08:00 ] /xxx/admin.php/Index/index/username/ruby97 | INFO: Tag[ view_end ] --END-- [ RunTime:0.000666s ]
+[ 2012-05-17T10:06:52+08:00 ] /xxx/admin.php/Index/index/username/resources/images/closelabel.gif | INFO: Tag[ route_check ] --START--
+[ 2012-05-17T10:06:52+08:00 ] /xxx/admin.php/Index/index/username/resources/images/closelabel.gif | INFO: Run CheckRoute Behavior [ RunTime:0.001545s ]
+[ 2012-05-17T10:06:52+08:00 ] /xxx/admin.php/Index/index/username/resources/images/closelabel.gif | INFO: Tag[ route_check ] --END-- [ RunTime:0.001750s ]
+[ 2012-05-17T10:06:52+08:00 ] /xxx/admin.php/Index/index/username/resources/images/closelabel.gif | INFO: Tag[ app_begin ] --START--
+[ 2012-05-17T10:06:52+08:00 ] /xxx/admin.php/Index/index/username/resources/images/closelabel.gif | INFO: Run ReadHtmlCache Behavior [ RunTime:0.001184s ]
+[ 2012-05-17T10:06:52+08:00 ] /xxx/admin.php/Index/index/username/resources/images/closelabel.gif | INFO: Tag[ app_begin ] --END-- [ RunTime:0.001348s ]
+[ 2012-05-17T10:06:52+08:00 ] /xxx/admin.php/Index/index/username/resources/images/closelabel.gif | NOTIC: [8192] Call-time pass-by-reference has been deprecated IndexAction.class.php 第 38 行.
+[ 2012-05-17T10:06:52+08:00 ] /xxx/admin.php/Index/index/username/resources/images/closelabel.gif | SQL: SHOW COLUMNS FROM `think_article` [ RunTime:0.005202s ]
+[ 2012-05-17T10:06:52+08:00 ] /xxx/admin.php/Index/index/username/resources/images/closelabel.gif | SQL: SELECT COUNT(*) AS tp_count FROM `think_article` LIMIT 1   [ RunTime:0.000234s ]
+[ 2012-05-17T10:06:52+08:00 ] /xxx/admin.php/Index/index/username/resources/images/closelabel.gif | SQL: SELECT `id`,`subject`,`author`,`createtime` FROM `think_article` ORDER BY id desc LIMIT 0,8   [ RunTime:0.000385s ]
+[ 2012-05-17T10:06:52+08:00 ] /xxx/admin.php/Index/index/username/resources/images/closelabel.gif | NOTIC: [8] Undefined index: lastmodifytime IndexAction.class.php 第 112 行.
+[ 2012-05-17T10:06:52+08:00 ] /xxx/admin.php/Index/index/username/resources/images/closelabel.gif | NOTIC: [8] Undefined index: lastmodifytime IndexAction.class.php 第 112 行.
+[ 2012-05-17T10:06:52+08:00 ] /xxx/admin.php/Index/index/username/resources/images/closelabel.gif | NOTIC: [8] Undefined index: lastmodifytime IndexAction.class.php 第 112 行.
+[ 2012-05-17T10:06:52+08:00 ] /xxx/admin.php/Index/index/username/resources/images/closelabel.gif | INFO: Tag[ view_template ] --START--
+[ 2012-05-17T10:06:52+08:00 ] /xxx/admin.php/Index/index/username/resources/images/closelabel.gif | INFO: Run LocationTemplate Behavior [ RunTime:0.001119s ]
+[ 2012-05-17T10:06:52+08:00 ] /xxx/admin.php/Index/index/username/resources/images/closelabel.gif | INFO: Tag[ view_template ] --END-- [ RunTime:0.001263s ]
+[ 2012-05-17T10:06:52+08:00 ] /xxx/admin.php/Index/index/username/resources/images/closelabel.gif | INFO: Tag[ view_parse ] --START--
+[ 2012-05-17T10:06:52+08:00 ] /xxx/admin.php/Index/index/username/resources/images/closelabel.gif | INFO: Run ParseTemplate Behavior [ RunTime:0.030558s ]
+[ 2012-05-17T10:06:52+08:00 ] /xxx/admin.php/Index/index/username/resources/images/closelabel.gif | INFO: Tag[ view_parse ] --END-- [ RunTime:0.030683s ]
+[ 2012-05-17T10:06:52+08:00 ] /xxx/admin.php/Index/index/username/resources/images/closelabel.gif | INFO: Tag[ view_filter ] --START--
+[ 2012-05-17T10:06:52+08:00 ] /xxx/admin.php/Index/index/username/resources/images/closelabel.gif | INFO: Run ContentReplace Behavior [ RunTime:0.000578s ]
+[ 2012-05-17T10:06:52+08:00 ] /xxx/admin.php/Index/index/username/resources/images/closelabel.gif | INFO: Run TokenBuild Behavior [ RunTime:0.000771s ]
+[ 2012-05-17T10:06:52+08:00 ] /xxx/admin.php/Index/index/username/resources/images/closelabel.gif | INFO: Run WriteHtmlCache Behavior [ RunTime:0.000442s ]
+[ 2012-05-17T10:06:52+08:00 ] /xxx/admin.php/Index/index/username/resources/images/closelabel.gif | INFO: Run ShowRuntime Behavior [ RunTime:0.000618s ]
+[ 2012-05-17T10:06:52+08:00 ] /xxx/admin.php/Index/index/username/resources/images/closelabel.gif | INFO: Tag[ view_filter ] --END-- [ RunTime:0.002679s ]
+[ 2012-05-17T10:06:52+08:00 ] /xxx/admin.php/Index/index/username/resources/images/closelabel.gif | INFO: Tag[ view_end ] --START--
+[ 2012-05-17T10:06:52+08:00 ] /xxx/admin.php/Index/index/username/resources/images/closelabel.gif | INFO: Run ShowPageTrace Behavior [ RunTime:0.000495s ]
+[ 2012-05-17T10:06:52+08:00 ] /xxx/admin.php/Index/index/username/resources/images/closelabel.gif | INFO: Tag[ view_end ] --END-- [ RunTime:0.000570s ]
+[ 2012-05-17T10:09:41+08:00 ] /xxx/admin.php/Article/index | INFO: Tag[ route_check ] --START--
+[ 2012-05-17T10:09:41+08:00 ] /xxx/admin.php/Article/index | INFO: Run CheckRoute Behavior [ RunTime:0.000779s ]
+[ 2012-05-17T10:09:41+08:00 ] /xxx/admin.php/Article/index | INFO: Tag[ route_check ] --END-- [ RunTime:0.000939s ]
+[ 2012-05-17T10:09:41+08:00 ] /xxx/admin.php/Article/index | INFO: Tag[ app_begin ] --START--
+[ 2012-05-17T10:09:41+08:00 ] /xxx/admin.php/Article/index | INFO: Run ReadHtmlCache Behavior [ RunTime:0.000563s ]
+[ 2012-05-17T10:09:41+08:00 ] /xxx/admin.php/Article/index | INFO: Tag[ app_begin ] --END-- [ RunTime:0.000647s ]
+[ 2012-05-17T10:09:41+08:00 ] /xxx/admin.php/Article/index | NOTIC: [8] Undefined index: id ArticleAction.class.php 第 13 行.
+[ 2012-05-17T10:09:41+08:00 ] /xxx/admin.php/Article/index | INFO: Tag[ view_template ] --START--
+[ 2012-05-17T10:09:41+08:00 ] /xxx/admin.php/Article/index | INFO: Run LocationTemplate Behavior [ RunTime:0.000818s ]
+[ 2012-05-17T10:09:41+08:00 ] /xxx/admin.php/Article/index | INFO: Tag[ view_template ] --END-- [ RunTime:0.000908s ]
+[ 2012-05-17T10:09:41+08:00 ] /xxx/admin.php/Article/index | INFO: Tag[ view_parse ] --START--
+[ 2012-05-17T10:09:41+08:00 ] /xxx/admin.php/Article/index | NOTIC: [8] Undefined variable: username 6a0fa1355e20b485f823227ab394fc93.php 第 34 行.
+[ 2012-05-17T10:09:41+08:00 ] /xxx/admin.php/Article/index | NOTIC: [8] Undefined variable: username 6a0fa1355e20b485f823227ab394fc93.php 第 34 行.
+[ 2012-05-17T10:09:41+08:00 ] /xxx/admin.php/Article/index | NOTIC: [8] Undefined variable: article_item 6a0fa1355e20b485f823227ab394fc93.php 第 101 行.
+[ 2012-05-17T10:09:41+08:00 ] /xxx/admin.php/Article/index | NOTIC: [8] Undefined variable: article_item 6a0fa1355e20b485f823227ab394fc93.php 第 108 行.
+[ 2012-05-17T10:09:41+08:00 ] /xxx/admin.php/Article/index | NOTIC: [8] Undefined variable: article_item 6a0fa1355e20b485f823227ab394fc93.php 第 114 行.
+[ 2012-05-17T10:09:41+08:00 ] /xxx/admin.php/Article/index | INFO: Run ParseTemplate Behavior [ RunTime:0.038619s ]
+[ 2012-05-17T10:09:41+08:00 ] /xxx/admin.php/Article/index | INFO: Tag[ view_parse ] --END-- [ RunTime:0.038709s ]
+[ 2012-05-17T10:09:41+08:00 ] /xxx/admin.php/Article/index | INFO: Tag[ view_filter ] --START--
+[ 2012-05-17T10:09:41+08:00 ] /xxx/admin.php/Article/index | INFO: Run ContentReplace Behavior [ RunTime:0.000485s ]
+[ 2012-05-17T10:09:41+08:00 ] /xxx/admin.php/Article/index | INFO: Run TokenBuild Behavior [ RunTime:0.000671s ]
+[ 2012-05-17T10:09:41+08:00 ] /xxx/admin.php/Article/index | INFO: Run WriteHtmlCache Behavior [ RunTime:0.000324s ]
+[ 2012-05-17T10:09:41+08:00 ] /xxx/admin.php/Article/index | INFO: Run ShowRuntime Behavior [ RunTime:0.000601s ]
+[ 2012-05-17T10:09:41+08:00 ] /xxx/admin.php/Article/index | INFO: Tag[ view_filter ] --END-- [ RunTime:0.002314s ]
+[ 2012-05-17T10:09:41+08:00 ] /xxx/admin.php/Article/index | INFO: Tag[ view_end ] --START--
+[ 2012-05-17T10:09:41+08:00 ] /xxx/admin.php/Article/index | INFO: Run ShowPageTrace Behavior [ RunTime:0.000514s ]
+[ 2012-05-17T10:09:41+08:00 ] /xxx/admin.php/Article/index | INFO: Tag[ view_end ] --END-- [ RunTime:0.000598s ]
+[ 2012-05-17T10:09:41+08:00 ] /xxx/admin.php/Article/resources/images/closelabel.gif | ERR: (ThinkException) 非法操作resources
+[ 2012-05-17T10:09:52+08:00 ] /xxx/admin.php/Article/add | INFO: Tag[ route_check ] --START--
+[ 2012-05-17T10:09:52+08:00 ] /xxx/admin.php/Article/add | INFO: Run CheckRoute Behavior [ RunTime:0.001218s ]
+[ 2012-05-17T10:09:52+08:00 ] /xxx/admin.php/Article/add | INFO: Tag[ route_check ] --END-- [ RunTime:0.001358s ]
+[ 2012-05-17T10:09:52+08:00 ] /xxx/admin.php/Article/add | INFO: Tag[ app_begin ] --START--
+[ 2012-05-17T10:09:52+08:00 ] /xxx/admin.php/Article/add | INFO: Run ReadHtmlCache Behavior [ RunTime:0.000694s ]
+[ 2012-05-17T10:09:52+08:00 ] /xxx/admin.php/Article/add | INFO: Tag[ app_begin ] --END-- [ RunTime:0.000787s ]
+[ 2012-05-17T10:09:52+08:00 ] /xxx/admin.php/Article/add | SQL: SHOW COLUMNS FROM `think_article` [ RunTime:0.004619s ]
+[ 2012-05-17T10:09:53+08:00 ] /xxx/admin.php/Article/add | SQL: INSERT INTO `think_article` (`id`,`subject`,`createtime`,`message`,`author`) VALUES ('','hahahahaha',1337220592,'<p>我爱你中国</p><p>&nbsp;</p>','ruby97') [ RunTime:0.000284s ]
+[ 2012-05-17T10:09:53+08:00 ] /xxx/admin.php/Article/add | INFO: Tag[ view_template ] --START--
+[ 2012-05-17T10:09:53+08:00 ] /xxx/admin.php/Article/add | INFO: Run LocationTemplate Behavior [ RunTime:0.000693s ]
+[ 2012-05-17T10:09:53+08:00 ] /xxx/admin.php/Article/add | INFO: Tag[ view_template ] --END-- [ RunTime:0.000782s ]
+[ 2012-05-17T10:09:53+08:00 ] /xxx/admin.php/Article/add | INFO: Tag[ view_parse ] --START--
+[ 2012-05-17T10:09:53+08:00 ] /xxx/admin.php/Article/add | INFO: Run ParseTemplate Behavior [ RunTime:0.015457s ]
+[ 2012-05-17T10:09:53+08:00 ] /xxx/admin.php/Article/add | INFO: Tag[ view_parse ] --END-- [ RunTime:0.015558s ]
+[ 2012-05-17T10:09:53+08:00 ] /xxx/admin.php/Article/add | INFO: Tag[ view_filter ] --START--
+[ 2012-05-17T10:09:53+08:00 ] /xxx/admin.php/Article/add | INFO: Run ContentReplace Behavior [ RunTime:0.000470s ]
+[ 2012-05-17T10:09:53+08:00 ] /xxx/admin.php/Article/add | INFO: Run TokenBuild Behavior [ RunTime:0.000619s ]
+[ 2012-05-17T10:09:53+08:00 ] /xxx/admin.php/Article/add | INFO: Run WriteHtmlCache Behavior [ RunTime:0.000313s ]
+[ 2012-05-17T10:09:53+08:00 ] /xxx/admin.php/Article/add | INFO: Run ShowRuntime Behavior [ RunTime:0.000606s ]
+[ 2012-05-17T10:09:53+08:00 ] /xxx/admin.php/Article/add | INFO: Tag[ view_filter ] --END-- [ RunTime:0.002234s ]
+[ 2012-05-17T10:09:53+08:00 ] /xxx/admin.php/Article/add | INFO: Tag[ view_end ] --START--
+[ 2012-05-17T10:09:53+08:00 ] /xxx/admin.php/Article/add | INFO: Run ShowPageTrace Behavior [ RunTime:0.000495s ]
+[ 2012-05-17T10:09:53+08:00 ] /xxx/admin.php/Article/add | INFO: Tag[ view_end ] --END-- [ RunTime:0.000572s ]
+[ 2012-05-17T10:09:54+08:00 ] /xxx/admin.php/Index/index | INFO: Tag[ route_check ] --START--
+[ 2012-05-17T10:09:54+08:00 ] /xxx/admin.php/Index/index | INFO: Run CheckRoute Behavior [ RunTime:0.000761s ]
+[ 2012-05-17T10:09:54+08:00 ] /xxx/admin.php/Index/index | INFO: Tag[ route_check ] --END-- [ RunTime:0.000891s ]
+[ 2012-05-17T10:09:54+08:00 ] /xxx/admin.php/Index/index | INFO: Tag[ app_begin ] --START--
+[ 2012-05-17T10:09:54+08:00 ] /xxx/admin.php/Index/index | INFO: Run ReadHtmlCache Behavior [ RunTime:0.000534s ]
+[ 2012-05-17T10:09:54+08:00 ] /xxx/admin.php/Index/index | INFO: Tag[ app_begin ] --END-- [ RunTime:0.000622s ]
+[ 2012-05-17T10:09:54+08:00 ] /xxx/admin.php/Index/index | NOTIC: [8192] Call-time pass-by-reference has been deprecated IndexAction.class.php 第 38 行.
+[ 2012-05-17T10:09:54+08:00 ] /xxx/admin.php/Index/index | SQL: SHOW COLUMNS FROM `think_article` [ RunTime:0.005164s ]
+[ 2012-05-17T10:09:54+08:00 ] /xxx/admin.php/Index/index | SQL: SELECT COUNT(*) AS tp_count FROM `think_article` LIMIT 1   [ RunTime:0.000253s ]
+[ 2012-05-17T10:09:54+08:00 ] /xxx/admin.php/Index/index | SQL: SELECT `id`,`subject`,`author`,`createtime` FROM `think_article` ORDER BY id desc LIMIT 0,8   [ RunTime:0.000393s ]
+[ 2012-05-17T10:09:54+08:00 ] /xxx/admin.php/Index/index | NOTIC: [8] Undefined index: lastmodifytime IndexAction.class.php 第 112 行.
+[ 2012-05-17T10:09:54+08:00 ] /xxx/admin.php/Index/index | NOTIC: [8] Undefined index: lastmodifytime IndexAction.class.php 第 112 行.
+[ 2012-05-17T10:09:54+08:00 ] /xxx/admin.php/Index/index | NOTIC: [8] Undefined index: lastmodifytime IndexAction.class.php 第 112 行.
+[ 2012-05-17T10:09:54+08:00 ] /xxx/admin.php/Index/index | NOTIC: [8] Undefined index: lastmodifytime IndexAction.class.php 第 112 行.
+[ 2012-05-17T10:09:54+08:00 ] /xxx/admin.php/Index/index | INFO: Tag[ view_template ] --START--
+[ 2012-05-17T10:09:54+08:00 ] /xxx/admin.php/Index/index | INFO: Run LocationTemplate Behavior [ RunTime:0.000780s ]
+[ 2012-05-17T10:09:54+08:00 ] /xxx/admin.php/Index/index | INFO: Tag[ view_template ] --END-- [ RunTime:0.000876s ]
+[ 2012-05-17T10:09:54+08:00 ] /xxx/admin.php/Index/index | INFO: Tag[ view_parse ] --START--
+[ 2012-05-17T10:09:54+08:00 ] /xxx/admin.php/Index/index | INFO: Run ParseTemplate Behavior [ RunTime:0.016896s ]
+[ 2012-05-17T10:09:54+08:00 ] /xxx/admin.php/Index/index | INFO: Tag[ view_parse ] --END-- [ RunTime:0.017019s ]
+[ 2012-05-17T10:09:54+08:00 ] /xxx/admin.php/Index/index | INFO: Tag[ view_filter ] --START--
+[ 2012-05-17T10:09:54+08:00 ] /xxx/admin.php/Index/index | INFO: Run ContentReplace Behavior [ RunTime:0.000506s ]
+[ 2012-05-17T10:09:54+08:00 ] /xxx/admin.php/Index/index | INFO: Run TokenBuild Behavior [ RunTime:0.000543s ]
+[ 2012-05-17T10:09:54+08:00 ] /xxx/admin.php/Index/index | INFO: Run WriteHtmlCache Behavior [ RunTime:0.000275s ]
+[ 2012-05-17T10:09:54+08:00 ] /xxx/admin.php/Index/index | INFO: Run ShowRuntime Behavior [ RunTime:0.000512s ]
+[ 2012-05-17T10:09:54+08:00 ] /xxx/admin.php/Index/index | INFO: Tag[ view_filter ] --END-- [ RunTime:0.002070s ]
+[ 2012-05-17T10:09:54+08:00 ] /xxx/admin.php/Index/index | INFO: Tag[ view_end ] --START--
+[ 2012-05-17T10:09:54+08:00 ] /xxx/admin.php/Index/index | INFO: Run ShowPageTrace Behavior [ RunTime:0.000440s ]
+[ 2012-05-17T10:09:54+08:00 ] /xxx/admin.php/Index/index | INFO: Tag[ view_end ] --END-- [ RunTime:0.000525s ]
+[ 2012-05-17T10:09:54+08:00 ] /xxx/admin.php/Index/resources/images/closelabel.gif | ERR: (ThinkException) 非法操作resources
